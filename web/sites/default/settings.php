@@ -773,8 +773,8 @@ $settings['container_yamls'][] = $app_root . '/' . $site_path . '/services.yml';
  * @see https://www.drupal.org/docs/installing-drupal/trusted-host-settings
  */
  $settings['trusted_host_patterns'] = [
-  '^booking\.dreamlanduae\.com$',
-  '^.+\.booking\.dreamlanduae\.com$',
+  '^dap\.testproject\.me$',
+  '^.+\.dap\.testproject\.me$',
 ];
 
 # $settings['trusted_host_patterns'] = [];
