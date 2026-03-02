@@ -1,0 +1,239 @@
+[08-Nov-2024 10:45:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[13-Nov-2024 07:33:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[13-Nov-2024 15:15:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[21-Nov-2024 09:41:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[21-Nov-2024 09:42:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[21-Nov-2024 09:42:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[24-Nov-2024 19:51:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[28-Nov-2024 19:48:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[03-Dec-2024 22:14:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[03-Dec-2024 22:14:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[03-Dec-2024 22:14:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[12-Dec-2024 00:36:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[18-Dec-2024 22:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[28-Dec-2024 17:51:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[10-Jan-2025 01:41:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[10-Jan-2025 03:33:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[10-Jan-2025 07:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[12-Jan-2025 19:34:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[28-Jan-2025 02:31:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[28-Jan-2025 02:31:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[28-Jan-2025 02:31:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[29-Jan-2025 09:00:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[29-Jan-2025 09:00:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[29-Jan-2025 09:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[03-Feb-2025 06:13:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[03-Feb-2025 18:22:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[05-Feb-2025 00:37:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[13-Feb-2025 19:28:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[13-Feb-2025 19:35:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[14-Feb-2025 02:41:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[14-Feb-2025 08:06:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[14-Feb-2025 11:21:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[14-Feb-2025 17:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[16-Feb-2025 02:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[16-Feb-2025 10:56:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[17-Feb-2025 16:54:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[18-Feb-2025 02:37:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[04-Mar-2025 01:57:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[04-Mar-2025 01:58:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[04-Mar-2025 01:59:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[10-Mar-2025 07:05:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[10-Mar-2025 08:07:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[10-Mar-2025 16:38:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[13-Mar-2025 18:11:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[13-Mar-2025 19:20:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[17-Mar-2025 21:56:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[17-Mar-2025 23:45:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[21-Mar-2025 06:25:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[21-Mar-2025 06:25:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[21-Mar-2025 06:26:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[21-Mar-2025 07:02:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[25-Mar-2025 02:11:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[28-Mar-2025 00:29:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[08-Apr-2025 02:05:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[08-Apr-2025 02:05:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[08-Apr-2025 02:05:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[19-Apr-2025 16:39:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[19-Apr-2025 16:39:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[19-Apr-2025 16:39:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[04-May-2025 10:44:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[04-May-2025 15:05:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[04-May-2025 22:04:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[06-May-2025 10:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[08-May-2025 20:37:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[08-May-2025 20:37:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[08-May-2025 20:48:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[08-May-2025 20:48:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[08-May-2025 21:00:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[08-May-2025 21:00:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[09-May-2025 06:42:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[10-May-2025 08:19:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/UnixPipes.php on line 103
+[10-May-2025 10:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[10-May-2025 12:26:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[11-May-2025 01:03:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[12-May-2025 09:14:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[12-May-2025 09:26:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/process/Pipes/WindowsPipes.php on line 27

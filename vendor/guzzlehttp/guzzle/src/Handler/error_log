@@ -1,0 +1,76 @@
+[13-Nov-2024 09:22:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[21-Nov-2024 12:09:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[03-Dec-2024 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[19-Dec-2024 02:50:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[27-Dec-2024 11:12:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[10-Jan-2025 09:48:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[29-Jan-2025 10:17:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[06-Feb-2025 03:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[21-Feb-2025 09:48:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[10-Mar-2025 12:13:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[13-Mar-2025 20:21:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[05-Apr-2025 03:00:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[08-Apr-2025 03:13:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[07-May-2025 23:35:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[08-May-2025 21:15:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[08-May-2025 21:15:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[10-May-2025 14:01:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[12-May-2025 07:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[12-May-2025 16:20:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'GuzzleHttp\Handler\CurlFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20

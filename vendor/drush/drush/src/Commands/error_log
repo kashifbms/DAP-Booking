@@ -1,0 +1,152 @@
+[11-Nov-2024 14:20:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[20-Nov-2024 07:04:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[20-Nov-2024 08:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[23-Nov-2024 20:30:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[19-Dec-2024 01:35:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[19-Dec-2024 01:36:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[19-Dec-2024 01:50:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[21-Dec-2024 00:40:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[21-Dec-2024 02:45:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[23-Dec-2024 19:55:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[23-Dec-2024 19:56:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[25-Dec-2024 01:16:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[25-Dec-2024 01:16:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[25-Dec-2024 01:16:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[06-Feb-2025 10:43:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[07-Feb-2025 09:45:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[08-Feb-2025 02:05:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[21-Feb-2025 09:46:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[21-Feb-2025 09:46:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[21-Feb-2025 09:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[10-Mar-2025 03:03:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[10-Mar-2025 03:03:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[15-Mar-2025 18:57:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[15-Mar-2025 18:58:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[15-Mar-2025 18:58:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[18-Apr-2025 19:37:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[18-Apr-2025 19:37:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[18-Apr-2025 19:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[07-May-2025 08:20:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[07-May-2025 21:20:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[08-May-2025 00:01:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[08-May-2025 21:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[08-May-2025 21:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9
+[08-May-2025 21:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[08-May-2025 21:37:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ExampleCommands.php on line 13
+[08-May-2025 21:47:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[08-May-2025 21:47:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\IOAwareInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/DrushCommands.php on line 31
+[12-May-2025 15:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/LegacyCommands.php on line 9

@@ -1,0 +1,116 @@
+[13-Nov-2024 10:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[18-Nov-2024 03:28:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[21-Nov-2024 11:47:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[21-Nov-2024 11:48:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[15-Dec-2024 13:51:27 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[29-Dec-2024 21:56:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[31-Dec-2024 05:59:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[31-Dec-2024 05:59:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[10-Jan-2025 14:48:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[15-Jan-2025 21:10:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[29-Jan-2025 10:01:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[29-Jan-2025 10:01:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[05-Feb-2025 15:45:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[06-Feb-2025 02:20:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[13-Feb-2025 11:43:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[13-Feb-2025 12:20:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[15-Feb-2025 03:33:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[15-Feb-2025 04:57:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[15-Feb-2025 16:46:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[17-Feb-2025 07:02:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[02-Mar-2025 10:59:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[02-Mar-2025 11:01:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[05-Mar-2025 16:13:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[05-Mar-2025 16:13:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[10-Mar-2025 18:51:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[11-Mar-2025 07:51:56 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[13-Mar-2025 19:10:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[13-Mar-2025 20:14:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[15-Mar-2025 02:50:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[15-Mar-2025 02:51:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[15-Mar-2025 22:28:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[08-Apr-2025 02:46:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[08-Apr-2025 02:46:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[18-Apr-2025 19:14:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[19-Apr-2025 15:01:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[30-Apr-2025 07:53:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[30-Apr-2025 07:55:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[05-May-2025 16:31:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[05-May-2025 19:42:48 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[08-May-2025 21:58:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[08-May-2025 21:58:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[08-May-2025 21:58:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[08-May-2025 21:58:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[11-May-2025 16:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[12-May-2025 05:06:59 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25
+[12-May-2025 13:23:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\LazyProxy\PhpDumper\DumperInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/NullDumper.php on line 23
+[12-May-2025 13:24:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/PhpDumper/LazyServiceDumper.php on line 25

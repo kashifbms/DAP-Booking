@@ -1,0 +1,100 @@
+[13-Nov-2024 10:31:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[21-Nov-2024 11:14:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[02-Dec-2024 02:38:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[10-Jan-2025 13:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[22-Jan-2025 19:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[23-Jan-2025 16:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[29-Jan-2025 09:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[02-Feb-2025 05:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[13-Feb-2025 03:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[16-Feb-2025 13:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[26-Feb-2025 02:33:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[09-Mar-2025 17:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[10-Mar-2025 13:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[13-Mar-2025 19:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[14-Mar-2025 18:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[08-Apr-2025 02:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[18-Apr-2025 18:14:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[30-Apr-2025 04:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[04-May-2025 15:44:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[08-May-2025 05:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[08-May-2025 21:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[08-May-2025 21:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[10-May-2025 03:00:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[11-May-2025 14:02:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14
+[12-May-2025 08:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\LazyProxy\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/LazyProxy/ProxyHelper.php on line 14

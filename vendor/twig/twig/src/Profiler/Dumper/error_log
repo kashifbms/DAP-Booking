@@ -1,0 +1,116 @@
+[31-Dec-2024 17:39:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[29-Jan-2025 09:37:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[29-Jan-2025 09:37:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[03-Feb-2025 18:40:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[03-Feb-2025 18:40:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[06-Feb-2025 15:50:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[06-Feb-2025 16:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[06-Feb-2025 18:16:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[06-Feb-2025 19:16:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[08-Feb-2025 15:55:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[08-Feb-2025 16:54:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[18-Feb-2025 08:13:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[18-Feb-2025 08:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[18-Feb-2025 10:41:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[18-Feb-2025 15:00:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[06-Mar-2025 06:08:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[06-Mar-2025 06:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[14-Mar-2025 10:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[14-Mar-2025 10:14:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[29-Mar-2025 00:52:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[29-Mar-2025 00:52:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[17-Apr-2025 11:06:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[17-Apr-2025 11:07:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[08-May-2025 03:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[08-May-2025 20:52:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[08-May-2025 21:52:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[08-May-2025 21:52:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/HtmlDumper.php on line 19
+[08-May-2025 21:52:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19
+[08-May-2025 21:52:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Profiler\Dumper\BaseDumper' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Profiler/Dumper/TextDumper.php on line 19

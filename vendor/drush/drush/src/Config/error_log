@@ -1,0 +1,60 @@
+[19-Dec-2024 07:39:47 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[19-Dec-2024 08:13:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[21-Dec-2024 10:48:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[21-Dec-2024 10:55:14 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[25-Dec-2024 01:16:06 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[25-Dec-2024 01:16:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[25-Dec-2024 01:16:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[04-Feb-2025 19:30:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[07-Feb-2025 02:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[08-Feb-2025 02:06:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[08-Feb-2025 21:07:20 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[09-Feb-2025 05:11:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[21-Feb-2025 09:46:27 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[21-Feb-2025 09:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[21-Feb-2025 09:46:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[10-Mar-2025 03:16:59 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[10-Mar-2025 03:16:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[06-Apr-2025 11:47:09 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[06-Apr-2025 11:47:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[06-Apr-2025 11:48:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[07-May-2025 19:21:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[07-May-2025 19:21:30 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[07-May-2025 22:47:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[08-May-2025 21:58:08 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[08-May-2025 21:58:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[08-May-2025 21:58:09 UTC] PHP Fatal error:  Trait 'Robo\Common\ConfigAwareTrait' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/ConfigAwareTrait.php on line 7
+[08-May-2025 21:58:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17
+[08-May-2025 21:58:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[08-May-2025 21:58:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/Environment.php on line 165
+[11-May-2025 22:38:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\Config\Util\ConfigOverlay' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Config/DrushConfig.php on line 17

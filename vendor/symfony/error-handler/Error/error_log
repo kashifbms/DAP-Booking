@@ -1,0 +1,92 @@
+[18-Nov-2024 06:45:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[21-Nov-2024 11:16:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[02-Dec-2024 02:38:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[15-Jan-2025 06:00:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[25-Jan-2025 05:57:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[29-Jan-2025 09:32:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[08-Feb-2025 05:19:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[13-Feb-2025 07:53:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[23-Feb-2025 09:32:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[26-Feb-2025 03:21:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[07-Mar-2025 11:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[09-Mar-2025 17:08:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[13-Mar-2025 18:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[14-Mar-2025 19:03:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[15-Mar-2025 15:16:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[15-Mar-2025 17:10:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[08-Apr-2025 02:31:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[17-Apr-2025 12:50:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[30-Apr-2025 04:35:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[04-May-2025 22:05:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[08-May-2025 21:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[08-May-2025 21:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14
+[12-May-2025 08:21:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\ErrorHandler\Error\FatalError' not found in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Error/OutOfMemoryError.php on line 14

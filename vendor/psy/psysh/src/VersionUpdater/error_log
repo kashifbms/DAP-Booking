@@ -1,0 +1,264 @@
+[13-Nov-2024 16:41:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[18-Nov-2024 02:17:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[18-Nov-2024 10:40:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[21-Nov-2024 11:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[21-Nov-2024 11:56:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[21-Nov-2024 11:56:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[15-Dec-2024 18:04:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[17-Dec-2024 17:12:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[23-Dec-2024 14:45:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[23-Dec-2024 14:46:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[23-Dec-2024 14:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[23-Dec-2024 14:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[23-Dec-2024 18:25:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[23-Dec-2024 18:39:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[29-Dec-2024 15:21:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[29-Dec-2024 15:56:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[31-Dec-2024 05:58:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[31-Dec-2024 05:58:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[31-Dec-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[09-Jan-2025 23:45:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[15-Jan-2025 15:52:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[15-Jan-2025 17:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[25-Jan-2025 21:13:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[25-Jan-2025 21:18:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[26-Jan-2025 00:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[29-Jan-2025 10:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[29-Jan-2025 10:06:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[29-Jan-2025 10:06:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[05-Feb-2025 23:47:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[05-Feb-2025 23:49:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[05-Feb-2025 23:56:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[07-Feb-2025 20:21:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[08-Feb-2025 02:58:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[09-Feb-2025 03:37:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[21-Feb-2025 10:14:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[21-Feb-2025 10:16:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[21-Feb-2025 10:17:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[05-Mar-2025 16:12:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[05-Mar-2025 16:12:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[05-Mar-2025 16:12:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[06-Mar-2025 09:16:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[06-Mar-2025 09:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[06-Mar-2025 09:17:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[10-Mar-2025 09:26:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[13-Mar-2025 18:35:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[13-Mar-2025 18:36:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[14-Mar-2025 12:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[14-Mar-2025 12:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[14-Mar-2025 12:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[15-Mar-2025 19:37:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[16-Mar-2025 01:00:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[17-Mar-2025 22:11:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[21-Mar-2025 07:07:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[25-Mar-2025 02:31:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[28-Mar-2025 00:37:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[08-Apr-2025 03:01:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[08-Apr-2025 03:01:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[08-Apr-2025 03:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[16-Apr-2025 22:02:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[16-Apr-2025 22:03:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[16-Apr-2025 22:03:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[07-May-2025 07:02:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[07-May-2025 11:07:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[07-May-2025 17:27:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[10-May-2025 01:12:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psy\VersionUpdater\Checker' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16

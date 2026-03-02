@@ -1,0 +1,804 @@
+[21-Nov-2024 14:30:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[21-Nov-2024 14:30:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[21-Nov-2024 14:31:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[21-Nov-2024 14:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[21-Nov-2024 14:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[21-Nov-2024 14:31:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[21-Nov-2024 14:31:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[21-Nov-2024 14:31:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[21-Nov-2024 14:31:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[21-Nov-2024 14:31:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[21-Nov-2024 14:31:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[21-Nov-2024 14:31:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[21-Nov-2024 14:31:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[21-Nov-2024 14:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[21-Nov-2024 14:31:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[21-Nov-2024 14:31:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[29-Jan-2025 11:47:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[29-Jan-2025 11:47:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[29-Jan-2025 11:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[29-Jan-2025 11:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[29-Jan-2025 11:47:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[29-Jan-2025 11:47:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[29-Jan-2025 11:47:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[29-Jan-2025 11:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[29-Jan-2025 11:47:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[29-Jan-2025 11:47:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[29-Jan-2025 11:48:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[29-Jan-2025 11:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[29-Jan-2025 11:48:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[29-Jan-2025 11:48:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[29-Jan-2025 11:48:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[29-Jan-2025 11:48:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[19-Feb-2025 01:02:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[19-Feb-2025 01:02:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[19-Feb-2025 01:03:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[19-Feb-2025 01:03:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[19-Feb-2025 01:03:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[19-Feb-2025 01:04:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[19-Feb-2025 01:04:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[19-Feb-2025 01:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[19-Feb-2025 01:05:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[19-Feb-2025 01:06:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[19-Feb-2025 01:06:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[19-Feb-2025 01:07:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[19-Feb-2025 09:41:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[19-Feb-2025 09:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[19-Feb-2025 09:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[19-Feb-2025 09:52:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[06-Mar-2025 08:55:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[06-Mar-2025 08:55:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[06-Mar-2025 08:55:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[06-Mar-2025 08:55:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[06-Mar-2025 08:56:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[06-Mar-2025 08:56:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[06-Mar-2025 08:56:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[06-Mar-2025 08:56:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[06-Mar-2025 08:56:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[06-Mar-2025 08:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[06-Mar-2025 08:57:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[06-Mar-2025 09:08:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[06-Mar-2025 09:08:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[06-Mar-2025 09:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[06-Mar-2025 09:09:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[13-Mar-2025 17:56:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[13-Mar-2025 18:16:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[13-Mar-2025 19:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[13-Mar-2025 19:20:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[13-Mar-2025 19:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[13-Mar-2025 19:40:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[13-Mar-2025 19:56:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[13-Mar-2025 19:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[13-Mar-2025 20:08:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[13-Mar-2025 20:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[13-Mar-2025 20:16:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[13-Mar-2025 20:17:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[13-Mar-2025 20:29:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[14-Mar-2025 05:17:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[14-Mar-2025 12:22:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[14-Mar-2025 12:23:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[14-Mar-2025 12:23:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[14-Mar-2025 12:23:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[14-Mar-2025 12:24:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[14-Mar-2025 12:24:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[14-Mar-2025 12:24:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[14-Mar-2025 12:25:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[14-Mar-2025 12:25:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[14-Mar-2025 12:25:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[14-Mar-2025 12:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[14-Mar-2025 12:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[14-Mar-2025 12:36:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[14-Mar-2025 12:36:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[14-Mar-2025 12:37:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[14-Mar-2025 12:37:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[17-Mar-2025 22:02:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[17-Mar-2025 22:14:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[17-Mar-2025 23:27:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[18-Mar-2025 01:05:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[18-Mar-2025 01:45:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[21-Mar-2025 07:02:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[21-Mar-2025 07:05:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[25-Mar-2025 02:23:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[25-Mar-2025 02:42:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[28-Mar-2025 00:37:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[28-Mar-2025 00:37:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[28-Mar-2025 18:03:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[28-Mar-2025 18:03:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[28-Mar-2025 18:03:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[28-Mar-2025 18:03:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[28-Mar-2025 18:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[28-Mar-2025 18:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[28-Mar-2025 18:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[28-Mar-2025 18:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[28-Mar-2025 18:03:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[28-Mar-2025 18:03:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[28-Mar-2025 18:03:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[28-Mar-2025 18:03:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[28-Mar-2025 18:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[28-Mar-2025 18:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[28-Mar-2025 18:03:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[28-Mar-2025 18:03:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[08-Apr-2025 04:14:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[08-Apr-2025 04:14:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[08-Apr-2025 04:14:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[08-Apr-2025 04:14:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[08-Apr-2025 04:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[08-Apr-2025 04:14:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[08-Apr-2025 04:14:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[08-Apr-2025 04:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[08-Apr-2025 04:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[08-Apr-2025 04:14:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[08-Apr-2025 04:14:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[08-Apr-2025 04:14:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[08-Apr-2025 04:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[08-Apr-2025 04:14:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[08-Apr-2025 04:14:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[08-Apr-2025 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[18-Apr-2025 19:09:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[18-Apr-2025 19:09:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[18-Apr-2025 19:09:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[18-Apr-2025 19:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[18-Apr-2025 19:09:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[18-Apr-2025 19:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[18-Apr-2025 19:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[18-Apr-2025 19:10:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[18-Apr-2025 19:10:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[18-Apr-2025 19:10:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[18-Apr-2025 19:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[18-Apr-2025 19:11:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[18-Apr-2025 19:11:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[18-Apr-2025 19:11:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[18-Apr-2025 19:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[18-Apr-2025 19:12:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[27-Apr-2025 07:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[27-Apr-2025 07:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[27-Apr-2025 07:17:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[27-Apr-2025 07:17:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[27-Apr-2025 07:18:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[27-Apr-2025 07:18:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[27-Apr-2025 07:20:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[27-Apr-2025 07:20:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[27-Apr-2025 07:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[27-Apr-2025 07:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[27-Apr-2025 07:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[27-Apr-2025 07:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[27-Apr-2025 07:26:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[27-Apr-2025 07:26:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[27-Apr-2025 07:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[07-May-2025 23:24:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[07-May-2025 23:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[07-May-2025 23:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[07-May-2025 23:24:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[07-May-2025 23:24:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[07-May-2025 23:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[07-May-2025 23:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[07-May-2025 23:24:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[07-May-2025 23:24:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[07-May-2025 23:24:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[07-May-2025 23:24:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[07-May-2025 23:24:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[07-May-2025 23:24:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[07-May-2025 23:24:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[07-May-2025 23:24:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[07-May-2025 23:24:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19
+[10-May-2025 02:37:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXElement.php on line 20
+[10-May-2025 04:39:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXMemberExpression.php on line 20
+[10-May-2025 04:39:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXBoundaryElement.php on line 21
+[10-May-2025 04:39:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingElement.php on line 17
+[10-May-2025 04:52:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXEmptyExpression.php on line 19
+[10-May-2025 06:19:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\JSX\JSXBoundaryElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningElement.php on line 17
+[10-May-2025 08:59:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXOpeningFragment.php on line 19
+[10-May-2025 12:03:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXAttribute.php on line 19
+[10-May-2025 13:28:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\SpreadElement' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadAttribute.php on line 19
+[10-May-2025 13:57:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Identifier' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXIdentifier.php on line 19
+[10-May-2025 15:11:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXClosingFragment.php on line 19
+[10-May-2025 15:36:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXFragment.php on line 20
+[11-May-2025 00:09:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXExpressionContainer.php on line 19
+[11-May-2025 00:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXNamespacedName.php on line 20
+[11-May-2025 00:33:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXSpreadChild.php on line 20
+[11-May-2025 00:46:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\Node\Node' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/Node/JSX/JSXText.php on line 19

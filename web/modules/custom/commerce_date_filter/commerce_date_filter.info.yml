@@ -1,0 +1,9 @@
+name: 'Commerce Date Filter'
+type: module
+description: 'Provides date filtering functionality for Drupal Commerce products.'
+package: 'Custom'
+version: '10.x-1.0'
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - commerce_product
+  - commerce_cart

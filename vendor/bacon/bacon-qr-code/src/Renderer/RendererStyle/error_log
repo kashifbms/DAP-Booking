@@ -1,0 +1,186 @@
+[13-Nov-2024 11:03:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[18-Nov-2024 03:47:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[18-Nov-2024 08:02:34 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[18-Nov-2024 11:56:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[18-Nov-2024 15:31:32 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[21-Nov-2024 13:44:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[21-Nov-2024 13:44:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[21-Nov-2024 13:44:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[21-Nov-2024 13:44:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[21-Nov-2024 13:44:43 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[17-Dec-2024 02:03:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[17-Dec-2024 02:04:41 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[17-Dec-2024 02:14:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[17-Dec-2024 02:15:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[19-Dec-2024 10:07:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[19-Dec-2024 10:09:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[19-Dec-2024 10:10:54 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[19-Dec-2024 10:13:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[19-Dec-2024 17:44:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[21-Dec-2024 20:42:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[23-Dec-2024 17:54:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[23-Dec-2024 17:54:34 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[23-Dec-2024 17:54:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[23-Dec-2024 18:17:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[26-Dec-2024 15:12:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[26-Dec-2024 15:23:12 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[26-Dec-2024 15:29:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[26-Dec-2024 15:32:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[26-Dec-2024 15:33:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[26-Dec-2024 19:22:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[26-Dec-2024 22:12:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[26-Dec-2024 22:12:28 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[26-Dec-2024 22:12:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[26-Dec-2024 22:15:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[28-Dec-2024 16:21:01 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[28-Dec-2024 23:07:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[31-Dec-2024 03:19:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[01-Jan-2025 18:24:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[02-Jan-2025 15:24:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[05-Jan-2025 05:10:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[07-Jan-2025 08:52:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[07-Jan-2025 12:28:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[07-Jan-2025 12:28:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[07-Jan-2025 12:28:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[07-Jan-2025 12:28:21 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[07-Jan-2025 12:28:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[10-Jan-2025 01:27:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[10-Jan-2025 02:28:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[10-Jan-2025 22:34:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[12-Jan-2025 03:15:59 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[13-Jan-2025 11:30:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[14-Jan-2025 08:43:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[14-Jan-2025 21:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[15-Jan-2025 11:47:32 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[15-Jan-2025 12:50:37 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[15-Jan-2025 13:23:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[15-Jan-2025 18:00:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[17-Jan-2025 02:43:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[17-Jan-2025 05:48:24 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[18-Jan-2025 13:48:18 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[20-Jan-2025 20:46:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[20-Jan-2025 21:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[20-Jan-2025 21:24:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[29-Jan-2025 10:44:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[29-Jan-2025 10:44:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[29-Jan-2025 10:44:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[29-Jan-2025 10:45:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[29-Jan-2025 10:45:08 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[16-Feb-2025 22:15:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[17-Feb-2025 13:23:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[17-Feb-2025 15:39:07 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[17-Feb-2025 15:39:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[19-Feb-2025 05:26:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[22-Feb-2025 11:10:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[10-Mar-2025 14:43:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[13-Mar-2025 17:41:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[13-Mar-2025 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[13-Mar-2025 18:42:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[13-Mar-2025 19:18:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[13-Mar-2025 19:21:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[15-Mar-2025 17:49:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[16-Mar-2025 02:46:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[16-Mar-2025 03:21:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[16-Mar-2025 05:30:52 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[17-Mar-2025 20:32:33 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[17-Mar-2025 22:19:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[17-Mar-2025 23:30:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[19-Mar-2025 16:13:36 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[19-Mar-2025 16:13:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[19-Mar-2025 16:13:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[19-Mar-2025 16:13:38 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[19-Mar-2025 16:13:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[08-Apr-2025 03:44:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[08-Apr-2025 03:44:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[08-Apr-2025 03:44:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[08-Apr-2025 03:44:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[08-Apr-2025 03:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[08-May-2025 06:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[08-May-2025 07:45:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[08-May-2025 11:09:56 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[08-May-2025 18:56:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[08-May-2025 21:33:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[08-May-2025 21:33:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[08-May-2025 21:33:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[08-May-2025 21:33:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[08-May-2025 21:34:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[08-May-2025 21:34:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[08-May-2025 21:35:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[08-May-2025 21:35:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[08-May-2025 21:41:54 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[08-May-2025 21:41:54 UTC] PHP Fatal error:  Uncaught Error: Class 'DASPRiD\Enum\AbstractEnum' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/GradientType.php on line 15
+[08-May-2025 22:34:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14
+[10-May-2025 08:50:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[12-May-2025 15:51:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/RendererStyle.php on line 15
+[12-May-2025 15:53:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Gradient.php on line 11
+[12-May-2025 15:54:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/Fill.php on line 15
+[12-May-2025 15:55:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/RendererStyle/EyeFill.php on line 14

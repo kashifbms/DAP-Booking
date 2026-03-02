@@ -1,0 +1,184 @@
+[18-Nov-2024 15:26:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[21-Nov-2024 12:24:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[21-Nov-2024 12:24:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[09-Dec-2024 11:27:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[16-Dec-2024 16:59:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[16-Dec-2024 17:59:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[18-Dec-2024 05:04:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[18-Dec-2024 16:57:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[19-Dec-2024 08:05:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[19-Dec-2024 17:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[21-Dec-2024 00:48:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[22-Dec-2024 10:43:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[22-Dec-2024 10:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[15-Jan-2025 14:46:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[29-Jan-2025 10:22:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[29-Jan-2025 10:22:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[08-Feb-2025 00:23:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[08-Feb-2025 06:48:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[13-Feb-2025 19:13:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[16-Feb-2025 18:35:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[17-Feb-2025 16:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[17-Feb-2025 16:48:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[13-Mar-2025 17:51:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[13-Mar-2025 17:56:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[16-Mar-2025 00:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[17-Mar-2025 20:57:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[22-Mar-2025 03:10:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[23-Mar-2025 23:54:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[26-Mar-2025 05:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[28-Mar-2025 13:55:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[30-Mar-2025 19:13:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[02-Apr-2025 02:52:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[06-Apr-2025 14:08:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[06-Apr-2025 19:59:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[06-Apr-2025 20:01:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[08-Apr-2025 03:23:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[08-Apr-2025 03:23:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[17-Apr-2025 19:40:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[07-May-2025 11:53:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[07-May-2025 15:54:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[08-May-2025 21:42:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[08-May-2025 21:42:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8
+[08-May-2025 21:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[08-May-2025 21:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[12-May-2025 15:54:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/AlterOptionsCommandEvent.php on line 32
+[12-May-2025 15:55:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Options\PrepareFormatter' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Options/PrepareTerminalWidthOption.php on line 8

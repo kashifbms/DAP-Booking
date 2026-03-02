@@ -1,0 +1,596 @@
+[08-Nov-2024 16:37:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[13-Nov-2024 06:42:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[13-Nov-2024 08:34:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[13-Nov-2024 09:55:11 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[13-Nov-2024 11:57:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[13-Nov-2024 14:53:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[13-Nov-2024 15:18:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[18-Nov-2024 02:43:44 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[18-Nov-2024 03:55:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[18-Nov-2024 11:54:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[21-Nov-2024 09:22:39 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[21-Nov-2024 09:22:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[21-Nov-2024 09:22:50 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[21-Nov-2024 09:22:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[21-Nov-2024 09:23:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[21-Nov-2024 09:23:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[21-Nov-2024 09:23:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[21-Nov-2024 09:23:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[21-Nov-2024 09:23:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[21-Nov-2024 09:23:30 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[07-Dec-2024 03:11:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[07-Dec-2024 03:11:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[07-Dec-2024 03:11:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[07-Dec-2024 03:11:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[07-Dec-2024 03:11:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[07-Dec-2024 03:11:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[07-Dec-2024 03:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[07-Dec-2024 03:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[07-Dec-2024 03:11:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[07-Dec-2024 03:11:59 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[20-Dec-2024 17:05:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[21-Dec-2024 12:43:24 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[22-Dec-2024 00:29:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[30-Dec-2024 23:49:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[02-Jan-2025 04:50:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[09-Jan-2025 23:22:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[10-Jan-2025 03:22:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[10-Jan-2025 03:54:41 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[10-Jan-2025 08:10:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[10-Jan-2025 08:43:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[10-Jan-2025 10:33:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[10-Jan-2025 13:58:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[10-Jan-2025 16:28:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[15-Jan-2025 16:46:49 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[15-Jan-2025 17:33:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[15-Jan-2025 21:22:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[29-Jan-2025 08:25:45 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[29-Jan-2025 08:25:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[29-Jan-2025 08:25:54 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[29-Jan-2025 08:25:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[29-Jan-2025 08:26:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[29-Jan-2025 08:26:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[29-Jan-2025 08:26:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[29-Jan-2025 08:26:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[29-Jan-2025 08:26:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[29-Jan-2025 08:26:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[29-Jan-2025 23:26:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[30-Jan-2025 08:08:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[30-Jan-2025 16:41:24 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[30-Jan-2025 23:59:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[31-Jan-2025 00:05:43 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[31-Jan-2025 00:10:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[31-Jan-2025 00:20:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[31-Jan-2025 00:27:24 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[31-Jan-2025 00:28:27 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[31-Jan-2025 09:28:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[01-Feb-2025 01:22:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[01-Feb-2025 07:08:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[01-Feb-2025 15:52:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[01-Feb-2025 18:34:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[02-Feb-2025 01:41:28 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[04-Feb-2025 11:06:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[04-Feb-2025 16:32:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[12-Feb-2025 22:54:15 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[13-Feb-2025 00:03:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[13-Feb-2025 00:18:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[13-Feb-2025 01:08:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[13-Feb-2025 01:11:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[13-Feb-2025 01:44:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[13-Feb-2025 02:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[13-Feb-2025 02:16:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[13-Feb-2025 02:32:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[13-Feb-2025 02:34:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[13-Feb-2025 02:46:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[13-Feb-2025 02:48:33 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[13-Feb-2025 04:45:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[14-Feb-2025 17:44:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[14-Feb-2025 19:24:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[14-Feb-2025 20:55:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[15-Feb-2025 04:45:28 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[16-Feb-2025 06:05:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[16-Feb-2025 06:06:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[16-Feb-2025 09:48:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[16-Feb-2025 09:50:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[16-Feb-2025 09:50:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[16-Feb-2025 14:11:22 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[16-Feb-2025 22:36:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[17-Feb-2025 01:46:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[17-Feb-2025 12:41:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[18-Feb-2025 20:26:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[18-Feb-2025 20:29:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[18-Feb-2025 20:32:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[19-Feb-2025 04:39:15 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[24-Feb-2025 23:20:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[24-Feb-2025 23:34:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[24-Feb-2025 23:37:56 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[04-Mar-2025 02:42:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[04-Mar-2025 02:42:35 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[04-Mar-2025 02:42:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[04-Mar-2025 02:42:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[04-Mar-2025 02:43:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[04-Mar-2025 02:43:31 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[04-Mar-2025 02:43:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[04-Mar-2025 02:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[04-Mar-2025 02:44:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[04-Mar-2025 02:44:16 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[08-Mar-2025 02:22:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[08-Mar-2025 02:22:48 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[08-Mar-2025 02:22:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[08-Mar-2025 02:22:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[08-Mar-2025 02:22:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[08-Mar-2025 02:22:51 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[08-Mar-2025 02:22:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[08-Mar-2025 02:22:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[08-Mar-2025 02:22:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[08-Mar-2025 02:22:53 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[10-Mar-2025 14:08:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[10-Mar-2025 14:34:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[10-Mar-2025 15:01:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[10-Mar-2025 15:36:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[10-Mar-2025 17:02:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[10-Mar-2025 17:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[10-Mar-2025 18:47:00 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[13-Mar-2025 17:48:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[13-Mar-2025 17:57:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[13-Mar-2025 18:14:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[13-Mar-2025 18:32:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[13-Mar-2025 18:32:04 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[13-Mar-2025 18:38:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[13-Mar-2025 19:19:16 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[13-Mar-2025 19:28:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[13-Mar-2025 20:07:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[14-Mar-2025 09:02:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[15-Mar-2025 15:28:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[15-Mar-2025 16:49:44 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[16-Mar-2025 00:51:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[17-Mar-2025 22:08:14 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[17-Mar-2025 23:39:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[18-Mar-2025 02:04:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[18-Mar-2025 15:05:49 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[21-Mar-2025 07:02:23 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[21-Mar-2025 08:25:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[21-Mar-2025 08:26:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[21-Mar-2025 08:26:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[21-Mar-2025 08:26:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[21-Mar-2025 08:27:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[21-Mar-2025 08:27:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[21-Mar-2025 08:27:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[21-Mar-2025 08:28:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[21-Mar-2025 08:28:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[21-Mar-2025 08:28:46 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[25-Mar-2025 01:51:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[25-Mar-2025 02:26:15 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[28-Mar-2025 00:28:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[28-Mar-2025 00:33:22 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[08-Apr-2025 01:32:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[08-Apr-2025 01:32:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[08-Apr-2025 01:32:30 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[08-Apr-2025 01:32:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[08-Apr-2025 01:32:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[08-Apr-2025 01:32:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[08-Apr-2025 01:32:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[08-Apr-2025 01:32:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[08-Apr-2025 01:32:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[08-Apr-2025 01:32:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[19-Apr-2025 18:53:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[19-Apr-2025 18:53:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[19-Apr-2025 18:54:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[19-Apr-2025 18:54:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[19-Apr-2025 18:54:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[19-Apr-2025 18:55:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[19-Apr-2025 18:55:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[19-Apr-2025 18:56:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[19-Apr-2025 18:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[19-Apr-2025 20:57:27 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[01-May-2025 15:59:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[02-May-2025 06:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[02-May-2025 08:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[02-May-2025 09:41:31 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[02-May-2025 16:04:50 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[02-May-2025 16:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[02-May-2025 17:33:31 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[02-May-2025 17:40:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[02-May-2025 18:03:50 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[02-May-2025 19:20:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[02-May-2025 20:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[03-May-2025 02:20:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[04-May-2025 07:16:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[04-May-2025 09:43:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[05-May-2025 10:24:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[05-May-2025 19:40:46 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[06-May-2025 03:03:48 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[07-May-2025 02:58:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[07-May-2025 08:33:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[08-May-2025 02:23:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[08-May-2025 20:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[08-May-2025 21:08:14 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[08-May-2025 21:08:14 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[08-May-2025 21:17:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[08-May-2025 21:17:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[08-May-2025 21:27:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[08-May-2025 21:27:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[08-May-2025 21:31:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[08-May-2025 21:31:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[08-May-2025 21:32:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[08-May-2025 21:32:16 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[08-May-2025 21:35:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[08-May-2025 21:35:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[08-May-2025 21:37:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[08-May-2025 21:37:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[08-May-2025 21:37:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[08-May-2025 21:37:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[08-May-2025 21:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[08-May-2025 21:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[09-May-2025 05:12:21 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[10-May-2025 00:46:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[10-May-2025 02:36:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23
+[10-May-2025 03:35:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[10-May-2025 06:51:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[10-May-2025 07:07:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[10-May-2025 08:45:13 UTC] PHP Parse error:  syntax error, unexpected 'Dumper' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/YamlEncoder.php on line 45
+[10-May-2025 09:38:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[11-May-2025 10:23:37 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[12-May-2025 08:16:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareEncoderInterface.php on line 19
+[12-May-2025 08:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\DecoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ContextAwareDecoderInterface.php on line 19
+[12-May-2025 08:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncode.php on line 21
+[12-May-2025 08:20:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonDecode.php on line 117
+[12-May-2025 08:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/JsonEncoder.php on line 19
+[12-May-2025 08:35:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainEncoder.php on line 37
+[12-May-2025 08:35:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/XmlEncoder.php on line 228
+[12-May-2025 08:35:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/ChainDecoder.php on line 36
+[12-May-2025 08:42:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Encoder\EncoderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Encoder/CsvEncoder.php on line 23

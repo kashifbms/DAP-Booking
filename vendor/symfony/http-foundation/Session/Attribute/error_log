@@ -1,0 +1,156 @@
+[13-Nov-2024 05:32:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[13-Nov-2024 10:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[21-Nov-2024 10:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[21-Nov-2024 10:05:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[01-Jan-2025 23:28:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[01-Jan-2025 23:28:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[10-Jan-2025 01:49:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[10-Jan-2025 04:51:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[29-Jan-2025 09:49:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[29-Jan-2025 09:49:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[06-Feb-2025 07:38:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[08-Feb-2025 05:19:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[15-Feb-2025 19:05:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[15-Feb-2025 23:12:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[17-Feb-2025 22:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[18-Feb-2025 02:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[05-Mar-2025 16:13:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[05-Mar-2025 16:13:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[10-Mar-2025 07:58:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[10-Mar-2025 21:01:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[13-Mar-2025 19:10:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[18-Mar-2025 15:24:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[25-Mar-2025 02:06:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[28-Mar-2025 00:32:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[06-Apr-2025 23:40:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[06-Apr-2025 23:41:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[08-Apr-2025 01:54:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[08-Apr-2025 01:54:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[05-May-2025 04:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[05-May-2025 07:05:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[08-May-2025 21:29:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[08-May-2025 21:29:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[08-May-2025 21:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[08-May-2025 21:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[10-May-2025 00:42:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[10-May-2025 06:23:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[12-May-2025 11:31:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19
+[12-May-2025 13:20:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[12-May-2025 13:23:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 19

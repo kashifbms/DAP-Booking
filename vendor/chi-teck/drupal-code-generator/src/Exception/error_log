@@ -1,0 +1,204 @@
+[13-Nov-2024 04:46:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[13-Nov-2024 21:15:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[18-Nov-2024 16:56:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[21-Nov-2024 12:44:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[21-Nov-2024 12:44:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[21-Nov-2024 12:44:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[12-Dec-2024 16:40:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[12-Dec-2024 16:40:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[12-Dec-2024 16:40:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[10-Jan-2025 10:30:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[10-Jan-2025 14:58:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[15-Jan-2025 07:47:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[29-Jan-2025 10:32:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[29-Jan-2025 10:32:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[29-Jan-2025 10:32:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[06-Feb-2025 20:37:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[06-Feb-2025 20:37:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[06-Feb-2025 20:37:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[08-Feb-2025 11:30:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[09-Feb-2025 06:44:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[10-Mar-2025 03:13:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[10-Mar-2025 03:13:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[10-Mar-2025 12:17:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[10-Mar-2025 13:42:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[13-Mar-2025 18:11:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[13-Mar-2025 19:08:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[13-Mar-2025 20:31:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[16-Mar-2025 04:32:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[17-Mar-2025 21:37:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[22-Mar-2025 19:46:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[24-Mar-2025 17:29:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[06-Apr-2025 10:59:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[06-Apr-2025 10:59:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[06-Apr-2025 10:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[07-Apr-2025 13:58:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[08-Apr-2025 03:30:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[08-Apr-2025 03:30:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[08-Apr-2025 03:30:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[10-Apr-2025 04:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[08-May-2025 06:50:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[08-May-2025 12:17:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[08-May-2025 17:40:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[08-May-2025 21:39:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[08-May-2025 21:39:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[08-May-2025 21:40:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[08-May-2025 21:40:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[08-May-2025 21:40:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[08-May-2025 21:40:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/SilentException.php on line 10
+[10-May-2025 04:13:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/UnexpectedValueException.php on line 10
+[10-May-2025 06:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10
+[12-May-2025 00:31:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Exception\ExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Exception/RuntimeException.php on line 10

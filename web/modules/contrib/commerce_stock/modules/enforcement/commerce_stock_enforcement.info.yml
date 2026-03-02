@@ -1,0 +1,14 @@
+name: Commerce Stock Enforcement
+type: module
+description: Provides a stock enforcement functionality.
+package: Commerce Stock
+dependencies:
+  - commerce:commerce_product
+  - commerce_stock:commerce_stock
+core_version_requirement: ^9.2 || ^10
+configure: commerce_stock_enforcement.settings
+
+# Information added by Drupal.org packaging script on 2024-01-05
+version: '8.x-1.3'
+project: 'commerce_stock'
+datestamp: 1704478210

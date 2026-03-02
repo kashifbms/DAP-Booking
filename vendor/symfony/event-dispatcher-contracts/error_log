@@ -1,0 +1,268 @@
+[08-Nov-2024 06:01:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[08-Nov-2024 16:42:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[13-Nov-2024 06:09:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[16-Nov-2024 16:46:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[16-Nov-2024 16:46:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[21-Nov-2024 09:20:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[21-Nov-2024 09:20:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[23-Nov-2024 22:43:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[23-Nov-2024 22:46:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[28-Nov-2024 19:56:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[02-Dec-2024 19:30:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[08-Dec-2024 20:46:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[16-Dec-2024 06:52:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[23-Dec-2024 03:38:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[10-Jan-2025 05:26:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[10-Jan-2025 08:01:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[10-Jan-2025 16:34:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[18-Jan-2025 16:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[18-Jan-2025 16:52:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[25-Jan-2025 05:57:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[25-Jan-2025 05:57:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[28-Jan-2025 13:41:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[29-Jan-2025 08:01:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[29-Jan-2025 08:01:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[29-Jan-2025 16:11:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[12-Feb-2025 21:05:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[12-Feb-2025 21:13:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[13-Feb-2025 01:39:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[13-Feb-2025 05:24:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[14-Feb-2025 20:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[15-Feb-2025 01:09:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[16-Feb-2025 21:21:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[23-Feb-2025 17:00:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[23-Feb-2025 17:00:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[24-Feb-2025 04:22:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[24-Feb-2025 04:36:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[24-Feb-2025 16:32:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[24-Feb-2025 16:32:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[25-Feb-2025 03:06:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[25-Feb-2025 03:09:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[28-Feb-2025 02:45:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[28-Feb-2025 02:54:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[02-Mar-2025 10:55:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[02-Mar-2025 12:14:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[06-Mar-2025 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[06-Mar-2025 23:14:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[10-Mar-2025 04:33:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[10-Mar-2025 17:37:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[13-Mar-2025 18:02:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[13-Mar-2025 19:56:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[14-Mar-2025 15:53:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[14-Mar-2025 15:53:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[07-Apr-2025 22:36:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[07-Apr-2025 22:36:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[17-Apr-2025 11:44:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[17-Apr-2025 11:44:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[30-Apr-2025 01:34:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[30-Apr-2025 01:44:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[30-Apr-2025 06:35:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[01-May-2025 08:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[03-May-2025 08:46:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[03-May-2025 12:02:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[08-May-2025 20:22:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[08-May-2025 20:22:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[10-May-2025 00:54:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[10-May-2025 10:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[11-May-2025 14:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19

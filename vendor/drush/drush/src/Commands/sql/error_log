@@ -1,0 +1,84 @@
+[19-Dec-2024 13:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[19-Dec-2024 13:20:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[19-Dec-2024 13:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[19-Dec-2024 14:15:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[20-Dec-2024 15:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[22-Dec-2024 19:40:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[22-Dec-2024 19:43:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[29-Dec-2024 13:42:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[16-Jan-2025 06:26:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[16-Jan-2025 06:26:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[08-Feb-2025 06:09:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[09-Feb-2025 13:42:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[28-Mar-2025 17:[15-Apr-2025 20:23:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[15-Apr-2025 20:24:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[08-May-2025 15:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[08-May-2025 21:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[08-May-2025 21:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[08-May-2025 21:34:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[08-May-2025 21:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlCommands.php on line 24
+[09-May-2025 00:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22
+[12-May-2025 08:56:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/sql/SqlSyncCommands.php on line 22

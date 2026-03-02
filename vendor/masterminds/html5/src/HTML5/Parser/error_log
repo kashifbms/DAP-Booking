@@ -1,0 +1,220 @@
+[13-Nov-2024 06:20:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[13-Nov-2024 17:11:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[18-Nov-2024 17:57:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[21-Nov-2024 12:53:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[21-Nov-2024 12:53:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[21-Nov-2024 12:53:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[19-Dec-2024 13:35:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[19-Dec-2024 14:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[19-Dec-2024 14:21:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[19-Dec-2024 15:28:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[19-Dec-2024 15:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[19-Dec-2024 15:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[21-Dec-2024 13:59:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[22-Dec-2024 19:58:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[22-Dec-2024 20:01:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[23-Dec-2024 17:30:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[07-Jan-2025 07:05:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[10-Jan-2025 10:25:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[10-Jan-2025 10:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[15-Jan-2025 17:18:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[18-Jan-2025 07:06:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[18-Jan-2025 07:06:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[18-Jan-2025 07:06:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[13-Feb-2025 01:42:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[16-Feb-2025 06:54:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[10-Mar-2025 06:58:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[10-Mar-2025 11:32:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[13-Mar-2025 18:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[13-Mar-2025 19:12:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[16-Mar-2025 02:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[17-Mar-2025 21:35:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[18-Mar-2025 15:29:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[21-Mar-2025 06:56:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[25-Mar-2025 01:40:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[25-Mar-2025 02:06:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[28-Mar-2025 00:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[28-Mar-2025 00:29:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[28-Mar-2025 18:02:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[28-Mar-2025 18:02:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[28-Mar-2025 18:02:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[08-Apr-2025 00:18:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[08-Apr-2025 00:18:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[08-Apr-2025 00:18:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[08-May-2025 07:43:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[08-May-2025 11:10:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[08-May-2025 11:55:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[08-May-2025 21:28:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[08-May-2025 21:28:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[08-May-2025 21:32:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[08-May-2025 21:32:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[10-May-2025 10:02:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[10-May-2025 13:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[12-May-2025 15:39:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\InputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[12-May-2025 15:43:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Parser\EventHandler' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[12-May-2025 15:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Masterminds\HTML5\Parser\StringInputStream' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17

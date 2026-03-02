@@ -1,0 +1,1084 @@
+[13-Nov-2024 16:42:09 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Nov-2024 16:42:09 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Nov-2024 16:42:09 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[13-Nov-2024 16:42:09 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Nov-2024 16:42:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Nov-2024 16:42:09 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[13-Nov-2024 17:17:45 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Nov-2024 17:17:45 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Nov-2024 17:17:45 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Nov-2024 17:17:45 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[18-Nov-2024 05:39:12 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[18-Nov-2024 07:59:44 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[18-Nov-2024 07:59:44 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[18-Nov-2024 07:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[18-Nov-2024 11:02:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[18-Nov-2024 13:01:16 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[18-Nov-2024 13:01:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[21-Nov-2024 11:49:26 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[21-Nov-2024 11:49:26 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[21-Nov-2024 11:49:26 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[21-Nov-2024 11:49:26 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[21-Nov-2024 11:49:31 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[21-Nov-2024 11:49:31 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[21-Nov-2024 11:49:31 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[21-Nov-2024 11:49:31 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[21-Nov-2024 11:49:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[21-Nov-2024 11:49:31 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[21-Nov-2024 11:49:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[21-Nov-2024 11:49:42 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[21-Nov-2024 11:49:42 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[21-Nov-2024 11:49:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[21-Nov-2024 11:49:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[21-Nov-2024 11:49:51 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[21-Nov-2024 11:49:51 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[21-Nov-2024 11:49:51 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[21-Nov-2024 11:49:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[21-Nov-2024 11:49:57 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[21-Nov-2024 11:49:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[18-Dec-2024 01:57:41 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[18-Dec-2024 01:57:41 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[18-Dec-2024 01:57:41 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[18-Dec-2024 01:57:41 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[31-Dec-2024 05:59:27 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[01-Jan-2025 23:28:33 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[01-Jan-2025 23:28:33 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[01-Jan-2025 23:28:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[01-Jan-2025 23:28:33 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[01-Jan-2025 23:28:33 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[01-Jan-2025 23:28:33 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[01-Jan-2025 23:28:33 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[01-Jan-2025 23:28:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[01-Jan-2025 23:28:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[01-Jan-2025 23:28:35 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[01-Jan-2025 23:28:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[01-Jan-2025 23:28:35 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[10-Jan-2025 01:00:13 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jan-2025 01:00:13 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jan-2025 01:00:13 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jan-2025 01:00:13 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[10-Jan-2025 03:28:51 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Jan-2025 03:28:51 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Jan-2025 03:28:51 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[10-Jan-2025 03:28:51 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jan-2025 03:28:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jan-2025 03:28:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[15-Jan-2025 06:48:02 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-Jan-2025 06:48:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-Jan-2025 15:34:59 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-Jan-2025 18:23:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-Jan-2025 19:05:59 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[15-Jan-2025 19:05:59 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[15-Jan-2025 19:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[29-Jan-2025 10:02:58 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[29-Jan-2025 10:02:58 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[29-Jan-2025 10:02:58 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[29-Jan-2025 10:02:58 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[29-Jan-2025 10:03:03 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[29-Jan-2025 10:03:03 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[29-Jan-2025 10:03:03 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[29-Jan-2025 10:03:03 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[29-Jan-2025 10:03:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[29-Jan-2025 10:03:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[29-Jan-2025 10:03:07 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[29-Jan-2025 10:03:12 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[29-Jan-2025 10:03:12 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[29-Jan-2025 10:03:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[29-Jan-2025 10:03:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[29-Jan-2025 10:03:21 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[29-Jan-2025 10:03:21 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[29-Jan-2025 10:03:21 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[29-Jan-2025 10:03:21 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[29-Jan-2025 10:03:25 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[29-Jan-2025 10:03:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[12-Feb-2025 16:45:20 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[12-Feb-2025 16:45:20 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[12-Feb-2025 16:45:20 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[12-Feb-2025 16:45:20 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[12-Feb-2025 16:45:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[12-Feb-2025 16:45:20 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[13-Feb-2025 00:58:06 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[13-Feb-2025 00:58:06 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Feb-2025 00:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Feb-2025 04:51:31 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[13-Feb-2025 04:51:31 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Feb-2025 04:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Feb-2025 04:51:58 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Feb-2025 04:51:58 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Feb-2025 04:51:58 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Feb-2025 04:51:58 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[13-Feb-2025 04:52:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[13-Feb-2025 04:53:20 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Feb-2025 04:53:20 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Feb-2025 04:53:20 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[13-Feb-2025 04:53:20 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Feb-2025 04:53:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Feb-2025 04:53:20 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[13-Feb-2025 04:53:50 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[13-Feb-2025 04:54:15 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[13-Feb-2025 04:54:15 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[13-Feb-2025 04:54:15 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[13-Feb-2025 04:54:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[13-Feb-2025 04:54:44 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Feb-2025 04:54:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Feb-2025 04:56:26 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[13-Feb-2025 04:56:26 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[13-Feb-2025 04:56:26 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[13-Feb-2025 04:56:26 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[13-Feb-2025 04:57:25 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[13-Feb-2025 04:57:43 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Feb-2025 04:57:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Feb-2025 04:58:02 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Feb-2025 04:58:02 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Feb-2025 04:58:02 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Feb-2025 04:58:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[13-Feb-2025 04:58:45 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Feb-2025 04:58:45 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Feb-2025 04:58:45 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[13-Feb-2025 04:58:45 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Feb-2025 04:58:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Feb-2025 04:58:45 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[13-Feb-2025 06:39:07 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[13-Feb-2025 06:39:07 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Feb-2025 06:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Feb-2025 13:05:35 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Feb-2025 13:05:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[13-Feb-2025 20:46:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-Feb-2025 05:00:28 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[15-Feb-2025 05:00:28 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[15-Feb-2025 05:00:28 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[15-Feb-2025 05:00:28 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[15-Feb-2025 05:00:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[15-Feb-2025 05:00:28 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[15-Feb-2025 09:59:24 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[15-Feb-2025 09:59:24 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[15-Feb-2025 09:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[15-Feb-2025 16:47:26 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[15-Feb-2025 16:47:26 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[15-Feb-2025 16:47:26 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[15-Feb-2025 16:47:26 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[15-Feb-2025 16:50:21 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-Feb-2025 16:50:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-Feb-2025 16:51:49 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-Feb-2025 16:51:49 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-Feb-2025 16:51:49 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-Feb-2025 16:51:49 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[16-Feb-2025 06:09:13 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[16-Feb-2025 06:09:13 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[16-Feb-2025 06:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[16-Feb-2025 10:29:59 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[16-Feb-2025 12:40:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[16-Feb-2025 18:05:36 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[16-Feb-2025 18:05:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[16-Feb-2025 18:43:03 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[16-Feb-2025 18:43:03 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[16-Feb-2025 18:43:03 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[16-Feb-2025 18:43:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[02-Mar-2025 08:18:24 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[02-Mar-2025 08:19:03 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[02-Mar-2025 08:19:03 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[02-Mar-2025 08:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[02-Mar-2025 08:19:36 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[02-Mar-2025 08:19:36 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[02-Mar-2025 08:19:36 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[02-Mar-2025 08:19:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[02-Mar-2025 08:20:24 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[02-Mar-2025 08:20:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[02-Mar-2025 08:20:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[02-Mar-2025 08:20:56 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[02-Mar-2025 08:20:56 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[02-Mar-2025 08:20:56 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[02-Mar-2025 08:20:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[02-Mar-2025 08:21:04 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[02-Mar-2025 08:21:04 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[02-Mar-2025 08:21:04 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[02-Mar-2025 08:21:04 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[02-Mar-2025 08:21:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[02-Mar-2025 08:21:04 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[05-Mar-2025 16:13:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[05-Mar-2025 16:13:15 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[05-Mar-2025 16:13:15 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[05-Mar-2025 16:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[05-Mar-2025 16:13:16 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-Mar-2025 16:13:16 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-Mar-2025 16:13:16 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-Mar-2025 16:13:16 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[05-Mar-2025 16:13:16 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[05-Mar-2025 16:13:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[05-Mar-2025 16:13:17 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[05-Mar-2025 16:13:17 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[05-Mar-2025 16:13:18 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[05-Mar-2025 16:13:18 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[05-Mar-2025 16:13:18 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[05-Mar-2025 16:13:18 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[05-Mar-2025 16:13:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[05-Mar-2025 16:13:18 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[10-Mar-2025 06:39:50 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Mar-2025 06:39:50 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Mar-2025 06:39:50 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Mar-2025 06:39:50 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[10-Mar-2025 06:49:29 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Mar-2025 06:49:29 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Mar-2025 06:49:29 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[10-Mar-2025 06:49:29 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Mar-2025 06:49:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Mar-2025 06:49:29 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[11-Mar-2025 07:51:13 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[11-Mar-2025 07:51:14 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[11-Mar-2025 07:51:14 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[11-Mar-2025 07:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[11-Mar-2025 07:51:14 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[11-Mar-2025 07:51:14 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[11-Mar-2025 07:51:14 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[11-Mar-2025 07:51:14 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[11-Mar-2025 07:51:15 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[11-Mar-2025 07:51:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[11-Mar-2025 07:51:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[11-Mar-2025 07:51:18 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[11-Mar-2025 07:51:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[11-Mar-2025 07:51:18 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[13-Mar-2025 18:16:02 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Mar-2025 18:16:02 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Mar-2025 18:16:02 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[13-Mar-2025 18:16:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[13-Mar-2025 18:35:38 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[13-Mar-2025 18:35:38 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[13-Mar-2025 18:35:38 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[13-Mar-2025 18:35:38 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[13-Mar-2025 18:43:44 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[13-Mar-2025 18:43:44 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Mar-2025 18:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[13-Mar-2025 20:06:19 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[13-Mar-2025 20:13:11 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Mar-2025 20:13:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[13-Mar-2025 20:17:46 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[13-Mar-2025 20:35:00 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Mar-2025 20:35:00 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[13-Mar-2025 20:35:00 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[13-Mar-2025 20:35:00 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Mar-2025 20:35:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[13-Mar-2025 20:35:00 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[15-Mar-2025 02:38:18 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[15-Mar-2025 02:38:31 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[15-Mar-2025 02:38:31 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[15-Mar-2025 02:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[15-Mar-2025 02:38:49 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-Mar-2025 02:38:49 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-Mar-2025 02:38:49 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-Mar-2025 02:38:49 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[15-Mar-2025 02:39:03 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-Mar-2025 02:39:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-Mar-2025 02:39:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-Mar-2025 02:39:40 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[15-Mar-2025 02:39:40 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[15-Mar-2025 02:39:40 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[15-Mar-2025 02:39:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[15-Mar-2025 02:40:02 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[15-Mar-2025 02:40:02 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[15-Mar-2025 02:40:02 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[15-Mar-2025 02:40:02 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[15-Mar-2025 02:40:02 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[15-Mar-2025 02:40:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[15-Mar-2025 19:50:43 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-Mar-2025 21:42:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-Mar-2025 22:26:38 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-Mar-2025 22:26:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[16-Mar-2025 01:45:03 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[16-Mar-2025 01:45:03 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[16-Mar-2025 01:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[18-Mar-2025 01:12:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[08-Apr-2025 02:01:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[08-Apr-2025 02:01:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[08-Apr-2025 02:01:35 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[08-Apr-2025 02:01:35 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[08-Apr-2025 02:01:39 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[08-Apr-2025 02:01:39 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[08-Apr-2025 02:01:39 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[08-Apr-2025 02:01:39 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[08-Apr-2025 02:01:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[08-Apr-2025 02:01:39 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[08-Apr-2025 02:01:43 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[08-Apr-2025 02:01:47 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[08-Apr-2025 02:01:47 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[08-Apr-2025 02:01:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[08-Apr-2025 02:01:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[08-Apr-2025 02:01:55 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-Apr-2025 02:01:55 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-Apr-2025 02:01:55 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-Apr-2025 02:01:55 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[08-Apr-2025 02:01:59 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[08-Apr-2025 02:01:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[17-Apr-2025 17:42:38 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[17-Apr-2025 17:42:38 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[17-Apr-2025 17:42:38 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[17-Apr-2025 17:42:38 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[18-Apr-2025 19:13:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[18-Apr-2025 19:13:15 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[18-Apr-2025 19:13:15 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[18-Apr-2025 19:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[18-Apr-2025 19:13:28 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[18-Apr-2025 19:13:28 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[18-Apr-2025 19:13:28 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[18-Apr-2025 19:13:28 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[18-Apr-2025 19:13:46 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[18-Apr-2025 19:13:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[18-Apr-2025 19:14:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[18-Apr-2025 19:14:15 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[18-Apr-2025 19:14:15 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[18-Apr-2025 19:14:15 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[18-Apr-2025 19:14:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[18-Apr-2025 19:14:25 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[18-Apr-2025 19:14:25 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[18-Apr-2025 19:14:25 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[18-Apr-2025 19:14:25 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[18-Apr-2025 19:14:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[18-Apr-2025 19:14:25 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[30-Apr-2025 07:52:48 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[30-Apr-2025 07:52:48 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[30-Apr-2025 07:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[30-Apr-2025 07:55:09 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[30-Apr-2025 07:55:09 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[30-Apr-2025 07:55:09 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[30-Apr-2025 07:55:09 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[30-Apr-2025 07:56:28 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[30-Apr-2025 07:56:28 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[30-Apr-2025 07:56:28 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[30-Apr-2025 07:56:28 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[30-Apr-2025 07:56:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[30-Apr-2025 07:56:28 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[30-Apr-2025 07:56:29 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[30-Apr-2025 07:57:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[30-Apr-2025 08:00:05 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[30-Apr-2025 08:00:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[30-Apr-2025 08:03:38 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[30-Apr-2025 08:03:38 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[30-Apr-2025 08:03:38 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[30-Apr-2025 08:03:38 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[05-May-2025 08:23:33 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[05-May-2025 08:23:33 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[05-May-2025 08:23:33 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[05-May-2025 08:23:33 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[05-May-2025 08:23:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[05-May-2025 08:23:33 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[05-May-2025 09:46:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-May-2025 14:03:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[05-May-2025 14:03:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-May-2025 14:03:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[05-May-2025 14:03:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[05-May-2025 14:03:16 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[05-May-2025 14:03:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[05-May-2025 16:00:20 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[05-May-2025 16:00:20 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[05-May-2025 16:00:20 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[05-May-2025 16:00:20 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[05-May-2025 21:04:49 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[05-May-2025 21:04:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[05-May-2025 22:11:56 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-May-2025 22:11:56 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-May-2025 22:11:56 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-May-2025 22:11:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[05-May-2025 22:36:00 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[05-May-2025 22:36:00 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[05-May-2025 22:36:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[08-May-2025 21:33:06 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[08-May-2025 21:33:06 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[08-May-2025 21:33:06 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[08-May-2025 21:33:06 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[08-May-2025 21:33:06 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[08-May-2025 21:33:06 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[08-May-2025 21:33:06 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[08-May-2025 21:33:06 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[08-May-2025 21:33:26 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[08-May-2025 21:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[08-May-2025 21:33:26 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[08-May-2025 21:33:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[08-May-2025 21:33:38 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-May-2025 21:33:38 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-May-2025 21:33:38 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-May-2025 21:33:38 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[08-May-2025 21:33:39 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-May-2025 21:33:39 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-May-2025 21:33:39 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[08-May-2025 21:33:39 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[08-May-2025 21:33:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[08-May-2025 21:33:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[08-May-2025 21:34:07 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[08-May-2025 21:34:07 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[08-May-2025 21:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[08-May-2025 21:34:07 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[08-May-2025 21:34:07 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[08-May-2025 21:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[08-May-2025 21:34:34 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[08-May-2025 21:34:34 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[08-May-2025 21:34:34 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[08-May-2025 21:34:34 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[08-May-2025 21:34:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[08-May-2025 21:34:34 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[08-May-2025 21:34:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[08-May-2025 21:34:35 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[08-May-2025 21:34:35 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[08-May-2025 21:34:35 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[08-May-2025 21:34:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[08-May-2025 21:34:35 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[08-May-2025 21:47:23 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[08-May-2025 21:47:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[10-May-2025 09:46:51 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-May-2025 09:46:51 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-May-2025 09:46:51 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-May-2025 09:46:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[10-May-2025 11:41:45 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-May-2025 11:41:45 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-May-2025 11:41:45 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[10-May-2025 11:41:45 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-May-2025 11:41:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-May-2025 11:41:45 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[12-May-2025 13:21:34 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[12-May-2025 13:21:34 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[12-May-2025 13:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[12-May-2025 13:24:58 UTC] PHP Notice:  Undefined variable: exceptionMessage in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[12-May-2025 13:24:58 UTC] PHP Notice:  Undefined variable: statusCode in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[12-May-2025 13:24:58 UTC] PHP Notice:  Undefined variable: statusText in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[12-May-2025 13:24:58 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[12-May-2025 13:26:01 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-May-2025 13:27:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: prefix in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: i in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[12-May-2025 13:27:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: style in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[12-May-2025 13:27:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[12-May-2025 13:27:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[12-May-2025 13:27:06 UTC] PHP Notice:  Undefined variable: trace in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[12-May-2025 13:27:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[12-May-2025 13:27:07 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[12-May-2025 13:27:07 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[12-May-2025 13:27:07 UTC] PHP Notice:  Undefined variable: numExceptions in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[12-May-2025 13:27:07 UTC] PHP Notice:  Undefined variable: exception in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[12-May-2025 13:27:07 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[12-May-2025 13:27:07 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[12-May-2025 13:33:27 UTC] PHP Notice:  Undefined variable: logs in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[12-May-2025 13:33:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[12-May-2025 13:35:31 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[12-May-2025 13:35:31 UTC] PHP Notice:  Undefined variable: index in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[12-May-2025 13:35:31 UTC] PHP Notice:  Undefined variable: expand in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[12-May-2025 13:35:31 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5

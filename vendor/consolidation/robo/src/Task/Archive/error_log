@@ -1,0 +1,176 @@
+[08-Jun-2024 05:55:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[08-Jun-2024 06:33:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[13-Jun-2024 14:24:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[13-Jun-2024 14:24:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[13-Jul-2024 13:57:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[14-Jul-2024 01:28:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[05-Aug-2024 06:15:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[05-Aug-2024 06:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[10-Aug-2024 10:05:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[10-Aug-2024 10:05:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[30-Aug-2024 00:24:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[30-Aug-2024 04:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[07-Sep-2024 01:28:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[07-Sep-2024 03:57:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[13-Sep-2024 00:55:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[13-Sep-2024 04:01:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[19-Sep-2024 13:46:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[19-Sep-2024 13:46:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[27-Sep-2024 15:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[13-Nov-2024 12:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[18-Nov-2024 18:28:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[21-Nov-2024 13:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[21-Nov-2024 13:46:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[19-Dec-2024 17:46:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[03-Jan-2025 17:04:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[10-Jan-2025 05:48:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[11-Jan-2025 22:33:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[11-Jan-2025 22:33:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[15-Jan-2025 19:38:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[29-Jan-2025 12:28:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[29-Jan-2025 12:28:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[14-Feb-2025 03:10:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[10-Mar-2025 11:46:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[13-Mar-2025 18:51:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[13-Mar-2025 19:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[15-Mar-2025 22:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[18-Mar-2025 00:56:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[26-Mar-2025 12:00:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[26-Mar-2025 12:00:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[08-Apr-2025 04:52:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[08-Apr-2025 04:52:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[08-May-2025 05:45:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Pack.php on line 25
+[08-May-2025 16:26:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34
+[12-May-2025 23:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Archive/Extract.php on line 34

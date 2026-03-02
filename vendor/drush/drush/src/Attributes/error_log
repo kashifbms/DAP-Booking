@@ -1,0 +1,857 @@
+[17-Nov-2024 17:30:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[20-Nov-2024 00:39:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[20-Nov-2024 04:12:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[20-Nov-2024 06:34:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[20-Nov-2024 06:42:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[20-Nov-2024 07:09:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[20-Nov-2024 09:01:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[22-Nov-2024 07:44:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[22-Nov-2024 07:46:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[22-Nov-2024 07:46:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[24-Nov-2024 13:22:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[02-Dec-2024 11:37:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[17-Dec-2024 14:07:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[19-Dec-2024 02:02:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[19-Dec-2024 02:03:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[19-Dec-2024 02:09:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[19-Dec-2024 02:09:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[19-Dec-2024 02:10:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[19-Dec-2024 02:11:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[19-Dec-2024 02:11:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[19-Dec-2024 02:13:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[19-Dec-2024 02:13:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[19-Dec-2024 02:14:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[19-Dec-2024 02:15:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[19-Dec-2024 02:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[19-Dec-2024 02:16:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[19-Dec-2024 02:17:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[19-Dec-2024 02:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[19-Dec-2024 02:19:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[19-Dec-2024 02:19:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[19-Dec-2024 02:22:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[19-Dec-2024 02:23:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[19-Dec-2024 02:25:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[19-Dec-2024 02:26:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[19-Dec-2024 02:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[19-Dec-2024 03:46:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[19-Dec-2024 04:47:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[19-Dec-2024 05:14:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[19-Dec-2024 05:23:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[19-Dec-2024 15:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[20-Dec-2024 11:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[21-Dec-2024 08:55:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[21-Dec-2024 10:48:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[21-Dec-2024 10:48:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[21-Dec-2024 14:20:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[23-Dec-2024 19:47:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[23-Dec-2024 19:47:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[23-Dec-2024 19:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[23-Dec-2024 19:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[23-Dec-2024 19:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[23-Dec-2024 19:49:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[23-Dec-2024 19:50:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[23-Dec-2024 19:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[25-Dec-2024 01:15:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[25-Dec-2024 01:15:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[25-Dec-2024 01:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[25-Dec-2024 01:15:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[25-Dec-2024 01:15:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[25-Dec-2024 01:15:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[25-Dec-2024 01:15:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[25-Dec-2024 01:15:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[25-Dec-2024 01:15:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[25-Dec-2024 01:15:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[25-Dec-2024 01:15:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[25-Dec-2024 01:15:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[25-Dec-2024 01:15:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[25-Dec-2024 01:15:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[25-Dec-2024 01:15:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[25-Dec-2024 01:15:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[25-Dec-2024 01:15:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[25-Dec-2024 01:15:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[25-Dec-2024 01:15:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[25-Dec-2024 01:15:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[25-Dec-2024 01:15:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[25-Dec-2024 01:15:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[25-Dec-2024 01:15:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[25-Dec-2024 01:15:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[25-Dec-2024 01:15:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[25-Dec-2024 01:15:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[27-Dec-2024 16:27:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[28-Dec-2024 13:26:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[28-Dec-2024 16:23:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[29-Dec-2024 11:27:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[02-Jan-2025 21:37:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[04-Feb-2025 20:01:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[05-Feb-2025 05:19:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[05-Feb-2025 09:49:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[05-Feb-2025 10:42:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[05-Feb-2025 18:00:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[06-Feb-2025 01:35:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[06-Feb-2025 02:20:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[06-Feb-2025 06:08:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[06-Feb-2025 06:46:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[06-Feb-2025 06:54:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[06-Feb-2025 09:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[06-Feb-2025 09:56:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[06-Feb-2025 14:37:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[06-Feb-2025 19:11:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[06-Feb-2025 22:46:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[06-Feb-2025 23:08:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[07-Feb-2025 00:06:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[07-Feb-2025 00:53:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[07-Feb-2025 02:27:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[07-Feb-2025 03:15:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[07-Feb-2025 08:16:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[07-Feb-2025 08:48:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[07-Feb-2025 09:45:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[07-Feb-2025 12:10:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[07-Feb-2025 13:54:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[07-Feb-2025 18:39:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[07-Feb-2025 18:39:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[07-Feb-2025 20:22:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[07-Feb-2025 22:00:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[07-Feb-2025 23:36:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[08-Feb-2025 00:47:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[08-Feb-2025 03:39:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[08-Feb-2025 07:04:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[15-Feb-2025 20:27:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[17-Feb-2025 18:56:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[20-Feb-2025 04:45:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[20-Feb-2025 04:49:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[20-Feb-2025 11:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[20-Feb-2025 11:52:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[20-Feb-2025 11:52:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[20-Feb-2025 11:52:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[20-Feb-2025 11:52:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[20-Feb-2025 11:52:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[20-Feb-2025 11:52:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[20-Feb-2025 11:52:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[20-Feb-2025 11:52:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[20-Feb-2025 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[20-Feb-2025 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[20-Feb-2025 11:52:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[20-Feb-2025 11:52:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[20-Feb-2025 11:52:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[20-Feb-2025 11:52:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[20-Feb-2025 11:52:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[20-Feb-2025 11:52:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[20-Feb-2025 11:52:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[20-Feb-2025 11:52:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[20-Feb-2025 11:52:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[20-Feb-2025 11:52:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[20-Feb-2025 11:52:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[20-Feb-2025 11:52:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[20-Feb-2025 11:52:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[20-Feb-2025 11:52:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[20-Feb-2025 11:52:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[10-Mar-2025 03:09:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[10-Mar-2025 03:09:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[10-Mar-2025 03:09:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[10-Mar-2025 03:09:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[10-Mar-2025 03:09:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[10-Mar-2025 03:09:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[10-Mar-2025 03:09:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[10-Mar-2025 03:09:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[10-Mar-2025 03:09:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[10-Mar-2025 03:09:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[10-Mar-2025 03:09:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[21-Mar-2025 08:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[21-Mar-2025 08:54:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[21-Mar-2025 08:54:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[21-Mar-2025 08:54:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[21-Mar-2025 08:55:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[21-Mar-2025 08:55:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[21-Mar-2025 08:55:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[21-Mar-2025 08:55:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[21-Mar-2025 08:56:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[21-Mar-2025 08:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[21-Mar-2025 08:56:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[21-Mar-2025 08:56:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[21-Mar-2025 08:56:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[21-Mar-2025 08:57:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[21-Mar-2025 08:57:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[21-Mar-2025 08:58:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[21-Mar-2025 08:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[21-Mar-2025 08:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[21-Mar-2025 09:00:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[21-Mar-2025 09:00:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[21-Mar-2025 09:00:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[21-Mar-2025 09:00:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[21-Mar-2025 09:00:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[21-Mar-2025 09:01:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[21-Mar-2025 09:01:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[21-Mar-2025 09:01:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[08-Apr-2025 08:20:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[08-Apr-2025 08:37:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[08-Apr-2025 08:53:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[08-Apr-2025 11:00:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[08-Apr-2025 11:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[08-Apr-2025 12:41:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[19-Apr-2025 19:02:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[19-Apr-2025 19:02:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[19-Apr-2025 19:02:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[19-Apr-2025 19:02:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[19-Apr-2025 19:02:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[19-Apr-2025 19:03:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[19-Apr-2025 19:03:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[19-Apr-2025 19:04:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[19-Apr-2025 19:04:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[19-Apr-2025 19:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[19-Apr-2025 19:04:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[19-Apr-2025 19:05:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[19-Apr-2025 19:05:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[19-Apr-2025 19:05:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[19-Apr-2025 19:07:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[19-Apr-2025 19:07:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[19-Apr-2025 19:07:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[19-Apr-2025 19:07:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[19-Apr-2025 19:08:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[19-Apr-2025 19:08:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[19-Apr-2025 19:09:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[19-Apr-2025 19:09:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[19-Apr-2025 19:10:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[19-Apr-2025 20:57:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[19-Apr-2025 20:58:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[07-May-2025 03:46:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[07-May-2025 04:05:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[07-May-2025 04:05:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[07-May-2025 04:37:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[07-May-2025 06:43:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[07-May-2025 08:21:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[07-May-2025 08:38:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[07-May-2025 09:33:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[07-May-2025 09:48:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[07-May-2025 10:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[07-May-2025 11:07:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[07-May-2025 11:07:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[07-May-2025 11:32:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[07-May-2025 11:52:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[07-May-2025 12:07:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[07-May-2025 12:36:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[07-May-2025 13:11:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[07-May-2025 13:11:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[07-May-2025 14:34:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[07-May-2025 15:33:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[07-May-2025 16:28:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[07-May-2025 16:29:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[07-May-2025 18:43:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[07-May-2025 19:38:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[07-May-2025 22:50:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[07-May-2025 23:13:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[08-May-2025 21:06:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[08-May-2025 21:06:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FieldLabels' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FieldLabels.php on line 10
+[08-May-2025 21:06:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[08-May-2025 21:06:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[08-May-2025 21:07:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[08-May-2025 21:07:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateModulesEnabled.php on line 19
+[08-May-2025 21:07:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[08-May-2025 21:07:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[08-May-2025 21:08:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[08-May-2025 21:08:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[08-May-2025 21:10:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[08-May-2025 21:10:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[08-May-2025 21:11:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[08-May-2025 21:11:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[08-May-2025 21:11:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[08-May-2025 21:11:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[08-May-2025 21:12:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[08-May-2025 21:12:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePermissions.php on line 20
+[08-May-2025 21:14:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[08-May-2025 21:14:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[08-May-2025 21:18:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[08-May-2025 21:18:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\HookSelector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HookSelector.php on line 11
+[08-May-2025 21:18:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[08-May-2025 21:18:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[08-May-2025 21:19:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[08-May-2025 21:19:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[08-May-2025 21:20:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[08-May-2025 21:20:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/InteractConfigName.php on line 19
+[08-May-2025 21:23:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[08-May-2025 21:23:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[08-May-2025 21:27:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[08-May-2025 21:27:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[08-May-2025 21:27:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[08-May-2025 21:27:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[08-May-2025 21:31:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[08-May-2025 21:31:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[08-May-2025 21:32:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[08-May-2025 21:32:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[08-May-2025 21:35:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[08-May-2025 21:35:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[08-May-2025 21:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[08-May-2025 21:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[08-May-2025 21:36:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[08-May-2025 21:36:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[08-May-2025 21:36:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[08-May-2025 21:36:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[08-May-2025 21:36:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[08-May-2025 21:36:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[08-May-2025 21:37:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[08-May-2025 21:37:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23
+[08-May-2025 21:41:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[08-May-2025 21:41:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[09-May-2025 12:54:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidatePhpExtensions.php on line 19
+[09-May-2025 16:34:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Usage' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Usage.php on line 10
+[10-May-2025 11:06:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/HandleRemoteCommands.php on line 10
+[10-May-2025 11:06:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Topics' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Topics.php on line 10
+[10-May-2025 12:51:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Option' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Option.php on line 10
+[10-May-2025 14:21:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateQueueName.php on line 19
+[10-May-2025 16:06:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateFileExists.php on line 19
+[11-May-2025 06:07:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Hook' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Hook.php on line 10
+[11-May-2025 11:21:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Bootstrap.php on line 23
+[11-May-2025 19:09:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Version.php on line 18
+[12-May-2025 04:05:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Command.php on line 10
+[12-May-2025 05:06:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultFields.php on line 10
+[12-May-2025 09:44:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateEntityLoad.php on line 22
+[12-May-2025 10:32:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/ValidateConfigName.php on line 19
+[12-May-2025 13:19:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\DefaultTableFields' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/DefaultTableFields.php on line 10
+[12-May-2025 14:13:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Help' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Help.php on line 10
+[12-May-2025 19:17:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\FilterDefaultField' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/FilterDefaultField.php on line 10
+[13-May-2025 05:28:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Attributes\NoArgumentsBase' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Obsolete.php on line 15
+[13-May-2025 06:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Argument' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Argument.php on line 10
+[13-May-2025 08:03:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\AnnotatedCommand\Attributes\Complete' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Complete.php on line 10
+[13-May-2025 08:50:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Attributes/Format.php on line 23

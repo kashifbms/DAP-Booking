@@ -1,0 +1,35 @@
+{# File: templates/product-display.html.twig #}
+
+{# Check if the form is available #}
+{% if form %}
+  <div class="filter-form">
+    {{ form }}
+  </div>
+{% endif %}
+
+{# Check if filtered products are available #}
+{% if products %}
+ 
+  {% for product in products %}
+    <div class="product-display">
+      <h2>{{ product.title }}</h2>
+      <div class="product-image">
+        {{ product.image }}
+      </div>
+      <div class="product-body">
+        {{ product.body }}
+      </div>
+      <div class="product-quantity">
+        Available Quantity: {{ product.quantity }}
+       
+        <input type="number" name= "quntity{{product.product_id}}" min ="1" class = "quantityProduct">
+ 
+      </div>
+      <div class="add-to-cart">
+         <a href="add/product/{{ product.product_id}}" id="quntity{{product.product_id}}">Add to Cart</a>
+      </div>
+    </div>
+  {% endfor %}
+{% else %}
+  <p>No products found111.</p>
+{% endif %}

@@ -1,0 +1,642 @@
+[07-Nov-2024 12:52:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[07-Nov-2024 12:58:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[07-Nov-2024 13:00:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[08-Nov-2024 02:46:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[08-Nov-2024 05:13:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[08-Nov-2024 08:55:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[08-Nov-2024 09:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[08-Nov-2024 12:21:46 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[08-Nov-2024 18:36:17 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[13-Nov-2024 06:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[19-Nov-2024 02:12:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[19-Nov-2024 02:16:54 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[19-Nov-2024 02:29:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[19-Nov-2024 06:27:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[19-Nov-2024 06:27:29 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[19-Nov-2024 06:27:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[19-Nov-2024 06:27:31 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[19-Nov-2024 06:27:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[19-Nov-2024 06:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[21-Nov-2024 10:28:11 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[21-Nov-2024 10:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[21-Nov-2024 10:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[21-Nov-2024 10:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[21-Nov-2024 10:29:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[21-Nov-2024 10:29:12 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[23-Nov-2024 22:46:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[23-Nov-2024 22:57:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[24-Nov-2024 19:54:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[25-Nov-2024 15:22:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[25-Nov-2024 15:27:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[25-Nov-2024 15:36:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[25-Nov-2024 15:49:54 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[26-Nov-2024 11:01:44 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[28-Nov-2024 19:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[29-Nov-2024 14:41:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[29-Nov-2024 14:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[29-Nov-2024 15:10:14 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[01-Dec-2024 05:16:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[01-Dec-2024 05:18:43 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[01-Dec-2024 05:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[01-Dec-2024 05:43:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[03-Dec-2024 15:00:31 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[03-Dec-2024 15:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[08-Dec-2024 01:47:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[08-Dec-2024 02:01:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[17-Dec-2024 21:01:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[19-Dec-2024 11:58:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[21-Dec-2024 13:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[21-Dec-2024 13:47:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[30-Dec-2024 15:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[30-Dec-2024 16:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[30-Dec-2024 16:09:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[07-Jan-2025 02:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[07-Jan-2025 02:54:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[07-Jan-2025 02:55:14 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[10-Jan-2025 06:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[10-Jan-2025 08:02:49 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[10-Jan-2025 11:53:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[10-Jan-2025 13:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[10-Jan-2025 13:54:28 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[10-Jan-2025 15:32:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[22-Jan-2025 19:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[24-Jan-2025 11:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[26-Jan-2025 02:59:35 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[26-Jan-2025 03:03:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[26-Jan-2025 17:00:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[26-Jan-2025 17:00:15 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[26-Jan-2025 17:00:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[26-Jan-2025 17:00:16 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[26-Jan-2025 17:00:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[26-Jan-2025 17:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[27-Jan-2025 07:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[27-Jan-2025 16:46:57 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[28-Jan-2025 07:43:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[28-Jan-2025 09:12:53 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[28-Jan-2025 10:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[29-Jan-2025 08:06:36 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[29-Jan-2025 08:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[29-Jan-2025 08:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[29-Jan-2025 08:06:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[29-Jan-2025 08:06:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[29-Jan-2025 08:07:00 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[29-Jan-2025 08:51:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[01-Feb-2025 19:25:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[03-Feb-2025 04:36:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[08-Feb-2025 02:21:30 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[13-Feb-2025 03:37:31 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[13-Feb-2025 04:03:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[13-Feb-2025 04:12:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[13-Feb-2025 04:12:25 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[13-Feb-2025 04:19:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[13-Feb-2025 05:32:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[13-Feb-2025 05:51:01 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[13-Feb-2025 06:24:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[13-Feb-2025 06:47:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[13-Feb-2025 12:01:34 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[14-Feb-2025 06:55:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[14-Feb-2025 10:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[15-Feb-2025 06:56:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[15-Feb-2025 14:01:36 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[15-Feb-2025 16:08:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[15-Feb-2025 16:09:19 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[16-Feb-2025 08:31:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[16-Feb-2025 12:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[16-Feb-2025 13:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[21-Feb-2025 18:47:00 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[21-Feb-2025 18:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[21-Feb-2025 19:08:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[21-Feb-2025 19:12:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[22-Feb-2025 22:52:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[22-Feb-2025 22:52:42 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[22-Feb-2025 22:52:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[22-Feb-2025 22:53:23 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[22-Feb-2025 22:53:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[22-Feb-2025 22:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[24-Feb-2025 16:34:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[24-Feb-2025 16:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[24-Feb-2025 16:37:02 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[24-Feb-2025 16:41:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[24-Feb-2025 16:41:25 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[24-Feb-2025 16:41:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[24-Feb-2025 16:49:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[24-Feb-2025 17:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[25-Feb-2025 01:54:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[28-Feb-2025 04:39:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[06-Mar-2025 14:00:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[06-Mar-2025 14:00:39 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[06-Mar-2025 14:00:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[06-Mar-2025 14:01:23 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[06-Mar-2025 14:01:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[06-Mar-2025 14:02:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[10-Mar-2025 07:50:31 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[10-Mar-2025 10:45:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[10-Mar-2025 11:30:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[10-Mar-2025 12:35:42 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[10-Mar-2025 13:58:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[10-Mar-2025 17:22:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[13-Mar-2025 17:39:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[13-Mar-2025 18:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[13-Mar-2025 19:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[13-Mar-2025 19:26:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[13-Mar-2025 19:30:23 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[14-Mar-2025 00:08:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[14-Mar-2025 06:25:37 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[14-Mar-2025 14:37:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[14-Mar-2025 14:37:41 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[14-Mar-2025 14:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[14-Mar-2025 14:38:40 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[14-Mar-2025 14:39:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[14-Mar-2025 14:39:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[17-Mar-2025 04:31:41 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[17-Mar-2025 23:00:39 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[07-Apr-2025 23:09:14 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[07-Apr-2025 23:09:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[07-Apr-2025 23:09:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[07-Apr-2025 23:09:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[07-Apr-2025 23:09:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[07-Apr-2025 23:10:02 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[17-Apr-2025 11:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[17-Apr-2025 11:27:21 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[17-Apr-2025 11:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[17-Apr-2025 11:27:59 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[17-Apr-2025 11:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[17-Apr-2025 11:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[30-Apr-2025 00:05:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[30-Apr-2025 01:26:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[30-Apr-2025 01:27:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[30-Apr-2025 01:27:39 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[30-Apr-2025 01:29:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[30-Apr-2025 01:34:30 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[30-Apr-2025 01:40:07 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[30-Apr-2025 01:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[30-Apr-2025 03:22:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[02-May-2025 06:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[02-May-2025 16:24:12 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[03-May-2025 03:33:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[03-May-2025 03:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[03-May-2025 07:15:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[03-May-2025 10:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[03-May-2025 14:01:28 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[03-May-2025 18:30:36 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[04-May-2025 10:29:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[05-May-2025 16:15:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[08-May-2025 20:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[08-May-2025 20:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[08-May-2025 20:21:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[08-May-2025 20:21:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[08-May-2025 20:29:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[08-May-2025 20:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[08-May-2025 20:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[08-May-2025 20:30:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[08-May-2025 20:33:11 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[08-May-2025 20:33:12 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[08-May-2025 20:34:34 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[08-May-2025 20:34:35 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[10-May-2025 02:18:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16
+[10-May-2025 02:56:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[10-May-2025 03:10:15 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[10-May-2025 07:01:26 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[10-May-2025 11:13:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[10-May-2025 11:27:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[11-May-2025 14:14:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[11-May-2025 14:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[11-May-2025 14:15:36 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/HttpKernel.php on line 281
+[11-May-2025 14:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[11-May-2025 14:26:00 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Kernel.php on line 436
+[11-May-2025 15:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/UriSigner.php on line 16

@@ -1,0 +1,64 @@
+[29-Dec-2024 10:37:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[05-Feb-2025 08:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[09-Feb-2025 03:38:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[09-Feb-2025 03:42:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[11-Feb-2025 06:30:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[13-Feb-2025 01:50:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[14-Feb-2025 01:08:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[24-Feb-2025 17:06:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[27-Feb-2025 02:23:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[10-Mar-2025 03:10:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[05-Apr-2025 05:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[11-Apr-2025 02:57:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[08-May-2025 06:01:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[08-May-2025 21:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[08-May-2025 21:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20
+[11-May-2025 09:32:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Image/ImageProcessor.php on line 20

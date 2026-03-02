@@ -1,0 +1,238 @@
+[13-Nov-2024 10:46:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[18-Nov-2024 03:10:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[18-Nov-2024 03:46:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[18-Nov-2024 12:14:41 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[21-Nov-2024 12:50:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[21-Nov-2024 12:50:55 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[21-Nov-2024 12:51:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[21-Nov-2024 12:51:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[12-Dec-2024 06:47:07 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[20-Dec-2024 19:51:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[10-Jan-2025 11:13:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[15-Jan-2025 17:22:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[15-Jan-2025 20:35:13 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[15-Jan-2025 21:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[26-Jan-2025 17:00:54 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[26-Jan-2025 17:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[26-Jan-2025 17:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[26-Jan-2025 17:00:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[29-Jan-2025 10:35:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[29-Jan-2025 10:35:06 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[29-Jan-2025 10:35:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[30-Jan-2025 05:18:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[08-Feb-2025 12:09:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[08-Feb-2025 16:21:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[13-Feb-2025 21:34:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[15-Feb-2025 19:20:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[15-Feb-2025 19:22:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[15-Feb-2025 20:40:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[16-Feb-2025 02:44:48 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[16-Feb-2025 02:57:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[16-Feb-2025 03:35:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[16-Feb-2025 08:39:03 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[16-Feb-2025 08:39:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[18-Feb-2025 01:03:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[18-Feb-2025 01:16:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[18-Feb-2025 08:40:35 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[18-Feb-2025 08:44:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[10-Mar-2025 13:43:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[13-Mar-2025 17:50:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[13-Mar-2025 18:04:37 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[13-Mar-2025 19:28:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[13-Mar-2025 20:18:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[15-Mar-2025 15:34:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[15-Mar-2025 17:40:54 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[16-Mar-2025 02:58:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[17-Mar-2025 20:44:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[28-Mar-2025 21:54:42 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[28-Mar-2025 21:54:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[28-Mar-2025 21:54:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[28-Mar-2025 21:54:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[08-Apr-2025 03:11:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[08-Apr-2025 03:11:17 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[08-Apr-2025 03:11:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[08-Apr-2025 03:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[30-Apr-2025 10:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[30-Apr-2025 11:05:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[30-Apr-2025 11:07:06 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[07-May-2025 05:11:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[07-May-2025 16:39:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[07-May-2025 18:23:02 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[08-May-2025 00:24:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[08-May-2025 22:04:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[08-May-2025 22:04:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/LoginAuthenticator.php on line 21
+[08-May-2025 22:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[08-May-2025 22:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[08-May-2025 22:04:04 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[08-May-2025 22:04:05 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44
+[08-May-2025 22:04:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[08-May-2025 22:04:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[10-May-2025 00:39:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[12-May-2025 17:56:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/PlainAuthenticator.php on line 21
+[12-May-2025 17:56:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mailer\Transport\Smtp\Auth\AuthenticatorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/XOAuth2Authenticator.php on line 23
+[12-May-2025 17:57:07 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/mailer/Transport/Smtp/Auth/CramMd5Authenticator.php on line 44

@@ -1,0 +1,41 @@
+[05-Dec-2024 23:29:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php on line 15
+[11-Dec-2024 16:21:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushCommandFile.php on line 14
+[12-Dec-2024 02:55:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushCommandFile.php on line 14
+[20-Dec-2024 13:05:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushAliasFile.php on line 14
+[20-Dec-2024 14:37:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushCommandFile.php on line 14
+[20-Dec-2024 14:53:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php on line 15
+[20-Dec-2024 14:58:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushAliasFile.php on line 14
+[20-Dec-2024 15:52:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php on line 15
+[20-Dec-2024 17:46:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushAliasFile.php on line 14
+[21-Dec-2024 07:55:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushCommandFile.php on line 14
+[22-Dec-2024 21:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php on line 15
+[23-Dec-2024 18:21:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushCommandFile.php on line 14
+[28-Mar-2025 17:16:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php on line 15
+[28-Mar-2025 17:16:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushAliasFile.php on line 14
+[28-Mar-2025 17:16:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/ge[05-May-2025 16:34:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php on line 15
+[05-May-2025 16:34:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushAliasFile.php on line 14
+[05-May-2025 16:34:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushCommandFile.php on line 14
+[10-May-2025 04:39:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/ComposerJsonResolver.php on line 15
+[10-May-2025 07:46:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushCommandFile.php on line 14
+[10-May-2025 12:41:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/generate/Generators/Drush/DrushAliasFile.php on line 14

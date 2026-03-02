@@ -1,0 +1,6 @@
+services:
+  dreamland_event.event_subscriber:
+    class: Drupal\dreamland_event\EventSubscriber\OrderCompleteEvent
+    arguments: ["@entity_type.manager", "@plugin.manager.mail", "@file_system"]
+    tags:
+      - { name: event_subscriber }

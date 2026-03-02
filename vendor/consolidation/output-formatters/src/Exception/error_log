@@ -1,0 +1,156 @@
+[13-Nov-2024 20:47:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[13-Nov-2024 23:43:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[21-Nov-2024 12:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[21-Nov-2024 12:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[22-Dec-2024 10:43:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[22-Dec-2024 10:43:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[26-Dec-2024 16:44:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[10-Jan-2025 03:32:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[10-Jan-2025 07:10:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[29-Jan-2025 10:19:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[29-Jan-2025 10:19:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[08-Feb-2025 15:22:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[17-Feb-2025 16:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[17-Feb-2025 16:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[10-Mar-2025 03:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[10-Mar-2025 03:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[10-Mar-2025 05:55:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[10-Mar-2025 07:39:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[14-Mar-2025 05:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[14-Mar-2025 07:37:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[17-Mar-2025 21:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[18-Mar-2025 00:20:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[18-Mar-2025 06:31:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[18-Mar-2025 06:32:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[08-Apr-2025 02:02:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[08-Apr-2025 02:02:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[19-Apr-2025 16:06:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[19-Apr-2025 16:06:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[07-May-2025 06:15:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[07-May-2025 19:22:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[08-May-2025 21:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[08-May-2025 21:49:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[08-May-2025 21:49:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[08-May-2025 21:49:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[09-May-2025 22:44:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[10-May-2025 05:41:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10
+[12-May-2025 16:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[12-May-2025 18:10:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/InvalidFormatException.php on line 8
+[12-May-2025 18:10:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\Exception\AbstractDataFormatException' not found in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/output-formatters/src/Exception/IncompatibleDataException.php on line 10

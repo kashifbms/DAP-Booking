@@ -1,0 +1,142 @@
+[08-Nov-2024 04:35:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[08-Nov-2024 05:40:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[08-Nov-2024 06:46:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[08-Nov-2024 14:58:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[13-Nov-2024 05:57:57 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[16-Nov-2024 16:46:01 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[16-Nov-2024 16:46:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[16-Nov-2024 16:46:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[16-Nov-2024 16:46:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[21-Nov-2024 08:37:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[21-Nov-2024 08:37:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[21-Nov-2024 08:38:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[21-Nov-2024 08:38:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[01-Dec-2024 05:30:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[01-Dec-2024 05:44:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[01-Dec-2024 05:47:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[02-Dec-2024 19:45:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[07-Dec-2024 16:13:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[16-Dec-2024 06:51:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[17-Dec-2024 01:28:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[17-Dec-2024 03:12:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[21-Dec-2024 15:26:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[01-Jan-2025 06:38:17 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[01-Jan-2025 06:40:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[01-Jan-2025 15:23:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[07-Jan-2025 02:35:20 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[07-Jan-2025 02:58:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[10-Jan-2025 04:16:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[10-Jan-2025 05:14:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[10-Jan-2025 08:01:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[10-Jan-2025 12:35:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[10-Jan-2025 22:08:59 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[12-Jan-2025 00:26:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[19-Jan-2025 13:47:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[22-Jan-2025 00:28:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[22-Jan-2025 00:40:35 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[23-Jan-2025 16:39:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[23-Jan-2025 16:39:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[23-Jan-2025 16:39:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[26-Jan-2025 02:49:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[26-Jan-2025 02:53:05 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[26-Jan-2025 03:07:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[28-Jan-2025 13:45:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[29-Jan-2025 04:44:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[29-Jan-2025 04:44:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[29-Jan-2025 04:44:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[29-Jan-2025 04:44:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[29-Jan-2025 09:14:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[29-Jan-2025 09:17:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[30-Jan-2025 05:00:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[30-Jan-2025 05:08:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[01-Feb-2025 03:46:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[01-Feb-2025 03:46:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[01-Feb-2025 23:55:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[03-Feb-2025 04:32:36 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[04-Feb-2025 13:25:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[04-Feb-2025 13:25:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[12-Feb-2025 23:56:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[12-Feb-2025 23:58:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[13-Feb-2025 01:13:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[13-Feb-2025 03:19:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[13-Feb-2025 03:37:03 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[13-Feb-2025 04:08:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[13-Feb-2025 04:10:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[13-Feb-2025 07:07:46 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[15-Feb-2025 00:04:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[15-Feb-2025 00:06:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[15-Feb-2025 16:00:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[15-Feb-2025 16:03:34 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[17-Feb-2025 16:41:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[20-Feb-2025 23:57:33 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[20-Feb-2025 23:58:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[23-Feb-2025 17:14:12 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[23-Feb-2025 17:15:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[23-Feb-2025 17:19:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[23-Feb-2025 17:19:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[24-Feb-2025 16:30:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[24-Feb-2025 16:30:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[24-Feb-2025 16:34:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[24-Feb-2025 16:35:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[24-Feb-2025 16:40:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[06-Mar-2025 14:57:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[06-Mar-2025 14:57:36 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[06-Mar-2025 14:58:04 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[06-Mar-2025 14:58:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[10-Mar-2025 05:55:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[10-Mar-2025 10:07:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[10-Mar-2025 11:44:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[10-Mar-2025 12:44:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[13-Mar-2025 19:08:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[13-Mar-2025 19:15:49 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[14-Mar-2025 04:56:19 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[14-Mar-2025 14:45:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[14-Mar-2025 14:46:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[14-Mar-2025 14:47:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[14-Mar-2025 14:47:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[14-Mar-2025 19:19:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[17-Mar-2025 20:31:50 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[17-Mar-2025 21:36:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[17-Mar-2025 23:11:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[17-Mar-2025 23:29:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[21-Mar-2025 06:58:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[25-Mar-2025 01:59:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[28-Mar-2025 00:28:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[07-Apr-2025 22:25:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[07-Apr-2025 22:25:55 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[07-Apr-2025 22:26:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[07-Apr-2025 22:26:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[16-Apr-2025 21:42:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[16-Apr-2025 21:43:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[16-Apr-2025 21:43:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[16-Apr-2025 21:44:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[25-Apr-2025 02:38:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[30-Apr-2025 01:45:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[30-Apr-2025 01:48:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[30-Apr-2025 01:49:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[30-Apr-2025 01:58:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[03-May-2025 04:56:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[03-May-2025 09:52:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[03-May-2025 11:11:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[03-May-2025 21:15:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[04-May-2025 14:38:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[05-May-2025 07:19:07 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[07-May-2025 05:30:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[07-May-2025 05:30:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[08-May-2025 17:19:11 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[08-May-2025 20:16:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[08-May-2025 20:16:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[08-May-2025 20:21:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[08-May-2025 20:21:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[08-May-2025 20:24:05 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[08-May-2025 20:24:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[08-May-2025 20:31:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[08-May-2025 20:31:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[09-May-2025 22:09:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[10-May-2025 00:19:32 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238
+[10-May-2025 02:22:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[10-May-2025 11:32:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[11-May-2025 14:51:45 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/SingleCommandApplication.php on line 30
+[11-May-2025 14:52:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Terminal.php on line 207
+[11-May-2025 14:58:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Cursor.php on line 37
+[11-May-2025 15:11:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Application.php on line 238

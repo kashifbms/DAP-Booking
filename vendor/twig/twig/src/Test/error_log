@@ -1,0 +1,73 @@
+[07-Dec-2024 12:34:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[10-Dec-2024 09:55:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[18-Dec-2024 22:14:04 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[18-Dec-2024 22:14:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[20-Dec-2024 20:08:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[21-Dec-2024 14:17:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[21-Dec-2024 14:18:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[03-Jan-2025 16:14:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[03-Jan-2025 16:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[26-Jan-2025 00:07:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[26-Jan-2025 00:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[07-Feb-2025 00:15:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[07-Feb-2025 00:16:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[26-Feb-2025 00:10:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[26-Feb-2025 00:10:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[09-Mar-2025 16:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[14-Mar-2025 17:01:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[14-Mar-2025 17:01:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[17-Mar-2025 08:36:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[17-Mar-2025 08:36:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[18-Apr-2025 18:08:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[18-Apr-2025 18:08:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[07-May-2025 14:20:01 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[07-May-2025 17:06:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[08-May-2025 21:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[08-May-2025 21:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/NodeTestCase.php on line 22
+[08-May-2025 21:39:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112
+[08-May-2025 21:39:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/Test/IntegrationTestCase.php on line 112

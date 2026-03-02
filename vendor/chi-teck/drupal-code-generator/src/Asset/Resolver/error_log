@@ -1,0 +1,171 @@
+[13-Nov-2024 18:30:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[18-Nov-2024 07:19:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[18-Nov-2024 11:00:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[18-Nov-2024 11:43:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[18-Nov-2024 13:45:35 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[21-Nov-2024 13:29:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[21-Nov-2024 13:29:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[21-Nov-2024 13:30:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[21-Nov-2024 13:30:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[21-Nov-2024 13:30:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[27-Dec-2024 15:21:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[03-Jan-2025 03:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[07-Jan-2025 12:28:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[07-Jan-2025 12:28:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[07-Jan-2025 12:28:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[07-Jan-2025 12:28:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[07-Jan-2025 12:28:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[10-Jan-2025 10:06:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[15-Jan-2025 10:24:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[15-Jan-2025 13:14:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[15-Jan-2025 16:49:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[15-Jan-2025 22:25:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[29-Jan-2025 11:09:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[29-Jan-2025 11:09:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[29-Jan-2025 11:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[29-Jan-2025 11:09:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[29-Jan-2025 11:10:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[13-Feb-2025 19:13:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[14-Feb-2025 01:43:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[14-Feb-2025 07:09:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[10-Mar-2025 16:15:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[13-Mar-2025 17:51:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[13-Mar-2025 18:51:30 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[13-Mar-2025 19:10:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[13-Mar-2025 20:14:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[14-Mar-2025 08:56:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[15-Mar-2025 16:00:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[15-Mar-2025 18:54:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[15-Mar-2025 21:20:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[16-Mar-2025 02:28:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[17-Mar-2025 20:53:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[18-Mar-2025 01:48:24 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[18-Mar-2025 02:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[19-Mar-2025 16:13:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[19-Mar-2025 16:13:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[19-Mar-2025 16:13:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[19-Mar-2025 16:13:50 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[19-Mar-2025 16:13:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[08-Apr-2025 03:46:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[08-Apr-2025 03:46:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[08-Apr-2025 03:46:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[08-Apr-2025 03:47:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[08-Apr-2025 03:47:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[15-Apr-2025 22:11:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[15-Apr-2025 22:11:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[15-Apr-2025 22:11:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[15-Apr-2025 22:11:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[15-Apr-2025 22:12:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[08-May-2025 21:52:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[08-May-2025 21:52:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[08-May-2025 21:52:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[08-May-2025 21:52:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[08-May-2025 21:52:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[08-May-2025 21:52:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[08-May-2025 21:52:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[08-May-2025 21:52:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[08-May-2025 21:52:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[08-May-2025 21:52:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[09-May-2025 06:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PreserveResolver.php on line 9
+[09-May-2025 12:39:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10
+[09-May-2025 13:39:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[09-May-2025 17:33:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[09-May-2025 23:36:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[10-May-2025 08:04:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[13-May-2025 08:30:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ResolverDefinition.php on line 17
+[13-May-2025 08:47:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/ReplaceResolver.php on line 17
+[13-May-2025 08:48:48 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/AppendResolver.php on line 18
+[13-May-2025 08:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'DrupalCodeGenerator\Asset\Resolver\ResolverInterface' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Asset/Resolver/PrependResolver.php on line 10

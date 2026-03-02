@@ -1,0 +1,1784 @@
+[21-Nov-2024 14:22:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[21-Nov-2024 14:22:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[21-Nov-2024 14:22:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[21-Nov-2024 14:22:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[21-Nov-2024 14:23:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[21-Nov-2024 14:23:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[21-Nov-2024 14:23:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[21-Nov-2024 14:23:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[21-Nov-2024 14:23:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[21-Nov-2024 14:23:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[21-Nov-2024 14:23:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[21-Nov-2024 14:23:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[21-Nov-2024 14:23:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[21-Nov-2024 14:23:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[21-Nov-2024 14:23:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[21-Nov-2024 14:23:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[21-Nov-2024 14:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[21-Nov-2024 14:24:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[21-Nov-2024 14:24:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[21-Nov-2024 14:24:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[21-Nov-2024 14:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[21-Nov-2024 14:24:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[21-Nov-2024 14:24:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[21-Nov-2024 14:24:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[21-Nov-2024 14:24:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[21-Nov-2024 14:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[21-Nov-2024 14:24:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[22-Jan-2025 03:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[22-Jan-2025 03:03:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[22-Jan-2025 03:04:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[22-Jan-2025 03:05:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[22-Jan-2025 03:05:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[22-Jan-2025 03:06:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[22-Jan-2025 03:06:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[22-Jan-2025 03:07:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[22-Jan-2025 03:07:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[22-Jan-2025 03:08:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[22-Jan-2025 03:08:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[22-Jan-2025 03:09:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[22-Jan-2025 03:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[22-Jan-2025 03:10:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[22-Jan-2025 03:11:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[22-Jan-2025 03:11:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[22-Jan-2025 03:12:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[22-Jan-2025 03:12:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[22-Jan-2025 03:13:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[22-Jan-2025 03:13:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[22-Jan-2025 03:14:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[22-Jan-2025 03:14:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[22-Jan-2025 03:15:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[22-Jan-2025 03:16:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[22-Jan-2025 03:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[22-Jan-2025 03:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[22-Jan-2025 07:15:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[29-Jan-2025 11:43:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[29-Jan-2025 11:43:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[29-Jan-2025 11:43:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[29-Jan-2025 11:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[29-Jan-2025 11:43:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[29-Jan-2025 11:43:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[29-Jan-2025 11:43:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[29-Jan-2025 11:43:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[29-Jan-2025 11:43:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[29-Jan-2025 11:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[29-Jan-2025 11:44:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[29-Jan-2025 11:44:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[29-Jan-2025 11:44:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[29-Jan-2025 11:44:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[29-Jan-2025 11:44:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[29-Jan-2025 11:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[29-Jan-2025 11:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[29-Jan-2025 11:44:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[29-Jan-2025 11:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[29-Jan-2025 11:44:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[29-Jan-2025 11:44:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[29-Jan-2025 11:44:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[29-Jan-2025 11:45:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[29-Jan-2025 11:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[29-Jan-2025 11:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[29-Jan-2025 11:45:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[29-Jan-2025 11:45:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[04-Feb-2025 07:40:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[04-Feb-2025 07:41:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[04-Feb-2025 07:41:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[04-Feb-2025 07:42:03 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[04-Feb-2025 07:42:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[04-Feb-2025 07:43:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[04-Feb-2025 07:43:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[04-Feb-2025 07:44:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[04-Feb-2025 07:44:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[04-Feb-2025 07:44:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[04-Feb-2025 07:45:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[04-Feb-2025 07:45:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[04-Feb-2025 07:46:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[04-Feb-2025 07:46:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[04-Feb-2025 07:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[04-Feb-2025 07:47:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[04-Feb-2025 07:47:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[04-Feb-2025 07:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[04-Feb-2025 07:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[04-Feb-2025 07:48:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[04-Feb-2025 07:49:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[04-Feb-2025 07:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[04-Feb-2025 07:50:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[04-Feb-2025 07:50:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[04-Feb-2025 07:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[04-Feb-2025 07:51:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[04-Feb-2025 08:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[17-Feb-2025 23:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[17-Feb-2025 23:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[17-Feb-2025 23:33:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[17-Feb-2025 23:34:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[17-Feb-2025 23:34:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[18-Feb-2025 03:47:53 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[18-Feb-2025 03:49:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[18-Feb-2025 03:51:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[18-Feb-2025 03:53:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[18-Feb-2025 07:29:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[18-Feb-2025 07:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[18-Feb-2025 07:29:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[18-Feb-2025 07:30:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[18-Feb-2025 07:30:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[18-Feb-2025 07:31:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[18-Feb-2025 07:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[18-Feb-2025 07:32:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[18-Feb-2025 07:33:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[18-Feb-2025 07:33:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[18-Feb-2025 07:34:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[18-Feb-2025 07:34:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[18-Feb-2025 07:35:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[18-Feb-2025 07:36:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[18-Feb-2025 07:36:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[18-Feb-2025 07:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[18-Feb-2025 12:35:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[18-Feb-2025 12:35:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[24-Feb-2025 16:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[24-Feb-2025 16:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[24-Feb-2025 16:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[24-Feb-2025 16:59:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[24-Feb-2025 16:59:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[24-Feb-2025 16:59:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[24-Feb-2025 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[24-Feb-2025 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[24-Feb-2025 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[24-Feb-2025 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[24-Feb-2025 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[24-Feb-2025 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[24-Feb-2025 16:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[24-Feb-2025 16:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[24-Feb-2025 16:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[24-Feb-2025 16:59:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[24-Feb-2025 16:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[24-Feb-2025 16:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[24-Feb-2025 17:01:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[24-Feb-2025 17:01:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[24-Feb-2025 17:01:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[24-Feb-2025 17:02:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[24-Feb-2025 17:02:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[24-Feb-2025 17:03:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[24-Feb-2025 17:04:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[24-Feb-2025 17:04:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[24-Feb-2025 17:04:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[24-Feb-2025 17:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[24-Feb-2025 17:10:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[24-Feb-2025 17:12:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[24-Feb-2025 17:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[06-Mar-2025 04:47:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[06-Mar-2025 04:47:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[06-Mar-2025 04:47:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[06-Mar-2025 04:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[06-Mar-2025 05:01:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[06-Mar-2025 05:01:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[06-Mar-2025 05:01:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[06-Mar-2025 05:01:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[06-Mar-2025 05:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[06-Mar-2025 05:10:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[06-Mar-2025 05:10:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[06-Mar-2025 05:10:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[06-Mar-2025 05:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[06-Mar-2025 05:11:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[06-Mar-2025 05:11:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[06-Mar-2025 05:11:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[06-Mar-2025 05:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[06-Mar-2025 05:12:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[06-Mar-2025 05:12:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[06-Mar-2025 05:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[06-Mar-2025 05:15:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[06-Mar-2025 05:31:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[06-Mar-2025 05:31:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[13-Mar-2025 17:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[13-Mar-2025 17:56:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[13-Mar-2025 18:00:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[13-Mar-2025 18:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[13-Mar-2025 18:03:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[13-Mar-2025 18:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[13-Mar-2025 18:55:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[13-Mar-2025 19:06:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[13-Mar-2025 19:12:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[13-Mar-2025 19:28:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[13-Mar-2025 19:40:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[13-Mar-2025 19:41:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[13-Mar-2025 19:59:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[13-Mar-2025 20:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[13-Mar-2025 20:10:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[13-Mar-2025 20:11:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[13-Mar-2025 20:15:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[13-Mar-2025 20:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[13-Mar-2025 20:29:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[14-Mar-2025 05:46:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[14-Mar-2025 05:55:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[14-Mar-2025 07:03:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[14-Mar-2025 07:21:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[14-Mar-2025 07:21:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[14-Mar-2025 07:21:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[14-Mar-2025 07:22:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[14-Mar-2025 07:22:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[14-Mar-2025 07:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[14-Mar-2025 07:32:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[14-Mar-2025 07:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[14-Mar-2025 07:32:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[14-Mar-2025 07:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[14-Mar-2025 07:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[14-Mar-2025 07:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[14-Mar-2025 07:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[14-Mar-2025 07:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[14-Mar-2025 07:50:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[14-Mar-2025 07:51:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[14-Mar-2025 07:51:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[14-Mar-2025 07:51:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[14-Mar-2025 07:52:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[14-Mar-2025 07:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[14-Mar-2025 07:52:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[14-Mar-2025 07:53:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[14-Mar-2025 07:53:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[14-Mar-2025 07:53:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[14-Mar-2025 07:59:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[14-Mar-2025 08:32:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[14-Mar-2025 08:35:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[14-Mar-2025 08:35:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[14-Mar-2025 08:54:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[14-Mar-2025 09:05:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[17-Mar-2025 21:02:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[17-Mar-2025 21:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[17-Mar-2025 21:51:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[17-Mar-2025 22:16:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[17-Mar-2025 22:34:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[17-Mar-2025 23:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[18-Mar-2025 00:20:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[18-Mar-2025 01:33:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[18-Mar-2025 01:55:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[18-Mar-2025 01:56:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[18-Mar-2025 02:13:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[18-Mar-2025 02:23:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[18-Mar-2025 15:23:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[21-Mar-2025 07:03:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[25-Mar-2025 02:08:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[25-Mar-2025 02:58:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[28-Mar-2025 00:30:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[28-Mar-2025 00:35:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[28-Mar-2025 18:04:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[28-Mar-2025 18:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[28-Mar-2025 18:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[28-Mar-2025 18:04:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[28-Mar-2025 18:04:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[28-Mar-2025 18:04:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[28-Mar-2025 18:04:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[28-Mar-2025 19:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[28-Mar-2025 19:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[28-Mar-2025 19:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[28-Mar-2025 19:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[28-Mar-2025 19:32:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[28-Mar-2025 19:32:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[28-Mar-2025 19:32:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[28-Mar-2025 19:32:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[28-Mar-2025 19:32:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[28-Mar-2025 19:32:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[28-Mar-2025 19:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[28-Mar-2025 19:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[28-Mar-2025 19:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[28-Mar-2025 19:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[28-Mar-2025 19:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[28-Mar-2025 19:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[28-Mar-2025 19:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[28-Mar-2025 19:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[28-Mar-2025 19:32:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[28-Mar-2025 19:32:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[08-Apr-2025 04:09:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[08-Apr-2025 04:09:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[08-Apr-2025 04:09:53 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[08-Apr-2025 04:09:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[08-Apr-2025 04:10:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[08-Apr-2025 04:10:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[08-Apr-2025 04:10:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[08-Apr-2025 04:10:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[08-Apr-2025 04:10:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[08-Apr-2025 04:10:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[08-Apr-2025 04:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[08-Apr-2025 04:10:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[08-Apr-2025 04:10:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[08-Apr-2025 04:10:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[08-Apr-2025 04:10:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[08-Apr-2025 04:10:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[08-Apr-2025 04:10:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[08-Apr-2025 04:10:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[08-Apr-2025 04:10:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[08-Apr-2025 04:11:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[08-Apr-2025 04:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[08-Apr-2025 04:11:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[08-Apr-2025 04:11:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[08-Apr-2025 04:11:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[08-Apr-2025 04:11:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[08-Apr-2025 04:11:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[08-Apr-2025 04:11:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[17-Apr-2025 10:27:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[17-Apr-2025 10:28:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[17-Apr-2025 10:28:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[17-Apr-2025 10:28:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[17-Apr-2025 10:33:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[17-Apr-2025 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[17-Apr-2025 10:33:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[17-Apr-2025 10:33:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[17-Apr-2025 10:38:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[17-Apr-2025 10:39:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[17-Apr-2025 10:39:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[17-Apr-2025 10:39:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[17-Apr-2025 10:40:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[17-Apr-2025 10:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[17-Apr-2025 10:40:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[17-Apr-2025 10:40:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[17-Apr-2025 10:41:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[17-Apr-2025 10:41:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[17-Apr-2025 10:41:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[17-Apr-2025 10:41:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[17-Apr-2025 10:41:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[17-Apr-2025 10:42:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[17-Apr-2025 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[17-Apr-2025 10:52:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[18-Apr-2025 17:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[18-Apr-2025 17:50:53 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[18-Apr-2025 17:51:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[19-Apr-2025 08:14:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[19-Apr-2025 17:58:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[20-Apr-2025 03:30:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[20-Apr-2025 11:49:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[20-Apr-2025 12:01:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[21-Apr-2025 00:36:03 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[21-Apr-2025 09:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[22-Apr-2025 11:23:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[23-Apr-2025 02:21:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[23-Apr-2025 03:18:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[23-Apr-2025 13:47:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[23-Apr-2025 23:31:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[24-Apr-2025 21:44:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[24-Apr-2025 22:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[25-Apr-2025 00:04:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[25-Apr-2025 04:36:28 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[26-Apr-2025 06:58:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[27-Apr-2025 09:48:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[28-Apr-2025 15:48:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[29-Apr-2025 01:09:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[29-Apr-2025 06:20:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[30-Apr-2025 05:49:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[30-Apr-2025 06:58:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[30-Apr-2025 10:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[10-May-2025 02:37:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[10-May-2025 04:39:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[10-May-2025 05:20:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[10-May-2025 06:32:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[10-May-2025 06:45:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[10-May-2025 06:45:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[10-May-2025 08:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[10-May-2025 09:36:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[10-May-2025 10:26:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[10-May-2025 11:03:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[10-May-2025 11:29:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[10-May-2025 11:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[10-May-2025 11:34:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[10-May-2025 12:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[10-May-2025 12:53:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[10-May-2025 13:28:18 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[10-May-2025 13:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[10-May-2025 14:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[10-May-2025 15:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[10-May-2025 21:23:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[10-May-2025 21:23:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[10-May-2025 21:51:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[10-May-2025 22:59:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[10-May-2025 23:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[10-May-2025 23:29:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[10-May-2025 23:52:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[11-May-2025 01:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[11-May-2025 22:32:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[11-May-2025 22:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[11-May-2025 22:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[11-May-2025 22:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[11-May-2025 22:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[11-May-2025 22:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[11-May-2025 22:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[11-May-2025 22:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[11-May-2025 22:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[11-May-2025 22:32:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[11-May-2025 22:32:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[11-May-2025 22:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[11-May-2025 22:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[11-May-2025 22:32:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[11-May-2025 22:32:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[11-May-2025 22:32:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[11-May-2025 22:32:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[11-May-2025 22:32:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[11-May-2025 22:32:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[11-May-2025 22:32:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[11-May-2025 22:32:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[11-May-2025 22:32:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[11-May-2025 22:32:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[11-May-2025 22:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[11-May-2025 22:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[11-May-2025 22:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[11-May-2025 22:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[12-May-2025 17:51:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[12-May-2025 17:51:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[12-May-2025 17:51:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[12-May-2025 17:51:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[12-May-2025 17:51:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[12-May-2025 17:51:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[12-May-2025 17:51:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[12-May-2025 17:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[12-May-2025 17:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[12-May-2025 17:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[12-May-2025 17:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[12-May-2025 17:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[12-May-2025 17:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[12-May-2025 17:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[12-May-2025 17:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[12-May-2025 17:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[12-May-2025 17:53:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[12-May-2025 17:53:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[12-May-2025 17:55:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr\BinaryOp' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7

@@ -1,0 +1,176 @@
+[20-Nov-2024 01:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[20-Nov-2024 02:32:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[18-Dec-2024 23:13:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[18-Dec-2024 23:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[18-Dec-2024 23:14:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[23-Dec-2024 20:05:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[23-Dec-2024 20:05:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[03-Jan-2025 16:13:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[03-Jan-2025 16:13:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[03-Jan-2025 16:13:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[13-Jan-2025 14:35:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[20-Jan-2025 09:22:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[27-Jan-2025 00:23:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[27-Jan-2025 00:24:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[27-Jan-2025 02:01:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[07-Feb-2025 17:56:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[07-Feb-2025 17:57:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[07-Feb-2025 18:14:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[13-Feb-2025 08:37:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[16-Feb-2025 14:01:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[26-Feb-2025 05:04:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[26-Feb-2025 05:05:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[01-Mar-2025 11:21:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[09-Mar-2025 16:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[09-Mar-2025 16:54:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[11-Mar-2025 07:44:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[14-Mar-2025 16:50:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[14-Mar-2025 16:51:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[14-Mar-2025 20:37:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[15-Mar-2025 01:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[15-Mar-2025 01:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[15-Mar-2025 01:49:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[16-Apr-2025 21:23:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[16-Apr-2025 21:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[17-Apr-2025 09:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[07-May-2025 08:38:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[07-May-2025 22:20:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[07-May-2025 23:13:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[08-May-2025 21:39:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[08-May-2025 21:39:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/LoaderError.php on line 19
+[08-May-2025 21:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[08-May-2025 21:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/RuntimeError.php on line 20
+[08-May-2025 21:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20
+[08-May-2025 21:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Error\Error' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Error/SyntaxError.php on line 20

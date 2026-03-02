@@ -1,0 +1,5 @@
+name: Dreamland Event
+type: module
+description: Dreamland event which hold order id .
+core_version_requirement: ^8 || ^9 || ^10
+package: custom

@@ -1,0 +1,188 @@
+[13-Nov-2024 05:17:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[13-Nov-2024 21:17:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[21-Nov-2024 11:03:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[21-Nov-2024 11:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[03-Dec-2024 22:12:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[03-Dec-2024 22:12:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-Jan-2025 04:45:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-Jan-2025 11:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[25-Jan-2025 05:58:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[25-Jan-2025 05:58:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[29-Jan-2025 09:18:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[29-Jan-2025 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[30-Jan-2025 06:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[01-Feb-2025 10:25:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[04-Feb-2025 19:40:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[13-Feb-2025 02:54:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[13-Feb-2025 05:11:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[14-Feb-2025 22:19:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[16-Feb-2025 03:40:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[17-Feb-2025 05:44:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[18-Feb-2025 08:04:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[03-Mar-2025 23:36:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[03-Mar-2025 23:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-Mar-2025 12:55:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[10-Mar-2025 14:45:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[13-Mar-2025 18:44:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[13-Mar-2025 19:28:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[17-Mar-2025 23:58:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[21-Mar-2025 07:03:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[21-Mar-2025 07:03:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[08-Apr-2025 02:18:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[08-Apr-2025 02:18:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[19-Apr-2025 18:35:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[19-Apr-2025 18:35:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[30-Apr-2025 05:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[30-Apr-2025 05:13:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[04-May-2025 08:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[04-May-2025 19:45:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[05-May-2025 08:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[07-May-2025 11:53:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[08-May-2025 18:54:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[08-May-2025 21:41:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[08-May-2025 21:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-May-2025 01:03:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-May-2025 06:37:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[12-May-2025 09:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[12-May-2025 09:18:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19

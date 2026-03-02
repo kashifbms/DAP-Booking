@@ -1,0 +1,192 @@
+[13-Nov-2024 14:10:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[13-Nov-2024 20:01:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[18-Nov-2024 09:59:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[21-Nov-2024 13:12:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[21-Nov-2024 13:12:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[21-Nov-2024 13:12:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[21-Dec-2024 08:24:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[21-Dec-2024 10:15:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[21-Dec-2024 10:31:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[21-Dec-2024 11:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[21-Dec-2024 12:52:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[21-Dec-2024 14:28:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[23-Dec-2024 10:30:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[23-Dec-2024 17:30:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[23-Dec-2024 19:37:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[10-Jan-2025 02:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[10-Jan-2025 10:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[14-Jan-2025 02:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[14-Jan-2025 02:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[14-Jan-2025 02:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[15-Jan-2025 12:25:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[29-Jan-2025 09:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[29-Jan-2025 11:57:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[29-Jan-2025 11:57:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[08-Feb-2025 14:32:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[08-Feb-2025 15:22:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[10-Mar-2025 14:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[10-Mar-2025 18:48:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[13-Mar-2025 19:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[13-Mar-2025 19:18:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[13-Mar-2025 19:53:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[16-Mar-2025 04:20:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[17-Mar-2025 23:19:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[17-Mar-2025 23:31:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[26-Mar-2025 12:02:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[26-Mar-2025 12:02:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[26-Mar-2025 12:02:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[08-Apr-2025 03:41:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[08-Apr-2025 03:41:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[08-Apr-2025 03:41:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[08-May-2025 15:35:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[08-May-2025 19:55:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[08-May-2025 20:41:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[10-May-2025 04:29:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23
+[10-May-2025 05:12:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[12-May-2025 20:19:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/StaticReflectionService.php on line 17
+[12-May-2025 20:19:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ClassMetadataFactory' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/AbstractClassMetadataFactory.php on line 36
+[12-May-2025 20:19:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\Mapping\ReflectionService' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/Mapping/RuntimeReflectionService.php on line 23

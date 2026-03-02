@@ -1,0 +1,342 @@
+[13-Nov-2024 07:39:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[13-Nov-2024 07:53:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[13-Nov-2024 08:04:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[13-Nov-2024 09:05:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[13-Nov-2024 09:45:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[13-Nov-2024 10:35:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[13-Nov-2024 11:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[13-Nov-2024 14:12:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[13-Nov-2024 16:37:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[13-Nov-2024 17:44:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[13-Nov-2024 23:54:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[18-Nov-2024 06:57:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[18-Nov-2024 11:56:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[18-Nov-2024 14:02:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[18-Nov-2024 16:13:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[18-Nov-2024 17:31:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[18-Nov-2024 18:52:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[18-Nov-2024 19:13:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[21-Nov-2024 12:45:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[21-Nov-2024 12:46:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[21-Nov-2024 12:46:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[21-Nov-2024 12:46:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[21-Nov-2024 12:46:33 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[21-Nov-2024 12:46:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[21-Nov-2024 12:46:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[21-Nov-2024 12:46:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[21-Nov-2024 12:47:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[21-Nov-2024 12:47:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[21-Nov-2024 12:47:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[21-Nov-2024 12:47:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[21-Nov-2024 12:47:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[21-Nov-2024 12:47:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[21-Nov-2024 12:47:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[21-Nov-2024 12:48:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[21-Nov-2024 12:48:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[21-Nov-2024 12:48:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[27-Nov-2024 10:59:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[06-Dec-2024 11:21:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[06-Dec-2024 16:19:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[09-Dec-2024 11:16:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[12-Dec-2024 16:39:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[12-Dec-2024 16:39:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[12-Dec-2024 16:39:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[12-Dec-2024 16:39:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[12-Dec-2024 16:40:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[12-Dec-2024 16:40:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[12-Dec-2024 16:40:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[12-Dec-2024 16:40:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[12-Dec-2024 16:40:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[12-Dec-2024 16:40:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[12-Dec-2024 16:40:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[12-Dec-2024 16:40:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[12-Dec-2024 16:40:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[12-Dec-2024 16:40:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[12-Dec-2024 16:40:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[12-Dec-2024 16:40:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[12-Dec-2024 16:40:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[12-Dec-2024 16:40:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[14-Dec-2024 13:15:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[14-Dec-2024 15:42:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[16-Dec-2024 22:37:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[19-Dec-2024 14:54:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[19-Dec-2024 17:06:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[20-Dec-2024 18:11:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[20-Dec-2024 22:57:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[29-Dec-2024 14:37:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[31-Dec-2024 12:55:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[02-Jan-2025 16:47:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[03-Jan-2025 03:27:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[10-Jan-2025 01:41:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[10-Jan-2025 03:27:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[10-Jan-2025 05:08:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[10-Jan-2025 06:13:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[10-Jan-2025 06:44:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[10-Jan-2025 06:53:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[10-Jan-2025 08:27:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[10-Jan-2025 10:21:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[10-Jan-2025 14:16:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[10-Jan-2025 14:32:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[10-Jan-2025 15:05:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[15-Jan-2025 07:10:33 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[15-Jan-2025 08:22:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[15-Jan-2025 08:43:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[15-Jan-2025 11:52:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[15-Jan-2025 17:05:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[15-Jan-2025 17:05:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[15-Jan-2025 21:02:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[22-Jan-2025 00:25:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[22-Jan-2025 00:29:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[22-Jan-2025 00:32:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[29-Jan-2025 10:33:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[29-Jan-2025 10:33:33 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[29-Jan-2025 10:33:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[29-Jan-2025 10:33:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[29-Jan-2025 10:33:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[29-Jan-2025 10:33:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[29-Jan-2025 10:33:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[29-Jan-2025 10:34:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[29-Jan-2025 10:34:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[29-Jan-2025 10:34:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[29-Jan-2025 10:34:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[29-Jan-2025 10:34:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[29-Jan-2025 10:34:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[29-Jan-2025 10:34:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[29-Jan-2025 10:34:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[29-Jan-2025 10:34:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[29-Jan-2025 10:34:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[29-Jan-2025 10:34:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[06-Feb-2025 20:36:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[06-Feb-2025 20:36:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[06-Feb-2025 20:36:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[06-Feb-2025 20:36:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[06-Feb-2025 20:36:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[06-Feb-2025 20:36:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[06-Feb-2025 20:36:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[06-Feb-2025 20:36:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[06-Feb-2025 20:36:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[06-Feb-2025 20:36:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[06-Feb-2025 20:36:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[06-Feb-2025 20:36:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[06-Feb-2025 20:36:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[06-Feb-2025 20:36:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[06-Feb-2025 20:36:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[06-Feb-2025 20:36:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[06-Feb-2025 20:36:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[06-Feb-2025 20:36:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[08-Feb-2025 00:23:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[08-Feb-2025 02:06:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[08-Feb-2025 05:23:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[08-Feb-2025 10:28:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[08-Feb-2025 11:26:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[08-Feb-2025 12:09:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[08-Feb-2025 20:20:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[09-Feb-2025 02:50:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[09-Feb-2025 08:18:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[09-Feb-2025 09:05:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[09-Feb-2025 11:24:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[18-Feb-2025 20:18:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[10-Mar-2025 03:14:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[10-Mar-2025 03:14:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[10-Mar-2025 03:14:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[10-Mar-2025 03:14:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[10-Mar-2025 03:14:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[10-Mar-2025 03:14:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[10-Mar-2025 03:14:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[10-Mar-2025 05:59:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[10-Mar-2025 06:26:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[10-Mar-2025 09:14:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[10-Mar-2025 09:17:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[10-Mar-2025 10:06:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[10-Mar-2025 10:51:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[10-Mar-2025 12:51:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[10-Mar-2025 17:24:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[10-Mar-2025 18:21:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[10-Mar-2025 20:53:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[10-Mar-2025 22:45:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[13-Mar-2025 18:16:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[13-Mar-2025 18:32:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[13-Mar-2025 19:06:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[13-Mar-2025 19:12:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[13-Mar-2025 19:18:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[13-Mar-2025 19:41:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[13-Mar-2025 19:46:33 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[13-Mar-2025 20:01:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[13-Mar-2025 20:02:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[13-Mar-2025 20:10:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[13-Mar-2025 20:23:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[13-Mar-2025 20:25:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[14-Mar-2025 05:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[14-Mar-2025 05:28:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[14-Mar-2025 05:42:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[14-Mar-2025 07:41:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[14-Mar-2025 08:48:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[15-Mar-2025 16:15:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[15-Mar-2025 16:21:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[15-Mar-2025 22:32:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[15-Mar-2025 22:50:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[16-Mar-2025 02:11:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[16-Mar-2025 02:42:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[16-Mar-2025 02:48:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[17-Mar-2025 20:58:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[17-Mar-2025 21:26:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[17-Mar-2025 21:37:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[17-Mar-2025 21:41:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[17-Mar-2025 23:55:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[18-Mar-2025 00:25:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[18-Mar-2025 00:35:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[18-Mar-2025 01:15:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[18-Mar-2025 01:26:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[18-Mar-2025 01:54:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[21-Mar-2025 06:52:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[23-Mar-2025 17:19:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[24-Mar-2025 17:50:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[25-Mar-2025 01:46:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[28-Mar-2025 00:20:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[29-Mar-2025 18:31:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[30-Mar-2025 21:39:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[05-Apr-2025 05:05:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[05-Apr-2025 05:05:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[05-Apr-2025 05:06:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[05-Apr-2025 05:07:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[05-Apr-2025 05:08:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[05-Apr-2025 05:08:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[05-Apr-2025 05:09:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[05-Apr-2025 05:09:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[05-Apr-2025 05:10:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[05-Apr-2025 05:11:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[05-Apr-2025 05:12:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[05-Apr-2025 05:12:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[05-Apr-2025 05:13:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[05-Apr-2025 05:14:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[05-Apr-2025 05:14:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[05-Apr-2025 05:15:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[05-Apr-2025 05:16:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[05-Apr-2025 08:37:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[08-Apr-2025 03:31:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[08-Apr-2025 03:31:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[08-Apr-2025 03:31:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[08-Apr-2025 03:31:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[08-Apr-2025 03:31:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[08-Apr-2025 03:31:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[08-Apr-2025 03:31:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[08-Apr-2025 03:31:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[08-Apr-2025 03:31:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[08-Apr-2025 03:32:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[08-Apr-2025 03:32:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[08-Apr-2025 03:32:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[08-Apr-2025 03:32:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[08-Apr-2025 03:32:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[08-Apr-2025 03:32:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[08-Apr-2025 03:32:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[08-Apr-2025 03:32:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[08-Apr-2025 03:32:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[10-Apr-2025 13:45:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[13-Apr-2025 15:12:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[03-May-2025 07:32:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[05-May-2025 07:15:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[05-May-2025 13:57:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[06-May-2025 14:59:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[06-May-2025 23:52:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[07-May-2025 02:11:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[07-May-2025 02:28:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[08-May-2025 06:21:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[08-May-2025 06:21:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[08-May-2025 06:54:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[08-May-2025 07:23:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[08-May-2025 07:43:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[08-May-2025 09:26:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[08-May-2025 12:55:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[08-May-2025 14:14:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[08-May-2025 17:11:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[08-May-2025 18:06:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[08-May-2025 18:06:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[08-May-2025 18:43:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[08-May-2025 19:22:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[08-May-2025 19:29:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[08-May-2025 21:45:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[08-May-2025 21:45:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[08-May-2025 22:56:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[08-May-2025 22:56:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[09-May-2025 22:25:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[09-May-2025 22:50:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[10-May-2025 00:08:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[10-May-2025 07:30:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[10-May-2025 07:55:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[10-May-2025 08:57:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[10-May-2025 09:49:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[10-May-2025 11:01:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[10-May-2025 11:33:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16
+[10-May-2025 12:01:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[10-May-2025 12:48:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[12-May-2025 02:18:06 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[12-May-2025 03:17:14 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[12-May-2025 05:58:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[12-May-2025 13:19:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[12-May-2025 19:17:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[13-May-2025 04:52:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Module.php on line 18
+[13-May-2025 04:52:20 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/JavaScript.php on line 14
+[13-May-2025 04:53:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Controller.php on line 14
+[13-May-2025 04:54:24 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/InstallFile.php on line 13
+[13-May-2025 04:55:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/PluginManager.php on line 16
+[13-May-2025 04:56:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/BaseGenerator.php on line 172
+[13-May-2025 04:57:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/RenderElement.php on line 14
+[13-May-2025 04:58:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ServiceProvider.php on line 13
+[13-May-2025 04:59:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Composer.php on line 19
+[13-May-2025 05:00:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Layout.php on line 13
+[13-May-2025 05:01:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/SingleDirectoryComponent.php on line 26
+[13-May-2025 05:01:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Navigation.php on line 23
+[13-May-2025 05:02:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Field.php on line 16
+[13-May-2025 05:08:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Theme.php on line 17
+[13-May-2025 05:09:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/ThemeSettings.php on line 13
+[13-May-2025 05:10:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Template.php on line 13
+[13-May-2025 05:10:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Readme.php on line 13
+[13-May-2025 05:11:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/chi-teck/drupal-code-generator/src/Command/Hook.php on line 16

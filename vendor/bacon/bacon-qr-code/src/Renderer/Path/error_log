@@ -1,0 +1,143 @@
+[13-Nov-2024 08:14:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[18-Nov-2024 04:28:30 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[18-Nov-2024 08:21:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[18-Nov-2024 13:33:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[18-Nov-2024 15:46:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[21-Nov-2024 13:43:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[21-Nov-2024 13:43:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[21-Nov-2024 13:43:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[21-Nov-2024 13:43:48 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[21-Nov-2024 13:43:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[16-Dec-2024 17:23:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[19-Dec-2024 08:55:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[19-Dec-2024 08:55:48 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[19-Dec-2024 09:15:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[19-Dec-2024 09:54:32 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[19-Dec-2024 10:06:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[23-Dec-2024 17:51:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[23-Dec-2024 17:52:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[23-Dec-2024 17:53:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[23-Dec-2024 17:53:27 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[23-Dec-2024 18:15:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[26-Dec-2024 17:31:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[28-Dec-2024 14:57:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[01-Jan-2025 04:39:50 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[01-Jan-2025 23:33:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[07-Jan-2025 12:28:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[07-Jan-2025 12:28:16 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[07-Jan-2025 12:28:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[07-Jan-2025 12:28:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[07-Jan-2025 12:28:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[10-Jan-2025 05:18:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[15-Jan-2025 09:19:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[15-Jan-2025 10:11:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[15-Jan-2025 17:22:36 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[15-Jan-2025 21:39:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[29-Jan-2025 10:45:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[29-Jan-2025 10:45:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[29-Jan-2025 10:45:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[29-Jan-2025 10:45:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[29-Jan-2025 10:46:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[15-Feb-2025 20:16:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[17-Feb-2025 17:09:59 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[17-Feb-2025 19:09:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[17-Feb-2025 21:05:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[19-Feb-2025 05:26:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[19-Feb-2025 14:06:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[19-Feb-2025 15:40:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[22-Feb-2025 11:09:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[22-Feb-2025 20:10:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[22-Feb-2025 21:54:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[10-Mar-2025 14:42:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[13-Mar-2025 17:39:32 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[13-Mar-2025 17:57:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[13-Mar-2025 18:06:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[13-Mar-2025 18:47:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[13-Mar-2025 20:12:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[15-Mar-2025 19:56:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[15-Mar-2025 22:46:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[16-Mar-2025 01:12:30 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[16-Mar-2025 04:14:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[19-Mar-2025 16:13:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[19-Mar-2025 16:13:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[19-Mar-2025 16:13:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[19-Mar-2025 16:13:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[19-Mar-2025 16:13:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[08-Apr-2025 03:45:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[08-Apr-2025 03:45:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[08-Apr-2025 03:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[08-Apr-2025 03:45:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[08-Apr-2025 03:45:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[08-May-2025 05:08:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[08-May-2025 08:24:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[08-May-2025 09:43:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[08-May-2025 12:49:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[08-May-2025 21:19:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[08-May-2025 21:38:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[08-May-2025 21:38:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[08-May-2025 21:39:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[08-May-2025 21:39:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[08-May-2025 21:41:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[08-May-2025 21:41:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[08-May-2025 21:41:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[08-May-2025 21:41:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6
+[10-May-2025 13:02:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[12-May-2025 15:55:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Line.php on line 8
+[12-May-2025 15:56:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/EllipticArc.php on line 18
+[12-May-2025 15:57:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Curve.php on line 9
+[12-May-2025 15:58:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Move.php on line 8
+[12-May-2025 16:03:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'BaconQrCode\Renderer\Path\OperationInterface' not found in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/bacon/bacon-qr-code/src/Renderer/Path/Close.php on line 6

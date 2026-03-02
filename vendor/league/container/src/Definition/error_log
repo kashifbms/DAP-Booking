@@ -1,0 +1,452 @@
+[13-Nov-2024 04:51:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[13-Nov-2024 07:24:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[13-Nov-2024 09:54:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[13-Nov-2024 19:53:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[21-Nov-2024 12:48:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[21-Nov-2024 12:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[21-Nov-2024 12:48:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[21-Nov-2024 12:48:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[06-Dec-2024 04:23:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[06-Dec-2024 17:18:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[17-Dec-2024 02:49:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[18-Dec-2024 22:08:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[18-Dec-2024 22:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[18-Dec-2024 22:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[18-Dec-2024 22:10:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[21-Dec-2024 14:08:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[21-Dec-2024 14:09:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[21-Dec-2024 14:10:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[21-Dec-2024 14:11:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[27-Dec-2024 11:13:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[27-Dec-2024 11:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[27-Dec-2024 11:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[27-Dec-2024 11:13:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[01-Jan-2025 15:41:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[10-Jan-2025 05:38:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[10-Jan-2025 07:16:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[10-Jan-2025 15:03:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[10-Jan-2025 15:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[12-Jan-2025 18:40:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[12-Jan-2025 18:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[12-Jan-2025 18:42:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[12-Jan-2025 18:42:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[17-Jan-2025 02:47:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[17-Jan-2025 02:52:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[17-Jan-2025 03:23:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[17-Jan-2025 06:56:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[20-Jan-2025 20:49:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[20-Jan-2025 20:53:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[20-Jan-2025 21:03:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[20-Jan-2025 21:33:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[29-Jan-2025 10:27:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[29-Jan-2025 10:27:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[29-Jan-2025 10:27:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[29-Jan-2025 10:27:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[04-Feb-2025 04:05:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[04-Feb-2025 04:06:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[04-Feb-2025 04:06:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[04-Feb-2025 04:06:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[05-Feb-2025 06:52:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[06-Feb-2025 05:22:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[06-Feb-2025 17:39:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[07-Feb-2025 07:59:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[15-Feb-2025 18:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[18-Feb-2025 09:05:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[18-Feb-2025 09:05:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[18-Feb-2025 09:06:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[18-Feb-2025 13:26:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[18-Feb-2025 21:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[21-Feb-2025 09:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[21-Feb-2025 09:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[21-Feb-2025 09:48:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[21-Feb-2025 09:48:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[06-Mar-2025 06:31:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[06-Mar-2025 06:31:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[06-Mar-2025 06:31:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[06-Mar-2025 06:42:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[10-Mar-2025 13:45:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[10-Mar-2025 15:24:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[10-Mar-2025 17:21:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[10-Mar-2025 17:33:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[13-Mar-2025 17:47:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[13-Mar-2025 20:24:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[14-Mar-2025 07:52:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[14-Mar-2025 10:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[14-Mar-2025 10:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[14-Mar-2025 10:49:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[14-Mar-2025 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[17-Mar-2025 21:53:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[18-Mar-2025 00:37:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[21-Mar-2025 06:59:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[25-Mar-2025 02:05:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[28-Mar-2025 00:29:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[08-Apr-2025 03:25:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[08-Apr-2025 03:25:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[08-Apr-2025 03:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[08-Apr-2025 03:25:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[17-Apr-2025 11:34:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[17-Apr-2025 11:34:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[17-Apr-2025 11:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[17-Apr-2025 11:40:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[07-May-2025 12:35:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[07-May-2025 18:55:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[07-May-2025 20:50:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[07-May-2025 21:49:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[08-May-2025 21:05:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[08-May-2025 21:05:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[08-May-2025 21:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[08-May-2025 21:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[08-May-2025 21:16:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[08-May-2025 21:16:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[08-May-2025 21:22:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[08-May-2025 21:22:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[09-May-2025 11:25:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[10-May-2025 02:43:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[10-May-2025 03:17:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[10-May-2025 04:17:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[10-May-2025 04:44:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[11-May-2025 07:39:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[12-May-2025 08:55:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19
+[12-May-2025 18:28:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregateInterface.php on line 10
+[12-May-2025 18:39:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Definition\DefinitionAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionAggregate.php on line 11
+[12-May-2025 18:43:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/DefinitionInterface.php on line 9
+[12-May-2025 19:08:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\Argument\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/Definition/Definition.php on line 19

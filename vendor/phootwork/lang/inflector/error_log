@@ -1,0 +1,104 @@
+[18-Nov-2024 03:05:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[20-Nov-2024 17:01:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[21-Nov-2024 11:25:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[28-Nov-2024 19:23:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[18-Dec-2024 23:41:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[22-Dec-2024 08:06:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[15-Jan-2025 21:30:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[20-Jan-2025 05:21:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[29-Jan-2025 09:38:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[06-Feb-2025 22:20:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[04-Mar-2025 05:46:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[13-Mar-2025 18:32:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[15-Mar-2025 23:01:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[17-Mar-2025 21:41:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[21-Mar-2025 06:56:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[25-Mar-2025 01:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[28-Mar-2025 00:25:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[04-Apr-2025 20:11:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[08-Apr-2025 02:37:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[06-May-2025 19:52:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[08-May-2025 20:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[08-May-2025 20:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[09-May-2025 15:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[11-May-2025 22:38:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[12-May-2025 04:59:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22
+[12-May-2025 14:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'phootwork\lang\inflector\InflectorInterface' not found in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/phootwork/lang/inflector/Inflector.php on line 22

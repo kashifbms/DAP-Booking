@@ -1,0 +1,68 @@
+[18-Nov-2024 04:47:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[21-Nov-2024 12:53:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[17-Dec-2024 16:03:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[19-Dec-2024 13:05:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[19-Dec-2024 13:21:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[22-Dec-2024 20:08:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[15-Jan-2025 14:15:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[18-Jan-2025 07:06:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[29-Jan-2025 10:39:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[13-Mar-2025 19:15:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[15-Mar-2025 18:45:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[28-Mar-2025 18:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[08-Apr-2025 03:22:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[08-May-2025 21:28:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[08-May-2025 21:28:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[08-May-2025 23:47:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17
+[12-May-2025 15:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Masterminds\HTML5\Serializer\RulesInterface' not found in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/masterminds/html5/src/HTML5/Serializer/OutputRules.php on line 17

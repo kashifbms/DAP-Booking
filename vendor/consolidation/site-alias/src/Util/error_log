@@ -1,0 +1,64 @@
+[21-Nov-2024 12:26:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[18-Dec-2024 07:57:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[19-Dec-2024 09:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[19-Dec-2024 15:10:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[25-Dec-2024 01:14:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[30-Dec-2024 17:07:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[29-Jan-2025 10:22:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[16-Feb-2025 19:01:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[20-Feb-2025 11:51:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[13-Mar-2025 18:02:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[18-Mar-2025 05:38:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[08-Apr-2025 03:23:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[18-Apr-2025 03:03:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[19-Apr-2025 15:43:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[07-May-2025 09:06:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7
+[12-May-2025 18:02:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-alias/src/Util/YamlDataFileLoader.php on line 7

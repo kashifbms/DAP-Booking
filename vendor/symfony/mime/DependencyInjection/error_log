@@ -1,0 +1,108 @@
+[13-Nov-2024 12:49:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[21-Nov-2024 10:53:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[03-Dec-2024 22:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[17-Dec-2024 04:51:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[10-Jan-2025 08:29:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[26-Jan-2025 17:01:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[29-Jan-2025 11:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[02-Feb-2025 06:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[13-Feb-2025 00:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[13-Feb-2025 01:49:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[15-Feb-2025 05:06:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[04-Mar-2025 00:19:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[10-Mar-2025 15:04:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[14-Mar-2025 06:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[17-Mar-2025 23:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[21-Mar-2025 07:16:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[31-Mar-2025 02:22:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[08-Apr-2025 02:09:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[19-Apr-2025 18:36:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[30-Apr-2025 04:55:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[04-May-2025 10:58:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[08-May-2025 07:07:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[08-May-2025 20:46:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[08-May-2025 20:46:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[10-May-2025 00:49:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[11-May-2025 15:51:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23
+[12-May-2025 08:52:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/mime/DependencyInjection/AddMimeTypeGuesserPass.php on line 23

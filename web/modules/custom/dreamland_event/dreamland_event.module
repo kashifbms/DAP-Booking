@@ -1,0 +1,127 @@
+<?php
+
+use Drupal\commerce_order\Entity\Order;
+use Drupal\file\Entity\File;
+use Drupal\commerce_product\Entity\Product;
+use Drupal\commerce_product\Entity\ProductVariation;
+use Drupal\Core\Form\FormStateInterface;
+
+function dreamland_event_mail_alter(&$message)
+{
+    // Check if this is the email sent by Drupal Commerce.
+    // dd($message["params"]["subject"]->getArguments()["@number"]);
+    if ($message['module'] == 'commerce' && $message['key'] == 'order_receipt') {
+        $order_id = $message["params"]["subject"]->getArguments()["@number"];
+        $path = "Tickets/Order_" . $order_id . ".pdf";
+        // $uri = \Drupal::config('system.file')->get('private') . '://' . $path;
+        $uri = 'private://' . $path;
+        // $stream_wrapper_manager = \Drupal::service('stream_wrapper_manager');
+        // $uri = $stream_wrapper_manager->normalizeUri($uri);
+        // $file = \Drupal::service('file_url_generator')->generateAbsoluteString($uri);
+        // $uri = 'private://' . $path;
+
+        // Load the file entity.
+        $file = \Drupal::service('file_system')->realpath($uri);
+        // dd($file);
+        $attachment = array(
+            'filecontent' => file_get_contents($file),
+            'filename' => 'Tickets.pdf',
+            'filemime' => 'application/pdf',
+        );
+
+        $message['params']['attachments'][] = $attachment;
+    }
+
+
+    // if ($message['module'] == 'commerce' && $message['key'] == 'order_receipt') {
+    //     // dd("default");
+    //     // unset($message['to']);
+    //     // unset($message['subject']);
+    //     // unset($message['body']);
+    //     return;
+    // }
+    // if ($message['module'] == 'dreamland_event' && $message['key'] == 'order_completed') {
+    //     dd("custom");
+    // }
+}
+
+
+
+/**
+ * Implements hook_entity_presave().
+ */
+function dreamland_event_entity_presave(Drupal\Core\Entity\EntityInterface $entity)
+{
+    // Check if the entity being saved is a product.
+    $request = \Drupal::request();
+    $current_path = $request->getPathInfo();
+    $last_path_part = basename($current_path);  
+    
+   
+    if ($entity->getEntityTypeId() === 'commerce_product' && $last_path_part  != 'default') {
+        $product_id = $entity->id();
+        if ($product_id != null) {
+            $product_title = $entity->label();
+            $visualIdStart = (int)$entity->get('field_visual_id_start')->value;
+            $visualIdEnd = (int)$entity->get('field_visual_id_end')->value;
+            // $totalFieldTickets = (int)$entity->get('field_visual_id_end')->value;
+            $entityTickets = (int) $entity->get('field_total_tickets')->value;
+            $totalTickets = $visualIdEnd - $visualIdStart;
+
+            $product = Product::load($product_id);
+            // dd($product, $visualIdStart);
+            $productTickets = (int)$product->get('field_total_tickets')->value;
+            $productVisualStartValue = (int)$product->get('field_visual_id_start')->value;
+            if ($productVisualStartValue != $visualIdStart) {
+                $entity->set('field_total_tickets', $totalTickets);
+                $entity->set('field_booking_tickets', 0);
+                $entity->set('field_available_tickets', $totalTickets);
+            } else {
+                // dd($totalTickets, $productTickets);
+                if ($totalTickets != $productTickets) {
+                    // $product->set('field_total_tickets', $totalTickets);
+                    $entity->set('field_total_tickets', $totalTickets);
+                    // $product->save();
+                    $bookingTickets = (int) $entity->get('field_booking_tickets')->value;
+                    // dd($entity);
+                    $availableTicket = $totalTickets - $bookingTickets;
+                    $entity->set('field_available_tickets', $availableTicket);
+                }
+            }
+        } else {
+            $product_title = $entity->label();
+            $visualIdStart = (int)$entity->get('field_visual_id_start')->value;
+            $visualIdEnd = (int)$entity->get('field_visual_id_end')->value;
+            $totalTickets = $visualIdEnd - $visualIdStart;
+            $entity->set('field_total_tickets', $totalTickets);
+            $entity->set('field_available_tickets', $totalTickets);
+            // $variation = ProductVariation::create([
+            //     'type' => 'tickets',
+            //     'sku' => $product_title,
+            //     'title' => $product_title,
+            //     // Add other fields as needed.
+            // ]);
+
+            // // Save the variation.
+            // $entity->get('variations')->appendItem($variation);
+            // $variation->save();
+        }
+    }
+}
+
+/**
+ * Implements form_alter hook to remove address select field.
+ */
+function dreamland_event_form_alter(&$form, FormStateInterface $form_state, $form_id)
+{
+    if ($form_id == "commerce_checkout_flow_multistep_default") {
+        // dd($form);
+        // dpm($form);
+        if (isset($form['payment_information']['billing_information'])) {
+            unset($form['payment_information']['billing_information']['select_address']);
+        }
+        if (isset($form['payment_information']['billing_information'])) {
+            unset($form['payment_information']['billing_information']['copy_to_address_book']);
+        }
+    }
+}

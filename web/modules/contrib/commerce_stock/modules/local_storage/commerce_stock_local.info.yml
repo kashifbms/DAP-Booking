@@ -1,0 +1,12 @@
+name: 'Commerce Stock Local Storage'
+description: 'Provides a local database storage service for Commerce Stock.'
+package: 'Commerce Stock'
+dependencies:
+  - commerce_stock:commerce_stock
+core_version_requirement: ^9.2 || ^10
+type: module
+
+# Information added by Drupal.org packaging script on 2024-01-05
+version: '8.x-1.3'
+project: 'commerce_stock'
+datestamp: 1704478210

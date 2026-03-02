@@ -1,0 +1,957 @@
+[15-Nov-2024 23:59:52 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[16-Nov-2024 06:33:27 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[17-Nov-2024 05:45:53 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[29-Nov-2024 13:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[01-Dec-2024 10:01:02 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[02-Dec-2024 10:27:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[03-Dec-2024 13:21:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[06-Dec-2024 01:36:02 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[06-Dec-2024 03:13:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[07-Dec-2024 15:21:21 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[07-Dec-2024 18:12:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[08-Dec-2024 17:58:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[12-Dec-2024 21:21:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[13-Dec-2024 03:59:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[14-Dec-2024 14:39:08 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[14-Dec-2024 15:14:04 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[16-Dec-2024 16:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[16-Dec-2024 18:54:36 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[17-Dec-2024 17:40:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[17-Dec-2024 18:09:00 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[19-Dec-2024 03:24:59 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[19-Dec-2024 03:30:31 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[19-Dec-2024 05:16:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[19-Dec-2024 05:57:07 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[19-Dec-2024 06:20:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[19-Dec-2024 06:21:04 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[19-Dec-2024 06:22:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[19-Dec-2024 06:23:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[19-Dec-2024 06:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[19-Dec-2024 06:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[19-Dec-2024 06:25:32 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[19-Dec-2024 06:26:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[19-Dec-2024 06:36:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[19-Dec-2024 06:37:24 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[19-Dec-2024 06:38:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[19-Dec-2024 06:38:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[19-Dec-2024 06:39:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[19-Dec-2024 06:40:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[19-Dec-2024 06:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[19-Dec-2024 06:41:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[19-Dec-2024 07:13:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[19-Dec-2024 07:48:32 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[19-Dec-2024 08:39:47 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[19-Dec-2024 08:45:03 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[19-Dec-2024 08:54:24 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[19-Dec-2024 09:48:46 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[19-Dec-2024 14:47:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[19-Dec-2024 18:17:05 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[20-Dec-2024 06:35:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[20-Dec-2024 14:34:20 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[20-Dec-2024 19:09:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[20-Dec-2024 20:35:56 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[21-Dec-2024 11:33:25 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[21-Dec-2024 11:57:02 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[21-Dec-2024 12:02:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[21-Dec-2024 12:27:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[21-Dec-2024 12:31:24 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[21-Dec-2024 12:48:55 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[22-Dec-2024 01:37:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[22-Dec-2024 20:16:46 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[22-Dec-2024 22:03:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[22-Dec-2024 22:04:29 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[22-Dec-2024 22:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[22-Dec-2024 22:19:50 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[22-Dec-2024 22:37:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[22-Dec-2024 22:40:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[22-Dec-2024 22:57:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[23-Dec-2024 00:48:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[23-Dec-2024 15:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[23-Dec-2024 17:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[23-Dec-2024 17:31:35 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[23-Dec-2024 17:31:49 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[23-Dec-2024 17:32:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[23-Dec-2024 17:32:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[23-Dec-2024 17:32:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[23-Dec-2024 17:32:43 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[23-Dec-2024 17:32:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[23-Dec-2024 17:33:46 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[23-Dec-2024 18:07:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[23-Dec-2024 18:07:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[23-Dec-2024 18:07:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[24-Dec-2024 01:40:34 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[25-Dec-2024 11:29:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[25-Dec-2024 14:00:44 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[25-Dec-2024 23:12:29 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[26-Dec-2024 15:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[27-Dec-2024 19:00:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[28-Dec-2024 13:24:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[29-Dec-2024 15:45:17 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[30-Dec-2024 00:31:35 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[30-Dec-2024 00:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[31-Dec-2024 02:27:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[31-Dec-2024 19:51:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[01-Jan-2025 01:33:50 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[01-Jan-2025 17:04:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[02-Jan-2025 14:16:39 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[02-Jan-2025 22:25:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[03-Jan-2025 03:18:57 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[03-Jan-2025 10:59:51 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[14-Jan-2025 02:14:02 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[14-Jan-2025 02:14:02 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[14-Jan-2025 02:14:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[14-Jan-2025 02:14:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[14-Jan-2025 02:14:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[14-Jan-2025 02:14:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[14-Jan-2025 02:14:05 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[14-Jan-2025 02:14:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[14-Jan-2025 02:14:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[14-Jan-2025 02:14:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[14-Jan-2025 02:14:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[14-Jan-2025 02:14:07 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[14-Jan-2025 02:14:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[14-Jan-2025 02:14:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php on line 14
+[14-Jan-2025 02:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php on line 16
+[14-Jan-2025 02:14:09 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[14-Jan-2025 02:14:10 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[14-Jan-2025 02:14:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[14-Jan-2025 02:14:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[14-Jan-2025 02:14:11 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[14-Jan-2025 02:14:12 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[14-Jan-2025 02:14:12 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[14-Jan-2025 02:14:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[14-Jan-2025 02:14:13 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[14-Jan-2025 02:14:14 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[14-Jan-2025 02:14:14 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[14-Jan-2025 02:14:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[14-Jan-2025 02:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[14-Jan-2025 02:14:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[14-Jan-2025 02:14:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[14-Jan-2025 02:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[14-Jan-2025 02:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[14-Jan-2025 02:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[14-Jan-2025 02:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[14-Jan-2025 02:14:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[14-Jan-2025 02:14:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[14-Jan-2025 02:14:20 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[14-Jan-2025 02:14:20 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[14-Jan-2025 02:14:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[14-Jan-2025 02:14:21 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[14-Jan-2025 02:14:22 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[14-Jan-2025 02:14:22 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[14-Jan-2025 02:14:23 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[14-Jan-2025 02:14:23 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[16-Jan-2025 06:26:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[05-Feb-2025 06:22:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[05-Feb-2025 10:50:08 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[06-Feb-2025 07:52:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[06-Feb-2025 08:42:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[07-Feb-2025 18:31:05 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[08-Feb-2025 00:23:37 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[08-Feb-2025 01:11:56 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[08-Feb-2025 01:11:57 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[08-Feb-2025 03:42:37 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[08-Feb-2025 04:35:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[08-Feb-2025 04:35:25 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[08-Feb-2025 05:23:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[08-Feb-2025 06:09:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[08-Feb-2025 08:01:18 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[08-Feb-2025 08:03:19 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[08-Feb-2025 09:41:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[08-Feb-2025 09:41:35 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[08-Feb-2025 10:28:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[08-Feb-2025 12:55:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[08-Feb-2025 12:57:09 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[08-Feb-2025 13:44:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[08-Feb-2025 13:45:01 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[08-Feb-2025 14:33:01 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[08-Feb-2025 14:33:03 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[08-Feb-2025 14:33:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[08-Feb-2025 14:33:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[08-Feb-2025 16:21:31 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[08-Feb-2025 18:45:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[08-Feb-2025 21:54:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[08-Feb-2025 22:08:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[09-Feb-2025 00:26:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[09-Feb-2025 05:58:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[09-Feb-2025 11:24:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[13-Feb-2025 09:24:29 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[13-Feb-2025 14:00:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[13-Feb-2025 16:57:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[15-Feb-2025 19:41:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[15-Feb-2025 20:36:54 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[16-Feb-2025 14:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[16-Feb-2025 21:18:58 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[16-Feb-2025 21:28:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[16-Feb-2025 23:30:50 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[22-Feb-2025 17:55:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[28-Mar-2025 17:16:12 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[28-Mar-2025 17:16:12 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[28-Mar-2025 17:16:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[28-Mar-2025 17:16:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[28-Mar-2025 17:16:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[28-Mar-2025 17:16:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[28-Mar-2025 17:16:15 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[28-Mar-2025 17:16:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[28-Mar-2025 17:16:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[28-Mar-2025 17:16:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[28-Mar-2025 17:16:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[28-Mar-2025 17:16:17 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[28-Mar-2025 17:16:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[28-Mar-2025 17:16:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/[07-Apr-2025 00:15:32 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[07-Apr-2025 00:16:24 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[07-Apr-2025 00:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[07-Apr-2025 00:18:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[07-Apr-2025 00:18:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[07-Apr-2025 00:19:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[07-Apr-2025 00:20:20 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[07-Apr-2025 00:20:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[07-Apr-2025 00:20:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[07-Apr-2025 00:21:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[07-Apr-2025 00:21:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[07-Apr-2025 00:21:25 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[07-Apr-2025 00:21:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[07-Apr-2025 00:21:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php on line 14
+[07-Apr-2025 00:22:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php on line 16
+[07-Apr-2025 00:22:43 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[07-Apr-2025 00:22:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[07-Apr-2025 00:23:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[07-Apr-2025 00:23:32 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[07-Apr-2025 00:23:48 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[07-Apr-2025 00:24:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[07-Apr-2025 00:24:15 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[07-Apr-2025 00:24:27 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[07-Apr-2025 00:24:40 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[07-Apr-2025 00:24:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[07-Apr-2025 00:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[07-Apr-2025 00:25:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[07-Apr-2025 00:25:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[07-Apr-2025 00:25:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[07-Apr-2025 00:26:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[07-Apr-2025 00:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[07-Apr-2025 00:26:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[07-Apr-2025 00:26:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[07-Apr-2025 00:26:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[07-Apr-2025 00:27:14 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[07-Apr-2025 00:27:25 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[07-Apr-2025 00:27:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[07-Apr-2025 00:27:51 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[07-Apr-2025 00:28:01 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[07-Apr-2025 00:28:11 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[07-Apr-2025 00:28:23 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[07-Apr-2025 00:28:36 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[07-Apr-2025 00:28:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[07-Apr-2025 01:16:09 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[07-Apr-2025 01:19:46 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[12-Apr-2025 05:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php on line 16
+[12-Apr-2025 06:01:48 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[12-Apr-2025 08:04:50 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[12-Apr-2025 08:16:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[12-Apr-2025 08:27:20 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[12-Apr-2025 08:38:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php on line 14
+[12-Apr-2025 08:49:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[12-Apr-2025 09:01:05 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[12-Apr-2025 09:12:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[12-Apr-2025 09:34:50 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[08-May-2025 02:44:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[08-May-2025 03:44:56 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[08-May-2025 04:15:31 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[08-May-2025 05:07:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[08-May-2025 05:29:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php on line 16
+[08-May-2025 06:01:28 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[08-May-2025 06:21:13 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[08-May-2025 06:50:20 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[08-May-2025 07:23:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[08-May-2025 07:43:36 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[08-May-2025 08:43:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php on line 14
+[08-May-2025 09:11:24 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[08-May-2025 09:42:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[08-May-2025 09:42:05 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[08-May-2025 10:31:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[08-May-2025 10:48:16 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[08-May-2025 11:08:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[08-May-2025 11:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[08-May-2025 11:54:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[08-May-2025 12:48:44 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[08-May-2025 12:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[08-May-2025 12:48:52 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MaintCommands.php on line 21
+[08-May-2025 13:59:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[08-May-2025 14:14:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[08-May-2025 15:35:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[08-May-2025 16:25:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[08-May-2025 17:40:11 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[08-May-2025 17:40:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[08-May-2025 18:06:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[08-May-2025 18:42:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[08-May-2025 18:56:02 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[08-May-2025 18:56:07 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[08-May-2025 19:55:12 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[08-May-2025 19:55:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[08-May-2025 19:55:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[08-May-2025 20:17:20 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[08-May-2025 20:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[08-May-2025 20:40:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[08-May-2025 21:33:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[08-May-2025 21:33:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[08-May-2025 21:33:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[08-May-2025 21:33:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalDirectoryCommands.php on line 14
+[08-May-2025 21:33:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[08-May-2025 21:33:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MkCommands.php on line 33
+[08-May-2025 21:33:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[08-May-2025 21:33:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[08-May-2025 21:33:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[08-May-2025 21:33:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/QueueCommands.php on line 26
+[08-May-2025 21:33:31 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[08-May-2025 21:33:31 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[08-May-2025 21:33:38 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[08-May-2025 21:33:39 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/WatchdogCommands.php on line 34
+[08-May-2025 21:33:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[08-May-2025 21:33:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[08-May-2025 21:33:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php on line 16
+[08-May-2025 21:33:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php on line 16
+[08-May-2025 21:33:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[08-May-2025 21:33:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DocsCommands.php on line 15
+[08-May-2025 21:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[08-May-2025 21:33:53 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[08-May-2025 21:33:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[08-May-2025 21:33:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[08-May-2025 21:33:53 UTC] PHP Parse error:  syntax error, unexpected ''module'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UpdateDBCommands.php on line 100
+[08-May-2025 21:33:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42
+[08-May-2025 21:33:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[08-May-2025 21:33:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[08-May-2025 21:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[08-May-2025 21:33:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[08-May-2025 21:34:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[08-May-2025 21:34:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TopicCommands.php on line 22
+[08-May-2025 21:34:02 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[08-May-2025 21:34:03 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCreateCommands.php on line 28
+[08-May-2025 21:34:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php on line 14
+[08-May-2025 21:34:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[08-May-2025 21:34:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupliconCommands.php on line 14
+[08-May-2025 21:34:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[08-May-2025 21:34:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[08-May-2025 21:34:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/PhpCommands.php on line 14
+[08-May-2025 21:34:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[08-May-2025 21:34:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[08-May-2025 21:34:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[08-May-2025 21:34:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[08-May-2025 21:34:12 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[08-May-2025 21:34:12 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MessengerCommands.php on line 16
+[08-May-2025 21:34:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[08-May-2025 21:34:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteCommands.php on line 13
+[08-May-2025 21:34:22 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[08-May-2025 21:34:22 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[08-May-2025 21:34:22 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[08-May-2025 21:34:22 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LocaleCommands.php on line 52
+[08-May-2025 21:34:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[08-May-2025 21:34:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BatchCommands.php on line 12
+[08-May-2025 21:34:30 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[08-May-2025 21:34:30 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/MigrateRunnerCommands.php on line 48
+[08-May-2025 21:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[08-May-2025 21:34:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/NotifyCommands.php on line 15
+[08-May-2025 21:34:52 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[08-May-2025 21:34:52 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ViewsCommands.php on line 29
+[08-May-2025 21:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[08-May-2025 21:35:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[08-May-2025 21:35:12 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[08-May-2025 21:35:13 UTC] PHP Parse error:  syntax error, unexpected ''The full path to a single arc' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveRestoreCommands.php on line 56
+[08-May-2025 21:35:49 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[08-May-2025 21:35:49 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ArchiveDumpCommands.php on line 255
+[08-May-2025 21:35:56 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[08-May-2025 21:35:57 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/UserCommands.php on line 58
+[08-May-2025 21:36:53 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[08-May-2025 21:36:53 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[08-May-2025 21:37:34 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[08-May-2025 21:37:34 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/TwigCommands.php on line 28
+[08-May-2025 21:39:27 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[08-May-2025 21:39:27 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DrupalCommands.php on line 40
+[08-May-2025 21:42:21 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[08-May-2025 21:42:22 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[08-May-2025 21:42:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[08-May-2025 21:42:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CoreCommands.php on line 16
+[08-May-2025 21:44:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/JsonapiCommands.php on line 15
+[08-May-2025 21:44:55 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CliCommands.php on line 27
+[08-May-2025 21:47:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[08-May-2025 21:47:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/ImageCommands.php on line 16
+[08-May-2025 21:47:18 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[08-May-2025 21:47:18 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[08-May-2025 21:47:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[08-May-2025 21:47:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SiteInstallCommands.php on line 35
+[08-May-2025 21:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[08-May-2025 21:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RsyncCommands.php on line 22
+[08-May-2025 21:48:08 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[08-May-2025 21:48:08 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LinkHooks.php on line 22
+[08-May-2025 22:22:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RunserverCommands.php on line 18
+[08-May-2025 22:58:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[08-May-2025 23:36:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LoginCommands.php on line 29
+[08-May-2025 23:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/RoleCommands.php on line 19
+[08-May-2025 23:47:15 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/LanguageCommands.php on line 31
+[11-May-2025 23:42:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployHookCommands.php on line 22
+[12-May-2025 06:00:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/DeployCommands.php on line 18
+[12-May-2025 09:48:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheRebuildCommands.php on line 24
+[12-May-2025 09:48:28 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StateCommands.php on line 24
+[12-May-2025 09:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/XhprofCommands.php on line 25
+[12-May-2025 11:35:21 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EntityCommands.php on line 22
+[12-May-2025 13:21:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/SshCommands.php on line 14
+[12-May-2025 14:14:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/EditCommands.php on line 16
+[12-May-2025 15:11:48 UTC] PHP Parse error:  syntax error, unexpected ''drupal-version'' (T_CONSTANT_ENCAPSED_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/StatusCommands.php on line 41
+[12-May-2025 19:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drush\Commands\DrushCommands' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/BrowseCommands.php on line 16
+[12-May-2025 19:18:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src/Commands/core/CacheCommands.php on line 42

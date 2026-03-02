@@ -1,0 +1,365 @@
+[08-Nov-2024 16:56:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[13-Nov-2024 06:09:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[13-Nov-2024 08:22:34 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[13-Nov-2024 11:29:04 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[13-Nov-2024 13:46:51 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[13-Nov-2024 14:19:18 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[13-Nov-2024 20:14:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[18-Nov-2024 15:51:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[21-Nov-2024 09:04:02 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[21-Nov-2024 09:04:06 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[21-Nov-2024 09:04:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[21-Nov-2024 09:04:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[21-Nov-2024 09:04:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[21-Nov-2024 09:04:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[21-Nov-2024 09:04:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[21-Nov-2024 09:04:34 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[28-Nov-2024 19:25:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[28-Nov-2024 19:25:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[28-Nov-2024 19:25:27 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[28-Nov-2024 19:25:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[28-Nov-2024 19:25:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[28-Nov-2024 19:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[28-Nov-2024 19:25:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[28-Nov-2024 19:25:30 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[01-Dec-2024 05:41:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[06-Dec-2024 14:16:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[14-Dec-2024 13:35:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[16-Dec-2024 14:02:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[16-Dec-2024 22:37:09 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[17-Dec-2024 01:09:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[17-Dec-2024 05:40:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[19-Dec-2024 04:16:03 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[28-Dec-2024 14:04:01 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[10-Jan-2025 03:42:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[10-Jan-2025 06:25:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[10-Jan-2025 07:06:58 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[10-Jan-2025 11:56:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[10-Jan-2025 12:23:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[10-Jan-2025 13:33:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[10-Jan-2025 13:34:46 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[15-Jan-2025 15:08:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[22-Jan-2025 00:40:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[22-Jan-2025 00:40:39 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[22-Jan-2025 00:40:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[22-Jan-2025 00:40:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[22-Jan-2025 00:40:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[23-Jan-2025 16:38:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[23-Jan-2025 16:38:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[23-Jan-2025 16:38:56 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[26-Jan-2025 02:58:45 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[29-Jan-2025 08:16:04 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[29-Jan-2025 08:16:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[29-Jan-2025 08:16:12 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[29-Jan-2025 08:16:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[29-Jan-2025 08:16:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[29-Jan-2025 08:16:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[29-Jan-2025 08:16:28 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[29-Jan-2025 08:16:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[01-Feb-2025 23:09:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[02-Feb-2025 00:58:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[02-Feb-2025 05:42:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[03-Feb-2025 13:52:09 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[03-Feb-2025 19:53:47 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[04-Feb-2025 09:24:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[04-Feb-2025 18:53:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[05-Feb-2025 05:19:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[07-Feb-2025 17:02:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[13-Feb-2025 01:28:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[13-Feb-2025 02:53:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[13-Feb-2025 02:56:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[13-Feb-2025 03:17:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[13-Feb-2025 03:35:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[13-Feb-2025 04:41:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[13-Feb-2025 05:02:29 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[13-Feb-2025 06:19:48 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[13-Feb-2025 06:41:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[13-Feb-2025 12:57:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[14-Feb-2025 14:55:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[15-Feb-2025 07:25:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[16-Feb-2025 05:11:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[16-Feb-2025 05:12:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[16-Feb-2025 05:13:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[16-Feb-2025 05:14:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[16-Feb-2025 05:15:35 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[16-Feb-2025 05:16:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[16-Feb-2025 13:46:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[26-Feb-2025 02:20:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[26-Feb-2025 02:20:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[26-Feb-2025 02:20:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[26-Feb-2025 02:21:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[26-Feb-2025 02:21:13 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[26-Feb-2025 05:11:44 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[26-Feb-2025 05:11:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[26-Feb-2025 05:12:04 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[09-Mar-2025 17:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[09-Mar-2025 17:03:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[09-Mar-2025 17:03:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[09-Mar-2025 17:03:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[09-Mar-2025 17:11:46 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[10-Mar-2025 06:09:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[10-Mar-2025 13:15:45 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[10-Mar-2025 13:29:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[10-Mar-2025 13:41:34 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[10-Mar-2025 13:43:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[10-Mar-2025 13:45:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[10-Mar-2025 19:21:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[13-Mar-2025 18:37:42 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[13-Mar-2025 18:44:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[13-Mar-2025 18:47:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[13-Mar-2025 18:52:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[13-Mar-2025 19:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[13-Mar-2025 19:48:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[13-Mar-2025 19:52:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[14-Mar-2025 06:36:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[14-Mar-2025 18:42:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[14-Mar-2025 18:43:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[14-Mar-2025 18:43:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[14-Mar-2025 18:44:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[14-Mar-2025 18:44:43 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[14-Mar-2025 19:26:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[14-Mar-2025 19:27:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[14-Mar-2025 19:27:31 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[16-Mar-2025 00:42:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[17-Mar-2025 22:15:31 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[17-Mar-2025 22:54:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[17-Mar-2025 23:04:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[17-Mar-2025 23:59:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[18-Mar-2025 00:41:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[18-Mar-2025 00:42:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[21-Mar-2025 23:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[25-Mar-2025 21:08:08 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[27-Mar-2025 02:26:26 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[27-Mar-2025 23:11:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[29-Mar-2025 13:03:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[07-Apr-2025 23:42:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[07-Apr-2025 23:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[07-Apr-2025 23:42:29 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[07-Apr-2025 23:42:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[07-Apr-2025 23:42:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[07-Apr-2025 23:42:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[07-Apr-2025 23:42:45 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[07-Apr-2025 23:42:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[15-Apr-2025 14:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[17-Apr-2025 12:32:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[17-Apr-2025 12:32:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[17-Apr-2025 12:32:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[17-Apr-2025 12:33:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[17-Apr-2025 12:33:31 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[17-Apr-2025 13:06:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[17-Apr-2025 13:06:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[17-Apr-2025 13:06:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[19-Apr-2025 04:07:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[30-Apr-2025 04:32:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[30-Apr-2025 04:33:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[30-Apr-2025 04:36:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[30-Apr-2025 04:37:25 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[30-Apr-2025 04:41:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[30-Apr-2025 04:42:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[30-Apr-2025 04:42:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[30-Apr-2025 04:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[04-May-2025 08:06:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[04-May-2025 10:23:25 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[04-May-2025 13:52:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[04-May-2025 14:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[04-May-2025 15:20:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[04-May-2025 18:17:57 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[04-May-2025 18:18:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[04-May-2025 20:06:12 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[04-May-2025 23:48:17 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[06-May-2025 05:32:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[06-May-2025 12:06:54 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[07-May-2025 10:57:20 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[08-May-2025 01:25:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[08-May-2025 06:20:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[08-May-2025 20:37:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[08-May-2025 20:37:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[08-May-2025 20:46:08 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[08-May-2025 20:46:09 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[08-May-2025 20:50:38 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[08-May-2025 20:50:38 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[08-May-2025 21:27:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[08-May-2025 21:28:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[08-May-2025 21:32:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[08-May-2025 21:32:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[08-May-2025 21:44:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[08-May-2025 21:44:12 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[08-May-2025 21:47:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[08-May-2025 21:47:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[08-May-2025 21:47:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[08-May-2025 21:47:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26
+[10-May-2025 00:07:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[10-May-2025 05:31:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[10-May-2025 06:44:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[10-May-2025 07:21:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[10-May-2025 09:33:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[10-May-2025 11:45:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[10-May-2025 13:58:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[10-May-2025 14:14:24 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[11-May-2025 06:07:27 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[11-May-2025 09:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[11-May-2025 14:45:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[12-May-2025 08:17:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/SignalableCommandInterface.php on line 33
+[12-May-2025 08:18:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/HelpCommand.php on line 26
+[12-May-2025 08:27:07 UTC] PHP Parse error:  syntax error, unexpected 'Command' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/TraceableCommand.php on line 32
+[12-May-2025 08:27:07 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/Command.php on line 363
+[12-May-2025 08:32:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/LazyCommand.php on line 29
+[12-May-2025 08:33:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/DumpCompletionCommand.php on line 50
+[12-May-2025 08:33:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/console/Command/CompleteCommand.php on line 193
+[12-May-2025 08:39:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Command/ListCommand.php on line 26

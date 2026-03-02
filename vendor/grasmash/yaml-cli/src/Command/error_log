@@ -1,0 +1,481 @@
+[13-Nov-2024 21:56:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[18-Nov-2024 04:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[18-Nov-2024 10:21:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[18-Nov-2024 16:26:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[20-Nov-2024 13:31:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[21-Nov-2024 12:06:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[21-Nov-2024 12:06:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[21-Nov-2024 12:07:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[21-Nov-2024 12:07:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[21-Nov-2024 12:07:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[21-Nov-2024 12:07:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[21-Nov-2024 16:10:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[06-Dec-2024 04:07:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[07-Dec-2024 12:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[09-Dec-2024 21:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[13-Dec-2024 11:09:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[13-Dec-2024 17:12:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[14-Dec-2024 13:41:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[18-Dec-2024 02:01:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[18-Dec-2024 12:01:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[19-Dec-2024 00:59:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[19-Dec-2024 01:00:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[19-Dec-2024 01:00:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[19-Dec-2024 01:01:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[19-Dec-2024 04:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[20-Dec-2024 18:29:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[21-Dec-2024 07:29:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[21-Dec-2024 23:39:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[23-Dec-2024 19:56:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[24-Dec-2024 06:34:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[27-Dec-2024 11:12:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[27-Dec-2024 11:12:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[27-Dec-2024 11:12:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[27-Dec-2024 11:12:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[27-Dec-2024 11:12:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[27-Dec-2024 11:12:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[27-Dec-2024 11:12:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[31-Dec-2024 04:13:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[01-Jan-2025 17:21:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[10-Jan-2025 11:16:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[15-Jan-2025 18:03:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[15-Jan-2025 18:41:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[15-Jan-2025 19:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[21-Jan-2025 05:20:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[29-Jan-2025 09:06:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[29-Jan-2025 09:06:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[29-Jan-2025 09:06:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[29-Jan-2025 09:06:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[29-Jan-2025 11:57:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[29-Jan-2025 11:57:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[29-Jan-2025 11:57:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[05-Feb-2025 06:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[05-Feb-2025 13:21:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[05-Feb-2025 14:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[06-Feb-2025 07:38:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[07-Feb-2025 12:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[07-Feb-2025 13:55:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[07-Feb-2025 22:00:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[14-Feb-2025 06:46:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[14-Feb-2025 15:38:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[16-Feb-2025 16:48:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[16-Feb-2025 17:01:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[17-Feb-2025 01:54:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[17-Feb-2025 17:39:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[18-Feb-2025 21:07:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[18-Feb-2025 22:31:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[21-Feb-2025 09:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[21-Feb-2025 09:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[21-Feb-2025 09:47:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[21-Feb-2025 09:47:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[21-Feb-2025 09:47:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[21-Feb-2025 09:47:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[21-Feb-2025 09:47:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[10-Mar-2025 03:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[10-Mar-2025 03:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[10-Mar-2025 03:17:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[10-Mar-2025 03:17:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[10-Mar-2025 03:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[10-Mar-2025 03:17:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[10-Mar-2025 12:59:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[13-Mar-2025 17:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[13-Mar-2025 17:46:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[13-Mar-2025 19:14:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[13-Mar-2025 19:33:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[13-Mar-2025 19:39:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[13-Mar-2025 20:31:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[13-Mar-2025 20:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[15-Mar-2025 15:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[15-Mar-2025 22:03:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[15-Mar-2025 23:29:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[17-Mar-2025 20:51:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[20-Mar-2025 23:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[06-Apr-2025 14:06:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[06-Apr-2025 14:06:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[06-Apr-2025 14:07:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[06-Apr-2025 14:07:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[06-Apr-2025 14:08:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[06-Apr-2025 14:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[06-Apr-2025 14:09:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[08-Apr-2025 03:11:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[08-Apr-2025 03:11:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[08-Apr-2025 03:11:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[08-Apr-2025 03:11:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[08-Apr-2025 03:11:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[08-Apr-2025 03:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[08-Apr-2025 03:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[17-Apr-2025 22:05:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[18-Apr-2025 02:15:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[07-May-2025 08:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[07-May-2025 10:06:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[07-May-2025 12:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[07-May-2025 12:07:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[07-May-2025 13:11:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[07-May-2025 13:30:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[07-May-2025 18:42:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[08-May-2025 22:03:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[08-May-2025 22:03:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[08-May-2025 22:03:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[08-May-2025 22:03:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetTypeCommand.php on line 15
+[08-May-2025 22:03:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[08-May-2025 22:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[08-May-2025 22:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[08-May-2025 22:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[08-May-2025 22:07:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[08-May-2025 22:07:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateValueCommand.php on line 69
+[08-May-2025 22:10:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[08-May-2025 22:10:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[10-May-2025 06:41:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15
+[10-May-2025 14:21:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/GetValueCommand.php on line 16
+[11-May-2025 07:38:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/LintCommand.php on line 14
+[11-May-2025 14:08:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UnsetKeyCommand.php on line 15
+[11-May-2025 15:56:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/CommandBase.php on line 19
+[12-May-2025 11:31:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Grasmash\YamlCli\Command\CommandBase' not found in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/grasmash/yaml-cli/src/Command/UpdateKeyCommand.php on line 15

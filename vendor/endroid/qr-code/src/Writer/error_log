@@ -1,0 +1,688 @@
+[13-Nov-2024 06:32:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[13-Nov-2024 15:39:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[18-Nov-2024 03:09:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[18-Nov-2024 03:23:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[18-Nov-2024 05:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[18-Nov-2024 14:57:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[18-Nov-2024 16:58:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[21-Nov-2024 12:00:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[21-Nov-2024 12:00:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[21-Nov-2024 12:00:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[21-Nov-2024 12:01:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[21-Nov-2024 12:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[21-Nov-2024 12:01:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[21-Nov-2024 12:01:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[21-Nov-2024 12:01:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[21-Nov-2024 12:01:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[21-Nov-2024 12:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[07-Dec-2024 13:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[07-Dec-2024 14:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[10-Dec-2024 11:55:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[11-Dec-2024 21:05:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[16-Dec-2024 13:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[18-Dec-2024 00:13:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[18-Dec-2024 03:35:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[18-Dec-2024 07:42:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[19-Dec-2024 15:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[19-Dec-2024 20:54:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[27-Dec-2024 11:12:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[27-Dec-2024 11:12:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[27-Dec-2024 11:12:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[27-Dec-2024 11:12:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[27-Dec-2024 11:12:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[27-Dec-2024 11:12:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[27-Dec-2024 11:12:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[27-Dec-2024 11:12:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[27-Dec-2024 11:12:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[27-Dec-2024 11:12:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[31-Dec-2024 13:08:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[10-Jan-2025 05:51:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[10-Jan-2025 15:22:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[15-Jan-2025 08:02:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[15-Jan-2025 10:06:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[15-Jan-2025 16:44:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[15-Jan-2025 17:56:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[15-Jan-2025 21:06:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[29-Jan-2025 05:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[29-Jan-2025 10:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[29-Jan-2025 10:10:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[29-Jan-2025 10:10:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[29-Jan-2025 10:10:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[29-Jan-2025 10:10:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[29-Jan-2025 10:10:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[29-Jan-2025 10:10:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[29-Jan-2025 10:10:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[29-Jan-2025 10:10:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[05-Feb-2025 00:38:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[05-Feb-2025 00:38:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[05-Feb-2025 13:21:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[05-Feb-2025 14:15:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[06-Feb-2025 18:24:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[07-Feb-2025 00:53:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[07-Feb-2025 09:45:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[07-Feb-2025 10:40:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[08-Feb-2025 02:04:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[08-Feb-2025 06:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[16-Feb-2025 17:30:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[16-Feb-2025 23:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[17-Feb-2025 02:18:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[21-Feb-2025 09:47:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[21-Feb-2025 09:47:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[21-Feb-2025 09:47:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[21-Feb-2025 09:47:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[21-Feb-2025 09:47:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[21-Feb-2025 09:47:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[21-Feb-2025 09:47:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[21-Feb-2025 09:47:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[21-Feb-2025 09:47:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[21-Feb-2025 09:47:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[10-Mar-2025 03:17:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[10-Mar-2025 03:17:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[10-Mar-2025 03:17:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[10-Mar-2025 03:17:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[10-Mar-2025 11:53:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[10-Mar-2025 12:00:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[10-Mar-2025 12:02:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[10-Mar-2025 15:37:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[10-Mar-2025 21:14:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[13-Mar-2025 17:33:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[13-Mar-2025 17:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[13-Mar-2025 17:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[13-Mar-2025 19:05:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[13-Mar-2025 19:19:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[13-Mar-2025 19:37:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[13-Mar-2025 19:53:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[13-Mar-2025 20:12:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[13-Mar-2025 20:15:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[14-Mar-2025 06:43:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[15-Mar-2025 14:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[15-Mar-2025 20:30:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[15-Mar-2025 22:15:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[15-Mar-2025 22:25:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[15-Mar-2025 23:31:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[17-Mar-2025 23:15:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[05-Apr-2025 23:26:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[05-Apr-2025 23:26:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[05-Apr-2025 23:27:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[05-Apr-2025 23:27:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[05-Apr-2025 23:27:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[05-Apr-2025 23:28:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[05-Apr-2025 23:28:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[05-Apr-2025 23:28:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[05-Apr-2025 23:29:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[05-Apr-2025 23:29:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[08-Apr-2025 03:04:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[08-Apr-2025 03:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[08-Apr-2025 03:04:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[08-Apr-2025 03:04:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[08-Apr-2025 03:04:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[08-Apr-2025 03:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[08-Apr-2025 03:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[08-Apr-2025 03:04:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[08-Apr-2025 03:04:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[08-Apr-2025 03:04:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[18-Apr-2025 03:38:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[18-Apr-2025 05:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[18-Apr-2025 06:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[07-May-2025 05:32:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[07-May-2025 06:21:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[07-May-2025 06:21:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[07-May-2025 07:27:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[07-May-2025 08:22:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[07-May-2025 15:17:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[07-May-2025 17:28:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[07-May-2025 18:13:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[07-May-2025 20:58:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[07-May-2025 22:20:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[08-May-2025 21:28:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[08-May-2025 21:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[08-May-2025 21:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[08-May-2025 21:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[08-May-2025 21:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[08-May-2025 21:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[08-May-2025 21:29:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[08-May-2025 21:29:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[08-May-2025 21:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[08-May-2025 21:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[08-May-2025 21:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[08-May-2025 21:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[08-May-2025 21:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[08-May-2025 21:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[08-May-2025 21:31:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[08-May-2025 21:31:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[08-May-2025 21:37:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[08-May-2025 21:37:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[09-May-2025 12:09:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[10-May-2025 06:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[10-May-2025 08:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[11-May-2025 01:07:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[11-May-2025 01:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[11-May-2025 14:08:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[11-May-2025 14:56:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[12-May-2025 13:28:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/BinaryWriter.php on line 14
+[12-May-2025 13:32:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/AbstractGdWriter.php on line 21
+[12-May-2025 13:32:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/ConsoleWriter.php on line 14
+[12-May-2025 13:35:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/DebugWriter.php on line 14
+[12-May-2025 13:37:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/WebPWriter.php on line 14
+[12-May-2025 13:38:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PdfWriter.php on line 14
+[12-May-2025 13:42:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/SvgWriter.php on line 16
+[12-May-2025 13:43:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Writer\WriterInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/EpsWriter.php on line 14
+[12-May-2025 13:44:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14
+[12-May-2025 13:45:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/GifWriter.php on line 14
+[13-May-2025 06:16:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\AbstractGdWriter' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/PngWriter.php on line 14

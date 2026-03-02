@@ -1,0 +1,75 @@
+[18-Nov-2024 07:48:42 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[18-Nov-2024 16:41:05 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[18-Nov-2024 19:01:13 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[21-Nov-2024 09:04:38 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[21-Nov-2024 09:04:43 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[21-Nov-2024 09:04:52 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[22-Nov-2024 07:43:28 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[02-Dec-2024 02:37:18 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[02-Dec-2024 02:37:19 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[02-Dec-2024 02:37:20 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[21-Dec-2024 01:26:40 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[21-Dec-2024 14:40:04 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[30-Dec-2024 16:16:15 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[15-Jan-2025 13:52:14 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[15-Jan-2025 17:21:38 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[15-Jan-2025 21:58:38 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[23-Jan-2025 16:39:57 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[23-Jan-2025 16:39:58 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[23-Jan-2025 16:39:59 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[29-Jan-2025 08:15:51 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[29-Jan-2025 08:15:56 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[29-Jan-2025 08:15:59 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[01-Feb-2025 23:10:05 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[01-Feb-2025 23:59:03 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[05-Feb-2025 00:37:04 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[12-Feb-2025 23:50:40 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[12-Feb-2025 23:51:06 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[13-Feb-2025 00:08:37 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[16-Feb-2025 05:06:07 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[16-Feb-2025 05:08:55 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[16-Feb-2025 13:45:15 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[18-Feb-2025 21:50:40 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[24-Feb-2025 16:31:14 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[24-Feb-2025 16:31:21 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[24-Feb-2025 16:34:32 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[26-Feb-2025 01:31:51 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[26-Feb-2025 01:33:57 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[26-Feb-2025 01:36:00 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[07-Mar-2025 20:59:33 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[09-Mar-2025 16:56:07 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[09-Mar-2025 16:56:11 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[13-Mar-2025 17:48:39 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[13-Mar-2025 18:06:10 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[13-Mar-2025 20:03:23 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[14-Mar-2025 17:48:29 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[14-Mar-2025 17:49:02 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[14-Mar-2025 17:49:22 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[15-Mar-2025 19:35:51 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[15-Mar-2025 19:54:37 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[15-Mar-2025 20:06:12 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[17-Mar-2025 20:37:24 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[07-Apr-2025 23:42:10 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[07-Apr-2025 23:42:13 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[07-Apr-2025 23:42:17 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[17-Apr-2025 10:12:21 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[17-Apr-2025 10:13:12 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[17-Apr-2025 10:13:44 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[30-Apr-2025 04:38:40 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[30-Apr-2025 04:55:18 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[30-Apr-2025 05:05:29 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[04-May-2025 08:31:28 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[04-May-2025 10:57:37 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[04-May-2025 13:53:57 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[04-May-2025 14:39:14 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[04-May-2025 20:06:21 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[08-May-2025 20:49:53 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[08-May-2025 20:49:53 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[08-May-2025 21:36:05 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[08-May-2025 21:36:06 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99
+[08-May-2025 21:37:50 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[08-May-2025 21:37:50 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[11-May-2025 01:05:17 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[12-May-2025 08:28:16 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/CommandTester.php on line 23
+[12-May-2025 08:53:31 UTC] PHP Fatal error:  Trait 'Symfony\Component\Console\Tester\TesterTrait' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[12-May-2025 09:10:07 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/console/Tester/TesterTrait.php on line 99

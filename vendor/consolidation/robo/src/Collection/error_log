@@ -1,0 +1,696 @@
+[13-Jun-2024 09:12:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[13-Jun-2024 09:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[13-Jun-2024 09:15:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[13-Jun-2024 09:16:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[13-Jun-2024 09:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[13-Jun-2024 09:17:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[13-Jun-2024 09:18:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[10-Jul-2024 16:25:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[10-Jul-2024 20:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[10-Jul-2024 22:41:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[10-Jul-2024 23:48:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[11-Jul-2024 01:58:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[11-Jul-2024 05:49:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[11-Jul-2024 06:55:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[04-Aug-2024 16:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[04-Aug-2024 16:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[04-Aug-2024 16:48:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[04-Aug-2024 16:49:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[04-Aug-2024 16:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[04-Aug-2024 16:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[04-Aug-2024 16:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[09-Aug-2024 00:19:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[09-Aug-2024 00:19:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[09-Aug-2024 00:19:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[09-Aug-2024 00:19:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[09-Aug-2024 00:19:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[09-Aug-2024 00:19:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[09-Aug-2024 00:19:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[27-Aug-2024 17:01:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[27-Aug-2024 19:46:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[27-Aug-2024 19:53:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[28-Aug-2024 00:51:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[28-Aug-2024 02:53:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[31-Aug-2024 16:02:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[31-Aug-2024 16:11:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[12-Sep-2024 18:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[12-Sep-2024 20:25:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[13-Sep-2024 03:26:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[13-Sep-2024 05:35:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[13-Sep-2024 07:20:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[13-Sep-2024 10:31:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[13-Sep-2024 12:35:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[19-Sep-2024 12:43:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[19-Sep-2024 12:43:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[19-Sep-2024 12:43:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[19-Sep-2024 12:43:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[19-Sep-2024 12:44:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[19-Sep-2024 12:44:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[19-Sep-2024 12:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[29-Oct-2024 17:36:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[29-Oct-2024 17:42:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[29-Oct-2024 17:51:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[13-Nov-2024 08:18:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[13-Nov-2024 08:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[13-Nov-2024 15:08:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[18-Nov-2024 03:15:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[18-Nov-2024 05:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[18-Nov-2024 06:08:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[18-Nov-2024 14:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[21-Nov-2024 12:21:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[21-Nov-2024 12:21:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[21-Nov-2024 12:22:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[21-Nov-2024 12:22:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[21-Nov-2024 12:22:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[21-Nov-2024 12:22:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[21-Nov-2024 12:22:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[30-Nov-2024 10:29:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[02-Dec-2024 10:13:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[07-Dec-2024 14:30:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[09-Dec-2024 11:25:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[09-Dec-2024 14:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[09-Dec-2024 15:02:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[09-Dec-2024 15:37:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[15-Dec-2024 14:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[17-Dec-2024 05:23:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[17-Dec-2024 18:15:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[22-Dec-2024 10:44:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[22-Dec-2024 10:44:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[22-Dec-2024 10:44:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[22-Dec-2024 10:44:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[22-Dec-2024 10:44:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[22-Dec-2024 10:44:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[22-Dec-2024 10:44:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[25-Dec-2024 14:40:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[26-Dec-2024 10:31:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[26-Dec-2024 10:31:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[10-Jan-2025 04:04:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[10-Jan-2025 07:56:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[10-Jan-2025 14:54:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[15-Jan-2025 06:14:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[15-Jan-2025 07:37:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[15-Jan-2025 21:00:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[15-Jan-2025 22:57:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[29-Jan-2025 12:03:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[29-Jan-2025 12:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[29-Jan-2025 12:03:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[29-Jan-2025 12:03:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[29-Jan-2025 12:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[29-Jan-2025 12:04:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[29-Jan-2025 12:04:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[08-Feb-2025 14:32:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[08-Feb-2025 19:33:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[13-Feb-2025 09:21:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[13-Feb-2025 19:12:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[17-Feb-2025 16:49:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[17-Feb-2025 16:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[17-Feb-2025 16:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[17-Feb-2025 16:49:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[17-Feb-2025 16:49:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[17-Feb-2025 16:49:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[17-Feb-2025 16:49:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[17-Feb-2025 18:04:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[23-Feb-2025 09:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[23-Feb-2025 09:33:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[23-Feb-2025 09:34:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[10-Mar-2025 03:07:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[10-Mar-2025 03:07:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[10-Mar-2025 03:07:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[10-Mar-2025 03:07:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[10-Mar-2025 04:35:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[10-Mar-2025 10:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[10-Mar-2025 18:43:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[13-Mar-2025 18:54:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[13-Mar-2025 19:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[13-Mar-2025 19:47:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[13-Mar-2025 19:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[13-Mar-2025 20:07:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[13-Mar-2025 20:09:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[13-Mar-2025 20:21:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[15-Mar-2025 19:55:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[15-Mar-2025 21:14:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[16-Mar-2025 01:44:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[16-Mar-2025 02:27:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[18-Mar-2025 00:37:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[18-Mar-2025 05:52:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[18-Mar-2025 05:53:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[18-Mar-2025 05:53:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[18-Mar-2025 05:53:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[18-Mar-2025 05:53:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[18-Mar-2025 05:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[18-Mar-2025 05:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[08-Apr-2025 04:25:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[08-Apr-2025 04:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[08-Apr-2025 04:26:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[08-Apr-2025 04:26:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[08-Apr-2025 04:26:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[08-Apr-2025 04:26:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[08-Apr-2025 04:26:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[19-Apr-2025 15:50:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[19-Apr-2025 15:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[19-Apr-2025 15:50:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[19-Apr-2025 15:50:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[19-Apr-2025 15:51:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[19-Apr-2025 15:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[19-Apr-2025 15:51:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[03-May-2025 10:29:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[07-May-2025 04:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[07-May-2025 07:27:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[07-May-2025 10:50:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[07-May-2025 13:56:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[07-May-2025 15:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[07-May-2025 18:56:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[07-May-2025 23:25:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[10-May-2025 05:32:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[10-May-2025 07:56:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[10-May-2025 11:32:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[12-May-2025 17:59:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Contract\TaskInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CallableTask.php on line 17
+[12-May-2025 18:05:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/TaskForEach.php on line 19
+[12-May-2025 18:06:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Hooks\ProcessResultInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionProcessHook.php on line 18
+[12-May-2025 18:07:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Robo\Collection\NestedCollectionInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionInterface.php on line 8
+[12-May-2025 18:09:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21
+[12-May-2025 18:11:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CollectionBuilder.php on line 51
+[12-May-2025 18:12:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/Collection.php on line 35
+[12-May-2025 19:17:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Collection/CompletionWrapper.php on line 21

@@ -1,0 +1,1113 @@
+[08-Nov-2024 01:51:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[08-Nov-2024 04:05:56 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[08-Nov-2024 07:43:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[08-Nov-2024 10:57:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[08-Nov-2024 12:01:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[08-Nov-2024 16:32:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[08-Nov-2024 18:25:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[13-Nov-2024 05:13:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[13-Nov-2024 11:48:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[13-Nov-2024 12:09:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[13-Nov-2024 13:58:12 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[13-Nov-2024 15:41:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[13-Nov-2024 18:52:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[13-Nov-2024 20:28:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[13-Nov-2024 20:38:30 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[18-Nov-2024 01:59:18 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[18-Nov-2024 02:45:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[18-Nov-2024 03:38:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[18-Nov-2024 03:40:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[18-Nov-2024 04:04:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[18-Nov-2024 13:08:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[18-Nov-2024 13:32:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[18-Nov-2024 13:32:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[18-Nov-2024 17:15:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[21-Nov-2024 09:23:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[21-Nov-2024 09:23:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[21-Nov-2024 09:24:05 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[21-Nov-2024 09:24:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[21-Nov-2024 09:24:13 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[21-Nov-2024 09:24:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[21-Nov-2024 09:24:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[21-Nov-2024 09:24:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[21-Nov-2024 09:24:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[21-Nov-2024 09:24:43 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[21-Nov-2024 09:24:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[21-Nov-2024 09:24:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[21-Nov-2024 09:24:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[21-Nov-2024 09:25:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[21-Nov-2024 09:25:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[21-Nov-2024 09:25:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[21-Nov-2024 09:25:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[21-Nov-2024 09:25:25 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[21-Nov-2024 09:25:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[21-Nov-2024 09:25:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[21-Nov-2024 09:25:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[21-Nov-2024 09:25:45 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[21-Nov-2024 09:25:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[21-Nov-2024 09:25:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[01-Dec-2024 10:20:40 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[06-Dec-2024 18:07:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[07-Dec-2024 03:12:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[07-Dec-2024 03:12:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[07-Dec-2024 03:12:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[07-Dec-2024 03:12:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[07-Dec-2024 03:12:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[07-Dec-2024 03:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[07-Dec-2024 03:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[07-Dec-2024 03:12:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[07-Dec-2024 03:12:19 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[07-Dec-2024 03:12:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[07-Dec-2024 03:12:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[07-Dec-2024 03:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[07-Dec-2024 03:12:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[07-Dec-2024 03:12:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[07-Dec-2024 03:12:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[07-Dec-2024 03:12:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[07-Dec-2024 03:12:25 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[07-Dec-2024 03:12:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[07-Dec-2024 03:12:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[07-Dec-2024 03:12:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[07-Dec-2024 03:12:29 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[07-Dec-2024 03:12:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[07-Dec-2024 03:12:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[07-Dec-2024 03:12:30 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[07-Dec-2024 12:54:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[07-Dec-2024 14:20:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[10-Dec-2024 16:58:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[15-Dec-2024 16:35:59 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[16-Dec-2024 16:13:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[17-Dec-2024 04:18:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[17-Dec-2024 06:03:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[18-Dec-2024 20:09:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[20-Dec-2024 17:59:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[21-Dec-2024 15:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[21-Dec-2024 23:47:45 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[22-Dec-2024 02:08:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[27-Dec-2024 15:00:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[27-Dec-2024 16:07:05 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[30-Dec-2024 21:56:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[01-Jan-2025 14:45:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[02-Jan-2025 03:45:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[03-Jan-2025 19:55:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[10-Jan-2025 02:21:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[10-Jan-2025 03:07:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[10-Jan-2025 03:34:01 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[10-Jan-2025 06:01:28 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[10-Jan-2025 07:50:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[10-Jan-2025 07:56:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[10-Jan-2025 08:08:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[10-Jan-2025 08:17:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[10-Jan-2025 09:37:58 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[10-Jan-2025 09:57:44 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[10-Jan-2025 13:27:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[10-Jan-2025 14:40:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[10-Jan-2025 15:17:48 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[10-Jan-2025 15:57:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[10-Jan-2025 16:24:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[15-Jan-2025 06:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[15-Jan-2025 06:06:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[15-Jan-2025 14:08:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[15-Jan-2025 17:33:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[15-Jan-2025 17:44:42 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[15-Jan-2025 17:57:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[15-Jan-2025 20:51:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[15-Jan-2025 21:07:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[15-Jan-2025 21:31:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[19-Jan-2025 13:33:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[19-Jan-2025 13:36:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[19-Jan-2025 13:48:50 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[29-Jan-2025 05:04:55 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[29-Jan-2025 05:06:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[29-Jan-2025 08:26:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[29-Jan-2025 08:26:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[29-Jan-2025 08:26:49 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[29-Jan-2025 08:26:58 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[29-Jan-2025 08:27:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[29-Jan-2025 08:27:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[29-Jan-2025 08:27:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[29-Jan-2025 08:27:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[29-Jan-2025 08:27:23 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[29-Jan-2025 08:27:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[29-Jan-2025 08:27:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[29-Jan-2025 08:27:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[29-Jan-2025 08:27:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[29-Jan-2025 08:28:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[29-Jan-2025 08:28:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[29-Jan-2025 08:28:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[29-Jan-2025 08:29:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[29-Jan-2025 08:29:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[29-Jan-2025 08:29:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[29-Jan-2025 08:29:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[29-Jan-2025 08:29:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[30-Jan-2025 04:21:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[30-Jan-2025 05:49:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[30-Jan-2025 08:54:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[30-Jan-2025 09:40:23 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[30-Jan-2025 12:54:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[30-Jan-2025 14:27:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[30-Jan-2025 15:57:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[30-Jan-2025 16:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[30-Jan-2025 18:17:39 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[30-Jan-2025 22:26:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[31-Jan-2025 00:04:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[31-Jan-2025 00:05:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[31-Jan-2025 00:08:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[31-Jan-2025 00:12:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[31-Jan-2025 00:18:00 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[31-Jan-2025 00:24:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[31-Jan-2025 00:27:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[31-Jan-2025 00:29:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[31-Jan-2025 07:46:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[31-Jan-2025 08:37:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[31-Jan-2025 15:33:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[31-Jan-2025 15:33:45 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[31-Jan-2025 16:23:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[31-Jan-2025 17:13:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[01-Feb-2025 01:23:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[01-Feb-2025 09:33:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[01-Feb-2025 11:18:17 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[01-Feb-2025 12:15:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[01-Feb-2025 17:35:14 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[02-Feb-2025 02:30:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[02-Feb-2025 08:51:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[04-Feb-2025 11:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[04-Feb-2025 18:52:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[04-Feb-2025 20:27:29 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[04-Feb-2025 21:15:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[12-Feb-2025 23:20:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[12-Feb-2025 23:29:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[12-Feb-2025 23:32:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[12-Feb-2025 23:45:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[12-Feb-2025 23:54:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[12-Feb-2025 23:56:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[13-Feb-2025 00:05:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[13-Feb-2025 00:17:37 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[13-Feb-2025 00:27:34 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[13-Feb-2025 00:32:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[13-Feb-2025 00:37:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[13-Feb-2025 01:00:43 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[13-Feb-2025 01:03:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[13-Feb-2025 01:15:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[13-Feb-2025 01:34:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[13-Feb-2025 01:48:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[13-Feb-2025 01:50:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[13-Feb-2025 02:14:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[13-Feb-2025 02:32:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[13-Feb-2025 02:39:45 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[13-Feb-2025 03:04:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[13-Feb-2025 03:48:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[13-Feb-2025 04:06:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[13-Feb-2025 04:18:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[13-Feb-2025 06:21:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[14-Feb-2025 15:22:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[14-Feb-2025 17:47:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[14-Feb-2025 20:32:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[15-Feb-2025 02:25:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[15-Feb-2025 03:22:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[15-Feb-2025 04:23:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[15-Feb-2025 07:12:30 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[15-Feb-2025 19:16:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[15-Feb-2025 20:25:21 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[16-Feb-2025 06:03:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[16-Feb-2025 06:04:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[16-Feb-2025 06:48:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[16-Feb-2025 06:49:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[16-Feb-2025 06:51:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[16-Feb-2025 06:52:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[16-Feb-2025 07:17:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[16-Feb-2025 07:18:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[16-Feb-2025 07:20:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[16-Feb-2025 07:22:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[16-Feb-2025 09:43:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[16-Feb-2025 09:43:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[16-Feb-2025 09:44:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[16-Feb-2025 09:46:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[16-Feb-2025 14:08:20 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[16-Feb-2025 14:10:21 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[16-Feb-2025 21:47:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[17-Feb-2025 03:03:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[17-Feb-2025 03:35:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[17-Feb-2025 07:30:22 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[17-Feb-2025 10:21:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[17-Feb-2025 12:10:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[17-Feb-2025 12:11:27 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[17-Feb-2025 18:24:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[17-Feb-2025 19:08:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[17-Feb-2025 19:13:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[18-Feb-2025 07:08:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[18-Feb-2025 07:13:00 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[18-Feb-2025 17:21:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[18-Feb-2025 20:11:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[18-Feb-2025 20:14:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[18-Feb-2025 20:17:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[18-Feb-2025 20:22:56 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[18-Feb-2025 20:23:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[18-Feb-2025 21:14:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[18-Feb-2025 22:38:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[18-Feb-2025 22:45:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[04-Mar-2025 02:27:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[04-Mar-2025 02:28:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[04-Mar-2025 02:28:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[04-Mar-2025 02:28:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[04-Mar-2025 02:29:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[04-Mar-2025 02:29:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[04-Mar-2025 02:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[04-Mar-2025 02:30:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[04-Mar-2025 02:30:23 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[04-Mar-2025 02:30:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[04-Mar-2025 02:30:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[04-Mar-2025 02:30:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[04-Mar-2025 02:31:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[04-Mar-2025 02:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[04-Mar-2025 02:31:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[04-Mar-2025 02:32:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[04-Mar-2025 02:32:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[04-Mar-2025 02:32:45 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[04-Mar-2025 02:33:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[04-Mar-2025 02:33:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[04-Mar-2025 02:33:36 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[04-Mar-2025 02:33:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[04-Mar-2025 02:33:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[04-Mar-2025 02:34:03 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[08-Mar-2025 02:23:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[08-Mar-2025 02:23:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[08-Mar-2025 02:23:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[08-Mar-2025 02:23:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[08-Mar-2025 02:23:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[08-Mar-2025 02:23:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[08-Mar-2025 02:23:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[08-Mar-2025 02:23:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[08-Mar-2025 02:23:21 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[08-Mar-2025 02:23:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[08-Mar-2025 02:23:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[08-Mar-2025 02:23:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[08-Mar-2025 02:23:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[08-Mar-2025 02:23:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[08-Mar-2025 02:23:25 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[08-Mar-2025 02:23:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[08-Mar-2025 02:23:26 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[08-Mar-2025 02:23:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[08-Mar-2025 02:23:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[08-Mar-2025 02:23:30 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[08-Mar-2025 02:23:30 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[08-Mar-2025 02:23:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[08-Mar-2025 02:23:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[08-Mar-2025 02:23:32 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[09-Mar-2025 14:59:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[10-Mar-2025 02:40:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[10-Mar-2025 08:20:04 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[10-Mar-2025 08:24:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[10-Mar-2025 09:13:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[10-Mar-2025 10:04:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[10-Mar-2025 11:08:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[10-Mar-2025 12:04:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[10-Mar-2025 12:22:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[10-Mar-2025 12:22:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[10-Mar-2025 15:48:42 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[10-Mar-2025 16:08:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[10-Mar-2025 16:10:46 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[10-Mar-2025 17:28:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[10-Mar-2025 17:42:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[10-Mar-2025 19:17:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[10-Mar-2025 21:20:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[12-Mar-2025 08:46:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[13-Mar-2025 17:39:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[13-Mar-2025 17:44:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[13-Mar-2025 17:50:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[13-Mar-2025 18:03:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[13-Mar-2025 18:06:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[13-Mar-2025 18:36:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[13-Mar-2025 18:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[13-Mar-2025 18:40:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[13-Mar-2025 18:42:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[13-Mar-2025 18:43:23 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[13-Mar-2025 18:49:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[13-Mar-2025 19:08:55 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[13-Mar-2025 19:09:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[13-Mar-2025 19:19:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[13-Mar-2025 19:25:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[13-Mar-2025 20:05:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[13-Mar-2025 20:17:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[13-Mar-2025 20:22:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[13-Mar-2025 20:26:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[13-Mar-2025 20:27:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[13-Mar-2025 20:31:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[13-Mar-2025 20:33:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[14-Mar-2025 05:39:55 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[14-Mar-2025 08:37:19 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[15-Mar-2025 17:56:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[15-Mar-2025 19:20:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[15-Mar-2025 20:05:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[15-Mar-2025 20:23:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[15-Mar-2025 21:58:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[16-Mar-2025 00:06:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[16-Mar-2025 00:35:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[16-Mar-2025 01:04:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[16-Mar-2025 03:10:12 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[17-Mar-2025 18:43:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[17-Mar-2025 21:12:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[17-Mar-2025 21:31:04 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[17-Mar-2025 22:18:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[17-Mar-2025 22:41:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[18-Mar-2025 01:41:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[18-Mar-2025 02:13:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[21-Mar-2025 07:28:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[21-Mar-2025 07:28:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[21-Mar-2025 07:28:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[21-Mar-2025 07:29:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[21-Mar-2025 07:29:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[21-Mar-2025 07:31:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[21-Mar-2025 07:31:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[21-Mar-2025 07:32:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[21-Mar-2025 07:32:27 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[21-Mar-2025 07:32:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[21-Mar-2025 07:33:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[21-Mar-2025 07:33:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[21-Mar-2025 07:33:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[21-Mar-2025 07:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[21-Mar-2025 07:34:52 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[21-Mar-2025 07:35:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[21-Mar-2025 07:35:24 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[21-Mar-2025 07:35:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[21-Mar-2025 07:36:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[21-Mar-2025 07:37:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[21-Mar-2025 07:37:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[21-Mar-2025 07:37:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[21-Mar-2025 07:37:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[21-Mar-2025 07:38:09 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[07-Apr-2025 22:47:25 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[08-Apr-2025 01:33:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[08-Apr-2025 01:33:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[08-Apr-2025 01:33:21 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[08-Apr-2025 01:33:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[08-Apr-2025 01:33:29 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[08-Apr-2025 01:33:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[08-Apr-2025 01:33:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[08-Apr-2025 01:33:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[08-Apr-2025 01:33:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[08-Apr-2025 01:33:49 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[08-Apr-2025 01:33:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[08-Apr-2025 01:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[08-Apr-2025 01:34:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[08-Apr-2025 01:34:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[08-Apr-2025 01:34:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[08-Apr-2025 01:34:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[08-Apr-2025 01:34:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[08-Apr-2025 01:34:21 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[08-Apr-2025 01:34:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[08-Apr-2025 01:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[08-Apr-2025 01:34:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[08-Apr-2025 01:34:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[08-Apr-2025 01:34:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[19-Apr-2025 18:16:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[19-Apr-2025 18:16:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[19-Apr-2025 18:16:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[19-Apr-2025 18:16:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[19-Apr-2025 18:17:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[19-Apr-2025 18:17:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[19-Apr-2025 18:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[19-Apr-2025 18:17:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[19-Apr-2025 18:18:10 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[19-Apr-2025 18:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[19-Apr-2025 18:18:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[19-Apr-2025 18:19:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[19-Apr-2025 18:19:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[19-Apr-2025 18:20:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[19-Apr-2025 18:20:27 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[19-Apr-2025 18:20:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[19-Apr-2025 18:20:59 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[19-Apr-2025 18:21:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[19-Apr-2025 18:22:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[19-Apr-2025 18:22:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[19-Apr-2025 18:22:56 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[19-Apr-2025 18:23:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[19-Apr-2025 18:23:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[19-Apr-2025 18:23:30 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[29-Apr-2025 22:44:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[29-Apr-2025 22:44:22 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[29-Apr-2025 22:44:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[29-Apr-2025 22:44:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[29-Apr-2025 22:44:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[29-Apr-2025 22:46:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[29-Apr-2025 22:46:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[29-Apr-2025 22:46:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[29-Apr-2025 22:46:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[29-Apr-2025 22:46:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[29-Apr-2025 22:49:14 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[29-Apr-2025 22:49:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[29-Apr-2025 22:51:44 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[29-Apr-2025 22:51:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[29-Apr-2025 22:54:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[29-Apr-2025 22:54:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[29-Apr-2025 22:56:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[29-Apr-2025 22:56:41 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[29-Apr-2025 22:56:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[29-Apr-2025 22:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[29-Apr-2025 22:59:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[29-Apr-2025 23:01:42 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[29-Apr-2025 23:04:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[02-May-2025 02:29:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[02-May-2025 04:34:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[02-May-2025 04:34:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[02-May-2025 06:59:39 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[02-May-2025 07:13:46 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[02-May-2025 07:27:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[02-May-2025 07:54:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[02-May-2025 09:28:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[02-May-2025 11:34:03 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[02-May-2025 11:55:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[02-May-2025 12:50:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[02-May-2025 13:23:07 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[02-May-2025 13:23:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[02-May-2025 13:31:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[02-May-2025 14:29:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[02-May-2025 15:01:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[02-May-2025 15:35:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[02-May-2025 16:42:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[02-May-2025 17:40:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[02-May-2025 18:23:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[02-May-2025 19:20:30 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[02-May-2025 20:29:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[02-May-2025 20:29:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[02-May-2025 21:57:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[03-May-2025 00:27:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[03-May-2025 01:26:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[03-May-2025 08:02:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[03-May-2025 08:02:33 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[03-May-2025 08:48:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[03-May-2025 09:34:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[04-May-2025 09:01:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[05-May-2025 06:30:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[05-May-2025 08:02:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[05-May-2025 11:21:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[05-May-2025 12:05:20 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[05-May-2025 12:53:04 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[05-May-2025 15:31:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[05-May-2025 17:06:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[05-May-2025 18:56:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[05-May-2025 19:41:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[05-May-2025 21:12:55 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[06-May-2025 01:31:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[07-May-2025 02:58:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[07-May-2025 10:57:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[07-May-2025 12:41:49 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[07-May-2025 13:30:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[08-May-2025 03:12:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[08-May-2025 09:26:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[08-May-2025 16:17:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[08-May-2025 18:10:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[08-May-2025 20:38:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[08-May-2025 20:38:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[08-May-2025 20:41:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[08-May-2025 20:41:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[08-May-2025 20:45:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[08-May-2025 20:45:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[08-May-2025 20:47:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[08-May-2025 20:47:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[08-May-2025 20:51:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[08-May-2025 20:51:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[08-May-2025 20:53:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[08-May-2025 20:53:54 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[08-May-2025 20:55:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[08-May-2025 20:55:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[08-May-2025 20:55:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[08-May-2025 20:55:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[08-May-2025 20:58:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[08-May-2025 20:58:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[08-May-2025 20:59:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[08-May-2025 20:59:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[08-May-2025 21:01:13 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[08-May-2025 21:01:13 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[08-May-2025 21:02:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[08-May-2025 21:02:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[08-May-2025 21:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[08-May-2025 21:19:35 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[08-May-2025 21:19:36 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[08-May-2025 21:21:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[08-May-2025 21:21:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[08-May-2025 21:22:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[08-May-2025 21:22:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[08-May-2025 21:30:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[08-May-2025 21:30:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[08-May-2025 21:30:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[08-May-2025 21:30:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[08-May-2025 21:31:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[08-May-2025 21:31:32 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[08-May-2025 21:32:02 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[08-May-2025 21:32:02 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[08-May-2025 21:32:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[08-May-2025 21:32:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[08-May-2025 21:35:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[08-May-2025 21:35:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[08-May-2025 21:36:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[08-May-2025 21:36:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[08-May-2025 21:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[08-May-2025 21:46:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[08-May-2025 21:46:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[08-May-2025 21:47:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[08-May-2025 21:47:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[08-May-2025 22:06:47 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[08-May-2025 22:48:01 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[09-May-2025 01:14:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[09-May-2025 02:40:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[09-May-2025 04:34:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[09-May-2025 05:12:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[09-May-2025 06:42:38 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[09-May-2025 23:53:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[10-May-2025 00:20:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[10-May-2025 00:42:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[10-May-2025 00:51:17 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[10-May-2025 01:48:23 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[10-May-2025 04:00:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[10-May-2025 04:53:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39
+[10-May-2025 05:22:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[10-May-2025 05:43:59 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[10-May-2025 08:37:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[10-May-2025 09:48:56 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[10-May-2025 09:53:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[10-May-2025 12:57:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[10-May-2025 13:21:19 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[10-May-2025 13:22:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[11-May-2025 11:18:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[11-May-2025 18:13:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[12-May-2025 08:16:23 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/GetSetMethodNormalizer.php on line 81
+[12-May-2025 08:16:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractObjectNormalizer.php on line 121
+[12-May-2025 08:17:27 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ProblemNormalizer.php on line 41
+[12-May-2025 08:17:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ObjectNormalizer.php on line 57
+[12-May-2025 08:18:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/JsonSerializableNormalizer.php on line 26
+[12-May-2025 08:18:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/AbstractNormalizer.php on line 223
+[12-May-2025 08:18:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/FormErrorNormalizer.php on line 19
+[12-May-2025 08:19:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\ContextAwareDenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ArrayDenormalizer.php on line 26
+[12-May-2025 08:20:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeZoneNormalizer.php on line 25
+[12-May-2025 08:20:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateTimeNormalizer.php on line 26
+[12-May-2025 08:20:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ConstraintViolationListNormalizer.php on line 36
+[12-May-2025 08:21:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DateIntervalNormalizer.php on line 25
+[12-May-2025 08:22:45 UTC] PHP Parse error:  syntax error, unexpected '&', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/MimeMessageNormalizer.php on line 35
+[12-May-2025 08:23:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\NormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareNormalizerInterface.php on line 21
+[12-May-2025 08:24:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/CustomNormalizer.php on line 35
+[12-May-2025 08:24:56 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/TranslatableNormalizer.php on line 28
+[12-May-2025 08:29:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/NormalizableInterface.php on line 36
+[12-May-2025 08:31:26 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/PropertyNormalizer.php on line 95
+[12-May-2025 08:33:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/BackedEnumNormalizer.php on line 37
+[12-May-2025 08:34:39 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DataUriNormalizer.php on line 36
+[12-May-2025 08:36:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UidNormalizer.php on line 54
+[12-May-2025 08:40:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\Normalizer\DenormalizerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/ContextAwareDenormalizerInterface.php on line 21
+[12-May-2025 08:50:18 UTC] PHP Parse error:  syntax error, unexpected 'PropertyAccessorInterface' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/UnwrappingDenormalizer.php on line 29
+[12-May-2025 08:54:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/Normalizer/DenormalizableInterface.php on line 39

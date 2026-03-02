@@ -1,0 +1,164 @@
+[13-Nov-2024 19:53:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[18-Nov-2024 08:54:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[21-Nov-2024 13:24:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[21-Nov-2024 13:24:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[19-Dec-2024 02:56:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[19-Dec-2024 06:19:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[21-Dec-2024 09:39:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[22-Dec-2024 22:01:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[10-Jan-2025 13:24:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[15-Jan-2025 13:42:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[20-Jan-2025 05:20:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[20-Jan-2025 05:20:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[20-Jan-2025 15:14:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[20-Jan-2025 15:15:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[29-Jan-2025 10:50:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[29-Jan-2025 10:50:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[04-Feb-2025 06:09:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[04-Feb-2025 06:10:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[18-Feb-2025 07:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[18-Feb-2025 07:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[06-Mar-2025 05:05:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[06-Mar-2025 05:06:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[10-Mar-2025 20:12:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[13-Mar-2025 19:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[14-Mar-2025 07:25:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[14-Mar-2025 07:42:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[14-Mar-2025 07:42:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[16-Mar-2025 06:20:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[18-Mar-2025 00:17:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[18-Mar-2025 00:34:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[28-Mar-2025 18:03:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[28-Mar-2025 18:03:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[08-Apr-2025 03:40:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[08-Apr-2025 03:40:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[18-Apr-2025 17:50:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[18-Apr-2025 17:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[08-May-2025 06:22:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[08-May-2025 06:51:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[10-May-2025 04:44:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[12-May-2025 13:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[12-May-2025 13:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\ErrorHandler' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13

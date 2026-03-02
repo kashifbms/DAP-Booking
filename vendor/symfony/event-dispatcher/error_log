@@ -1,0 +1,219 @@
+[08-Nov-2024 10:12:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[08-Nov-2024 10:54:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[08-Nov-2024 12:56:36 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[08-Nov-2024 15:44:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[12-Nov-2024 09:54:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[13-Nov-2024 06:20:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[13-Nov-2024 06:21:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[16-Nov-2024 16:46:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[16-Nov-2024 16:46:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[16-Nov-2024 16:46:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[16-Nov-2024 16:46:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[19-Nov-2024 02:23:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[19-Nov-2024 02:27:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[19-Nov-2024 02:28:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[21-Nov-2024 10:35:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[21-Nov-2024 10:35:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[21-Nov-2024 10:35:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[21-Nov-2024 10:35:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[24-Nov-2024 19:44:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[24-Nov-2024 19:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[29-Nov-2024 14:37:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[29-Nov-2024 14:58:55 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[06-Dec-2024 05:45:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[08-Dec-2024 11:33:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[09-Dec-2024 16:13:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[17-Dec-2024 21:14:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[19-Dec-2024 19:53:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[20-Dec-2024 07:13:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[20-Dec-2024 16:08:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[10-Jan-2025 01:04:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[10-Jan-2025 10:17:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[10-Jan-2025 12:56:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[10-Jan-2025 16:56:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[23-Jan-2025 15:42:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[24-Jan-2025 11:12:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[24-Jan-2025 11:16:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[25-Jan-2025 05:57:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[25-Jan-2025 05:57:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[25-Jan-2025 05:57:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[25-Jan-2025 05:57:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[25-Jan-2025 07:28:46 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[27-Jan-2025 00:18:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[28-Jan-2025 03:17:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[28-Jan-2025 13:35:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[29-Jan-2025 07:12:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[29-Jan-2025 08:09:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[29-Jan-2025 08:09:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[29-Jan-2025 08:09:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[29-Jan-2025 08:09:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[29-Jan-2025 14:37:44 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[31-Jan-2025 00:07:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[31-Jan-2025 00:26:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[01-Feb-2025 17:34:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[08-Feb-2025 23:06:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[13-Feb-2025 00:30:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[13-Feb-2025 00:50:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[13-Feb-2025 00:54:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[13-Feb-2025 04:07:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[13-Feb-2025 04:08:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[13-Feb-2025 05:12:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[13-Feb-2025 05:22:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[13-Feb-2025 06:31:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[15-Feb-2025 00:24:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[15-Feb-2025 00:55:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[15-Feb-2025 15:46:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[15-Feb-2025 15:48:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[17-Feb-2025 05:43:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[23-Feb-2025 16:57:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[23-Feb-2025 16:57:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[23-Feb-2025 16:58:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[23-Feb-2025 16:58:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[25-Feb-2025 18:48:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[06-Mar-2025 15:06:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[06-Mar-2025 15:06:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[06-Mar-2025 15:07:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[10-Mar-2025 09:54:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[10-Mar-2025 11:27:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[10-Mar-2025 14:00:55 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[10-Mar-2025 15:52:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[13-Mar-2025 18:09:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[13-Mar-2025 18:16:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[13-Mar-2025 19:04:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[14-Mar-2025 15:31:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[14-Mar-2025 15:31:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[14-Mar-2025 15:32:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[14-Mar-2025 15:32:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[18-Mar-2025 15:08:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[25-Mar-2025 01:52:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[28-Mar-2025 00:22:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[07-Apr-2025 23:18:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[07-Apr-2025 23:18:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[07-Apr-2025 23:18:57 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[07-Apr-2025 23:19:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[17-Apr-2025 09:42:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[17-Apr-2025 09:42:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[17-Apr-2025 09:43:02 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[17-Apr-2025 09:43:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[30-Apr-2025 01:37:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[30-Apr-2025 01:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[30-Apr-2025 01:40:11 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[30-Apr-2025 01:48:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[01-May-2025 06:43:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[01-May-2025 22:28:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[03-May-2025 04:05:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[03-May-2025 09:53:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[03-May-2025 11:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[03-May-2025 13:24:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[03-May-2025 15:50:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[04-May-2025 08:58:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[08-May-2025 20:20:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[08-May-2025 20:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[08-May-2025 20:25:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[08-May-2025 20:25:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[08-May-2025 20:26:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[08-May-2025 20:26:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[09-May-2025 21:39:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[10-May-2025 06:07:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85
+[10-May-2025 08:30:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[10-May-2025 09:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[11-May-2025 14:30:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 36
+[11-May-2025 14:33:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[11-May-2025 14:36:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/GenericEvent.php on line 70
+[11-May-2025 14:51:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/event-dispatcher/EventDispatcher.php on line 85

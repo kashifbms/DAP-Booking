@@ -1,0 +1,48 @@
+[13-Nov-2024 19:54:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[18-Nov-2024 15:34:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[21-Nov-2024 10:56:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[21-Nov-2024 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[25-Nov-2024 15:32:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[01-Dec-2024 05:45:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[03-Dec-2024 22:13:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[03-Dec-2024 22:13:37 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[10-Jan-2025 04:10:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[15-Jan-2025 06:32:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[26-Jan-2025 17:00:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[26-Jan-2025 17:00:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[29-Jan-2025 09:10:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[29-Jan-2025 09:10:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[02-Feb-2025 19:38:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[02-Feb-2025 22:59:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[13-Feb-2025 01:25:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[13-Feb-2025 02:38:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[14-Feb-2025 20:07:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[16-Feb-2025 13:35:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[17-Feb-2025 10:46:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[03-Mar-2025 23:04:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[03-Mar-2025 23:05:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[10-Mar-2025 06:21:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[13-Mar-2025 18:50:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[13-Mar-2025 18:54:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[15-Mar-2025 15:41:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[16-Mar-2025 10:16:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[17-Mar-2025 22:50:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[21-Mar-2025 06:56:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[21-Mar-2025 06:56:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[08-Apr-2025 02:11:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[08-Apr-2025 02:11:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[19-Apr-2025 18:01:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[19-Apr-2025 18:02:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[30-Apr-2025 04:42:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[30-Apr-2025 05:02:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[04-May-2025 04:32:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[04-May-2025 20:32:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[08-May-2025 20:26:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[08-May-2025 20:38:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[08-May-2025 20:38:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[08-May-2025 21:47:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[08-May-2025 21:47:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[08-May-2025 23:34:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[10-May-2025 08:51:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60
+[12-May-2025 08:33:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/DebugLoggerConfigurator.php on line 26
+[12-May-2025 10:57:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Log/Logger.php on line 60

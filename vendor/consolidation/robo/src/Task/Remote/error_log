@@ -1,0 +1,176 @@
+[08-Jun-2024 06:28:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[08-Jun-2024 06:33:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[13-Jun-2024 14:23:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[13-Jun-2024 14:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[13-Jul-2024 19:46:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[13-Jul-2024 21:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[05-Aug-2024 06:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[05-Aug-2024 06:39:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[10-Aug-2024 10:13:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[10-Aug-2024 10:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[06-Sep-2024 09:34:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[06-Sep-2024 12:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[12-Sep-2024 23:50:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[13-Sep-2024 03:37:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[19-Sep-2024 13:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[19-Sep-2024 13:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[13-Nov-2024 09:43:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[13-Nov-2024 10:11:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[21-Nov-2024 13:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[21-Nov-2024 13:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[13-Dec-2024 01:28:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[10-Jan-2025 04:10:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[10-Jan-2025 04:24:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[11-Jan-2025 22:33:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[11-Jan-2025 22:33:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[29-Jan-2025 12:28:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[29-Jan-2025 12:28:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[13-Feb-2025 11:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[14-Feb-2025 03:10:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[16-Feb-2025 16:24:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[10-Mar-2025 11:43:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[10-Mar-2025 19:03:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[13-Mar-2025 18:10:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[13-Mar-2025 20:15:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[26-Mar-2025 12:01:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[26-Mar-2025 12:01:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[08-Apr-2025 04:52:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[08-Apr-2025 04:52:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[08-May-2025 15:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[08-May-2025 20:40:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[08-May-2025 21:53:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[08-May-2025 21:53:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46
+[12-May-2025 23:10:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Rsync.php on line 49
+[12-May-2025 23:11:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Remote/Ssh.php on line 46

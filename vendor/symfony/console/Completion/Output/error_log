@@ -1,0 +1,308 @@
+[13-Nov-2024 10:33:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[13-Nov-2024 18:14:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[18-Nov-2024 17:53:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[21-Nov-2024 09:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[21-Nov-2024 09:29:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[21-Nov-2024 09:29:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[31-Dec-2024 05:59:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[31-Dec-2024 05:59:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[31-Dec-2024 05:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[02-Jan-2025 22:30:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[10-Jan-2025 03:14:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[10-Jan-2025 14:37:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[15-Jan-2025 11:02:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[29-Jan-2025 09:45:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[29-Jan-2025 09:45:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[29-Jan-2025 09:46:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[06-Feb-2025 11:29:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[07-Feb-2025 17:04:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[07-Feb-2025 17:05:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[14-Feb-2025 14:46:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[14-Feb-2025 15:16:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[15-Feb-2025 12:54:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[16-Feb-2025 04:24:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[16-Feb-2025 04:25:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[16-Feb-2025 04:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[18-Feb-2025 04:59:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[18-Feb-2025 05:10:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[18-Feb-2025 05:42:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[01-Mar-2025 13:06:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[01-Mar-2025 13:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[01-Mar-2025 13:16:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[05-Mar-2025 16:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[05-Mar-2025 16:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[05-Mar-2025 16:12:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[10-Mar-2025 17:38:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[10-Mar-2025 18:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[11-Mar-2025 07:48:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[11-Mar-2025 07:48:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[11-Mar-2025 07:49:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[13-Mar-2025 17:39:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[13-Mar-2025 18:31:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[13-Mar-2025 19:39:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[14-Mar-2025 22:43:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[14-Mar-2025 22:44:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[14-Mar-2025 22:46:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[15-Mar-2025 15:27:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[17-Mar-2025 20:42:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[17-Mar-2025 22:01:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[21-Mar-2025 07:00:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[25-Mar-2025 02:16:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[28-Mar-2025 00:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[08-Apr-2025 01:51:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[08-Apr-2025 01:51:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[08-Apr-2025 01:52:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[18-Apr-2025 18:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[18-Apr-2025 18:57:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[18-Apr-2025 18:57:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[30-Apr-2025 07:47:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[30-Apr-2025 07:51:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[30-Apr-2025 07:52:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[05-May-2025 13:24:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[05-May-2025 18:56:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[05-May-2025 21:38:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[08-May-2025 21:38:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[08-May-2025 21:38:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[08-May-2025 21:39:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[08-May-2025 21:39:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[08-May-2025 21:39:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[08-May-2025 21:39:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[10-May-2025 08:16:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[10-May-2025 09:40:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[10-May-2025 09:40:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[10-May-2025 12:04:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[12-May-2025 13:13:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[12-May-2025 13:17:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[12-May-2025 13:21:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[12-May-2025 16:05:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Completion\Output\CompletionOutputInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20

@@ -1,0 +1,302 @@
+[13-Nov-2024 06:13:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[13-Nov-2024 12:01:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[13-Nov-2024 20:10:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[13-Nov-2024 20:24:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[16-Nov-2024 15:53:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[16-Nov-2024 16:08:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[18-Nov-2024 12:11:17 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[18-Nov-2024 16:36:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[18-Nov-2024 17:24:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[21-Nov-2024 09:54:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[21-Nov-2024 09:54:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[21-Nov-2024 09:54:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[21-Nov-2024 09:54:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[21-Nov-2024 09:54:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[21-Nov-2024 09:54:34 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[21-Nov-2024 09:54:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[07-Dec-2024 03:14:04 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[07-Dec-2024 03:14:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[07-Dec-2024 03:14:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[07-Dec-2024 03:14:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[08-Dec-2024 04:30:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[08-Dec-2024 04:30:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[08-Dec-2024 04:30:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[08-Dec-2024 20:36:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[08-Dec-2024 20:57:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[09-Dec-2024 14:45:59 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[09-Dec-2024 17:58:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[09-Dec-2024 18:16:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[09-Dec-2024 20:27:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[09-Dec-2024 23:45:35 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[10-Jan-2025 01:01:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[10-Jan-2025 03:23:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[10-Jan-2025 04:00:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[10-Jan-2025 08:49:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[15-Jan-2025 07:40:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[15-Jan-2025 15:00:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[15-Jan-2025 15:56:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[29-Jan-2025 08:57:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[29-Jan-2025 08:57:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[29-Jan-2025 08:57:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[29-Jan-2025 08:57:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[29-Jan-2025 08:57:47 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[29-Jan-2025 08:57:52 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[29-Jan-2025 08:57:57 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[30-Jan-2025 08:52:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[31-Jan-2025 16:23:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[31-Jan-2025 19:44:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[01-Feb-2025 07:08:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[01-Feb-2025 11:18:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[02-Feb-2025 04:56:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[02-Feb-2025 07:14:44 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[04-Feb-2025 16:32:49 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[04-Feb-2025 20:27:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[12-Feb-2025 22:14:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[12-Feb-2025 23:08:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[12-Feb-2025 23:32:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[12-Feb-2025 23:45:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[13-Feb-2025 00:01:02 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[13-Feb-2025 00:14:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[13-Feb-2025 00:20:28 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[13-Feb-2025 01:20:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[13-Feb-2025 01:37:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[13-Feb-2025 02:17:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[13-Feb-2025 02:17:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[13-Feb-2025 02:17:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[13-Feb-2025 05:05:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[13-Feb-2025 11:03:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[15-Feb-2025 00:39:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[15-Feb-2025 03:53:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[15-Feb-2025 09:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[15-Feb-2025 11:11:36 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[15-Feb-2025 11:15:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[15-Feb-2025 11:19:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[24-Feb-2025 23:30:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[24-Feb-2025 23:38:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[03-Mar-2025 04:59:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[04-Mar-2025 03:08:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[04-Mar-2025 03:08:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[04-Mar-2025 03:08:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[04-Mar-2025 03:08:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[04-Mar-2025 03:08:59 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[04-Mar-2025 03:09:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[04-Mar-2025 03:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[10-Mar-2025 08:22:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[10-Mar-2025 09:46:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[10-Mar-2025 11:41:45 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[10-Mar-2025 11:41:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[10-Mar-2025 11:41:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[10-Mar-2025 11:41:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[10-Mar-2025 11:41:58 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[10-Mar-2025 11:41:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[10-Mar-2025 11:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[10-Mar-2025 11:59:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[10-Mar-2025 14:13:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[13-Mar-2025 17:44:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[13-Mar-2025 18:54:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[13-Mar-2025 19:00:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[13-Mar-2025 19:57:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[13-Mar-2025 20:00:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[13-Mar-2025 20:01:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[13-Mar-2025 20:28:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[15-Mar-2025 14:18:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[16-Mar-2025 01:28:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[16-Mar-2025 05:32:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[17-Mar-2025 20:38:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[21-Mar-2025 07:42:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[21-Mar-2025 07:42:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[21-Mar-2025 07:42:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[21-Mar-2025 07:43:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[21-Mar-2025 07:43:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[21-Mar-2025 07:43:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[21-Mar-2025 07:44:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[08-Apr-2025 01:49:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[08-Apr-2025 01:49:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[08-Apr-2025 01:49:33 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[08-Apr-2025 01:49:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[08-Apr-2025 01:49:42 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[08-Apr-2025 01:49:46 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[08-Apr-2025 01:49:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[19-Apr-2025 17:49:11 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[19-Apr-2025 17:49:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[19-Apr-2025 17:49:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[19-Apr-2025 17:50:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[19-Apr-2025 17:50:35 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[19-Apr-2025 17:50:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[19-Apr-2025 20:53:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[30-Apr-2025 04:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[30-Apr-2025 04:55:20 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[30-Apr-2025 04:57:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[30-Apr-2025 04:59:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[30-Apr-2025 05:06:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[30-Apr-2025 05:10:31 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[30-Apr-2025 05:15:53 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[03-May-2025 08:47:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[03-May-2025 12:06:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[04-May-2025 05:08:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[04-May-2025 05:08:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[04-May-2025 11:20:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[04-May-2025 15:21:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[04-May-2025 15:44:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[04-May-2025 18:33:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[04-May-2025 19:14:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[05-May-2025 11:13:27 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[07-May-2025 08:31:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[07-May-2025 12:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[08-May-2025 05:20:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[08-May-2025 07:49:57 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[08-May-2025 21:12:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[10-May-2025 01:28:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[10-May-2025 03:20:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[10-May-2025 07:55:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[10-May-2025 12:34:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62
+[11-May-2025 13:45:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[11-May-2025 16:26:42 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[12-May-2025 08:28:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadataInterface.php on line 36
+[12-May-2025 08:52:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/ClassMetadata.php on line 176
+[12-May-2025 08:56:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GenericMetadata.php on line 133
+[12-May-2025 08:57:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Validator\Mapping\MetadataInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadataInterface.php on line 30
+[12-May-2025 09:11:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/GetterMetadata.php on line 70
+[12-May-2025 09:16:11 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/MemberMetadata.php on line 70
+[12-May-2025 09:20:43 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/validator/Mapping/PropertyMetadata.php on line 62

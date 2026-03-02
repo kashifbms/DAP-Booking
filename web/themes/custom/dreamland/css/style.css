@@ -1,0 +1,817 @@
+/**************************** SITE DEFAULT CUSTOM CSS STARTS HERE ************************/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: "Inter", sans-serif;
+  line-height: 1.5;
+}
+
+.main-content.main-content-layout {
+  width: 100%;
+  margin: 0;
+}
+
+.main-content__container.container,
+.container {
+  padding: 0 15px;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title {
+  margin: 0 0 30px;
+  display: block;
+}
+
+.full-width {
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+}
+
+.row {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.col-md-1 {
+  flex: 0 0 auto;
+  width: 8.33333333%;
+}
+
+.col-md-2 {
+  flex: 0 0 auto;
+  width: 16.66666667%;
+}
+
+.col-md-3 {
+  flex: 0 0 auto;
+  width: 25%;
+}
+
+.col-md-4 {
+  flex: 0 0 auto;
+  width: 33.33333333%;
+}
+
+.col-md-5 {
+  flex: 0 0 auto;
+  width: 41.66666667%;
+}
+
+.col-lg-6 {
+  flex: 0 0 auto;
+  width: 50%;
+}
+
+.col-md-7 {
+  flex: 0 0 auto;
+  width: 58.33333333%;
+}
+
+.col-md-8 {
+  flex: 0 0 auto;
+  width: 66.66666667%;
+}
+
+.col-md-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+
+.col-md-10 {
+  flex: 0 0 auto;
+  width: 83.33333333%;
+}
+
+.col-md-11 {
+  flex: 0 0 auto;
+  width: 91.66666667%;
+}
+
+.col-md-12 {
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.site-header > .row {
+  margin: 0;
+}
+
+.js-form-item-field-valid__from-value {
+  display: none;
+}
+
+.js-form-item-field-valid__to-value {
+  display: none;
+}
+
+.form-item-field-enable-days-target-id {
+  display: none;
+}
+
+.logo-img {
+  margin: 70px 0px 0px 44px;
+  padding: 0 0 0 0;
+  position: absolute;
+}
+
+
+
+.pd-lr {
+  padding-left: 96px;
+  padding-right: 96px;
+}
+
+.footer-bottom-bg {
+  background-color: #000;
+}
+
+.py-4 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.d-flex {
+  display: flex !important;
+}
+
+.footer-bottom-bg p {
+  color: #fff;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+}
+
+.page-wrapper {
+  max-width: 100%;
+}
+
+.cart-block--contents {
+  width: 500px;
+}
+
+.views-table {
+  width: 100%;
+}
+
+.sidebar-wrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.sidebar-wrapper > .site-main {
+  width: calc(100% - 300px);
+  padding: 0 15px;
+}
+
+.sidebar-wrapper .region-dreamland-sidebar {
+  width: 300px;
+  padding: 0 15px;
+}
+
+.checkout-btn {
+  border: 1px solid #076eb0;
+  background: #076eb0;
+  color: #fff;
+  padding: 4px 25px 4px 25px;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.invalid-feedback {
+  display: none;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 0.875em;
+  color: #dc3545;
+}
+
+/* css for home page view */
+.mg-top-ex-md {
+  margin-top: 30px;
+}
+
+.no-pd-lr {
+  display: flex;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.no-mg-lr {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.ticket-img img{
+  max-height: 172px;
+}
+
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-title {
+  width: calc(100% - 115px);
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1.5;
+  color: #000;
+  font-weight: normal;
+  font-family: "Inter", sans-serif;
+}
+
+.product-count {
+  width: 115px;
+  text-align: right;
+  font-size: 15px;
+  font-style: italic;
+  letter-spacing: 1px;
+  font-weight: 500;
+  color: #076eb0;
+}
+
+.col-fl-end {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.col-sm-4 {
+  flex: 0 0 auto;
+  width: 33.33333333%;
+}
+
+.booking_date_bt.removepadding {
+  padding: 3px 10px;
+  width: 200px;
+  justify-content: space-between;
+}
+
+.booking_date_bt {
+  border: 1px solid #076eb0;
+  border-radius: 10px;
+  padding: 3px 30px 3px 30px;
+  cursor: pointer;
+}
+
+.btn-operators {
+  width: 10%;
+  text-align: center;
+}
+
+.btn-operators-value {
+  width: 64%;
+  text-align: center;
+}
+
+.product-id {
+  display: none;
+}
+
+.layout-checkout-form .checkout-pane {
+  margin: 0 0 20px;
+  border-radius: 7px;
+  border-width: 1px;
+}
+
+.layout-checkout-form .checkout-pane .fieldset__wrapper {
+  padding: 20px;
+  float: left;
+  width: 100%;
+}
+
+.layout-checkout-form .checkout-pane .fieldset__wrapper .form-item {
+  float: left;
+  width: 100%;
+  margin-top: 0;
+}
+
+.layout-checkout-form
+  .checkout-pane.checkout-pane-contact-information
+  .fieldset__wrapper
+  .form-item:last-child,
+.layout-checkout-form
+  .checkout-pane.checkout-pane-billing-information
+  .fieldset__wrapper
+  .js-form-wrapper.form-wrapper
+  .js-form-wrapper.form-wrapper:last-child
+  .form-item {
+  margin: 0;
+}
+
+.layout-checkout-form .checkout-pane .fieldset__wrapper .form-item label {
+  margin-top: 0;
+}
+
+.layout-checkout-form .layout-region-checkout-secondary {
+  border: solid 1px var(--color--gray-45);
+  border-radius: 7px;
+}
+
+.layout-checkout-form .layout-region-checkout-secondary h3 {
+  margin: 0;
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+  background-color: var(--color--gray-45);
+  padding-block: var(--sp0-5);
+  padding-inline-start: var(--sp1);
+  padding-inline-end: var(--sp1);
+  color: var(--color--white);
+  line-height: var(--line-height-s);
+}
+
+.layout-checkout-form
+  .layout-region-checkout-secondary
+  .checkout-pane-order-summary {
+  padding: 10px 20px;
+  margin: 0;
+}
+
+.layout-checkout-form
+  .layout-region-checkout-secondary
+  .checkout-pane-order-summary
+  .checkout-order-summary
+  table {
+  width: 100%;
+}
+
+.layout-checkout-form
+  .layout-region-checkout-secondary
+  .checkout-pane-order-summary
+  .checkout-order-summary
+  table
+  tr
+  td
+  .layout-checkout-form
+  .layout-region-checkout-secondary
+  .checkout-pane-order-summary
+  .checkout-order-summary
+  table
+  tr
+  td:last-child {
+  text-align: right;
+}
+
+.layout-checkout-form
+  .layout-region-checkout-secondary
+  .checkout-pane-order-summary
+  .checkout-order-summary
+  table
+  tr
+  td
+  .field.field--label-above {
+  line-height: 20px;
+  margin: 0;
+}
+
+.layout-checkout-form
+  .layout-region-checkout-secondary
+  .checkout-pane-order-summary
+  .checkout-order-summary
+  .order-total-line {
+  line-height: 18px;
+  padding-top: 10px;
+}
+
+.layout-checkout-form
+  .layout-region-checkout-secondary
+  .checkout-pane-order-summary
+  .checkout-order-summary
+  > div {
+  border-top: 1px solid var(--color--gray-45);
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.layout-checkout-form .layout-region-checkout-footer .form-actions {
+  align-items: center;
+}
+
+.layout-checkout-form
+  .layout-region-checkout-footer
+  .form-actions
+  .js-form-submit {
+  margin: 0 15px 0 0;
+}
+
+.customer-information .profile.profile--view-mode--user,
+.order-information,
+.order-information
+  > div.field--name-billing-profile
+  .field__item
+  .profile.profile--type--customer,
+.commerce-checkout-completion-register__form,
+.commerce-checkout-completion-register__form
+  > div.js-form-type-password-confirm {
+  display: flex;
+  justify-content: space-between;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.customer-information .profile.profile--view-mode--user > div,
+.order-information
+  > div.field--name-billing-profile
+  .field__item
+  .profile.profile--type--customer
+  > div {
+  width: 25%;
+}
+
+.order-information > div {
+  width: 33.33%;
+}
+
+.order-information > div.field--name-order-items,
+.order-information > div.field--name-total-price,
+.order-information > div.field--name-billing-profile,
+.commerce-checkout-completion-register__form
+  > div.js-form-type-password-confirm,
+.commerce-checkout-completion-register__form > div.form-actions {
+  width: 100%;
+}
+
+.commerce-checkout-completion-register__form > div,
+.commerce-checkout-completion-register__form
+  > div.js-form-type-password-confirm
+  > div {
+  width: 50%;
+}
+
+.order-information > div.field--name-order-items .views-table,
+.order-information > div.field--name-order-items {
+  margin: 0;
+}
+
+.order-information > div.field--name-total-price {
+  border-top: 1px solid #000;
+  padding-top: 20px;
+}
+
+.commerce-checkout-completion-register__form {
+  align-items: baseline;
+  margin: 0 -15px;
+}
+
+.commerce-checkout-completion-register__form > div {
+  padding: 0 15px;
+  margin: 0;
+}
+
+.commerce-checkout-completion-register__form > div input {
+  width: 100%;
+}
+
+.commerce-checkout-completion-register__form
+  > div.js-form-type-password-confirm {
+  padding: 0;
+}
+
+.commerce-checkout-completion-register__form
+  > div.js-form-type-password-confirm
+  > div {
+  padding: 0 15px;
+}
+
+.commerce-checkout-completion-register__form > div input[type="submit"] {
+  width: auto;
+}
+
+#block-dreamland-content {
+  grid-column: 2 / -2;
+}
+
+#block-dreamland-account-menu {
+  margin: 30px 0 0;
+}
+
+#block-dreamland-account-menu ul.menu {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+#block-dreamland-account-menu ul.menu .menu__item {
+  margin-right: 10px;
+}
+
+#block-dreamland-account-menu ul.menu .menu__item a.menu__link {
+  border: 1px solid #000;
+  text-decoration: none;
+  padding: 3px 10px;
+  border-radius: 5px;
+}
+
+/**************************** HOME PAGE CUSTOM CSS STARTS HERE ************************/
+.content-above {
+  margin: 30px 0;
+}
+
+.tab-content .col-md-7,
+.tab-content .col-md-5 {
+  width: auto;
+}
+.note-content-block .text-content p, .home-second-note-block .text-content p{
+  color: red;
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+.home-second-note-block .text-content p{text-align: center;}
+
+.date_validation_form .form-datetime-wrapper .form-item__label{
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  width: 100%;
+  margin-bottom: .25rem;
+}
+
+.date_validation_form .form-datetime-wrapper .form-items-inline .js-form-item {
+  margin: 0;
+}
+
+.date_validation_form .form-datetime-wrapper .form-items-inline .js-form-item input{
+  border: 1px solid #076EB0;
+  border-radius: 10px;
+  outline: 0;
+  min-height: 36px;
+  height: 36px;
+}
+
+.total-price-block .text-content > .tab-content > .tab-pane > .full-width.amount-text{
+  max-width: 80%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.total-price-block .text-content > .tab-content > .tab-pane > .full-width.amount-text .col-md-7.cart-fo-st{
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.total-price-block .text-content > .tab-content > .tab-pane > .full-width.amount-text .col-md-5.cart-fo-st{
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  color: red;
+}
+
+.total-price-block .text-content > .tab-content > .tab-pane > .full-width.amount-text .col-md-5.cart-fo-st #price-field{
+  margin-right: 7px;
+}
+
+.total-price-block .text-content > .tab-content .full-width.image-section, .total-price-block .text-content > .tab-content .full-width.checkout-text{
+  margin: 30px 0 0;
+}
+
+.total-price-block .text-content > .tab-content .full-width.image-section .col-md-9.al-item{
+  max-width: 80%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.total-price-block .text-content > .tab-content .full-width.checkout-text .checkout-btn, .invalid-feedback{
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+.pro-description p{
+  font-size: 16px;
+  color: #808080;
+  margin: 0 0 16px;
+}
+
+.home-condition-block ul li{
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+a#edit-email-registration-login-returning-customer-forgot-password {
+  margin-left: 15px;
+}
+
+.view-commerce-cart-form table.views-table tr td {
+  vertical-align: middle;
+}
+
+.view-commerce-cart-form .views-form form{width: 100%;overflow-x: auto;}
+
+.order-total-line-value{white-space: nowrap;}
+
+.view.view-commerce-user-orders.view-id-commerce_user_orders .view-content{
+  overflow-x: auto;
+  width: 100%;
+}
+
+
+/**************************** HOME PAGE CUSTOM CSS ENDS HERE ************************/
+
+/**************************** SITE RESPONSIVE CUSTOM CSS STARTS HERE ************************/
+@media (max-width: 767px) {
+  .view.view-commerce-user-orders.view-id-commerce_user_orders .view-content table th a{
+    white-space: nowrap;
+  }
+  .product-container .product-count {
+    margin: 1.5rem 0 0;
+  }
+  .full-width.mg-top-ex-md.view-row-body {
+    margin-top: 1.5rem;
+  }
+  .sidebar-wrapper{
+    margin-bottom: 7rem;
+  }
+  .total-price-block .text-content > .tab-content .full-width.image-section .col-md-9.al-item{
+    max-width: 100%;
+  }
+  .total-price-block .text-content > .tab-content .full-width.image-section .col-md-9.al-item .cart-card{
+    width: 100%;
+  }
+  .total-price-block .text-content > .tab-content .full-width.checkout-text .checkout-btn{
+    padding: 10px 25px;
+  }
+
+  .site-header .logo-img {
+    margin: 1.5rem 0 0 1.5rem;
+  }
+
+  .site-header .logo-img a img{
+    max-width: 6rem;
+  }
+
+  .footer-sidebar .footer-bottom-bg {
+      padding: 0 1.5rem;
+      text-align: center;
+  }
+
+  .footer-sidebar .footer-bottom-bg .footer-bottom-bg{width: 100%;}
+  .product-title, .product-count, .pro-description p, .total-price-block .text-content > .tab-content > .tab-pane > .full-width.amount-text .col-md-7.cart-fo-st, .total-price-block .text-content > .tab-content > .tab-pane > .full-width.amount-text .col-md-5.cart-fo-st{    
+    width: 100%;
+    text-align: center;
+  }
+  .booking_date_bt.removepadding{
+    margin: 0 auto;
+  }
+  form.date_validation_form, form.date_validation_form .form-datetime-wrapper{
+    width: 100%;
+  }
+
+  form.date_validation_form .form-datetime-wrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  form.date_validation_form .form-datetime-wrapper .form-item__label{width: auto;
+    margin-right: 15px;}
+  .commerce-checkout-completion-register__form > div,
+  .commerce-checkout-completion-register__form
+    > div.js-form-type-password-confirm
+    > div {
+    width: 100%;
+  }
+
+  .main-content.main-content-layout .sidebar-grid.grid-full {
+    grid-template-columns: auto;
+  }
+
+  .main-content.main-content-layout .sidebar-grid.grid-full > .site-main,
+  .main-content.main-content-layout .sidebar-grid.grid-full > .region--sidebar {
+    grid-column: unset;
+  }
+
+  .sidebar-wrapper .region-dreamland-sidebar,
+  .sidebar-wrapper > .site-main,
+  .col-md-1,
+  .col-md-2,
+  .col-md-3,
+  .col-md-4,
+  .col-md-5,
+  .col-md-6,
+  .col-md-7,
+  .col-md-8,
+  .col-md-9,
+  .col-md-10,
+  .col-md-11,
+  .col-md-12 {
+    width: 100%;
+  }
+
+  .sidebar-wrapper .region-dreamland-sidebar,
+  .ticket-img {
+    margin: 0 0 30px;
+  }
+
+  .ticket-img img{
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  .site-header .logo-img a img{
+    max-width: 10rem;
+  }
+}
+/**************************** SITE RESPONSIVE CUSTOM CSS ENDS HERE ************************/
+/* *****************ORDER VIEW PAGE STYLE ************************ */
+.views-field-field-pdf-file {
+  height: 80px;
+  width: 20px;
+}
+.order-total-line-label {
+  margin-right: 15px;
+}
+/* *****************ORDER VIEW PAGE STYLE ENDS HERE ************************ */
+/* ***************display none of home page filter button */
+.view-ticket-booking .form-submit {
+  display: none;
+}
+/* *************** END CSS display none of home page filter button */
+/* pdf file icon css */
+.pdfFile {
+  width: 100px;
+  height: 100px;
+}
+.pdfFile img {
+  width: 100%;
+  height: 100%;
+}
+/* End of pdf file css */
+
+/* CSS for primary tabs block css */
+.primary-tabs {
+  margin-top: 10px;
+}
+/* **********primary tab css END******************** */
+@media (max-width: 767px) {
+div#edit-email-registration-login {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}
+}
+.available-tickets{
+display:none;
+}
+.more-tickets{
+display:none
+}

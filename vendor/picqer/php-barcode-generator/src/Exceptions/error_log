@@ -1,0 +1,388 @@
+[21-Nov-2024 12:06:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[21-Nov-2024 12:06:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[21-Nov-2024 12:06:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[21-Nov-2024 12:06:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[21-Nov-2024 12:06:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[27-Nov-2024 11:42:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[18-Dec-2024 06:21:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[18-Dec-2024 06:36:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[18-Dec-2024 06:46:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[18-Dec-2024 09:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[18-Dec-2024 17:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[19-Dec-2024 15:17:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[27-Dec-2024 14:20:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[28-Dec-2024 15:48:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[29-Dec-2024 21:33:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[31-Dec-2024 05:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[31-Dec-2024 05:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[31-Dec-2024 05:57:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[31-Dec-2024 05:57:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[31-Dec-2024 05:57:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[29-Jan-2025 10:14:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[29-Jan-2025 10:14:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[29-Jan-2025 10:15:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[29-Jan-2025 10:15:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[29-Jan-2025 10:15:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[05-Feb-2025 06:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[05-Feb-2025 21:50:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[07-Feb-2025 08:00:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[07-Feb-2025 12:10:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[07-Feb-2025 12:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[16-Feb-2025 09:27:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[16-Feb-2025 12:45:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[16-Feb-2025 13:06:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[16-Feb-2025 15:37:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[16-Feb-2025 15:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[16-Feb-2025 15:38:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[16-Feb-2025 15:40:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[16-Feb-2025 18:57:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[17-Feb-2025 02:21:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[17-Feb-2025 03:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[17-Feb-2025 03:36:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[17-Feb-2025 03:58:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[18-Feb-2025 15:13:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[18-Feb-2025 17:45:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[18-Feb-2025 17:50:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[18-Feb-2025 23:13:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[19-Feb-2025 03:38:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[01-Mar-2025 08:35:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[01-Mar-2025 08:35:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[01-Mar-2025 08:36:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[01-Mar-2025 08:36:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[01-Mar-2025 08:36:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[10-Mar-2025 03:10:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[13-Mar-2025 17:43:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[13-Mar-2025 17:49:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[13-Mar-2025 18:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[13-Mar-2025 20:01:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[13-Mar-2025 20:30:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[18-Mar-2025 01:07:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[05-Apr-2025 10:04:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[05-Apr-2025 10:05:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[05-Apr-2025 10:05:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[05-Apr-2025 10:05:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[05-Apr-2025 10:06:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[08-Apr-2025 03:10:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[08-Apr-2025 03:10:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[08-Apr-2025 03:10:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[08-Apr-2025 03:10:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[08-Apr-2025 03:10:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[17-Apr-2025 20:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[18-Apr-2025 00:17:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[18-Apr-2025 00:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[18-Apr-2025 03:53:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[18-Apr-2025 07:17:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[28-Apr-2025 14:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[28-Apr-2025 14:49:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[28-Apr-2025 14:50:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[28-Apr-2025 14:50:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[05-May-2025 07:58:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[05-May-2025 07:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[05-May-2025 08:00:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[05-May-2025 08:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[07-May-2025 08:22:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[07-May-2025 18:43:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[07-May-2025 20:01:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[07-May-2025 20:57:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[07-May-2025 23:36:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[08-May-2025 21:39:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[08-May-2025 21:39:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidLengthException.php on line 5
+[08-May-2025 21:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[08-May-2025 21:39:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidFormatException.php on line 5
+[08-May-2025 21:40:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[08-May-2025 21:40:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5
+[08-May-2025 21:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[08-May-2025 21:41:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/UnknownTypeException.php on line 5
+[11-May-2025 06:52:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCharacterException.php on line 5
+[11-May-2025 23:30:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Picqer\Barcode\Exceptions\BarcodeException' not found in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/picqer/php-barcode-generator/src/Exceptions/InvalidCheckDigitException.php on line 5

@@ -1,0 +1,335 @@
+[08-Nov-2024 10:34:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[13-Nov-2024 08:59:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[13-Nov-2024 10:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[13-Nov-2024 10:29:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[13-Nov-2024 16:12:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[13-Nov-2024 17:33:54 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[13-Nov-2024 19:59:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[21-Nov-2024 11:00:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[21-Nov-2024 11:00:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[21-Nov-2024 11:01:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[21-Nov-2024 11:01:06 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[21-Nov-2024 11:01:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[21-Nov-2024 11:01:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[21-Nov-2024 11:01:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[03-Dec-2024 22:12:39 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[03-Dec-2024 22:12:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[03-Dec-2024 22:12:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[03-Dec-2024 22:12:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[03-Dec-2024 22:12:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[03-Dec-2024 22:12:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[03-Dec-2024 22:12:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[30-Dec-2024 15:42:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[30-Dec-2024 15:42:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[30-Dec-2024 16:00:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[10-Jan-2025 04:10:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[10-Jan-2025 04:38:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[10-Jan-2025 06:02:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[10-Jan-2025 07:32:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[10-Jan-2025 08:18:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[10-Jan-2025 13:48:08 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[10-Jan-2025 15:57:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[25-Jan-2025 05:58:52 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[25-Jan-2025 05:58:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[26-Jan-2025 16:59:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[26-Jan-2025 16:59:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[26-Jan-2025 16:59:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[26-Jan-2025 16:59:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[26-Jan-2025 16:59:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[29-Jan-2025 09:15:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[29-Jan-2025 09:15:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[29-Jan-2025 09:15:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[29-Jan-2025 09:15:28 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[29-Jan-2025 09:15:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[29-Jan-2025 09:15:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[29-Jan-2025 09:15:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[02-Feb-2025 01:00:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[02-Feb-2025 13:03:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[03-Feb-2025 06:13:42 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[03-Feb-2025 11:36:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[03-Feb-2025 20:39:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[04-Feb-2025 19:41:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[04-Feb-2025 20:28:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[13-Feb-2025 00:56:28 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[13-Feb-2025 01:30:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[13-Feb-2025 01:45:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[13-Feb-2025 03:36:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[13-Feb-2025 05:10:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[13-Feb-2025 05:13:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[13-Feb-2025 05:46:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[13-Feb-2025 06:49:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[13-Feb-2025 06:54:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[14-Feb-2025 02:33:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[14-Feb-2025 12:25:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[14-Feb-2025 20:39:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[16-Feb-2025 02:44:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[16-Feb-2025 02:47:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[16-Feb-2025 03:20:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[16-Feb-2025 13:30:08 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[16-Feb-2025 13:31:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[16-Feb-2025 15:00:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[16-Feb-2025 21:19:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[18-Feb-2025 21:50:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[21-Feb-2025 19:04:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[24-Feb-2025 04:21:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[03-Mar-2025 23:31:39 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[03-Mar-2025 23:32:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[03-Mar-2025 23:32:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[03-Mar-2025 23:32:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[03-Mar-2025 23:32:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[03-Mar-2025 23:33:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[03-Mar-2025 23:33:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[10-Mar-2025 10:46:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[10-Mar-2025 12:12:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[10-Mar-2025 12:40:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[10-Mar-2025 13:27:26 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[10-Mar-2025 16:53:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[10-Mar-2025 17:12:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[10-Mar-2025 20:04:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[13-Mar-2025 19:38:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[13-Mar-2025 19:45:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[13-Mar-2025 20:04:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[13-Mar-2025 20:23:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[13-Mar-2025 20:31:58 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[14-Mar-2025 05:06:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[17-Mar-2025 04:38:21 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[17-Mar-2025 20:53:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[17-Mar-2025 21:57:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[18-Mar-2025 00:47:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[18-Mar-2025 02:19:16 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[21-Mar-2025 06:58:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[21-Mar-2025 07:58:46 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[21-Mar-2025 07:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[21-Mar-2025 08:00:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[21-Mar-2025 08:00:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[21-Mar-2025 08:00:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[21-Mar-2025 08:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[21-Mar-2025 08:01:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[21-Mar-2025 08:04:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[25-Mar-2025 02:11:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[27-Mar-2025 17:18:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[28-Mar-2025 00:30:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[28-Mar-2025 10:58:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[29-Mar-2025 09:43:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[02-Apr-2025 23:17:42 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[04-Apr-2025 09:35:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[08-Apr-2025 02:16:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[08-Apr-2025 02:16:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[08-Apr-2025 02:16:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[08-Apr-2025 02:16:14 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[08-Apr-2025 02:16:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[08-Apr-2025 02:16:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[08-Apr-2025 02:16:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[18-Apr-2025 08:26:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[19-Apr-2025 18:28:31 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[19-Apr-2025 18:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[19-Apr-2025 18:29:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[19-Apr-2025 18:30:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[19-Apr-2025 18:30:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[19-Apr-2025 18:30:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[19-Apr-2025 20:55:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[30-Apr-2025 04:32:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[30-Apr-2025 04:32:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[30-Apr-2025 04:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[30-Apr-2025 04:41:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[30-Apr-2025 04:52:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[30-Apr-2025 05:01:45 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[04-May-2025 07:31:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[04-May-2025 07:39:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[04-May-2025 13:45:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[04-May-2025 18:18:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[04-May-2025 19:14:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[04-May-2025 19:15:00 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[04-May-2025 20:06:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[06-May-2025 03:03:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[06-May-2025 12:50:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[07-May-2025 11:53:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[07-May-2025 12:41:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[08-May-2025 01:28:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[08-May-2025 13:43:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[08-May-2025 20:50:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[08-May-2025 20:50:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[08-May-2025 20:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[08-May-2025 20:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[08-May-2025 21:32:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[08-May-2025 21:32:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[08-May-2025 21:32:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[08-May-2025 21:32:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[08-May-2025 21:35:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[08-May-2025 21:35:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[08-May-2025 21:37:43 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[08-May-2025 21:37:43 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[08-May-2025 21:47:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[08-May-2025 21:47:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[09-May-2025 06:42:33 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[09-May-2025 23:49:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[10-May-2025 01:03:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[10-May-2025 02:11:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[10-May-2025 05:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[10-May-2025 07:25:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[10-May-2025 12:55:30 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86
+[10-May-2025 15:27:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[11-May-2025 09:32:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[12-May-2025 08:16:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolverInterface.php on line 40
+[12-May-2025 08:17:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ErrorController.php on line 29
+[12-May-2025 08:28:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Controller\ControllerResolver' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[12-May-2025 08:31:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 31
+[12-May-2025 08:37:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 55
+[12-May-2025 08:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[12-May-2025 09:05:24 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 86

@@ -1,0 +1,44 @@
+[21-Nov-2024 13:39:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[23-Nov-2024 04:33:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[20-Jan-2025 20:40:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[29-Jan-2025 11:18:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[08-Feb-2025 22:41:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[27-Feb-2025 02:24:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[13-Mar-2025 18:02:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[21-Mar-2025 04:01:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[02-Apr-2025 05:48:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[08-Apr-2025 03:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[09-May-2025 18:00:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13

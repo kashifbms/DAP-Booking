@@ -1,0 +1,360 @@
+[13-Nov-2024 10:15:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[13-Nov-2024 13:52:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[18-Nov-2024 11:24:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[21-Nov-2024 11:59:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[21-Nov-2024 11:59:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[21-Nov-2024 11:59:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[21-Nov-2024 11:59:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[14-Dec-2024 12:23:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[18-Dec-2024 05:36:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[20-Dec-2024 18:57:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[23-Dec-2024 09:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[23-Dec-2024 10:37:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[23-Dec-2024 10:40:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[23-Dec-2024 10:41:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[23-Dec-2024 15:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[23-Dec-2024 15:28:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[24-Dec-2024 03:14:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[26-Dec-2024 15:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[30-Dec-2024 04:14:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[31-Dec-2024 05:58:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[31-Dec-2024 05:58:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[31-Dec-2024 05:58:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[31-Dec-2024 05:58:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[10-Jan-2025 04:10:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[10-Jan-2025 07:18:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[15-Jan-2025 16:14:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[27-Jan-2025 01:48:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[27-Jan-2025 01:48:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[27-Jan-2025 01:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[27-Jan-2025 01:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[29-Jan-2025 10:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[29-Jan-2025 10:36:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[29-Jan-2025 10:36:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[29-Jan-2025 10:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[05-Feb-2025 08:16:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[07-Feb-2025 18:03:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[07-Feb-2025 18:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[07-Feb-2025 18:04:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[07-Feb-2025 18:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[08-Feb-2025 08:00:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[17-Feb-2025 00:58:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[26-Feb-2025 05:06:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[26-Feb-2025 05:07:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[26-Feb-2025 05:07:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[26-Feb-2025 05:07:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[05-Mar-2025 16:12:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[05-Mar-2025 16:12:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[05-Mar-2025 16:12:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[05-Mar-2025 16:12:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[09-Mar-2025 16:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[09-Mar-2025 16:55:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[09-Mar-2025 16:55:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[09-Mar-2025 16:55:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[10-Mar-2025 13:12:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[10-Mar-2025 16:36:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[13-Mar-2025 19:09:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[13-Mar-2025 19:49:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[13-Mar-2025 20:28:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[14-Mar-2025 05:13:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[14-Mar-2025 16:53:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[14-Mar-2025 16:53:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[14-Mar-2025 16:54:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[14-Mar-2025 16:54:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[15-Mar-2025 16:17:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[17-Mar-2025 21:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[18-Mar-2025 00:44:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[21-Mar-2025 07:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[25-Mar-2025 08:35:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[28-Mar-2025 02:01:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[08-Apr-2025 04:18:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[08-Apr-2025 04:18:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[08-Apr-2025 04:18:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[08-Apr-2025 04:18:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[16-Apr-2025 21:26:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[16-Apr-2025 21:26:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[16-Apr-2025 21:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[16-Apr-2025 21:26:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[18-Apr-2025 00:30:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[07-May-2025 03:08:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[07-May-2025 06:43:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[07-May-2025 14:48:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[07-May-2025 16:21:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[10-May-2025 05:54:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[10-May-2025 07:28:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[12-May-2025 13:21:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[12-May-2025 16:04:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[12-May-2025 16:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[12-May-2025 16:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[12-May-2025 16:32:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[12-May-2025 16:53:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\StreamOutput' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Output/PassthruPager.php on line 20

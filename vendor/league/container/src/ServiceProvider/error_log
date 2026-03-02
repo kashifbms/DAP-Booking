@@ -1,0 +1,444 @@
+[13-Nov-2024 05:18:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[13-Nov-2024 09:30:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[13-Nov-2024 11:36:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[21-Nov-2024 12:50:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[21-Nov-2024 12:50:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[21-Nov-2024 12:50:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[21-Nov-2024 12:50:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[21-Nov-2024 12:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[28-Nov-2024 14:06:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[09-Dec-2024 11:30:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[14-Dec-2024 16:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[18-Dec-2024 00:08:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[18-Dec-2024 08:20:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[18-Dec-2024 20:44:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[18-Dec-2024 22:11:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[18-Dec-2024 22:11:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[18-Dec-2024 22:12:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[18-Dec-2024 22:13:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[19-Dec-2024 01:52:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[21-Dec-2024 03:46:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[21-Dec-2024 14:13:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[21-Dec-2024 14:13:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[21-Dec-2024 14:14:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[21-Dec-2024 14:16:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[24-Dec-2024 16:53:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[27-Dec-2024 11:13:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[27-Dec-2024 11:13:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[27-Dec-2024 11:13:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[27-Dec-2024 11:13:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[27-Dec-2024 11:13:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[10-Jan-2025 05:27:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[10-Jan-2025 12:32:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[10-Jan-2025 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[29-Jan-2025 10:28:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[29-Jan-2025 10:28:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[29-Jan-2025 10:28:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[29-Jan-2025 10:28:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[29-Jan-2025 10:28:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[05-Feb-2025 07:51:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[06-Feb-2025 12:13:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[06-Feb-2025 19:11:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[07-Feb-2025 12:58:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[07-Feb-2025 19:28:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[15-Feb-2025 19:38:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[17-Feb-2025 02:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[17-Feb-2025 05:20:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[17-Feb-2025 19:11:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[18-Feb-2025 21:11:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[21-Feb-2025 09:48:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[21-Feb-2025 09:48:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[21-Feb-2025 09:48:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[21-Feb-2025 09:48:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[21-Feb-2025 09:48:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[05-Mar-2025 10:32:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[05-Mar-2025 10:33:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[05-Mar-2025 10:34:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[05-Mar-2025 10:35:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[05-Mar-2025 10:35:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[10-Mar-2025 13:03:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[10-Mar-2025 18:38:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[10-Mar-2025 21:15:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[13-Mar-2025 17:38:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[13-Mar-2025 18:14:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[13-Mar-2025 19:05:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[13-Mar-2025 19:40:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[14-Mar-2025 01:32:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[14-Mar-2025 01:33:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[14-Mar-2025 01:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[14-Mar-2025 01:33:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[14-Mar-2025 01:34:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[14-Mar-2025 05:16:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[17-Mar-2025 21:01:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[08-Apr-2025 03:26:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[08-Apr-2025 03:26:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[08-Apr-2025 03:26:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[08-Apr-2025 03:26:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[08-Apr-2025 03:26:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[17-Apr-2025 16:40:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[17-Apr-2025 21:33:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[18-Apr-2025 19:51:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[18-Apr-2025 19:52:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[18-Apr-2025 19:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[18-Apr-2025 19:52:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[18-Apr-2025 19:52:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[07-May-2025 03:39:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[07-May-2025 04:57:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[07-May-2025 13:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[07-May-2025 20:56:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[07-May-2025 21:48:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[08-May-2025 21:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[08-May-2025 21:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[08-May-2025 21:45:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[08-May-2025 21:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[08-May-2025 21:46:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[08-May-2025 21:46:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[08-May-2025 21:47:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[08-May-2025 21:47:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[08-May-2025 21:48:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[08-May-2025 21:48:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[09-May-2025 12:54:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[09-May-2025 22:41:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[10-May-2025 01:58:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[10-May-2025 07:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[10-May-2025 11:56:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[11-May-2025 08:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9
+[12-May-2025 16:53:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[12-May-2025 18:06:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php on line 7
+[12-May-2025 18:09:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php on line 10
+[12-May-2025 18:11:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php on line 9
+[12-May-2025 18:16:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ServiceProvider\ServiceProviderAggregateInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php on line 11
+[12-May-2025 18:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Container\ContainerAwareInterface' not found in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php on line 9

@@ -1,0 +1,84 @@
+[19-Dec-2024 02:43:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[19-Dec-2024 02:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[21-Dec-2024 04:31:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[23-Dec-2024 19:53:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[25-Dec-2024 01:16:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[25-Dec-2024 01:16:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[05-Feb-2025 09:44:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[05-Feb-2025 10:42:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[21-Feb-2025 09:46:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[21-Feb-2025 09:46:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[10-Mar-2025 03:16:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[06-Apr-2025 11:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[06-Apr-2025 11:45:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[07-May-2025 14:33:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[07-May-2025 20:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[08-May-2025 21:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[08-May-2025 21:17:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12
+[08-May-2025 21:20:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[08-May-2025 21:20:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[11-May-2025 10:32:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\OutputFormatters\Transformations\SimplifyToArrayInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/EntityToArraySimplifier.php on line 13
+[11-May-2025 11:21:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Consolidation\OutputFormatters\FormatterManager' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Formatters/DrushFormatterManager.php on line 12

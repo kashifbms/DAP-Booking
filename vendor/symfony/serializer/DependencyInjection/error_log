@@ -1,0 +1,92 @@
+[18-Nov-2024 13:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[21-Nov-2024 08:57:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[07-Dec-2024 03:11:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[15-Jan-2025 05:12:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[29-Jan-2025 08:35:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[02-Feb-2025 19:38:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[13-Feb-2025 00:36:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[14-Feb-2025 02:17:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[16-Feb-2025 06:00:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[04-Mar-2025 02:45:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[08-Mar-2025 02:22:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[13-Mar-2025 17:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[15-Mar-2025 18:55:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[17-Mar-2025 20:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[21-Mar-2025 08:29:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[08-Apr-2025 01:31:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[19-Apr-2025 17:56:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[29-Apr-2025 23:06:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[02-May-2025 21:50:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[08-May-2025 20:26:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[08-May-2025 20:40:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[08-May-2025 20:40:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30
+[12-May-2025 08:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/DependencyInjection/SerializerPass.php on line 30

@@ -1,0 +1,108 @@
+[08-Nov-2024 11:02:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[14-Nov-2024 03:02:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[21-Nov-2024 10:44:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[01-Dec-2024 05:28:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[21-Dec-2024 03:18:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[21-Dec-2024 19:21:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[23-Dec-2024 03:09:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[25-Dec-2024 06:23:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[08-Jan-2025 17:36:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[10-Jan-2025 01:45:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[14-Jan-2025 02:13:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[27-Jan-2025 16:47:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[29-Jan-2025 08:12:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[03-Feb-2025 23:33:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[20-Feb-2025 20:04:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[24-Feb-2025 16:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[06-Mar-2025 09:32:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[10-Mar-2025 07:28:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[14-Mar-2025 08:15:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[14-Mar-2025 13:45:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[18-Mar-2025 01:11:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[07-Apr-2025 23:35:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[18-Apr-2025 18:56:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[02-May-2025 16:23:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[05-May-2025 15:59:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[10-May-2025 10:29:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17
+[11-May-2025 16:45:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Composer\Plugin\PluginInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/core-project-message/MessagePlugin.php on line 17

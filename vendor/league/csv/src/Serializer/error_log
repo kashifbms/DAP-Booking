@@ -1,0 +1,473 @@
+[14-Nov-2024 04:34:02 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[14-Nov-2024 04:38:25 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[14-Nov-2024 04:40:46 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[21-Nov-2024 16:29:51 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[21-Nov-2024 16:29:57 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[21-Nov-2024 16:30:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[21-Nov-2024 16:30:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[21-Nov-2024 16:30:14 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[21-Nov-2024 16:30:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[21-Nov-2024 16:30:30 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[21-Nov-2024 16:30:35 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[21-Nov-2024 16:30:40 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[21-Nov-2024 16:30:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[21-Nov-2024 16:30:53 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[21-Nov-2024 16:30:59 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[21-Nov-2024 16:31:04 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[21-Nov-2024 16:31:09 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[21-Nov-2024 16:31:14 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[21-Nov-2024 16:31:26 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[21-Nov-2024 16:31:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[21-Nov-2024 16:31:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[07-Dec-2024 14:58:27 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[07-Dec-2024 16:12:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[07-Dec-2024 18:24:16 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[07-Dec-2024 18:36:06 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[07-Dec-2024 18:46:38 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[07-Dec-2024 18:49:21 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[07-Dec-2024 22:28:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[08-Dec-2024 00:11:22 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[08-Dec-2024 00:43:53 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[08-Dec-2024 00:58:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[08-Dec-2024 01:30:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[08-Dec-2024 01:51:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[08-Dec-2024 01:59:52 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[08-Dec-2024 03:59:55 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[08-Dec-2024 05:29:09 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[08-Dec-2024 06:12:19 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[08-Dec-2024 06:24:04 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[08-Dec-2024 06:54:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[19-Dec-2024 15:57:19 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[19-Dec-2024 15:57:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[19-Dec-2024 15:58:23 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[19-Dec-2024 15:58:55 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[19-Dec-2024 15:59:41 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[19-Dec-2024 16:00:45 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[19-Dec-2024 16:02:54 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[19-Dec-2024 16:04:00 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[19-Dec-2024 16:05:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[19-Dec-2024 16:06:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[19-Dec-2024 16:06:29 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[19-Dec-2024 16:07:12 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[19-Dec-2024 16:08:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[19-Dec-2024 16:09:21 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[19-Dec-2024 16:22:21 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[19-Dec-2024 16:57:29 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[19-Dec-2024 17:27:19 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[19-Dec-2024 17:29:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[19-Dec-2024 17:30:51 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[19-Dec-2024 17:32:38 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[19-Dec-2024 17:34:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[19-Dec-2024 17:36:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[19-Dec-2024 18:34:23 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[19-Dec-2024 18:46:33 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[19-Dec-2024 19:09:47 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[19-Dec-2024 19:21:48 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[19-Dec-2024 19:28:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[19-Dec-2024 20:21:41 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[19-Dec-2024 20:45:32 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[19-Dec-2024 21:07:34 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[19-Dec-2024 21:18:35 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[19-Dec-2024 22:16:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[19-Dec-2024 22:25:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[19-Dec-2024 22:36:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[19-Dec-2024 22:53:33 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[19-Dec-2024 23:26:27 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[20-Dec-2024 07:13:22 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[20-Dec-2024 07:22:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[21-Dec-2024 22:31:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[22-Dec-2024 21:00:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[22-Dec-2024 22:14:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[23-Dec-2024 19:22:48 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[23-Dec-2024 19:23:08 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[23-Dec-2024 19:23:49 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[25-Jan-2025 05:12:15 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[29-Jan-2025 06:07:24 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[29-Jan-2025 06:07:29 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[29-Jan-2025 06:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[29-Jan-2025 06:07:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[29-Jan-2025 06:07:45 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[29-Jan-2025 06:08:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[29-Jan-2025 06:08:11 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[29-Jan-2025 06:08:16 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[29-Jan-2025 06:08:21 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[29-Jan-2025 06:08:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[29-Jan-2025 06:08:29 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[29-Jan-2025 06:08:32 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[29-Jan-2025 06:08:37 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[29-Jan-2025 06:08:40 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[29-Jan-2025 06:08:44 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[29-Jan-2025 06:08:48 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[29-Jan-2025 06:08:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[29-Jan-2025 06:08:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[30-Jan-2025 20:13:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[05-Feb-2025 00:38:32 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[05-Feb-2025 04:21:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[05-Feb-2025 11:36:19 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[05-Feb-2025 13:29:13 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[05-Feb-2025 13:34:58 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[05-Feb-2025 15:45:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[05-Feb-2025 16:20:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[05-Feb-2025 16:49:42 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[05-Feb-2025 21:07:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[05-Feb-2025 23:18:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[05-Feb-2025 23:47:45 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[06-Feb-2025 00:05:17 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[06-Feb-2025 02:29:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[06-Feb-2025 03:00:03 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[06-Feb-2025 05:09:49 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[06-Feb-2025 05:46:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[06-Feb-2025 05:55:45 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[06-Feb-2025 06:02:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[06-Feb-2025 06:07:08 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[06-Feb-2025 06:16:39 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[06-Feb-2025 08:06:15 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[06-Feb-2025 08:45:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[06-Feb-2025 08:57:08 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[06-Feb-2025 09:11:11 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[06-Feb-2025 09:57:50 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[06-Feb-2025 10:06:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[06-Feb-2025 10:40:06 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[06-Feb-2025 10:43:36 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[06-Feb-2025 10:49:31 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[06-Feb-2025 11:21:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[06-Feb-2025 11:56:41 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[06-Feb-2025 12:51:13 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[06-Feb-2025 13:04:18 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[06-Feb-2025 13:05:29 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[06-Feb-2025 13:09:19 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[06-Feb-2025 16:31:52 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[06-Feb-2025 16:44:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[06-Feb-2025 17:58:30 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[06-Feb-2025 18:45:33 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[06-Feb-2025 19:24:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[06-Feb-2025 19:26:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[07-Feb-2025 02:27:56 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[07-Feb-2025 04:02:33 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[07-Feb-2025 05:36:15 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[07-Feb-2025 09:45:51 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[07-Feb-2025 17:04:52 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[07-Feb-2025 20:22:35 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[07-Feb-2025 22:00:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[07-Feb-2025 22:49:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[08-Feb-2025 02:53:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[08-Feb-2025 05:55:34 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[08-Feb-2025 06:34:44 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[08-Feb-2025 19:42:07 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[16-Feb-2025 08:47:24 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[16-Feb-2025 09:48:21 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[16-Feb-2025 10:20:24 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[16-Feb-2025 10:33:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[16-Feb-2025 14:22:41 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[16-Feb-2025 15:41:39 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[24-Feb-2025 16:30:02 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[24-Feb-2025 16:30:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[24-Feb-2025 16:30:05 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[24-Feb-2025 16:30:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[24-Feb-2025 16:32:38 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[24-Feb-2025 16:32:44 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[24-Feb-2025 16:32:50 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[24-Feb-2025 16:32:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[24-Feb-2025 16:32:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[24-Feb-2025 16:33:02 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[24-Feb-2025 16:33:36 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[24-Feb-2025 16:34:06 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[24-Feb-2025 16:34:11 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[24-Feb-2025 16:34:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[24-Feb-2025 16:34:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[24-Feb-2025 16:35:36 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[24-Feb-2025 16:36:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[24-Feb-2025 16:38:06 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[24-Feb-2025 16:38:30 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[24-Feb-2025 16:41:31 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[10-Mar-2025 03:09:48 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[10-Mar-2025 03:09:49 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[10-Mar-2025 03:09:49 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[10-Mar-2025 03:09:50 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[10-Mar-2025 03:09:50 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[10-Mar-2025 03:09:51 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[10-Mar-2025 03:09:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[10-Mar-2025 03:09:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[10-Mar-2025 03:09:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[13-Mar-2025 17:39:51 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[13-Mar-2025 17:49:53 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[13-Mar-2025 17:59:28 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[13-Mar-2025 18:02:58 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[13-Mar-2025 18:32:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[13-Mar-2025 18:32:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[13-Mar-2025 18:46:39 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[13-Mar-2025 18:47:19 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[13-Mar-2025 18:51:05 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[13-Mar-2025 19:36:30 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[13-Mar-2025 19:40:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[13-Mar-2025 19:44:50 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[13-Mar-2025 19:53:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[13-Mar-2025 19:55:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[13-Mar-2025 20:02:33 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[13-Mar-2025 20:05:48 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[13-Mar-2025 20:16:20 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[14-Mar-2025 07:14:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[17-Mar-2025 21:58:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[17-Mar-2025 21:58:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[17-Mar-2025 22:35:31 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[17-Mar-2025 23:46:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[21-Mar-2025 07:01:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[21-Mar-2025 07:03:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[23-Mar-2025 21:19:00 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[25-Mar-2025 02:15:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[25-Mar-2025 02:17:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[28-Mar-2025 00:31:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[28-Mar-2025 00:33:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[30-Mar-2025 04:56:11 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[30-Mar-2025 04:56:12 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[30-Mar-2025 04:56:12 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[30-Mar-2025 04:56:13 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[30-Mar-2025 04:56:13 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[30-Mar-2025 04:56:14 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[30-Mar-2025 04:56:14 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[30-Mar-2025 04:56:15 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[30-Mar-2025 04:56:15 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[30-Mar-2025 04:56:16 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[30-Mar-2025 04:56:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[30-Mar-2025 04:56:17 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[30-Mar-2025 04:56:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[30-Mar-2025 04:56:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[30-Mar-2025 04:56:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[30-Mar-2025 04:56:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[30-Mar-2025 04:56:20 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[30-Mar-2025 04:56:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[05-Apr-2025 03:09:24 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[05-Apr-2025 03:09:49 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[05-Apr-2025 03:10:15 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[05-Apr-2025 03:10:37 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[05-Apr-2025 03:11:01 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[05-Apr-2025 03:11:32 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[05-Apr-2025 03:11:54 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[05-Apr-2025 03:12:27 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[05-Apr-2025 03:13:14 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[05-Apr-2025 03:13:19 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[05-Apr-2025 03:13:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[05-Apr-2025 03:14:03 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[05-Apr-2025 03:14:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[05-Apr-2025 03:14:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[05-Apr-2025 03:15:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[05-Apr-2025 03:15:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[05-Apr-2025 03:16:48 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[05-Apr-2025 03:17:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[06-Apr-2025 17:19:26 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[06-Apr-2025 18:36:22 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[06-Apr-2025 19:16:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[06-Apr-2025 23:14:24 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[06-Apr-2025 23:23:05 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[07-Apr-2025 00:24:44 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[07-Apr-2025 00:41:28 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[07-Apr-2025 00:51:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[07-Apr-2025 01:28:31 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[07-Apr-2025 01:32:10 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[07-Apr-2025 02:02:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[07-Apr-2025 03:15:20 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[07-Apr-2025 03:19:06 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[07-Apr-2025 03:33:11 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[07-Apr-2025 03:53:03 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[07-Apr-2025 05:14:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[07-Apr-2025 06:14:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[07-Apr-2025 06:32:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[07-Apr-2025 12:46:33 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[08-Apr-2025 04:40:18 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[08-Apr-2025 04:40:22 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[08-Apr-2025 04:40:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[08-Apr-2025 04:40:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[08-Apr-2025 04:40:34 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[08-Apr-2025 04:40:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[08-Apr-2025 04:40:43 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[08-Apr-2025 04:40:48 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[08-Apr-2025 04:40:52 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[08-Apr-2025 04:40:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[08-Apr-2025 04:40:59 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[08-Apr-2025 04:41:03 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[08-Apr-2025 04:41:07 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[08-Apr-2025 04:41:11 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[08-Apr-2025 04:41:15 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[08-Apr-2025 04:41:20 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[08-Apr-2025 04:41:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[08-Apr-2025 04:41:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[18-Apr-2025 10:07:12 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[21-Apr-2025 00:18:18 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[21-Apr-2025 07:22:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[21-Apr-2025 11:46:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[21-Apr-2025 23:49:23 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[22-Apr-2025 09:10:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[23-Apr-2025 04:04:40 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[25-Apr-2025 21:07:25 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[26-Apr-2025 01:37:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[26-Apr-2025 10:19:21 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[26-Apr-2025 20:19:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[28-Apr-2025 11:52:28 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[29-Apr-2025 05:06:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[07-May-2025 05:11:40 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[07-May-2025 05:31:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[07-May-2025 06:15:20 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[07-May-2025 06:20:56 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[07-May-2025 07:02:48 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[07-May-2025 07:41:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[07-May-2025 12:07:56 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[07-May-2025 12:08:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[07-May-2025 13:56:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[07-May-2025 14:33:44 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[07-May-2025 14:34:46 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[07-May-2025 17:06:02 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[07-May-2025 17:26:07 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[07-May-2025 17:27:02 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[07-May-2025 18:22:55 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[07-May-2025 19:21:10 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[07-May-2025 20:51:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[07-May-2025 22:02:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[07-May-2025 23:24:15 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[07-May-2025 23:24:15 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[07-May-2025 23:24:16 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[07-May-2025 23:24:16 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[07-May-2025 23:24:17 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[07-May-2025 23:24:18 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[07-May-2025 23:24:18 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[07-May-2025 23:24:18 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[07-May-2025 23:24:19 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[07-May-2025 23:24:19 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[07-May-2025 23:24:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[07-May-2025 23:24:20 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[07-May-2025 23:24:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[07-May-2025 23:24:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[07-May-2025 23:24:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[07-May-2025 23:24:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[07-May-2025 23:24:23 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[07-May-2025 23:24:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[08-May-2025 21:28:24 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[08-May-2025 21:28:24 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[08-May-2025 21:28:24 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[08-May-2025 21:28:25 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[08-May-2025 21:28:56 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[08-May-2025 21:28:57 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[08-May-2025 21:28:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[08-May-2025 21:28:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[08-May-2025 21:29:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[08-May-2025 21:29:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[08-May-2025 21:29:25 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[08-May-2025 21:29:26 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[08-May-2025 21:29:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[08-May-2025 21:29:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[08-May-2025 21:30:54 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[08-May-2025 21:30:54 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[08-May-2025 21:34:50 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[08-May-2025 21:34:50 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[08-May-2025 21:34:52 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[08-May-2025 21:34:52 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[08-May-2025 21:35:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[08-May-2025 21:35:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[08-May-2025 21:36:10 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[08-May-2025 21:36:10 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[08-May-2025 21:37:42 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[08-May-2025 21:37:42 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[08-May-2025 21:38:10 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[08-May-2025 21:38:10 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[08-May-2025 21:43:26 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[08-May-2025 21:43:27 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[08-May-2025 21:46:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[08-May-2025 21:46:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[08-May-2025 21:47:37 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[08-May-2025 21:47:37 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[10-May-2025 09:40:12 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[10-May-2025 12:51:17 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[10-May-2025 14:21:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[10-May-2025 15:11:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[11-May-2025 01:08:05 UTC] PHP Parse error:  syntax error, unexpected 'MapRecord' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/AfterMapping.php on line 28
+[11-May-2025 12:15:34 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[11-May-2025 16:30:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[11-May-2025 22:39:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MappingFailed.php on line 23
+[12-May-2025 01:23:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[12-May-2025 02:17:29 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[12-May-2025 13:19:22 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[12-May-2025 15:10:03 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[12-May-2025 17:53:21 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[12-May-2025 18:05:24 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToArray.php on line 37
+[12-May-2025 18:06:29 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToString.php on line 24
+[12-May-2025 18:07:32 UTC] PHP Parse error:  syntax error, unexpected 'ArrayShape' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/ArrayShape.php on line 16
+[12-May-2025 18:09:26 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[12-May-2025 18:11:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapCell.php on line 25
+[12-May-2025 18:11:34 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToInt.php on line 26
+[12-May-2025 18:12:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/TypeCastingFailed.php on line 35
+[12-May-2025 18:14:01 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToEnum.php on line 28
+[12-May-2025 18:15:13 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToFloat.php on line 26
+[12-May-2025 18:16:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/PropertySetter.php on line 29
+[12-May-2025 18:16:26 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CallbackCasting.php on line 40
+[12-May-2025 18:17:39 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToDate.php on line 35
+[12-May-2025 18:17:39 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33
+[12-May-2025 18:18:41 UTC] PHP Parse error:  syntax error, unexpected 'bool' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/CastToBool.php on line 26
+[12-May-2025 18:19:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'League\Csv\Serializer\SerializationFailed' not found in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/DenormalizationFailed.php on line 19
+[12-May-2025 18:25:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/MapRecord.php on line 28
+[13-May-2025 08:03:05 UTC] PHP Parse error:  syntax error, unexpected 'ReflectionClass' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Denormalizer.php on line 36
+[13-May-2025 09:43:26 UTC] PHP Parse error:  syntax error, unexpected 'Type' (T_STRING) in /home/dreamland/public_html/booking/vendor/league/csv/src/Serializer/Type.php on line 33

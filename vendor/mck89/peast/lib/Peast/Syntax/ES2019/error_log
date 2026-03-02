@@ -1,0 +1,68 @@
+[21-Nov-2024 14:12:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[23-Nov-2024 10:32:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[24-Dec-2024 01:11:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[08-Jan-2025 14:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[21-Jan-2025 05:46:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[29-Jan-2025 11:41:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[18-Feb-2025 14:28:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[23-Feb-2025 02:01:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[06-Mar-2025 08:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[13-Mar-2025 20:12:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[14-Mar-2025 12:18:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[21-Mar-2025 13:09:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[30-Mar-2025 04:56:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[08-Apr-2025 04:07:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[18-Apr-2025 19:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[26-Apr-2025 23:50:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19
+[09-May-2025 21:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2018\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2019/Features.php on line 19

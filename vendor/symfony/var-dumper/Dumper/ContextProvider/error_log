@@ -1,0 +1,172 @@
+[13-Nov-2024 09:17:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[13-Nov-2024 13:56:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[13-Nov-2024 13:59:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[21-Nov-2024 11:47:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[21-Nov-2024 11:47:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[21-Nov-2024 11:47:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[06-Dec-2024 06:56:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[17-Dec-2024 03:24:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[24-Dec-2024 18:01:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[03-Jan-2025 16:13:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[03-Jan-2025 16:13:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[03-Jan-2025 16:13:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[10-Jan-2025 03:25:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[10-Jan-2025 06:36:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[10-Jan-2025 09:28:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[29-Jan-2025 10:00:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[29-Jan-2025 10:00:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[29-Jan-2025 10:00:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[13-Feb-2025 05:02:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[13-Feb-2025 05:02:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[13-Feb-2025 05:03:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[13-Feb-2025 05:33:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[13-Feb-2025 07:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[13-Feb-2025 07:49:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[13-Feb-2025 08:03:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[13-Feb-2025 13:02:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[15-Feb-2025 17:03:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[15-Feb-2025 17:05:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[16-Feb-2025 12:45:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[10-Mar-2025 03:19:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[10-Mar-2025 03:19:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[10-Mar-2025 05:48:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[10-Mar-2025 09:56:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[10-Mar-2025 15:29:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[12-Mar-2025 20:01:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[12-Mar-2025 20:01:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[12-Mar-2025 20:01:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[13-Mar-2025 17:36:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[13-Mar-2025 18:32:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[13-Mar-2025 19:33:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[17-Mar-2025 21:48:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[18-Mar-2025 00:03:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[21-Mar-2025 06:56:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[25-Mar-2025 02:03:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[28-Mar-2025 00:26:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[06-Apr-2025 12:40:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[06-Apr-2025 12:40:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[06-Apr-2025 12:41:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[08-Apr-2025 02:40:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[08-Apr-2025 02:40:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[08-Apr-2025 02:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[30-Apr-2025 07:52:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[30-Apr-2025 07:55:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[30-Apr-2025 07:58:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[05-May-2025 06:36:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[05-May-2025 14:03:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[05-May-2025 14:40:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[10-May-2025 05:17:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[10-May-2025 09:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[10-May-2025 11:25:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 32
+[13-May-2025 06:12:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23

@@ -1,0 +1,96 @@
+[13-Nov-2024 15:29:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[18-Nov-2024 15:39:08 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[21-Nov-2024 11:59:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[21-Nov-2024 11:59:45 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[06-Dec-2024 14:57:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[27-Dec-2024 11:12:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[27-Dec-2024 11:12:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[10-Jan-2025 02:59:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[15-Jan-2025 16:18:39 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[29-Jan-2025 06:09:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[29-Jan-2025 10:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[02-Feb-2025 13:57:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[04-Feb-2025 11:12:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[07-Feb-2025 18:37:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[21-Feb-2025 09:47:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[21-Feb-2025 09:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[10-Mar-2025 03:17:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[10-Mar-2025 07:12:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[13-Mar-2025 17:35:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[13-Mar-2025 19:11:26 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[15-Mar-2025 20:03:46 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[06-Apr-2025 12:02:46 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[06-Apr-2025 12:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[08-Apr-2025 03:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[08-Apr-2025 03:03:59 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[07-May-2025 10:49:41 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[07-May-2025 20:51:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[08-May-2025 14:49:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[08-May-2025 21:34:02 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[08-May-2025 21:34:02 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[08-May-2025 21:36:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[08-May-2025 21:36:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[10-May-2025 10:14:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[10-May-2025 11:04:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13
+[12-May-2025 13:31:17 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/ErrorCorrectionLevelConverter.php on line 15
+[12-May-2025 13:41:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Endroid\QrCode\Matrix\MatrixFactoryInterface' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Bacon/MatrixFactory.php on line 13

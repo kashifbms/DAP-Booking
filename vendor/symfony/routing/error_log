@@ -1,0 +1,499 @@
+[08-Nov-2024 05:19:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[08-Nov-2024 08:50:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[08-Nov-2024 09:16:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[08-Nov-2024 09:26:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[08-Nov-2024 10:47:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[08-Nov-2024 12:58:52 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[08-Nov-2024 14:58:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[08-Nov-2024 15:59:42 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[13-Nov-2024 05:56:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[13-Nov-2024 06:14:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[13-Nov-2024 06:20:42 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[19-Nov-2024 06:28:34 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[19-Nov-2024 06:28:36 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[19-Nov-2024 06:28:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[19-Nov-2024 06:28:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[19-Nov-2024 06:28:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[19-Nov-2024 06:28:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[19-Nov-2024 06:28:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[19-Nov-2024 06:28:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[21-Nov-2024 09:19:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[21-Nov-2024 09:19:31 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[21-Nov-2024 09:19:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[21-Nov-2024 09:19:57 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[21-Nov-2024 09:20:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[21-Nov-2024 09:20:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[21-Nov-2024 09:20:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[21-Nov-2024 09:20:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[23-Nov-2024 22:46:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[23-Nov-2024 22:55:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[27-Nov-2024 09:51:07 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[28-Nov-2024 20:11:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[29-Nov-2024 15:04:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[29-Nov-2024 15:05:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[02-Dec-2024 00:36:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[02-Dec-2024 00:36:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[02-Dec-2024 00:36:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[02-Dec-2024 00:36:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[02-Dec-2024 00:42:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[13-Dec-2024 21:31:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[14-Dec-2024 15:45:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[17-Dec-2024 13:29:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[20-Dec-2024 07:16:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[20-Dec-2024 07:19:31 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[20-Dec-2024 07:23:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[21-Dec-2024 13:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[23-Dec-2024 03:40:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[23-Dec-2024 03:47:16 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[23-Dec-2024 04:00:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[25-Dec-2024 13:37:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[01-Jan-2025 06:42:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[02-Jan-2025 17:02:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[03-Jan-2025 18:57:44 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[10-Jan-2025 01:25:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[10-Jan-2025 03:48:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[10-Jan-2025 06:58:13 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[10-Jan-2025 07:55:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[10-Jan-2025 08:10:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[10-Jan-2025 10:13:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[10-Jan-2025 11:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[10-Jan-2025 13:58:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[10-Jan-2025 16:03:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[12-Jan-2025 00:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[12-Jan-2025 00:30:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[12-Jan-2025 00:30:48 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[12-Jan-2025 00:32:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[18-Jan-2025 16:49:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[22-Jan-2025 00:28:03 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[22-Jan-2025 19:48:23 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[22-Jan-2025 19:56:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[22-Jan-2025 19:59:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[27-Jan-2025 05:33:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[27-Jan-2025 07:47:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[27-Jan-2025 11:32:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[28-Jan-2025 02:31:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[28-Jan-2025 02:31:35 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[28-Jan-2025 02:32:02 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[28-Jan-2025 02:32:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[28-Jan-2025 02:32:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[28-Jan-2025 02:32:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[28-Jan-2025 02:32:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[28-Jan-2025 02:32:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[28-Jan-2025 04:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[28-Jan-2025 13:35:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[28-Jan-2025 15:57:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[28-Jan-2025 23:31:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[29-Jan-2025 06:24:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[29-Jan-2025 08:02:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[29-Jan-2025 08:02:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[29-Jan-2025 08:02:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[29-Jan-2025 08:02:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[29-Jan-2025 08:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[29-Jan-2025 08:03:06 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[29-Jan-2025 08:03:11 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[29-Jan-2025 10:31:14 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[30-Jan-2025 04:22:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[30-Jan-2025 04:22:59 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[30-Jan-2025 04:26:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Feb-2025 16:41:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[01-Feb-2025 21:10:05 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[07-Feb-2025 06:56:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[12-Feb-2025 19:27:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[12-Feb-2025 19:30:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[12-Feb-2025 19:34:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[12-Feb-2025 19:37:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[12-Feb-2025 19:44:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[12-Feb-2025 20:18:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[12-Feb-2025 21:32:25 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[13-Feb-2025 01:42:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[13-Feb-2025 02:36:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[13-Feb-2025 04:02:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[13-Feb-2025 04:09:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[13-Feb-2025 05:55:49 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[13-Feb-2025 06:37:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[13-Feb-2025 06:46:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[13-Feb-2025 07:02:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[13-Feb-2025 08:06:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[15-Feb-2025 00:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[15-Feb-2025 00:19:28 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[15-Feb-2025 00:21:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[15-Feb-2025 00:49:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[15-Feb-2025 00:52:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[15-Feb-2025 01:49:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[15-Feb-2025 03:28:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[15-Feb-2025 10:07:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[16-Feb-2025 21:25:34 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[20-Feb-2025 23:25:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[20-Feb-2025 23:26:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[20-Feb-2025 23:31:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[20-Feb-2025 23:33:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[20-Feb-2025 23:36:42 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[20-Feb-2025 23:42:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[21-Feb-2025 19:03:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[22-Feb-2025 22:05:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[22-Feb-2025 22:06:40 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[22-Feb-2025 22:08:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[22-Feb-2025 22:08:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[22-Feb-2025 22:09:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[22-Feb-2025 22:09:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[22-Feb-2025 22:09:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[22-Feb-2025 22:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[24-Feb-2025 16:30:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[24-Feb-2025 16:32:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[24-Feb-2025 16:32:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[24-Feb-2025 16:33:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[24-Feb-2025 16:35:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[24-Feb-2025 16:35:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[24-Feb-2025 16:35:55 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[24-Feb-2025 16:36:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[24-Feb-2025 16:37:06 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[28-Feb-2025 04:36:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[06-Mar-2025 13:53:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[06-Mar-2025 13:53:28 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[06-Mar-2025 13:54:04 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[06-Mar-2025 13:55:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[06-Mar-2025 13:56:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[06-Mar-2025 13:56:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[06-Mar-2025 13:57:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[06-Mar-2025 13:58:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[07-Mar-2025 21:27:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[10-Mar-2025 05:41:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[10-Mar-2025 06:45:10 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[10-Mar-2025 08:04:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[10-Mar-2025 10:28:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[10-Mar-2025 11:26:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[10-Mar-2025 11:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[10-Mar-2025 12:00:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[10-Mar-2025 16:56:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[13-Mar-2025 02:15:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[13-Mar-2025 18:05:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[13-Mar-2025 18:12:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[13-Mar-2025 18:36:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[13-Mar-2025 18:45:26 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[13-Mar-2025 19:57:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[13-Mar-2025 20:24:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[14-Mar-2025 05:03:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[14-Mar-2025 08:16:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[14-Mar-2025 14:30:02 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[14-Mar-2025 14:30:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[14-Mar-2025 14:30:57 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[14-Mar-2025 14:31:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[14-Mar-2025 14:32:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[14-Mar-2025 14:32:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[14-Mar-2025 14:33:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[14-Mar-2025 14:33:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[17-Mar-2025 20:44:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[17-Mar-2025 21:25:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[18-Mar-2025 01:16:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[18-Mar-2025 02:02:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[20-Mar-2025 07:52:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[21-Mar-2025 10:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[23-Mar-2025 05:52:19 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[23-Mar-2025 16:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[25-Mar-2025 07:35:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[26-Mar-2025 02:11:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[27-Mar-2025 22:07:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[28-Mar-2025 08:23:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[30-Mar-2025 03:19:19 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[30-Mar-2025 18:24:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Apr-2025 09:22:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[02-Apr-2025 01:59:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[04-Apr-2025 12:52:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[04-Apr-2025 14:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[07-Apr-2025 02:38:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[07-Apr-2025 22:36:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[07-Apr-2025 22:36:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[07-Apr-2025 22:36:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[07-Apr-2025 22:36:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[07-Apr-2025 22:36:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[07-Apr-2025 22:37:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[07-Apr-2025 22:37:16 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[07-Apr-2025 22:37:20 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[08-Apr-2025 10:51:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[18-Apr-2025 15:52:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[18-Apr-2025 15:52:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[18-Apr-2025 15:52:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[18-Apr-2025 15:52:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[18-Apr-2025 17:54:47 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[18-Apr-2025 17:55:01 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[18-Apr-2025 17:55:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[18-Apr-2025 17:55:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[18-Apr-2025 17:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-Apr-2025 17:56:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[18-Apr-2025 17:56:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[19-Apr-2025 14:59:49 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[30-Apr-2025 01:35:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[30-Apr-2025 01:37:18 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[30-Apr-2025 01:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[30-Apr-2025 01:41:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[30-Apr-2025 01:45:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[30-Apr-2025 01:46:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[30-Apr-2025 01:59:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[30-Apr-2025 02:01:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[30-Apr-2025 08:49:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[30-Apr-2025 16:33:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[02-May-2025 04:03:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[02-May-2025 06:34:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[02-May-2025 10:34:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[03-May-2025 04:06:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[03-May-2025 05:33:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[03-May-2025 06:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[03-May-2025 07:33:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[03-May-2025 11:45:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[03-May-2025 12:01:45 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[03-May-2025 18:52:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[03-May-2025 19:43:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[03-May-2025 21:53:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[04-May-2025 08:10:29 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[04-May-2025 12:09:08 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[05-May-2025 13:36:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[05-May-2025 16:11:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[05-May-2025 20:20:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[08-May-2025 20:20:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[08-May-2025 20:22:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[08-May-2025 20:22:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[08-May-2025 20:23:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[08-May-2025 20:23:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[08-May-2025 20:26:29 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[08-May-2025 20:26:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[08-May-2025 20:26:30 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[08-May-2025 20:26:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[08-May-2025 20:33:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[08-May-2025 20:33:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[08-May-2025 20:35:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[08-May-2025 20:35:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[08-May-2025 20:47:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[08-May-2025 20:47:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[10-May-2025 00:43:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting ';' or '{' in /home/dreamland/public_html/booking/vendor/symfony/routing/Router.php on line 243
+[10-May-2025 05:48:49 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26
+[10-May-2025 06:03:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[10-May-2025 08:12:34 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[10-May-2025 10:57:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[10-May-2025 11:09:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[10-May-2025 11:28:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/RequestContext.php on line 70
+[10-May-2025 12:34:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[11-May-2025 14:29:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouterInterface.php on line 24
+[11-May-2025 14:31:09 UTC] PHP Fatal error:  Declaration of Symfony\Component\Routing\CompiledRoute::unserialize(string $serialized): void must be compatible with Serializable::unserialize($serialized) in /home/dreamland/public_html/booking/vendor/symfony/routing/CompiledRoute.php on line 89
+[11-May-2025 14:36:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCompiler.php on line 20
+[11-May-2025 14:39:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/RouteCollection.php on line 148
+[11-May-2025 15:09:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/routing/Route.php on line 49
+[11-May-2025 15:11:29 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/routing/Alias.php on line 26

@@ -1,0 +1,1569 @@
+[20-Nov-2024 02:44:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[20-Nov-2024 06:00:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[23-Nov-2024 04:14:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[23-Nov-2024 19:22:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[24-Nov-2024 18:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[03-Dec-2024 11:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[07-Dec-2024 13:01:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[07-Dec-2024 13:05:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[10-Dec-2024 15:42:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[15-Dec-2024 14:24:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[17-Dec-2024 13:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[18-Dec-2024 10:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[18-Dec-2024 22:34:59 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[18-Dec-2024 22:36:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[18-Dec-2024 22:36:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[18-Dec-2024 22:37:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[18-Dec-2024 22:39:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[18-Dec-2024 22:40:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[18-Dec-2024 22:40:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[18-Dec-2024 22:41:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[18-Dec-2024 22:42:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[18-Dec-2024 22:42:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[18-Dec-2024 22:43:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[18-Dec-2024 22:44:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[18-Dec-2024 22:45:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[18-Dec-2024 22:45:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[18-Dec-2024 22:46:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[18-Dec-2024 22:46:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[18-Dec-2024 22:47:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[18-Dec-2024 22:49:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[18-Dec-2024 22:50:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[18-Dec-2024 22:50:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[18-Dec-2024 22:51:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[18-Dec-2024 22:51:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[18-Dec-2024 23:12:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[18-Dec-2024 23:53:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[19-Dec-2024 00:20:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[19-Dec-2024 12:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[20-Dec-2024 16:21:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[20-Dec-2024 17:59:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[20-Dec-2024 20:41:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[21-Dec-2024 01:36:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[21-Dec-2024 03:20:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[21-Dec-2024 05:40:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[21-Dec-2024 05:50:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[21-Dec-2024 06:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[21-Dec-2024 06:13:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[21-Dec-2024 11:05:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[21-Dec-2024 13:29:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[21-Dec-2024 13:30:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[21-Dec-2024 13:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[21-Dec-2024 13:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[21-Dec-2024 13:33:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[21-Dec-2024 13:35:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[21-Dec-2024 13:37:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[21-Dec-2024 13:38:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[21-Dec-2024 13:39:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[21-Dec-2024 13:40:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[21-Dec-2024 13:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[21-Dec-2024 13:42:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[21-Dec-2024 13:43:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[21-Dec-2024 13:44:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[21-Dec-2024 13:46:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[21-Dec-2024 14:05:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[21-Dec-2024 17:16:21 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[22-Dec-2024 00:43:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[22-Dec-2024 03:36:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[22-Dec-2024 22:51:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[23-Dec-2024 03:56:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[23-Dec-2024 19:17:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[23-Dec-2024 20:10:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[23-Dec-2024 20:26:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[23-Dec-2024 20:35:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[24-Dec-2024 01:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[27-Dec-2024 14:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[27-Dec-2024 19:29:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[27-Dec-2024 20:21:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[28-Dec-2024 14:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[29-Dec-2024 18:15:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[30-Dec-2024 01:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[31-Dec-2024 03:34:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[01-Jan-2025 14:51:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[02-Jan-2025 04:50:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[02-Jan-2025 23:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[03-Jan-2025 03:53:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[03-Jan-2025 05:33:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[03-Jan-2025 14:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[03-Jan-2025 16:07:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[03-Jan-2025 16:13:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[03-Jan-2025 16:13:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[03-Jan-2025 16:13:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[03-Jan-2025 16:13:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[03-Jan-2025 16:13:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[03-Jan-2025 16:13:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[03-Jan-2025 16:13:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[03-Jan-2025 16:13:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[03-Jan-2025 16:13:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[03-Jan-2025 16:13:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[03-Jan-2025 16:13:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[03-Jan-2025 16:13:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[03-Jan-2025 16:13:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[03-Jan-2025 16:13:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[03-Jan-2025 16:13:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[03-Jan-2025 16:13:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[03-Jan-2025 16:13:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[03-Jan-2025 16:13:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[03-Jan-2025 16:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[03-Jan-2025 16:13:59 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[03-Jan-2025 16:14:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[03-Jan-2025 16:14:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[03-Jan-2025 16:14:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[03-Jan-2025 16:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[03-Jan-2025 16:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[03-Jan-2025 16:14:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[03-Jan-2025 18:19:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[03-Jan-2025 19:08:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[15-Jan-2025 20:46:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[16-Jan-2025 01:04:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[26-Jan-2025 23:52:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[26-Jan-2025 23:53:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[26-Jan-2025 23:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[26-Jan-2025 23:55:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[26-Jan-2025 23:56:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[26-Jan-2025 23:57:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[26-Jan-2025 23:58:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[26-Jan-2025 23:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[26-Jan-2025 23:59:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[26-Jan-2025 23:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[27-Jan-2025 00:00:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[27-Jan-2025 00:01:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[27-Jan-2025 00:01:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[27-Jan-2025 00:02:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[27-Jan-2025 00:02:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[27-Jan-2025 00:03:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[27-Jan-2025 00:03:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[27-Jan-2025 00:04:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[27-Jan-2025 00:04:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[27-Jan-2025 00:05:30 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[27-Jan-2025 00:06:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[27-Jan-2025 00:07:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[27-Jan-2025 00:07:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[27-Jan-2025 00:08:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[27-Jan-2025 00:08:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[27-Jan-2025 00:09:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[06-Feb-2025 07:21:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[07-Feb-2025 01:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[07-Feb-2025 01:40:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[07-Feb-2025 01:42:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[07-Feb-2025 01:43:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[07-Feb-2025 01:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[07-Feb-2025 01:45:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[07-Feb-2025 01:46:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[07-Feb-2025 01:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[07-Feb-2025 01:49:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[07-Feb-2025 01:50:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[07-Feb-2025 01:51:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[07-Feb-2025 01:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[07-Feb-2025 01:54:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[07-Feb-2025 01:55:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[07-Feb-2025 01:56:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[07-Feb-2025 01:57:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[07-Feb-2025 01:58:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[07-Feb-2025 01:59:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[07-Feb-2025 02:01:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[07-Feb-2025 02:03:27 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[07-Feb-2025 02:07:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[07-Feb-2025 02:08:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[07-Feb-2025 02:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[07-Feb-2025 02:10:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[07-Feb-2025 02:11:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[07-Feb-2025 02:13:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[12-Feb-2025 19:00:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[12-Feb-2025 19:44:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[12-Feb-2025 21:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[13-Feb-2025 07:03:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[13-Feb-2025 07:50:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[13-Feb-2025 11:26:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[13-Feb-2025 12:14:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[13-Feb-2025 12:14:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[13-Feb-2025 16:56:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[13-Feb-2025 20:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[13-Feb-2025 20:46:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[13-Feb-2025 22:22:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[13-Feb-2025 23:14:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[14-Feb-2025 00:51:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[14-Feb-2025 04:52:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[16-Feb-2025 12:25:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[16-Feb-2025 13:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[16-Feb-2025 16:23:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[16-Feb-2025 17:12:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[16-Feb-2025 17:12:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[16-Feb-2025 22:47:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[18-Feb-2025 21:04:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[18-Feb-2025 22:31:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[24-Feb-2025 17:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[24-Feb-2025 18:32:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[24-Feb-2025 18:52:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[24-Feb-2025 19:04:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[24-Feb-2025 19:10:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[24-Feb-2025 19:12:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[24-Feb-2025 19:14:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[24-Feb-2025 19:14:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[24-Feb-2025 19:15:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[24-Feb-2025 19:15:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[24-Feb-2025 19:15:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[24-Feb-2025 19:15:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[24-Feb-2025 19:15:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[24-Feb-2025 19:16:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[24-Feb-2025 19:16:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[24-Feb-2025 19:16:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[24-Feb-2025 19:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[24-Feb-2025 19:16:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[24-Feb-2025 19:17:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[24-Feb-2025 19:17:26 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[24-Feb-2025 19:18:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[24-Feb-2025 19:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[24-Feb-2025 19:18:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[24-Feb-2025 19:18:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[24-Feb-2025 19:18:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[24-Feb-2025 19:18:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[07-Mar-2025 08:05:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[07-Mar-2025 08:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[07-Mar-2025 08:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[07-Mar-2025 08:16:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[07-Mar-2025 12:17:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[07-Mar-2025 12:24:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[07-Mar-2025 12:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[07-Mar-2025 12:30:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[07-Mar-2025 12:32:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[07-Mar-2025 12:32:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[07-Mar-2025 12:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[07-Mar-2025 12:32:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[07-Mar-2025 12:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[07-Mar-2025 12:32:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[07-Mar-2025 12:33:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[07-Mar-2025 12:33:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[07-Mar-2025 12:33:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[07-Mar-2025 12:33:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[07-Mar-2025 12:33:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[07-Mar-2025 12:33:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[07-Mar-2025 12:33:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[07-Mar-2025 12:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[07-Mar-2025 12:34:12 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[07-Mar-2025 12:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[07-Mar-2025 12:34:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[07-Mar-2025 12:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[07-Mar-2025 12:34:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[07-Mar-2025 12:35:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[14-Mar-2025 15:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[14-Mar-2025 15:34:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[14-Mar-2025 15:35:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[14-Mar-2025 15:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[14-Mar-2025 15:35:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[14-Mar-2025 15:36:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[14-Mar-2025 15:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[14-Mar-2025 15:36:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[14-Mar-2025 15:37:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[14-Mar-2025 15:37:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[14-Mar-2025 15:37:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[14-Mar-2025 15:38:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[14-Mar-2025 15:38:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[14-Mar-2025 15:38:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[14-Mar-2025 15:39:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[14-Mar-2025 15:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[14-Mar-2025 15:39:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[14-Mar-2025 15:40:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[14-Mar-2025 15:40:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[14-Mar-2025 15:41:03 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[14-Mar-2025 15:42:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[14-Mar-2025 15:42:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[14-Mar-2025 15:42:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[14-Mar-2025 15:43:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[14-Mar-2025 15:43:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[14-Mar-2025 15:43:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[15-Mar-2025 01:50:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[15-Mar-2025 01:50:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[15-Mar-2025 01:50:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[15-Mar-2025 01:50:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[15-Mar-2025 01:50:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[15-Mar-2025 01:50:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[15-Mar-2025 01:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[15-Mar-2025 01:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[15-Mar-2025 01:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[15-Mar-2025 01:50:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[15-Mar-2025 01:50:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[15-Mar-2025 01:50:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[15-Mar-2025 01:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[15-Mar-2025 01:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[15-Mar-2025 01:50:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[15-Mar-2025 01:50:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[15-Mar-2025 01:50:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[15-Mar-2025 01:50:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[15-Mar-2025 01:50:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[15-Mar-2025 01:50:34 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[15-Mar-2025 01:50:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[15-Mar-2025 01:50:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[15-Mar-2025 01:50:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[15-Mar-2025 01:50:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[15-Mar-2025 01:50:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[15-Mar-2025 01:50:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[15-Apr-2025 23:42:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[15-Apr-2025 23:42:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[15-Apr-2025 23:43:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[15-Apr-2025 23:43:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[15-Apr-2025 23:44:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[15-Apr-2025 23:44:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[15-Apr-2025 23:44:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[15-Apr-2025 23:44:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[15-Apr-2025 23:44:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[15-Apr-2025 23:45:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[15-Apr-2025 23:45:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[15-Apr-2025 23:45:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[15-Apr-2025 23:45:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[15-Apr-2025 23:46:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[15-Apr-2025 23:46:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[15-Apr-2025 23:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[15-Apr-2025 23:46:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[15-Apr-2025 23:47:05 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[15-Apr-2025 23:47:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[15-Apr-2025 23:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[15-Apr-2025 23:48:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[15-Apr-2025 23:48:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[15-Apr-2025 23:48:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[15-Apr-2025 23:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[16-Apr-2025 19:28:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[16-Apr-2025 19:28:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[07-May-2025 03:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[07-May-2025 05:31:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[07-May-2025 06:44:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[07-May-2025 07:27:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[07-May-2025 07:42:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[07-May-2025 08:21:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[07-May-2025 08:22:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[07-May-2025 09:09:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[07-May-2025 09:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[07-May-2025 09:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[07-May-2025 10:07:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[07-May-2025 10:50:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockReferenceNode.php on line 24
+[07-May-2025 11:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[07-May-2025 11:08:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[07-May-2025 13:12:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[07-May-2025 13:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[07-May-2025 14:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[07-May-2025 14:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[07-May-2025 17:06:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[07-May-2025 17:28:10 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[07-May-2025 17:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[07-May-2025 18:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[07-May-2025 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[07-May-2025 21:21:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[07-May-2025 22:20:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[07-May-2025 22:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[08-May-2025 21:27:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[08-May-2025 21:27:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/WithNode.php on line 23
+[08-May-2025 21:28:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[08-May-2025 21:28:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[08-May-2025 21:28:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TypesNode.php on line 14
+[08-May-2025 21:28:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/PrintNode.php on line 25
+[08-May-2025 21:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[08-May-2025 21:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[08-May-2025 21:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/MacroNode.php on line 24
+[08-May-2025 21:28:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BlockNode.php on line 24
+[08-May-2025 21:28:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[08-May-2025 21:28:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForLoopNode.php on line 23
+[08-May-2025 21:28:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[08-May-2025 21:28:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\IncludeNode' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/EmbedNode.php on line 25
+[08-May-2025 21:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[08-May-2025 21:28:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IncludeNode.php on line 25
+[08-May-2025 21:29:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[08-May-2025 21:29:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/AutoEscapeNode.php on line 29
+[08-May-2025 21:29:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[08-May-2025 21:29:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/TextNode.php on line 24
+[08-May-2025 21:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[08-May-2025 21:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SandboxNode.php on line 23
+[08-May-2025 21:29:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[08-May-2025 21:29:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/FlushNode.php on line 23
+[08-May-2025 21:30:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[08-May-2025 21:30:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityCallNode.php on line 21
+[08-May-2025 21:30:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[08-May-2025 21:30:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CaptureNode.php on line 23
+[08-May-2025 21:30:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[08-May-2025 21:30:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ImportNode.php on line 25
+[08-May-2025 21:31:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[08-May-2025 21:31:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Expression\AbstractExpression' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckToStringNode.php on line 29
+[08-May-2025 21:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[08-May-2025 21:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ForNode.php on line 26
+[08-May-2025 21:31:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[08-May-2025 21:31:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DeprecatedNode.php on line 25
+[08-May-2025 21:35:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[08-May-2025 21:35:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/DoNode.php on line 24
+[08-May-2025 21:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[08-May-2025 21:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/SetNode.php on line 24
+[08-May-2025 21:37:14 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[08-May-2025 21:37:14 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/Node.php on line 50
+[08-May-2025 21:37:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[08-May-2025 21:37:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/IfNode.php on line 24
+[08-May-2025 21:42:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[08-May-2025 21:42:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/BodyNode.php on line 22
+[08-May-2025 21:42:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[08-May-2025 21:42:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/ModuleNode.php on line 31
+[08-May-2025 21:47:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21
+[08-May-2025 21:47:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Twig\Node\Node' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/Node/CheckSecurityNode.php on line 21

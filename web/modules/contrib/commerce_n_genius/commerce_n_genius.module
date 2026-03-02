@@ -1,0 +1,25 @@
+<?php
+
+/**
+ * @file
+ * Contains commerce_n_genius.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function commerce_n_genius_help($route_name, RouteMatchInterface $route_match)
+{
+  switch ($route_name) {
+      // Main module help for the donate_checkout_flow module.
+    case 'help.page.commerce_n_genius':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Integrates n-genius into the drupal commerce payment system') . '</p>';
+      return $output;
+
+    default:
+  }
+}

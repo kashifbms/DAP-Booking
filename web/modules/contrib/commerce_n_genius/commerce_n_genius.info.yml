@@ -1,0 +1,12 @@
+name: 'Commerce N-Genius'
+type: module
+description: 'Integrates N-Genius into the drupal commerce payment system'
+core_version_requirement: ^8 || ^9 || ^10
+package: 'Commerce'
+dependencies:
+  - commerce:commerce_payment
+
+# Information added by Drupal.org packaging script on 2024-01-17
+version: '1.0.0'
+project: 'commerce_n_genius'
+datestamp: 1705474089

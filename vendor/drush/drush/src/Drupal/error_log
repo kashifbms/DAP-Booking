@@ -1,0 +1,216 @@
+[11-Nov-2024 14:10:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[22-Nov-2024 07:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[22-Nov-2024 07:44:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[19-Dec-2024 12:00:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[19-Dec-2024 12:08:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[21-Dec-2024 13:14:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[21-Dec-2024 14:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[25-Dec-2024 01:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[25-Dec-2024 01:16:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[25-Dec-2024 01:16:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[25-Dec-2024 01:16:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[25-Dec-2024 01:16:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[05-Feb-2025 14:57:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[06-Feb-2025 11:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[06-Feb-2025 18:16:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[07-Feb-2025 12:58:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[07-Feb-2025 15:26:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[08-Feb-2025 03:39:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[08-Feb-2025 06:07:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[08-Feb-2025 11:05:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[09-Feb-2025 09:45:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[21-Feb-2025 09:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[21-Feb-2025 09:46:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[21-Feb-2025 09:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[21-Feb-2025 09:46:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[21-Feb-2025 09:46:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[21-Feb-2025 18:58:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[10-Mar-2025 03:09:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[21-Mar-2025 08:51:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[21-Mar-2025 08:51:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[21-Mar-2025 08:52:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[21-Mar-2025 08:52:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[21-Mar-2025 08:52:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[19-Apr-2025 17:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[19-Apr-2025 17:58:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[19-Apr-2025 17:58:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[19-Apr-2025 17:58:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[19-Apr-2025 20:53:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[07-May-2025 05:11:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[07-May-2025 05:59:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[07-May-2025 13:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[07-May-2025 14:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[07-May-2025 20:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[08-May-2025 21:43:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[08-May-2025 21:43:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\DrupalKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrupalKernel.php on line 12
+[08-May-2025 21:43:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[08-May-2025 21:43:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\DependencyInjection\ServiceProviderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/DrushLoggerServiceProvider.php on line 12
+[08-May-2025 21:44:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[08-May-2025 21:44:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Installer\InstallerKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/InstallerKernel.php on line 12
+[08-May-2025 21:44:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[08-May-2025 21:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Update\UpdateKernel' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/UpdateKernel.php on line 12
+[08-May-2025 21:45:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[08-May-2025 21:45:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9
+[11-May-2025 15:56:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\Core\Extension\ExtensionDiscovery' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Drupal/ExtensionDiscovery.php on line 9

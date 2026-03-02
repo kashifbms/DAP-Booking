@@ -1,0 +1,246 @@
+[13-Nov-2024 09:22:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[13-Nov-2024 10:18:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[13-Nov-2024 14:37:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[13-Nov-2024 16:11:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[13-Nov-2024 18:33:56 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[13-Nov-2024 19:14:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[13-Nov-2024 19:23:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[13-Nov-2024 21:26:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[18-Nov-2024 10:24:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[18-Nov-2024 13:59:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[21-Nov-2024 13:00:35 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[21-Nov-2024 13:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[21-Nov-2024 13:00:44 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[21-Nov-2024 13:00:48 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[21-Nov-2024 13:00:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[21-Nov-2024 13:00:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[21-Nov-2024 13:01:01 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[21-Nov-2024 13:01:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[21-Nov-2024 13:01:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[21-Nov-2024 13:01:16 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[21-Nov-2024 13:01:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[23-Nov-2024 02:31:58 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[10-Jan-2025 02:56:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[10-Jan-2025 03:24:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[10-Jan-2025 04:04:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[10-Jan-2025 08:33:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[10-Jan-2025 10:15:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[10-Jan-2025 13:05:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[10-Jan-2025 15:57:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[10-Jan-2025 18:30:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[15-Jan-2025 09:47:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[15-Jan-2025 21:29:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[16-Jan-2025 06:27:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[16-Jan-2025 06:27:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[16-Jan-2025 06:27:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[16-Jan-2025 06:27:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[16-Jan-2025 06:27:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[16-Jan-2025 06:27:50 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[16-Jan-2025 06:27:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[16-Jan-2025 06:27:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[16-Jan-2025 06:27:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[16-Jan-2025 06:27:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[16-Jan-2025 06:27:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[20-Jan-2025 23:43:09 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[29-Jan-2025 10:40:44 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[29-Jan-2025 10:40:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[29-Jan-2025 10:40:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[29-Jan-2025 10:41:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[29-Jan-2025 10:41:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[29-Jan-2025 10:41:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[29-Jan-2025 10:41:18 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[29-Jan-2025 10:41:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[29-Jan-2025 10:41:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[29-Jan-2025 10:41:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[29-Jan-2025 10:41:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[08-Feb-2025 04:35:29 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[08-Feb-2025 12:57:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[08-Feb-2025 16:21:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[08-Feb-2025 22:41:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[09-Feb-2025 01:20:38 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[09-Feb-2025 12:57:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[13-Feb-2025 13:02:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[10-Mar-2025 08:57:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[10-Mar-2025 10:21:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[10-Mar-2025 11:47:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[10-Mar-2025 13:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[10-Mar-2025 16:24:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[10-Mar-2025 17:50:24 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[10-Mar-2025 20:08:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[10-Mar-2025 20:18:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[13-Mar-2025 17:46:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[13-Mar-2025 18:11:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[13-Mar-2025 18:34:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[13-Mar-2025 18:44:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[13-Mar-2025 18:56:12 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[13-Mar-2025 18:59:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[13-Mar-2025 19:15:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[13-Mar-2025 20:06:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[13-Mar-2025 20:23:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[13-Mar-2025 20:26:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[15-Mar-2025 15:23:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[16-Mar-2025 01:38:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[17-Mar-2025 21:58:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[17-Mar-2025 22:41:30 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[17-Mar-2025 23:06:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[21-Mar-2025 05:41:08 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[21-Mar-2025 06:59:16 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[25-Mar-2025 02:15:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[28-Mar-2025 00:33:43 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[28-Mar-2025 17:17:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[28-Mar-2025 17:17:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[28-Mar-2025 17:17:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/[08-Apr-2025 03:34:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[08-Apr-2025 03:34:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[08-Apr-2025 03:34:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[08-Apr-2025 03:34:24 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[08-Apr-2025 03:34:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[08-Apr-2025 03:34:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[08-Apr-2025 03:34:37 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[08-Apr-2025 03:34:41 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[08-Apr-2025 03:34:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[08-Apr-2025 03:34:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[08-Apr-2025 03:34:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[08-May-2025 03:31:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[08-May-2025 05:46:11 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[08-May-2025 08:44:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[08-May-2025 09:43:27 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[08-May-2025 11:35:16 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[08-May-2025 13:12:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[08-May-2025 15:35:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[08-May-2025 16:26:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[08-May-2025 19:23:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[08-May-2025 21:49:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[08-May-2025 22:57:11 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[09-May-2025 23:27:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[10-May-2025 02:25:17 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[10-May-2025 02:26:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[10-May-2025 04:15:55 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/WebPResult.php on line 14
+[10-May-2025 05:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[10-May-2025 08:08:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[10-May-2025 08:57:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[10-May-2025 11:06:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13
+[12-May-2025 07:54:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[12-May-2025 18:02:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/BinaryResult.php on line 9
+[12-May-2025 18:06:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/DebugResult.php on line 18
+[12-May-2025 18:06:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/AbstractResult.php on line 12
+[12-May-2025 18:07:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\AbstractResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/ConsoleResult.php on line 10
+[12-May-2025 18:08:35 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PdfResult.php on line 13
+[12-May-2025 18:11:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/EpsResult.php on line 14
+[12-May-2025 18:11:35 UTC] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GdResult.php on line 13
+[12-May-2025 18:12:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/PngResult.php on line 14
+[12-May-2025 18:14:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\Writer\Result\GdResult' not found in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/GifResult.php on line 7
+[12-May-2025 18:28:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/endroid/qr-code/src/Writer/Result/SvgResult.php on line 13

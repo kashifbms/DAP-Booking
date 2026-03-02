@@ -1,0 +1,1984 @@
+[13-Nov-2024 06:13:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[13-Nov-2024 08:38:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[13-Nov-2024 09:53:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[13-Nov-2024 11:20:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[13-Nov-2024 11:28:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[13-Nov-2024 12:42:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[13-Nov-2024 13:35:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[13-Nov-2024 14:44:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[13-Nov-2024 18:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[13-Nov-2024 19:09:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[13-Nov-2024 19:10:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[13-Nov-2024 21:25:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[18-Nov-2024 02:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[18-Nov-2024 04:06:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[18-Nov-2024 07:34:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[18-Nov-2024 10:25:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[21-Nov-2024 11:56:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[21-Nov-2024 11:56:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[21-Nov-2024 11:57:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[21-Nov-2024 11:57:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[21-Nov-2024 11:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[21-Nov-2024 11:57:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[21-Nov-2024 11:57:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[21-Nov-2024 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[21-Nov-2024 11:57:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[21-Nov-2024 11:57:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[21-Nov-2024 11:57:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[21-Nov-2024 11:57:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[21-Nov-2024 11:57:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[21-Nov-2024 11:57:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[21-Nov-2024 11:57:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[21-Nov-2024 11:58:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[21-Nov-2024 11:58:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[21-Nov-2024 11:58:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[21-Nov-2024 11:58:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[21-Nov-2024 11:58:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[03-Dec-2024 10:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[08-Dec-2024 12:47:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[09-Dec-2024 15:11:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[10-Dec-2024 14:06:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[11-Dec-2024 16:53:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[12-Dec-2024 21:58:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[13-Dec-2024 17:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[15-Dec-2024 14:59:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[16-Dec-2024 18:19:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[17-Dec-2024 17:34:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[18-Dec-2024 03:27:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[18-Dec-2024 13:52:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[18-Dec-2024 15:13:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[18-Dec-2024 15:56:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[20-Dec-2024 19:43:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[20-Dec-2024 19:47:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[20-Dec-2024 20:28:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[23-Dec-2024 08:53:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[23-Dec-2024 10:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[23-Dec-2024 10:41:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[23-Dec-2024 10:43:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[23-Dec-2024 11:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[23-Dec-2024 11:11:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[23-Dec-2024 11:17:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[23-Dec-2024 13:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[23-Dec-2024 14:02:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[23-Dec-2024 14:09:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[23-Dec-2024 14:13:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[23-Dec-2024 14:16:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[23-Dec-2024 14:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[23-Dec-2024 14:37:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[23-Dec-2024 14:54:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[23-Dec-2024 14:57:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[23-Dec-2024 14:57:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[23-Dec-2024 14:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[23-Dec-2024 14:58:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[23-Dec-2024 14:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[23-Dec-2024 14:58:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[23-Dec-2024 14:59:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[23-Dec-2024 14:59:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[23-Dec-2024 15:00:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[23-Dec-2024 15:00:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[23-Dec-2024 15:00:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[23-Dec-2024 15:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[23-Dec-2024 15:01:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[23-Dec-2024 15:19:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[23-Dec-2024 15:22:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[23-Dec-2024 15:49:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[23-Dec-2024 15:51:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[23-Dec-2024 15:53:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[23-Dec-2024 15:56:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[23-Dec-2024 16:21:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[24-Dec-2024 17:26:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[25-Dec-2024 15:58:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[25-Dec-2024 18:13:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[25-Dec-2024 19:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[25-Dec-2024 21:12:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[25-Dec-2024 23:05:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[26-Dec-2024 03:34:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[26-Dec-2024 06:24:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[26-Dec-2024 17:37:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[27-Dec-2024 15:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[29-Dec-2024 18:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[29-Dec-2024 20:24:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[29-Dec-2024 20:37:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[29-Dec-2024 20:49:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[29-Dec-2024 21:15:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[29-Dec-2024 21:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[30-Dec-2024 04:26:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[31-Dec-2024 05:58:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[31-Dec-2024 05:58:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[31-Dec-2024 05:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[31-Dec-2024 05:58:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[31-Dec-2024 05:58:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[31-Dec-2024 05:58:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[31-Dec-2024 05:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[31-Dec-2024 05:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[31-Dec-2024 05:58:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[31-Dec-2024 05:58:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[31-Dec-2024 05:58:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[31-Dec-2024 05:58:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[31-Dec-2024 05:58:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[31-Dec-2024 05:58:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[31-Dec-2024 05:58:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[31-Dec-2024 05:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[31-Dec-2024 05:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[31-Dec-2024 05:58:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[31-Dec-2024 05:58:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[31-Dec-2024 05:58:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[31-Dec-2024 18:05:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[01-Jan-2025 15:17:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[06-Jan-2025 01:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[06-Jan-2025 12:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[10-Jan-2025 01:02:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[10-Jan-2025 01:58:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[10-Jan-2025 04:37:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[10-Jan-2025 05:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[10-Jan-2025 05:33:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[10-Jan-2025 05:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[10-Jan-2025 06:08:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[10-Jan-2025 07:32:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[10-Jan-2025 12:31:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[10-Jan-2025 15:03:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[10-Jan-2025 16:25:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[10-Jan-2025 23:00:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[15-Jan-2025 12:41:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[15-Jan-2025 18:23:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[15-Jan-2025 19:39:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[15-Jan-2025 19:47:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[17-Jan-2025 09:59:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[17-Jan-2025 10:48:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[17-Jan-2025 11:05:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[17-Jan-2025 11:30:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[17-Jan-2025 12:17:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[17-Jan-2025 12:18:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[17-Jan-2025 12:36:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[17-Jan-2025 12:38:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[17-Jan-2025 12:43:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[17-Jan-2025 12:43:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[17-Jan-2025 12:47:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[17-Jan-2025 12:54:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[17-Jan-2025 12:55:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[17-Jan-2025 13:05:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[17-Jan-2025 13:07:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[17-Jan-2025 13:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[17-Jan-2025 13:35:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[17-Jan-2025 13:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[17-Jan-2025 14:02:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[18-Jan-2025 04:54:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[19-Jan-2025 11:15:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[20-Jan-2025 20:40:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[20-Jan-2025 20:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[20-Jan-2025 20:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[20-Jan-2025 20:45:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[20-Jan-2025 20:45:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[20-Jan-2025 20:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[20-Jan-2025 20:51:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[20-Jan-2025 20:59:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[20-Jan-2025 21:00:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[20-Jan-2025 21:05:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[20-Jan-2025 21:05:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[20-Jan-2025 21:14:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[20-Jan-2025 21:18:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[20-Jan-2025 21:30:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[20-Jan-2025 21:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[20-Jan-2025 21:38:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[20-Jan-2025 21:42:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[20-Jan-2025 22:31:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[21-Jan-2025 04:05:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[21-Jan-2025 11:19:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[22-Jan-2025 15:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[23-Jan-2025 22:55:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[29-Jan-2025 10:07:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[29-Jan-2025 10:07:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[29-Jan-2025 10:07:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[29-Jan-2025 10:07:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[29-Jan-2025 10:07:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[29-Jan-2025 10:07:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[29-Jan-2025 10:07:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[29-Jan-2025 10:07:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[29-Jan-2025 10:07:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[29-Jan-2025 10:07:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[29-Jan-2025 10:08:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[29-Jan-2025 10:08:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[29-Jan-2025 10:08:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[29-Jan-2025 10:08:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[29-Jan-2025 10:08:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[29-Jan-2025 10:08:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[29-Jan-2025 10:08:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[29-Jan-2025 10:08:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[29-Jan-2025 10:08:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[29-Jan-2025 14:25:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[29-Jan-2025 22:05:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[01-Feb-2025 10:11:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[03-Feb-2025 19:19:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[03-Feb-2025 19:20:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[03-Feb-2025 19:22:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[03-Feb-2025 19:23:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[03-Feb-2025 19:23:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[03-Feb-2025 19:24:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[03-Feb-2025 19:25:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[03-Feb-2025 19:26:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[03-Feb-2025 19:26:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[03-Feb-2025 19:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[03-Feb-2025 19:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[03-Feb-2025 19:30:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[03-Feb-2025 19:31:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[03-Feb-2025 19:32:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[03-Feb-2025 19:33:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[03-Feb-2025 19:33:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[03-Feb-2025 19:34:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[03-Feb-2025 19:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[03-Feb-2025 19:37:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[03-Feb-2025 19:37:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[05-Feb-2025 09:51:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[06-Feb-2025 01:10:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[08-Feb-2025 05:14:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[08-Feb-2025 05:22:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[08-Feb-2025 07:11:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[08-Feb-2025 19:33:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[08-Feb-2025 20:20:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[09-Feb-2025 05:57:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[09-Feb-2025 10:37:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[09-Feb-2025 11:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[09-Feb-2025 11:24:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[11-Feb-2025 12:20:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[11-Feb-2025 20:36:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[13-Feb-2025 07:04:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[13-Feb-2025 08:37:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[13-Feb-2025 13:59:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[13-Feb-2025 18:29:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[13-Feb-2025 20:46:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[14-Feb-2025 11:18:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[16-Feb-2025 13:19:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[16-Feb-2025 18:22:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[16-Feb-2025 20:02:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[16-Feb-2025 20:12:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[16-Feb-2025 20:47:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[17-Feb-2025 01:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[17-Feb-2025 02:15:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[17-Feb-2025 04:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[17-Feb-2025 19:02:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[18-Feb-2025 00:10:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[18-Feb-2025 00:10:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[18-Feb-2025 00:11:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[18-Feb-2025 00:11:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[18-Feb-2025 00:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[18-Feb-2025 00:12:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[18-Feb-2025 00:13:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[18-Feb-2025 07:55:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[18-Feb-2025 07:56:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[18-Feb-2025 07:59:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[18-Feb-2025 08:00:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[18-Feb-2025 08:01:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[18-Feb-2025 08:01:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[18-Feb-2025 08:01:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[18-Feb-2025 08:02:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[18-Feb-2025 08:02:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[18-Feb-2025 08:02:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[18-Feb-2025 08:03:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[18-Feb-2025 08:03:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[18-Feb-2025 12:45:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[19-Feb-2025 12:53:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[26-Feb-2025 13:41:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[05-Mar-2025 16:12:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[05-Mar-2025 16:12:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[05-Mar-2025 16:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[05-Mar-2025 16:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[05-Mar-2025 16:12:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[05-Mar-2025 16:12:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[05-Mar-2025 16:12:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[05-Mar-2025 16:12:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[05-Mar-2025 16:12:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[05-Mar-2025 16:12:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[05-Mar-2025 16:12:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[05-Mar-2025 16:12:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[05-Mar-2025 16:12:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[05-Mar-2025 16:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[05-Mar-2025 16:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[05-Mar-2025 16:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[05-Mar-2025 16:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[05-Mar-2025 16:12:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[05-Mar-2025 16:12:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[05-Mar-2025 16:12:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[06-Mar-2025 05:04:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[06-Mar-2025 05:04:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[06-Mar-2025 05:04:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[06-Mar-2025 05:04:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[06-Mar-2025 05:05:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[06-Mar-2025 05:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[06-Mar-2025 05:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[06-Mar-2025 05:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[06-Mar-2025 05:33:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[06-Mar-2025 05:33:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[06-Mar-2025 05:33:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[06-Mar-2025 05:34:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[06-Mar-2025 05:34:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[06-Mar-2025 05:34:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[06-Mar-2025 05:34:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[06-Mar-2025 05:34:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[06-Mar-2025 05:35:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[06-Mar-2025 05:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[08-Mar-2025 17:16:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[10-Mar-2025 05:26:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[10-Mar-2025 05:53:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[10-Mar-2025 06:42:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[10-Mar-2025 08:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[10-Mar-2025 11:21:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[10-Mar-2025 11:33:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[10-Mar-2025 13:49:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[10-Mar-2025 18:08:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[10-Mar-2025 18:18:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[10-Mar-2025 18:50:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[10-Mar-2025 20:04:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[10-Mar-2025 21:38:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[13-Mar-2025 10:09:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[13-Mar-2025 17:40:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[13-Mar-2025 17:45:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[13-Mar-2025 17:45:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[13-Mar-2025 17:48:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[13-Mar-2025 17:50:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[13-Mar-2025 18:11:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[13-Mar-2025 18:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[13-Mar-2025 18:35:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[13-Mar-2025 18:39:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[13-Mar-2025 19:18:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[13-Mar-2025 19:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[13-Mar-2025 19:37:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[13-Mar-2025 19:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[13-Mar-2025 19:50:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[13-Mar-2025 20:14:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[13-Mar-2025 20:21:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[13-Mar-2025 20:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[13-Mar-2025 20:27:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[14-Mar-2025 08:30:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[14-Mar-2025 08:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[14-Mar-2025 08:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[14-Mar-2025 08:31:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[14-Mar-2025 08:31:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[14-Mar-2025 08:32:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[14-Mar-2025 08:32:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[14-Mar-2025 08:35:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[14-Mar-2025 09:17:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[14-Mar-2025 09:17:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[14-Mar-2025 09:18:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[14-Mar-2025 09:18:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[14-Mar-2025 09:19:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[14-Mar-2025 09:19:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[14-Mar-2025 09:20:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[14-Mar-2025 09:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[14-Mar-2025 09:20:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[14-Mar-2025 09:21:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[14-Mar-2025 09:21:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[14-Mar-2025 09:21:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[14-Mar-2025 10:04:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[15-Mar-2025 16:43:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[15-Mar-2025 22:34:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[16-Mar-2025 05:16:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[16-Mar-2025 06:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[17-Mar-2025 20:36:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[17-Mar-2025 22:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[18-Mar-2025 00:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[18-Mar-2025 01:38:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[18-Mar-2025 01:50:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[18-Mar-2025 01:58:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[21-Mar-2025 07:03:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[25-Mar-2025 02:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[26-Mar-2025 22:59:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[28-Mar-2025 00:32:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[03-Apr-2025 02:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[05-Apr-2025 10:15:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[08-Apr-2025 03:02:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[08-Apr-2025 03:02:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[08-Apr-2025 03:02:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[08-Apr-2025 03:02:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[08-Apr-2025 03:02:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[08-Apr-2025 03:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[08-Apr-2025 03:02:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[08-Apr-2025 03:02:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[08-Apr-2025 03:02:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[08-Apr-2025 03:02:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[08-Apr-2025 03:02:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[08-Apr-2025 03:02:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[08-Apr-2025 03:02:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[08-Apr-2025 03:02:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[08-Apr-2025 03:03:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[08-Apr-2025 03:03:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[08-Apr-2025 03:03:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[08-Apr-2025 03:03:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[08-Apr-2025 03:03:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[08-Apr-2025 03:03:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[16-Apr-2025 19:44:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[16-Apr-2025 19:45:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[16-Apr-2025 19:45:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[16-Apr-2025 19:45:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[16-Apr-2025 19:45:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[16-Apr-2025 19:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[16-Apr-2025 19:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[16-Apr-2025 19:57:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[16-Apr-2025 19:58:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[16-Apr-2025 19:58:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[16-Apr-2025 19:58:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[16-Apr-2025 19:59:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[16-Apr-2025 19:59:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[16-Apr-2025 19:59:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[16-Apr-2025 19:59:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[16-Apr-2025 20:00:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[16-Apr-2025 20:00:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[16-Apr-2025 20:00:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[16-Apr-2025 20:01:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[16-Apr-2025 20:22:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[17-Apr-2025 20:43:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[17-Apr-2025 23:09:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[18-Apr-2025 02:20:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[18-Apr-2025 06:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[01-May-2025 00:26:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[04-May-2025 08:00:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[05-May-2025 01:52:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[05-May-2025 11:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[07-May-2025 02:42:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[07-May-2025 06:42:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[07-May-2025 07:02:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[07-May-2025 07:42:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[07-May-2025 08:37:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[07-May-2025 09:48:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[07-May-2025 09:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[07-May-2025 12:35:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[07-May-2025 15:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[07-May-2025 16:19:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[07-May-2025 16:20:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[07-May-2025 16:39:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[07-May-2025 17:05:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[07-May-2025 17:05:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[07-May-2025 17:45:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[07-May-2025 18:42:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[07-May-2025 18:42:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[07-May-2025 20:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[07-May-2025 21:48:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[07-May-2025 22:47:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[09-May-2025 02:50:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[09-May-2025 23:04:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[09-May-2025 23:22:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[09-May-2025 23:24:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[10-May-2025 00:51:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[10-May-2025 03:47:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[10-May-2025 03:54:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[10-May-2025 03:57:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[10-May-2025 04:51:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[10-May-2025 05:47:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[10-May-2025 06:25:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[10-May-2025 11:57:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[10-May-2025 14:42:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[11-May-2025 23:47:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[12-May-2025 05:10:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/SudoCommand.php on line 25
+[12-May-2025 06:05:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[12-May-2025 06:05:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[12-May-2025 09:51:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[12-May-2025 13:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[12-May-2025 15:53:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HelpCommand.php on line 24
+[12-May-2025 15:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ParseCommand.php on line 29
+[12-May-2025 15:58:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TimeitCommand.php on line 25
+[12-May-2025 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[12-May-2025 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/Command.php on line 24
+[12-May-2025 15:59:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 29
+[12-May-2025 15:59:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[12-May-2025 16:00:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[12-May-2025 16:02:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[12-May-2025 16:02:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[12-May-2025 16:03:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[12-May-2025 16:03:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[12-May-2025 16:05:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[12-May-2025 16:06:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[12-May-2025 16:06:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[12-May-2025 16:06:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[12-May-2025 16:07:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ListCommand.php on line 36
+[12-May-2025 16:10:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\TraceCommand' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[12-May-2025 16:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[12-May-2025 16:55:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 30
+[12-May-2025 19:21:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24

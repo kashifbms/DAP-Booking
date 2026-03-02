@@ -1,0 +1,260 @@
+[13-Nov-2024 10:22:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[18-Nov-2024 14:20:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[21-Nov-2024 12:08:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[21-Nov-2024 12:08:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[21-Nov-2024 12:08:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[18-Dec-2024 06:20:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[21-Dec-2024 07:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[21-Dec-2024 07:47:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[21-Dec-2024 07:53:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[21-Dec-2024 11:27:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[21-Dec-2024 11:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[21-Dec-2024 19:47:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[22-Dec-2024 08:10:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[23-Dec-2024 16:14:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[23-Dec-2024 16:14:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[23-Dec-2024 16:14:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[24-Dec-2024 14:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[25-Dec-2024 01:15:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[25-Dec-2024 01:15:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[25-Dec-2024 01:15:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[26-Dec-2024 20:02:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[10-Jan-2025 05:04:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[15-Jan-2025 08:43:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[29-Jan-2025 09:06:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[29-Jan-2025 11:57:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[29-Jan-2025 11:57:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[05-Feb-2025 03:09:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[05-Feb-2025 05:19:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[06-Feb-2025 15:22:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[16-Feb-2025 20:20:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[20-Feb-2025 11:52:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[20-Feb-2025 11:52:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[20-Feb-2025 11:52:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[10-Mar-2025 12:22:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[13-Mar-2025 17:48:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[13-Mar-2025 17:54:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[13-Mar-2025 20:36:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[16-Mar-2025 03:00:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[17-Mar-2025 20:58:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[18-Mar-2025 20:06:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[25-Mar-2025 10:58:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[28-Mar-2025 02:41:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[06-Apr-2025 03:46:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[06-Apr-2025 03:47:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[06-Apr-2025 03:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[08-Apr-2025 03:15:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[08-Apr-2025 03:15:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[08-Apr-2025 03:15:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[17-Apr-2025 17:25:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[07-May-2025 03:46:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[07-May-2025 17:27:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[07-May-2025 21:49:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[08-May-2025 21:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[08-May-2025 21:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[08-May-2025 21:34:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[08-May-2025 21:34:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[08-May-2025 21:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[08-May-2025 21:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[09-May-2025 09:14:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[10-May-2025 11:41:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[11-May-2025 03:51:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[11-May-2025 06:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10
+[12-May-2025 15:56:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ObjectManager' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ObjectManagerDecorator.php on line 20
+[12-May-2025 16:13:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ManagerRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/AbstractManagerRegistry.php on line 16
+[12-May-2025 16:31:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Persistence\ConnectionRegistry' not found in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/doctrine/persistence/src/Persistence/ManagerRegistry.php on line 10

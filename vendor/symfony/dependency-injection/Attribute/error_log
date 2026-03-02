@@ -1,0 +1,534 @@
+[08-Nov-2024 11:23:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[13-Nov-2024 06:41:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[13-Nov-2024 10:05:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[13-Nov-2024 10:40:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[13-Nov-2024 11:28:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[13-Nov-2024 15:34:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[13-Nov-2024 15:50:46 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[13-Nov-2024 18:02:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[13-Nov-2024 19:46:09 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[18-Nov-2024 05:09:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[18-Nov-2024 07:03:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[18-Nov-2024 09:03:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[18-Nov-2024 15:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[18-Nov-2024 16:48:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[18-Nov-2024 17:46:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[21-Nov-2024 11:09:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[21-Nov-2024 11:09:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[21-Nov-2024 11:09:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[21-Nov-2024 11:09:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[21-Nov-2024 11:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[21-Nov-2024 11:09:54 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[21-Nov-2024 11:09:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[21-Nov-2024 11:10:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[21-Nov-2024 11:10:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[21-Nov-2024 11:10:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[21-Nov-2024 11:10:15 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[21-Nov-2024 11:10:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[21-Nov-2024 11:10:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[21-Nov-2024 11:10:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[21-Nov-2024 11:10:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[23-Nov-2024 04:15:57 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[26-Nov-2024 11:00:05 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[26-Nov-2024 11:00:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/ve[26-Nov-2024 11:09:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[26-Nov-2024 11:16:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[02-Dec-2024 02:37:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[02-Dec-2024 02:37:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[02-Dec-2024 02:37:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[02-Dec-2024 02:37:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[02-Dec-2024 02:37:28 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[02-Dec-2024 02:37:29 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[02-Dec-2024 02:37:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[02-Dec-2024 02:37:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[02-Dec-2024 02:37:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[02-Dec-2024 02:37:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[02-Dec-2024 02:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[02-Dec-2024 02:37:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[02-Dec-2024 02:37:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[02-Dec-2024 02:37:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[02-Dec-2024 02:37:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[03-Dec-2024 12:24:57 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[03-Dec-2024 15:12:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[03-Dec-2024 15:17:10 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[13-Dec-2024 19:47:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[13-Dec-2024 21:20:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[14-Dec-2024 13:04:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[14-Dec-2024 14:44:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[16-Dec-2024 06:46:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[16-Dec-2024 06:47:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[16-Dec-2024 06:48:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[16-Dec-2024 06:48:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[16-Dec-2024 06:53:13 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[16-Dec-2024 07:04:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[21-Dec-2024 15:06:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[22-Dec-2024 00:12:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[22-Dec-2024 00:27:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[31-Dec-2024 23:14:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[01-Jan-2025 14:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[02-Jan-2025 13:37:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[10-Jan-2025 00:03:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[10-Jan-2025 03:53:51 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[10-Jan-2025 04:00:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[10-Jan-2025 09:36:24 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[10-Jan-2025 13:05:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[10-Jan-2025 14:50:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[10-Jan-2025 16:05:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[10-Jan-2025 16:07:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[10-Jan-2025 16:23:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[15-Jan-2025 06:30:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[15-Jan-2025 13:17:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[15-Jan-2025 13:24:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[15-Jan-2025 15:11:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[15-Jan-2025 16:57:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[15-Jan-2025 20:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[23-Jan-2025 16:40:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[23-Jan-2025 16:40:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[23-Jan-2025 16:40:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[23-Jan-2025 16:40:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[23-Jan-2025 16:40:09 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[23-Jan-2025 16:40:10 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[23-Jan-2025 16:40:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[23-Jan-2025 16:40:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[23-Jan-2025 16:40:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[23-Jan-2025 16:40:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[23-Jan-2025 16:40:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[23-Jan-2025 16:40:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[23-Jan-2025 16:40:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[23-Jan-2025 16:40:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[23-Jan-2025 16:40:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[29-Jan-2025 09:23:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[29-Jan-2025 09:23:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[29-Jan-2025 09:23:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[29-Jan-2025 09:23:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[29-Jan-2025 09:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[29-Jan-2025 09:24:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[29-Jan-2025 09:24:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[29-Jan-2025 09:25:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[29-Jan-2025 09:25:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[29-Jan-2025 09:25:09 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[29-Jan-2025 09:25:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[29-Jan-2025 09:25:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[29-Jan-2025 09:25:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[29-Jan-2025 09:25:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[30-Jan-2025 00:08:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[30-Jan-2025 04:15:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[30-Jan-2025 04:16:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[30-Jan-2025 04:19:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[30-Jan-2025 04:19:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[30-Jan-2025 05:12:39 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[30-Jan-2025 05:16:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[30-Jan-2025 05:24:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[30-Jan-2025 07:21:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[30-Jan-2025 08:08:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[30-Jan-2025 09:40:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[30-Jan-2025 19:06:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[30-Jan-2025 23:15:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[31-Jan-2025 02:42:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[31-Jan-2025 12:02:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[31-Jan-2025 12:51:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[31-Jan-2025 17:13:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[31-Jan-2025 18:55:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[01-Feb-2025 02:10:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[01-Feb-2025 17:35:11 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[02-Feb-2025 02:33:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[04-Feb-2025 11:56:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[13-Feb-2025 04:43:23 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[13-Feb-2025 04:44:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[13-Feb-2025 04:48:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[13-Feb-2025 04:48:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[13-Feb-2025 04:48:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[13-Feb-2025 04:49:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[13-Feb-2025 04:49:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[13-Feb-2025 04:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[13-Feb-2025 04:50:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[13-Feb-2025 08:29:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[13-Feb-2025 08:32:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[13-Feb-2025 08:33:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[13-Feb-2025 08:34:38 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[13-Feb-2025 08:41:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[13-Feb-2025 08:48:09 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[13-Feb-2025 08:54:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[13-Feb-2025 09:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[13-Feb-2025 09:08:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[13-Feb-2025 09:10:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[13-Feb-2025 09:15:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[13-Feb-2025 11:52:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[13-Feb-2025 12:10:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[14-Feb-2025 12:44:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[14-Feb-2025 13:09:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[14-Feb-2025 18:07:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[14-Feb-2025 18:37:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[14-Feb-2025 18:40:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[14-Feb-2025 21:46:48 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[15-Feb-2025 10:49:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[15-Feb-2025 12:50:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[15-Feb-2025 21:27:15 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[16-Feb-2025 00:51:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[16-Feb-2025 00:54:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[16-Feb-2025 00:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[16-Feb-2025 00:58:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[16-Feb-2025 00:59:45 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[16-Feb-2025 08:00:00 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[16-Feb-2025 08:00:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[16-Feb-2025 08:33:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[16-Feb-2025 08:34:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[16-Feb-2025 17:17:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[16-Feb-2025 19:13:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[16-Feb-2025 19:30:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[16-Feb-2025 20:49:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[16-Feb-2025 22:22:18 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[17-Feb-2025 19:30:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[18-Feb-2025 00:36:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[18-Feb-2025 21:44:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[24-Feb-2025 16:41:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[24-Feb-2025 16:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[24-Feb-2025 16:41:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[24-Feb-2025 16:41:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[24-Feb-2025 16:41:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[24-Feb-2025 16:41:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[24-Feb-2025 16:41:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[24-Feb-2025 16:41:41 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[24-Feb-2025 16:44:00 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[24-Feb-2025 16:45:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[24-Feb-2025 16:46:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[24-Feb-2025 16:46:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[24-Feb-2025 16:51:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[24-Feb-2025 16:59:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[24-Feb-2025 18:04:50 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[26-Feb-2025 02:57:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[26-Feb-2025 02:57:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[26-Feb-2025 02:58:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[26-Feb-2025 02:58:15 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[26-Feb-2025 02:58:30 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[26-Feb-2025 02:58:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[26-Feb-2025 02:59:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[26-Feb-2025 02:59:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[26-Feb-2025 02:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[26-Feb-2025 03:00:14 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[26-Feb-2025 03:00:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[26-Feb-2025 03:01:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[28-Feb-2025 04:46:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[28-Feb-2025 04:47:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[28-Feb-2025 04:47:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[09-Mar-2025 17:07:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[09-Mar-2025 17:07:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[09-Mar-2025 17:07:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[09-Mar-2025 17:07:22 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[09-Mar-2025 17:07:25 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[09-Mar-2025 17:07:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[09-Mar-2025 17:07:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[09-Mar-2025 17:07:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[09-Mar-2025 17:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[09-Mar-2025 17:07:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[09-Mar-2025 17:07:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[09-Mar-2025 17:07:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[10-Mar-2025 05:29:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[10-Mar-2025 05:41:43 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[10-Mar-2025 06:36:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[10-Mar-2025 16:04:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[10-Mar-2025 16:16:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[10-Mar-2025 18:01:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[10-Mar-2025 19:40:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[10-Mar-2025 19:40:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[10-Mar-2025 22:52:03 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[11-Mar-2025 07:18:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[11-Mar-2025 07:18:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[11-Mar-2025 07:18:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[13-Mar-2025 17:37:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[13-Mar-2025 17:42:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[13-Mar-2025 17:50:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[13-Mar-2025 17:52:15 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[13-Mar-2025 17:52:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[13-Mar-2025 18:12:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[13-Mar-2025 19:08:02 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[13-Mar-2025 19:15:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[13-Mar-2025 19:15:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[13-Mar-2025 19:37:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[13-Mar-2025 19:51:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[13-Mar-2025 20:32:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[14-Mar-2025 05:07:00 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[14-Mar-2025 07:05:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[14-Mar-2025 08:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[14-Mar-2025 18:51:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[14-Mar-2025 18:51:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[14-Mar-2025 18:52:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[14-Mar-2025 18:52:35 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[14-Mar-2025 18:53:02 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[14-Mar-2025 18:53:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[14-Mar-2025 18:53:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[14-Mar-2025 18:54:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[14-Mar-2025 18:54:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[14-Mar-2025 18:55:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[14-Mar-2025 18:55:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[14-Mar-2025 18:55:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[14-Mar-2025 20:16:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[14-Mar-2025 20:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[14-Mar-2025 20:17:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[15-Mar-2025 17:42:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[15-Mar-2025 19:42:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[15-Mar-2025 21:11:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[16-Mar-2025 00:40:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[16-Mar-2025 02:04:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[16-Mar-2025 05:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[17-Mar-2025 20:45:13 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[17-Mar-2025 20:51:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[17-Mar-2025 23:44:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[18-Mar-2025 00:30:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[18-Mar-2025 02:14:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[08-Apr-2025 02:24:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[08-Apr-2025 02:24:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[08-Apr-2025 02:24:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[08-Apr-2025 02:24:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[08-Apr-2025 02:24:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[08-Apr-2025 02:24:49 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[08-Apr-2025 02:24:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[08-Apr-2025 02:24:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[08-Apr-2025 02:25:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[08-Apr-2025 02:25:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[08-Apr-2025 02:25:09 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[08-Apr-2025 02:25:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[08-Apr-2025 02:25:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[08-Apr-2025 02:25:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[08-Apr-2025 02:25:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[17-Apr-2025 12:37:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[17-Apr-2025 12:37:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[17-Apr-2025 12:38:04 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[17-Apr-2025 12:38:17 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[17-Apr-2025 12:38:30 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[17-Apr-2025 12:38:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[17-Apr-2025 12:38:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[17-Apr-2025 12:39:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[17-Apr-2025 12:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[17-Apr-2025 12:40:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[17-Apr-2025 12:40:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[17-Apr-2025 12:40:37 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[17-Apr-2025 13:22:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[17-Apr-2025 13:23:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[17-Apr-2025 13:23:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[20-Apr-2025 02:02:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[21-Apr-2025 15:49:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[25-Apr-2025 12:29:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[25-Apr-2025 18:39:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[26-Apr-2025 18:19:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[28-Apr-2025 16:09:14 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[30-Apr-2025 02:52:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[30-Apr-2025 03:08:58 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[30-Apr-2025 05:04:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[30-Apr-2025 05:04:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[30-Apr-2025 05:04:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[30-Apr-2025 05:06:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[30-Apr-2025 05:06:39 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[30-Apr-2025 05:07:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[30-Apr-2025 05:09:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[30-Apr-2025 05:10:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[30-Apr-2025 05:13:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[30-Apr-2025 05:13:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[30-Apr-2025 05:14:32 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[30-Apr-2025 05:14:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[30-Apr-2025 05:17:12 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[30-Apr-2025 05:18:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[01-May-2025 16:36:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[03-May-2025 04:49:38 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[03-May-2025 05:36:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[03-May-2025 07:17:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[03-May-2025 09:34:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[03-May-2025 11:21:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[04-May-2025 03:05:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[04-May-2025 03:13:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[04-May-2025 03:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14
+[04-May-2025 03:48:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[04-May-2025 04:32:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[04-May-2025 05:25:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[04-May-2025 06:05:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[04-May-2025 07:32:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[04-May-2025 07:40:14 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[04-May-2025 09:00:39 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[04-May-2025 12:29:37 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[04-May-2025 15:44:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[04-May-2025 17:13:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[04-May-2025 17:49:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[04-May-2025 19:00:22 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[04-May-2025 19:15:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[05-May-2025 09:33:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[05-May-2025 10:24:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[05-May-2025 12:05:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[05-May-2025 22:15:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[06-May-2025 02:15:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[06-May-2025 05:32:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[07-May-2025 03:45:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[08-May-2025 03:11:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[08-May-2025 19:37:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[08-May-2025 20:25:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[08-May-2025 22:04:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[09-May-2025 07:32:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[09-May-2025 23:07:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[09-May-2025 23:38:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[10-May-2025 02:02:44 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedLocator.php on line 18
+[10-May-2025 05:31:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[10-May-2025 08:40:42 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[10-May-2025 08:55:04 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[10-May-2025 10:31:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[10-May-2025 11:04:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[10-May-2025 12:11:17 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[11-May-2025 11:18:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[12-May-2025 09:05:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/TaggedIterator.php on line 18
+[12-May-2025 09:10:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Attribute\Autowire' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireServiceClosure.php on line 21
+[12-May-2025 09:10:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Target.php on line 26
+[12-May-2025 09:13:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireLocator.php on line 35
+[12-May-2025 09:16:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsTaggedItem.php on line 23
+[12-May-2025 09:16:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autoconfigure.php on line 23
+[12-May-2025 09:17:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/When.php on line 23
+[12-May-2025 09:18:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireCallable.php on line 28
+[12-May-2025 09:20:43 UTC] PHP Parse error:  syntax error, unexpected 'string' (T_STRING), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/Autowire.php on line 27
+[12-May-2025 09:23:03 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsAlias.php on line 23
+[12-May-2025 10:59:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AsDecorator.php on line 20
+[12-May-2025 10:59:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutowireIterator.php on line 30
+[12-May-2025 11:03:56 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/AutoconfigureTag.php on line 25
+[12-May-2025 11:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\Attribute\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Attribute/MapDecorated.php on line 14

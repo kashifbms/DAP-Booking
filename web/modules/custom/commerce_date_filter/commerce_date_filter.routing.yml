@@ -1,0 +1,59 @@
+commerce_date_filter.filtered_products:
+  path: "/filtered-products"
+  defaults:
+    _title: "Filtered Products"
+    _form: '\Drupal\commerce_date_filter\Form\DateFilterForm'
+    _controller: '\Drupal\commerce_date_filter\Controller\FilteredProductsController::content'
+  requirements:
+    _permission: "access content"
+
+commerce_date_filter.list:
+  path: "/add/product/{productId}"
+  defaults:
+    _controller: '\Drupal\commerce_date_filter\Controller\CartsController::addToCart'
+    _title: "Property Details"
+    productId: ""
+  requirements:
+    _access: "TRUE"
+  options:
+    no_cache: "TRUE"
+
+commerce_date_filter.Tickets:
+  path: "/tickets"
+  defaults:
+    _controller: '\Drupal\commerce_date_filter\Controller\TicketProduct::content'
+    _title: "Property Details"
+    productId: ""
+  requirements:
+    _access: "TRUE"
+  options:
+    no_cache: "TRUE"
+
+commerce_date_filter.cart:
+  path: "/add/productMultiple"
+  defaults:
+    _controller: '\Drupal\commerce_date_filter\Controller\CartsController::addToCartMultiple'
+    _title: "Property Details"
+  requirements:
+    _access: "TRUE"
+  options:
+    no_cache: "TRUE"
+
+commerce_date_filter.getCart:
+  path: "/getCart"
+  defaults:
+    _controller: '\Drupal\commerce_date_filter\Controller\CartsController::getCart'
+    _title: "Property Details"
+  requirements:
+    _access: "TRUE"
+  options:
+    no_cache: "TRUE"
+commerce_date_filter.test1:
+  path: "/test1"
+  defaults:
+    _controller: '\Drupal\commerce_date_filter\Controller\CartsController::test1'
+    _title: "demosdfsdljf"
+  requirements:
+    _access: "TRUE"
+  options:
+    no_cache: "TRUE"

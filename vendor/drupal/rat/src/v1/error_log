@@ -1,0 +1,164 @@
+[18-Nov-2024 06:18:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[18-Nov-2024 16:11:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[21-Nov-2024 16:31:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[21-Nov-2024 16:31:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[19-Dec-2024 00:18:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[19-Dec-2024 06:24:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[21-Dec-2024 06:54:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[15-Jan-2025 06:17:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[15-Jan-2025 13:23:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[29-Jan-2025 06:07:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[29-Jan-2025 06:07:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[06-Feb-2025 10:43:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[06-Feb-2025 13:09:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[15-Feb-2025 05:33:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[24-Feb-2025 16:29:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[24-Feb-2025 16:36:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[08-Mar-2025 13:16:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[09-Mar-2025 04:42:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[10-Mar-2025 03:16:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[13-Mar-2025 18:07:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[13-Mar-2025 18:53:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[15-Mar-2025 19:06:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[15-Mar-2025 21:26:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[29-Mar-2025 13:57:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[29-Mar-2025 13:57:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[06-Apr-2025 20:19:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[06-Apr-2025 20:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[08-Apr-2025 04:18:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[08-Apr-2025 04:18:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[05-May-2025 16:33:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[05-May-2025 16:33:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[07-May-2025 17:26:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[07-May-2025 19:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[08-May-2025 21:10:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[08-May-2025 21:10:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[08-May-2025 21:13:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[08-May-2025 21:13:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[12-May-2025 15:10:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[12-May-2025 15:50:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Drupal\Core\Render\RenderableInterface' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArrayBase.php on line 14
+[12-May-2025 15:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16
+[12-May-2025 17:54:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Drupal\rat\v1\RenderArrayBase' not found in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drupal/rat/src/v1/RenderArray.php on line 16

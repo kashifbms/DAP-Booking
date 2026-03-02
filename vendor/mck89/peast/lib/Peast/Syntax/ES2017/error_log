@@ -1,0 +1,72 @@
+[21-Nov-2024 14:12:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[23-Nov-2024 04:08:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[19-Dec-2024 12:25:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[20-Dec-2024 18:09:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[24-Dec-2024 00:03:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[20-Jan-2025 19:51:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[29-Jan-2025 11:42:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[18-Feb-2025 14:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[23-Feb-2025 02:01:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[06-Mar-2025 08:46:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[13-Mar-2025 19:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[14-Mar-2025 12:28:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[21-Mar-2025 03:15:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[30-Mar-2025 04:56:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[08-Apr-2025 04:43:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[18-Apr-2025 19:30:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[26-Apr-2025 23:25:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19
+[09-May-2025 15:32:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Peast\Syntax\ES2016\Features' not found in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mck89/peast/lib/Peast/Syntax/ES2017/Features.php on line 19

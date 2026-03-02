@@ -1,0 +1,126 @@
+[13-Nov-2024 11:27:24 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[13-Nov-2024 12:36:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[21-Nov-2024 11:47:23 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[21-Nov-2024 11:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[08-Dec-2024 20:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[24-Dec-2024 16:56:11 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[02-Jan-2025 18:40:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[03-Jan-2025 16:13:11 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[03-Jan-2025 16:13:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[10-Jan-2025 05:16:25 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[10-Jan-2025 06:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[29-Jan-2025 10:00:33 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[29-Jan-2025 10:00:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[05-Feb-2025 00:38:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[07-Feb-2025 14:42:06 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[13-Feb-2025 04:27:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[13-Feb-2025 04:27:53 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[13-Feb-2025 04:36:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[13-Feb-2025 05:05:40 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[15-Feb-2025 17:08:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[15-Feb-2025 17:10:01 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[10-Mar-2025 03:19:04 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[10-Mar-2025 03:19:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[10-Mar-2025 17:41:42 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[10-Mar-2025 18:59:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[12-Mar-2025 20:01:42 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[12-Mar-2025 20:01:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[13-Mar-2025 20:12:37 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[18-Mar-2025 01:36:49 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[18-Mar-2025 15:32:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[25-Mar-2025 02:24:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[28-Mar-2025 00:33:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[06-Apr-2025 12:38:04 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[06-Apr-2025 12:38:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[08-Apr-2025 02:40:31 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[08-Apr-2025 02:40:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[30-Apr-2025 07:43:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[30-Apr-2025 07:47:59 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[05-May-2025 21:39:09 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[05-May-2025 21:55:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[08-May-2025 21:57:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[08-May-2025 21:57:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[08-May-2025 21:58:07 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[08-May-2025 21:58:07 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[10-May-2025 08:25:21 UTC] PHP Fatal error:  Default value for property of type Symfony\Component\VarDumper\Command\Descriptor\mixed may not be null. Use the nullable type ?Symfony\Component\VarDumper\Command\Descriptor\mixed to allow null default value in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 30
+[10-May-2025 09:27:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[11-May-2025 01:08:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25

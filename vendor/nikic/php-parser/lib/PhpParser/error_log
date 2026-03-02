@@ -1,0 +1,560 @@
+[13-Nov-2024 07:02:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[13-Nov-2024 07:22:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[13-Nov-2024 13:20:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[18-Nov-2024 06:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[18-Nov-2024 16:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[18-Nov-2024 16:54:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[21-Nov-2024 12:39:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[21-Nov-2024 12:39:27 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[21-Nov-2024 12:39:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[21-Nov-2024 12:39:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[21-Nov-2024 12:39:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[21-Nov-2024 12:40:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[02-Dec-2024 19:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[02-Dec-2024 20:02:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[19-Dec-2024 00:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[19-Dec-2024 00:09:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[19-Dec-2024 00:11:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[19-Dec-2024 00:12:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[19-Dec-2024 00:14:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[19-Dec-2024 00:14:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[23-Dec-2024 19:59:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[23-Dec-2024 19:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[29-Dec-2024 10:39:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[29-Dec-2024 10:39:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[29-Dec-2024 10:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[29-Dec-2024 10:39:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[29-Dec-2024 10:39:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[29-Dec-2024 10:39:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[10-Jan-2025 02:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[10-Jan-2025 05:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[10-Jan-2025 11:50:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[12-Jan-2025 19:26:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[15-Jan-2025 07:22:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[15-Jan-2025 12:20:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[15-Jan-2025 16:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[18-Jan-2025 13:24:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[18-Jan-2025 13:33:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[18-Jan-2025 13:40:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[18-Jan-2025 13:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[18-Jan-2025 13:52:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[18-Jan-2025 13:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[18-Jan-2025 17:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[29-Jan-2025 05:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[29-Jan-2025 05:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[29-Jan-2025 10:17:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[29-Jan-2025 10:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[29-Jan-2025 10:18:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[29-Jan-2025 10:18:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[04-Feb-2025 05:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[04-Feb-2025 05:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[04-Feb-2025 05:27:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[04-Feb-2025 05:28:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[04-Feb-2025 05:29:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[04-Feb-2025 05:29:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[08-Feb-2025 04:34:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[08-Feb-2025 07:41:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[08-Feb-2025 11:28:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[09-Feb-2025 05:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[17-Feb-2025 15:48:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[17-Feb-2025 15:53:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[17-Feb-2025 23:07:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[17-Feb-2025 23:08:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[18-Feb-2025 06:49:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[18-Feb-2025 06:50:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[24-Feb-2025 16:44:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[24-Feb-2025 16:45:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[24-Feb-2025 16:45:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[24-Feb-2025 16:45:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[24-Feb-2025 16:47:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[24-Feb-2025 16:48:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[24-Feb-2025 16:50:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[01-Mar-2025 08:35:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[01-Mar-2025 08:35:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[01-Mar-2025 08:35:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[01-Mar-2025 08:35:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[01-Mar-2025 08:35:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[01-Mar-2025 08:35:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[06-Mar-2025 03:47:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[06-Mar-2025 03:48:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[06-Mar-2025 04:06:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[06-Mar-2025 04:06:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[06-Mar-2025 04:29:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[06-Mar-2025 04:29:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[10-Mar-2025 05:07:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[10-Mar-2025 06:28:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[10-Mar-2025 11:18:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[13-Mar-2025 19:44:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[13-Mar-2025 19:47:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[13-Mar-2025 20:06:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[13-Mar-2025 20:30:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[14-Mar-2025 05:26:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[14-Mar-2025 05:28:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[14-Mar-2025 05:51:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[14-Mar-2025 05:52:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[14-Mar-2025 06:31:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[14-Mar-2025 06:31:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[14-Mar-2025 06:54:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[15-Mar-2025 18:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[16-Mar-2025 01:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[16-Mar-2025 02:59:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[17-Mar-2025 21:36:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[17-Mar-2025 23:29:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[21-Mar-2025 06:53:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[25-Mar-2025 01:44:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[26-Mar-2025 14:26:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[26-Mar-2025 15:17:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[26-Mar-2025 15:43:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[26-Mar-2025 16:56:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[28-Mar-2025 00:22:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[08-Apr-2025 03:13:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[08-Apr-2025 03:13:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[08-Apr-2025 03:13:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[08-Apr-2025 03:13:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[08-Apr-2025 03:13:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[08-Apr-2025 03:13:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[15-Apr-2025 23:56:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[15-Apr-2025 23:57:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[15-Apr-2025 23:58:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[15-Apr-2025 23:59:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[16-Apr-2025 00:02:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[16-Apr-2025 00:02:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[20-Apr-2025 01:16:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[07-May-2025 03:08:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[07-May-2025 04:05:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[07-May-2025 08:21:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[07-May-2025 10:49:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[07-May-2025 13:31:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[07-May-2025 16:21:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[10-May-2025 01:41:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[10-May-2025 07:27:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[10-May-2025 10:45:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[11-May-2025 22:39:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[12-May-2025 10:40:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeVisitor' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[12-May-2025 10:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[12-May-2025 10:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Node' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[12-May-2025 10:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 37
+[12-May-2025 10:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[12-May-2025 10:51:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Internal\TokenPolyfill' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8
+[12-May-2025 16:07:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\PrettyPrinter' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[12-May-2025 19:17:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\NodeTraverserInterface' not found in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5

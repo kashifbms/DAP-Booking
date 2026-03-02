@@ -1,0 +1,292 @@
+[08-Jun-2024 02:08:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/New/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-Jun-2024 02:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/New/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[13-Jun-2024 04:18:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[13-Jun-2024 04:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-Jul-2024 01:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-Jul-2024 16:15:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[03-Aug-2024 23:48:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[03-Aug-2024 23:48:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[07-Aug-2024 22:01:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[07-Aug-2024 22:01:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[12-Aug-2024 00:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[13-Aug-2024 18:14:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[27-Aug-2024 20:43:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[27-Aug-2024 20:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[07-Sep-2024 01:13:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[13-Sep-2024 00:56:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[19-Sep-2024 10:48:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[19-Sep-2024 10:48:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[30-Oct-2024 12:41:35 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[08-Nov-2024 02:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[13-Nov-2024 20:33:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[21-Nov-2024 11:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[21-Nov-2024 11:36:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[24-Nov-2024 02:36:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[24-Nov-2024 02:36:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[26-Nov-2024 13:26:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[06-Dec-2024 11:25:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[18-Dec-2024 20:39:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[18-Dec-2024 23:57:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[21-Dec-2024 06:03:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[22-Dec-2024 06:42:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[09-Jan-2025 23:52:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[10-Jan-2025 02:31:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[11-Jan-2025 22:32:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[11-Jan-2025 22:32:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[29-Jan-2025 11:52:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[29-Jan-2025 11:52:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[04-Feb-2025 04:11:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[04-Feb-2025 04:11:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[04-Feb-2025 19:41:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[05-Feb-2025 03:03:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[18-Feb-2025 09:07:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[19-Feb-2025 00:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[22-Feb-2025 14:15:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[06-Mar-2025 08:01:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[10-Mar-2025 16:34:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[10-Mar-2025 21:20:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[13-Mar-2025 17:32:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[13-Mar-2025 19:46:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[14-Mar-2025 10:50:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[14-Mar-2025 11:32:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-Apr-2025 02:49:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-Apr-2025 02:50:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[17-Apr-2025 11:41:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[18-Apr-2025 18:02:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[03-May-2025 15:47:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[03-May-2025 15:48:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[06-May-2025 08:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[06-May-2025 12:59:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[07-May-2025 11:53:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-May-2025 21:29:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[08-May-2025 21:33:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[08-May-2025 21:33:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[08-May-2025 21:47:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-May-2025 21:47:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[08-May-2025 22:48:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[08-May-2025 22:48:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[09-May-2025 20:30:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[09-May-2025 20:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[10-May-2025 05:47:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/OperatorFactory.php on line 25
+[10-May-2025 10:18:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[11-May-2025 03:50:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12
+[12-May-2025 11:33:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\Filter\FactoryInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/filter-via-dot-access-data/src/LogicalOpFactory.php on line 12

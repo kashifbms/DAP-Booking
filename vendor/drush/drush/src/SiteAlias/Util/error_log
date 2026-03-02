@@ -1,0 +1,40 @@
+[11-Dec-2024 17:41:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[19-Dec-2024 06:35:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[19-Dec-2024 15:54:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[22-Dec-2024 20:46:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[16-Jan-2025 06:27:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[28-Mar-2025 17:16:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[19-Apr-2025 13:42:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[08-May-2025 14:14:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[08-May-2025 21:41:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10
+[08-May-2025 21:41:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\SiteAlias\DataFileLoaderInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/SiteAlias/Util/InternalYamlDataFileLoader.php on line 10

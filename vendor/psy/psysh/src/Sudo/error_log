@@ -1,0 +1,80 @@
+[18-Nov-2024 14:26:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[21-Nov-2024 11:58:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[03-Dec-2024 12:03:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[23-Dec-2024 07:30:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[31-Dec-2024 05:58:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[15-Jan-2025 13:56:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[27-Jan-2025 01:38:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[29-Jan-2025 11:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[07-Feb-2025 01:27:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[14-Feb-2025 04:02:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[24-Feb-2025 10:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[05-Mar-2025 16:12:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[06-Mar-2025 23:10:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[13-Mar-2025 19:18:57 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[14-Mar-2025 14:28:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[15-Mar-2025 19:37:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[08-Apr-2025 04:17:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[16-Apr-2025 20:02:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[07-May-2025 09:06:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36
+[12-May-2025 16:31:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/psy/psysh/src/Sudo/SudoVisitor.php on line 36

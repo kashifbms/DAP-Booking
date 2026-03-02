@@ -1,0 +1,128 @@
+[29-Dec-2024 10:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[29-Dec-2024 10:37:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[04-Feb-2025 19:48:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[06-Feb-2025 21:33:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[06-Feb-2025 22:20:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[08-Feb-2025 23:08:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[08-Feb-2025 23:25:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[08-Feb-2025 23:52:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[09-Feb-2025 03:23:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[10-Feb-2025 01:37:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[11-Feb-2025 07:44:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[16-Feb-2025 12:56:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[18-Feb-2025 00:42:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[19-Feb-2025 00:36:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[24-Feb-2025 16:55:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[24-Feb-2025 16:55:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[27-Feb-2025 02:23:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[27-Feb-2025 02:23:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[06-Apr-2025 06:26:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[06-Apr-2025 07:04:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[07-May-2025 13:01:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[07-May-2025 13:11:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[08-May-2025 21:43:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[08-May-2025 21:43:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[08-May-2025 21:44:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[08-May-2025 21:44:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[08-May-2025 22:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[08-May-2025 22:48:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[09-May-2025 15:05:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\LanguageToFontInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/LanguageToFont.php on line 5
+[09-May-2025 15:49:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[09-May-2025 20:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7
+[09-May-2025 20:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Mpdf\Language\ScriptToLanguageInterface' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Language/ScriptToLanguage.php on line 7

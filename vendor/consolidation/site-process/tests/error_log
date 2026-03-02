@@ -1,0 +1,440 @@
+[05-Nov-2024 22:40:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[05-Nov-2024 22:40:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[05-Nov-2024 22:41:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[13-Nov-2024 06:26:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[13-Nov-2024 19:09:34 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[13-Nov-2024 20:12:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[18-Nov-2024 13:46:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[21-Nov-2024 11:34:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[21-Nov-2024 11:34:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[21-Nov-2024 11:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[21-Nov-2024 11:34:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[24-Nov-2024 02:36:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[24-Nov-2024 02:36:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[24-Nov-2024 02:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[24-Nov-2024 02:36:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[08-Dec-2024 12:53:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[15-Dec-2024 10:27:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[15-Dec-2024 10:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[17-Dec-2024 05:11:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[18-Dec-2024 22:15:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[18-Dec-2024 22:16:10 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[18-Dec-2024 22:17:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[19-Dec-2024 02:22:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[21-Dec-2024 08:30:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[22-Dec-2024 10:14:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[23-Dec-2024 19:09:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[23-Dec-2024 19:10:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[05-Jan-2025 17:51:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[05-Jan-2025 21:10:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[07-Jan-2025 00:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[07-Jan-2025 22:03:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[10-Jan-2025 04:42:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[10-Jan-2025 05:26:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[10-Jan-2025 06:28:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[14-Jan-2025 02:12:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[14-Jan-2025 02:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[14-Jan-2025 02:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[14-Jan-2025 02:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[14-Jan-2025 15:52:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[15-Jan-2025 07:28:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[17-Jan-2025 20:38:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[17-Jan-2025 20:38:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[29-Jan-2025 09:42:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[29-Jan-2025 09:42:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[29-Jan-2025 09:42:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[29-Jan-2025 09:42:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[05-Feb-2025 04:34:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[05-Feb-2025 07:51:03 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[06-Feb-2025 09:56:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[07-Feb-2025 18:38:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[19-Feb-2025 03:44:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[20-Feb-2025 04:41:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[27-Feb-2025 09:31:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[27-Feb-2025 09:37:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[04-Mar-2025 12:59:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[04-Mar-2025 13:00:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[04-Mar-2025 13:00:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[04-Mar-2025 13:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[04-Mar-2025 22:33:26 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[10-Mar-2025 05:20:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[10-Mar-2025 06:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[10-Mar-2025 21:00:35 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[13-Mar-2025 18:00:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[13-Mar-2025 18:06:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[13-Mar-2025 19:23:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[14-Mar-2025 07:54:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[15-Mar-2025 23:06:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[17-Mar-2025 21:15:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[17-Mar-2025 21:18:58 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[18-Mar-2025 00:43:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[04-Apr-2025 06:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[04-Apr-2025 06:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[04-Apr-2025 06:50:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[04-Apr-2025 06:50:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[08-Apr-2025 02:48:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[08-Apr-2025 02:48:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[08-Apr-2025 02:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[08-Apr-2025 02:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[29-Apr-2025 18:48:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[29-Apr-2025 18:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[29-Apr-2025 18:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[29-Apr-2025 18:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[01-May-2025 12:29:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[05-May-2025 16:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[05-May-2025 16:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[05-May-2025 16:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[05-May-2025 16:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[06-May-2025 04:13:16 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[06-May-2025 11:56:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[06-May-2025 12:58:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[06-May-2025 21:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[08-May-2025 21:48:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[08-May-2025 21:48:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[08-May-2025 21:48:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[08-May-2025 21:48:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[08-May-2025 21:48:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[08-May-2025 21:48:39 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[08-May-2025 21:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[08-May-2025 21:48:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[09-May-2025 21:33:45 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[09-May-2025 22:16:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[10-May-2025 11:04:47 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[10-May-2025 12:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[11-May-2025 05:22:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[11-May-2025 08:26:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[12-May-2025 13:41:06 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/ArgumentProcessorTest.php on line 9
+[12-May-2025 13:41:07 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/RealtimeOutputHandlerTest.php on line 13
+[12-May-2025 13:53:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10
+[12-May-2025 13:56:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/EscapeTest.php on line 10
+[12-May-2025 14:12:25 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/site-process/tests/SiteProcessTest.php on line 10

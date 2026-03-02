@@ -1,0 +1,1589 @@
+[08-Nov-2024 05:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[08-Nov-2024 10:50:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[13-Nov-2024 07:13:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[13-Nov-2024 09:29:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[13-Nov-2024 09:58:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[13-Nov-2024 11:05:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[13-Nov-2024 12:06:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[13-Nov-2024 13:33:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[13-Nov-2024 15:07:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[13-Nov-2024 16:47:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[13-Nov-2024 17:46:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[13-Nov-2024 22:50:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[18-Nov-2024 02:02:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[18-Nov-2024 05:31:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[18-Nov-2024 06:16:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[18-Nov-2024 11:34:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[18-Nov-2024 12:58:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[18-Nov-2024 14:51:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[19-Nov-2024 02:17:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[19-Nov-2024 02:21:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[21-Nov-2024 10:59:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[21-Nov-2024 10:59:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[21-Nov-2024 10:59:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[21-Nov-2024 10:59:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[21-Nov-2024 10:59:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[21-Nov-2024 10:59:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[21-Nov-2024 11:00:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[21-Nov-2024 11:00:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[21-Nov-2024 11:00:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[21-Nov-2024 11:00:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[21-Nov-2024 11:00:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[21-Nov-2024 11:00:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[21-Nov-2024 11:00:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[21-Nov-2024 11:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[21-Nov-2024 11:00:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[21-Nov-2024 11:00:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[21-Nov-2024 11:00:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[21-Nov-2024 11:00:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[03-Dec-2024 22:13:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[03-Dec-2024 22:13:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[03-Dec-2024 22:13:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[03-Dec-2024 22:13:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[03-Dec-2024 22:13:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[03-Dec-2024 22:13:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[03-Dec-2024 22:13:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[03-Dec-2024 22:13:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[03-Dec-2024 22:13:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[03-Dec-2024 22:13:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[03-Dec-2024 22:13:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[03-Dec-2024 22:13:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[03-Dec-2024 22:13:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[03-Dec-2024 22:13:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[03-Dec-2024 22:13:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[03-Dec-2024 22:13:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[03-Dec-2024 22:13:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[03-Dec-2024 22:13:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[19-Dec-2024 11:38:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[19-Dec-2024 11:44:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[19-Dec-2024 11:50:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[19-Dec-2024 11:57:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[19-Dec-2024 12:02:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[10-Jan-2025 01:19:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[10-Jan-2025 01:26:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[10-Jan-2025 02:00:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[10-Jan-2025 03:21:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[10-Jan-2025 06:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[10-Jan-2025 06:18:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[10-Jan-2025 06:34:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[10-Jan-2025 07:01:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[10-Jan-2025 10:27:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[10-Jan-2025 14:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[10-Jan-2025 15:36:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[10-Jan-2025 17:20:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[15-Jan-2025 05:22:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[15-Jan-2025 08:38:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[15-Jan-2025 11:30:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[15-Jan-2025 12:21:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[15-Jan-2025 14:02:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[15-Jan-2025 22:20:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[26-Jan-2025 16:59:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[26-Jan-2025 16:59:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[26-Jan-2025 16:59:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[26-Jan-2025 16:59:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[26-Jan-2025 16:59:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[26-Jan-2025 16:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[26-Jan-2025 16:59:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[26-Jan-2025 16:59:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[26-Jan-2025 16:59:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[26-Jan-2025 16:59:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[26-Jan-2025 16:59:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[26-Jan-2025 16:59:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[26-Jan-2025 16:59:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[26-Jan-2025 17:00:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[26-Jan-2025 17:00:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[26-Jan-2025 17:00:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[26-Jan-2025 17:00:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[26-Jan-2025 17:00:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[29-Jan-2025 09:13:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[29-Jan-2025 09:13:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[29-Jan-2025 09:13:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[29-Jan-2025 09:14:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[29-Jan-2025 09:14:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[29-Jan-2025 09:14:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[29-Jan-2025 09:14:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[29-Jan-2025 09:14:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[29-Jan-2025 09:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[29-Jan-2025 09:14:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[29-Jan-2025 09:14:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[29-Jan-2025 09:14:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[29-Jan-2025 09:14:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[29-Jan-2025 09:14:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[29-Jan-2025 09:14:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[29-Jan-2025 09:15:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[29-Jan-2025 09:15:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[29-Jan-2025 09:15:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[29-Jan-2025 22:37:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[29-Jan-2025 22:37:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[30-Jan-2025 03:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[30-Jan-2025 05:09:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[30-Jan-2025 06:36:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[30-Jan-2025 11:13:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[30-Jan-2025 14:27:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[30-Jan-2025 16:41:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[30-Jan-2025 17:29:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[30-Jan-2025 19:52:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[31-Jan-2025 05:12:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[01-Feb-2025 04:34:58 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[01-Feb-2025 07:08:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[01-Feb-2025 15:08:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[01-Feb-2025 23:07:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[02-Feb-2025 03:17:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[02-Feb-2025 06:31:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[02-Feb-2025 07:14:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[04-Feb-2025 14:12:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[04-Feb-2025 16:32:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[13-Feb-2025 00:56:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[13-Feb-2025 00:58:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[13-Feb-2025 01:26:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[13-Feb-2025 02:37:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[13-Feb-2025 02:46:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[13-Feb-2025 02:52:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[13-Feb-2025 03:03:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[13-Feb-2025 03:20:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[13-Feb-2025 04:14:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[13-Feb-2025 04:15:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[13-Feb-2025 04:16:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[13-Feb-2025 04:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[13-Feb-2025 04:57:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[13-Feb-2025 05:09:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[13-Feb-2025 06:53:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[13-Feb-2025 06:58:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[13-Feb-2025 07:00:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[13-Feb-2025 07:01:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[13-Feb-2025 07:03:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[13-Feb-2025 07:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[13-Feb-2025 07:09:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[13-Feb-2025 07:10:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[13-Feb-2025 08:12:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[13-Feb-2025 08:20:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[13-Feb-2025 08:37:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[13-Feb-2025 11:25:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[13-Feb-2025 12:49:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[13-Feb-2025 14:03:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[13-Feb-2025 14:21:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[14-Feb-2025 21:08:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[14-Feb-2025 21:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[15-Feb-2025 04:53:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[16-Feb-2025 02:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[16-Feb-2025 02:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[16-Feb-2025 02:51:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[16-Feb-2025 02:59:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[16-Feb-2025 03:00:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[16-Feb-2025 03:03:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[16-Feb-2025 03:04:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[16-Feb-2025 03:06:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[16-Feb-2025 03:07:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[16-Feb-2025 03:08:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[16-Feb-2025 03:11:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[16-Feb-2025 03:12:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[16-Feb-2025 03:13:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[16-Feb-2025 03:15:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[16-Feb-2025 03:16:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[16-Feb-2025 21:47:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[16-Feb-2025 23:46:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[18-Feb-2025 21:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[18-Feb-2025 21:15:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[18-Feb-2025 21:22:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[18-Feb-2025 21:40:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[24-Feb-2025 16:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[24-Feb-2025 16:35:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[24-Feb-2025 16:35:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[24-Feb-2025 16:35:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[24-Feb-2025 16:35:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[24-Feb-2025 16:35:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[24-Feb-2025 16:35:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[24-Feb-2025 16:35:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[24-Feb-2025 16:35:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[24-Feb-2025 16:35:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[24-Feb-2025 16:35:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[24-Feb-2025 16:36:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[24-Feb-2025 16:36:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[24-Feb-2025 16:37:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[24-Feb-2025 16:38:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[24-Feb-2025 16:39:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[24-Feb-2025 16:40:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[24-Feb-2025 16:41:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[24-Feb-2025 16:45:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[24-Feb-2025 16:47:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[27-Feb-2025 09:44:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[27-Feb-2025 09:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[03-Mar-2025 23:10:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[03-Mar-2025 23:11:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[03-Mar-2025 23:11:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[03-Mar-2025 23:11:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[03-Mar-2025 23:11:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[03-Mar-2025 23:11:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[03-Mar-2025 23:12:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[03-Mar-2025 23:12:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[03-Mar-2025 23:12:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[03-Mar-2025 23:12:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[03-Mar-2025 23:13:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[03-Mar-2025 23:13:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[03-Mar-2025 23:13:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[03-Mar-2025 23:13:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[03-Mar-2025 23:14:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[03-Mar-2025 23:14:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[03-Mar-2025 23:14:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[03-Mar-2025 23:58:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[10-Mar-2025 04:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[10-Mar-2025 05:39:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[10-Mar-2025 07:07:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[10-Mar-2025 08:09:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[10-Mar-2025 08:39:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[10-Mar-2025 09:52:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[10-Mar-2025 16:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[10-Mar-2025 16:22:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[10-Mar-2025 17:11:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[10-Mar-2025 17:42:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[10-Mar-2025 18:42:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[10-Mar-2025 21:43:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[13-Mar-2025 17:59:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[13-Mar-2025 18:05:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[13-Mar-2025 18:33:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[13-Mar-2025 18:40:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[13-Mar-2025 18:43:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[13-Mar-2025 18:55:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[13-Mar-2025 18:56:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[13-Mar-2025 19:00:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[13-Mar-2025 19:17:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[13-Mar-2025 19:26:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[13-Mar-2025 19:29:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[13-Mar-2025 19:40:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[13-Mar-2025 19:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[13-Mar-2025 20:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[13-Mar-2025 20:22:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[14-Mar-2025 05:19:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[15-Mar-2025 16:11:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[15-Mar-2025 18:46:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[15-Mar-2025 21:01:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[16-Mar-2025 00:37:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[16-Mar-2025 00:38:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[16-Mar-2025 02:29:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[16-Mar-2025 04:42:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[17-Mar-2025 17:57:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[17-Mar-2025 21:01:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[17-Mar-2025 21:11:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[17-Mar-2025 21:43:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[17-Mar-2025 21:57:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[21-Mar-2025 06:34:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[21-Mar-2025 06:34:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[21-Mar-2025 06:34:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[21-Mar-2025 06:34:49 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[21-Mar-2025 06:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[21-Mar-2025 06:35:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[21-Mar-2025 06:35:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[21-Mar-2025 06:35:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[21-Mar-2025 06:36:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[21-Mar-2025 06:36:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[21-Mar-2025 06:36:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[21-Mar-2025 06:36:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[21-Mar-2025 06:36:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[21-Mar-2025 06:37:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[21-Mar-2025 06:37:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[21-Mar-2025 06:37:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[21-Mar-2025 06:38:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[21-Mar-2025 06:45:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[21-Mar-2025 06:58:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[21-Mar-2025 07:00:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[25-Mar-2025 01:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[25-Mar-2025 02:12:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[28-Mar-2025 00:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[28-Mar-2025 00:30:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[08-Apr-2025 02:14:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[08-Apr-2025 02:14:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[08-Apr-2025 02:14:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[08-Apr-2025 02:15:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[08-Apr-2025 02:15:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[08-Apr-2025 02:15:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[08-Apr-2025 02:15:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[08-Apr-2025 02:15:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[08-Apr-2025 02:15:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[08-Apr-2025 02:15:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[08-Apr-2025 02:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[08-Apr-2025 02:15:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[08-Apr-2025 02:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[08-Apr-2025 02:15:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[08-Apr-2025 02:15:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[08-Apr-2025 02:15:48 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[08-Apr-2025 02:15:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[08-Apr-2025 02:15:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[19-Apr-2025 16:57:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[19-Apr-2025 16:58:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[19-Apr-2025 16:58:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[19-Apr-2025 16:58:32 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[19-Apr-2025 16:58:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[19-Apr-2025 16:59:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[19-Apr-2025 16:59:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[19-Apr-2025 17:00:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[19-Apr-2025 17:00:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[19-Apr-2025 17:00:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[19-Apr-2025 17:00:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[19-Apr-2025 17:00:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[19-Apr-2025 17:01:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[19-Apr-2025 17:01:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[19-Apr-2025 17:01:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[19-Apr-2025 17:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[19-Apr-2025 17:02:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[19-Apr-2025 17:11:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[29-Apr-2025 04:49:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[30-Apr-2025 04:33:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[30-Apr-2025 04:35:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[30-Apr-2025 04:35:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[30-Apr-2025 04:36:16 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[30-Apr-2025 04:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[30-Apr-2025 04:38:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[30-Apr-2025 04:39:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[30-Apr-2025 04:41:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[30-Apr-2025 04:41:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[30-Apr-2025 04:42:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[30-Apr-2025 04:42:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[30-Apr-2025 04:43:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[30-Apr-2025 04:43:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[30-Apr-2025 04:47:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[30-Apr-2025 04:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[30-Apr-2025 04:50:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[30-Apr-2025 04:52:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[30-Apr-2025 04:56:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[01-May-2025 14:51:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[01-May-2025 14:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[04-May-2025 03:48:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[04-May-2025 04:46:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[04-May-2025 05:08:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[04-May-2025 06:40:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[04-May-2025 07:40:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[04-May-2025 09:59:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[04-May-2025 13:11:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[04-May-2025 13:31:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[04-May-2025 13:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[04-May-2025 13:54:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[04-May-2025 14:04:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[04-May-2025 15:55:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[04-May-2025 18:00:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[04-May-2025 18:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[04-May-2025 18:19:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[04-May-2025 18:19:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[04-May-2025 19:45:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[04-May-2025 19:45:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[04-May-2025 20:06:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[04-May-2025 22:05:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[05-May-2025 05:32:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[05-May-2025 07:21:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[05-May-2025 08:48:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[05-May-2025 13:46:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[05-May-2025 17:06:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[05-May-2025 19:40:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[05-May-2025 20:27:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[05-May-2025 22:53:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[06-May-2025 08:07:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[07-May-2025 06:17:39 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[07-May-2025 08:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[08-May-2025 03:48:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[08-May-2025 07:07:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[08-May-2025 07:51:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[08-May-2025 15:35:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[08-May-2025 17:23:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[08-May-2025 18:54:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[08-May-2025 21:08:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[08-May-2025 21:08:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[08-May-2025 21:11:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[08-May-2025 21:11:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[08-May-2025 21:13:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[08-May-2025 21:13:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[08-May-2025 21:14:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[08-May-2025 21:14:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[08-May-2025 21:16:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[08-May-2025 21:16:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[08-May-2025 21:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[08-May-2025 21:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[08-May-2025 21:27:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[08-May-2025 21:27:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[08-May-2025 21:30:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[08-May-2025 21:30:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[08-May-2025 21:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[08-May-2025 21:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[08-May-2025 21:32:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[08-May-2025 21:32:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[08-May-2025 21:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[08-May-2025 21:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[08-May-2025 21:36:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[08-May-2025 21:36:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[08-May-2025 21:37:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[08-May-2025 21:37:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[08-May-2025 21:37:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[08-May-2025 21:37:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[08-May-2025 21:43:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[08-May-2025 21:43:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[08-May-2025 23:34:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[09-May-2025 02:40:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[09-May-2025 05:11:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[09-May-2025 06:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[09-May-2025 08:31:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[09-May-2025 22:25:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17
+[09-May-2025 23:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[10-May-2025 02:00:42 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[10-May-2025 03:51:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[10-May-2025 06:20:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[10-May-2025 06:52:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[10-May-2025 07:42:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[10-May-2025 09:51:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[10-May-2025 10:02:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[10-May-2025 10:12:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[10-May-2025 12:24:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[10-May-2025 12:53:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[11-May-2025 12:14:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[11-May-2025 15:51:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[11-May-2025 16:30:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[12-May-2025 08:19:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnprocessableEntityHttpException.php on line 17
+[12-May-2025 08:21:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '|' or variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ControllerDoesNotReturnResponseException.php on line 52
+[12-May-2025 08:21:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/MethodNotAllowedHttpException.php on line 17
+[12-May-2025 08:22:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/TooManyRequestsHttpException.php on line 24
+[12-May-2025 08:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\Exception\HttpExceptionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/HttpException.php on line 19
+[12-May-2025 08:28:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnauthorizedHttpException.php on line 17
+[12-May-2025 08:29:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/BadRequestHttpException.php on line 17
+[12-May-2025 08:30:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ServiceUnavailableHttpException.php on line 22
+[12-May-2025 08:31:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LengthRequiredHttpException.php on line 17
+[12-May-2025 08:31:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotFoundHttpException.php on line 17
+[12-May-2025 08:32:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/NotAcceptableHttpException.php on line 17
+[12-May-2025 08:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionRequiredHttpException.php on line 19
+[12-May-2025 08:34:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/UnsupportedMediaTypeHttpException.php on line 17
+[12-May-2025 08:40:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php on line 18
+[12-May-2025 08:43:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/PreconditionFailedHttpException.php on line 17
+[12-May-2025 08:44:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/GoneHttpException.php on line 17
+[12-May-2025 08:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/LockedHttpException.php on line 17
+[12-May-2025 08:55:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-kernel/Exception/ConflictHttpException.php on line 17

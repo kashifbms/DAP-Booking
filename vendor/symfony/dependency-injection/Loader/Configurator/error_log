@@ -1,0 +1,848 @@
+[13-Nov-2024 05:54:52 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[13-Nov-2024 12:13:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[13-Nov-2024 16:26:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[13-Nov-2024 16:52:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[13-Nov-2024 17:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[13-Nov-2024 17:47:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[13-Nov-2024 19:53:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[13-Nov-2024 20:39:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[13-Nov-2024 21:22:52 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[18-Nov-2024 06:25:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[18-Nov-2024 07:18:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[18-Nov-2024 09:40:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[18-Nov-2024 10:35:45 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[18-Nov-2024 11:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[18-Nov-2024 12:24:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[21-Nov-2024 11:48:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[21-Nov-2024 11:48:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[21-Nov-2024 11:48:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[21-Nov-2024 11:48:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[21-Nov-2024 11:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[21-Nov-2024 11:48:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[21-Nov-2024 11:48:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[21-Nov-2024 11:48:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[21-Nov-2024 11:48:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[21-Nov-2024 11:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[21-Nov-2024 11:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[21-Nov-2024 11:49:03 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[21-Nov-2024 11:49:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[21-Nov-2024 11:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[21-Nov-2024 11:49:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[01-Dec-2024 11:53:29 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[06-Dec-2024 05:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[06-Dec-2024 13:50:03 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[17-Dec-2024 05:39:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[19-Dec-2024 17:04:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[28-Dec-2024 15:31:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[29-Dec-2024 13:19:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[31-Dec-2024 05:59:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[31-Dec-2024 05:59:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[31-Dec-2024 05:59:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[31-Dec-2024 05:59:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[31-Dec-2024 05:59:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[31-Dec-2024 05:59:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[31-Dec-2024 05:59:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[31-Dec-2024 05:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[31-Dec-2024 05:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[31-Dec-2024 05:59:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[31-Dec-2024 05:59:20 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[31-Dec-2024 05:59:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[31-Dec-2024 05:59:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[31-Dec-2024 05:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[31-Dec-2024 05:59:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[10-Jan-2025 03:04:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[10-Jan-2025 05:31:59 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[10-Jan-2025 06:05:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[10-Jan-2025 06:33:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[10-Jan-2025 09:58:44 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[10-Jan-2025 10:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[10-Jan-2025 13:15:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[10-Jan-2025 14:49:34 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[10-Jan-2025 17:19:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[15-Jan-2025 05:50:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[15-Jan-2025 06:28:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[15-Jan-2025 07:42:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[15-Jan-2025 09:40:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[15-Jan-2025 15:47:59 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[15-Jan-2025 17:01:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[29-Jan-2025 10:01:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[29-Jan-2025 10:01:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[29-Jan-2025 10:02:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[29-Jan-2025 10:02:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[29-Jan-2025 10:02:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[29-Jan-2025 10:02:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[29-Jan-2025 10:02:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[29-Jan-2025 10:02:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[29-Jan-2025 10:02:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[29-Jan-2025 10:02:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[29-Jan-2025 10:02:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[29-Jan-2025 10:02:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[29-Jan-2025 10:02:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[29-Jan-2025 10:02:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[29-Jan-2025 10:02:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[04-Feb-2025 23:52:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[05-Feb-2025 11:36:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[05-Feb-2025 15:00:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[05-Feb-2025 19:39:52 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[05-Feb-2025 22:36:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[05-Feb-2025 22:36:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[06-Feb-2025 10:43:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[06-Feb-2025 11:29:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[06-Feb-2025 17:40:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[06-Feb-2025 21:33:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[06-Feb-2025 23:08:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[07-Feb-2025 10:41:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[07-Feb-2025 17:51:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[07-Feb-2025 20:22:42 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[07-Feb-2025 22:00:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[13-Feb-2025 18:14:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[14-Feb-2025 15:28:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[14-Feb-2025 22:01:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[15-Feb-2025 09:23:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[15-Feb-2025 12:02:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[15-Feb-2025 13:18:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[15-Feb-2025 16:24:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[15-Feb-2025 16:26:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[15-Feb-2025 16:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[15-Feb-2025 16:28:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[15-Feb-2025 16:29:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[15-Feb-2025 16:31:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[15-Feb-2025 18:02:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[16-Feb-2025 10:21:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[16-Feb-2025 19:15:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[17-Feb-2025 04:28:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[17-Feb-2025 13:23:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[17-Feb-2025 14:04:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[17-Feb-2025 15:56:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[17-Feb-2025 16:33:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[17-Feb-2025 16:56:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[17-Feb-2025 17:14:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[17-Feb-2025 21:10:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[17-Feb-2025 21:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[17-Feb-2025 21:30:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[18-Feb-2025 00:31:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[18-Feb-2025 17:26:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[02-Mar-2025 11:08:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[02-Mar-2025 11:09:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[02-Mar-2025 11:09:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[02-Mar-2025 11:10:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[02-Mar-2025 11:10:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[02-Mar-2025 11:10:55 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[02-Mar-2025 11:11:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[02-Mar-2025 11:11:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[02-Mar-2025 11:11:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[02-Mar-2025 11:11:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[02-Mar-2025 11:12:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[02-Mar-2025 11:12:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[02-Mar-2025 11:12:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[02-Mar-2025 11:12:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[02-Mar-2025 11:13:11 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[05-Mar-2025 16:13:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[05-Mar-2025 16:13:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[05-Mar-2025 16:13:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[05-Mar-2025 16:13:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[05-Mar-2025 16:13:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[05-Mar-2025 16:13:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[05-Mar-2025 16:13:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[05-Mar-2025 16:13:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[05-Mar-2025 16:13:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[05-Mar-2025 16:13:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[05-Mar-2025 16:13:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[05-Mar-2025 16:13:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[05-Mar-2025 16:13:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[05-Mar-2025 16:13:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[05-Mar-2025 16:13:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[09-Mar-2025 03:02:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[09-Mar-2025 05:08:42 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[10-Mar-2025 06:43:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[10-Mar-2025 06:49:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[10-Mar-2025 07:55:47 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[10-Mar-2025 11:42:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[10-Mar-2025 14:03:02 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[10-Mar-2025 14:56:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[10-Mar-2025 16:24:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[10-Mar-2025 18:27:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[10-Mar-2025 22:54:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[11-Mar-2025 07:35:20 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[11-Mar-2025 07:52:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[11-Mar-2025 07:52:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[11-Mar-2025 07:52:03 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[11-Mar-2025 07:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[11-Mar-2025 07:52:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[11-Mar-2025 07:52:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[11-Mar-2025 07:52:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[11-Mar-2025 07:52:07 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[11-Mar-2025 10:14:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[13-Mar-2025 14:50:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[13-Mar-2025 17:35:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[13-Mar-2025 18:04:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[13-Mar-2025 18:07:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[13-Mar-2025 18:38:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[13-Mar-2025 19:28:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[13-Mar-2025 19:34:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[13-Mar-2025 19:40:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[13-Mar-2025 19:48:02 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[13-Mar-2025 20:05:17 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[13-Mar-2025 20:11:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[13-Mar-2025 20:21:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[13-Mar-2025 20:24:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[13-Mar-2025 20:26:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[13-Mar-2025 20:28:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[14-Mar-2025 07:08:45 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[15-Mar-2025 02:52:34 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[15-Mar-2025 02:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[15-Mar-2025 02:53:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[15-Mar-2025 02:53:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[15-Mar-2025 02:53:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[15-Mar-2025 03:02:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[15-Mar-2025 03:19:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[15-Mar-2025 05:04:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[15-Mar-2025 05:05:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[15-Mar-2025 05:05:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[15-Mar-2025 05:06:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[15-Mar-2025 05:06:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[15-Mar-2025 05:06:44 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[15-Mar-2025 05:06:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[15-Mar-2025 05:07:12 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[15-Mar-2025 20:22:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[16-Mar-2025 00:13:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[16-Mar-2025 00:56:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[16-Mar-2025 01:39:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[16-Mar-2025 03:13:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[16-Mar-2025 03:19:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[17-Mar-2025 21:16:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[17-Mar-2025 23:47:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[18-Mar-2025 00:23:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[18-Mar-2025 01:32:07 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[18-Mar-2025 01:35:46 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[18-Mar-2025 02:13:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[08-Apr-2025 02:46:31 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[08-Apr-2025 02:46:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[08-Apr-2025 02:46:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[08-Apr-2025 02:46:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[08-Apr-2025 02:46:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[08-Apr-2025 02:46:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[08-Apr-2025 02:46:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[08-Apr-2025 02:46:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[08-Apr-2025 02:47:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[08-Apr-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[08-Apr-2025 02:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[08-Apr-2025 02:47:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[08-Apr-2025 02:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[08-Apr-2025 02:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[08-Apr-2025 02:47:27 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[18-Apr-2025 19:15:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[18-Apr-2025 19:16:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[18-Apr-2025 19:16:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[18-Apr-2025 19:16:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[18-Apr-2025 19:17:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[18-Apr-2025 19:18:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[18-Apr-2025 19:20:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[18-Apr-2025 19:20:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[18-Apr-2025 19:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[18-Apr-2025 19:21:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[18-Apr-2025 19:21:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[18-Apr-2025 19:21:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[18-Apr-2025 19:22:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[19-Apr-2025 15:02:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[19-Apr-2025 15:02:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[30-Apr-2025 07:43:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[30-Apr-2025 07:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[30-Apr-2025 07:44:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[30-Apr-2025 07:45:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[30-Apr-2025 07:46:46 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[30-Apr-2025 07:47:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[30-Apr-2025 07:47:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[30-Apr-2025 07:47:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[30-Apr-2025 07:49:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[30-Apr-2025 07:49:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[30-Apr-2025 07:49:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[30-Apr-2025 07:50:23 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[30-Apr-2025 07:50:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[05-May-2025 04:15:12 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[05-May-2025 06:54:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[05-May-2025 09:46:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[05-May-2025 09:56:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[05-May-2025 11:37:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[05-May-2025 11:37:44 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[05-May-2025 12:41:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[05-May-2025 14:22:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[05-May-2025 15:12:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[05-May-2025 15:59:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[05-May-2025 16:31:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[05-May-2025 18:45:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[05-May-2025 19:42:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[05-May-2025 19:42:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[05-May-2025 22:11:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[07-May-2025 16:08:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[08-May-2025 21:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[08-May-2025 21:38:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[08-May-2025 21:38:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[08-May-2025 21:38:23 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[08-May-2025 21:38:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[08-May-2025 21:38:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[08-May-2025 21:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[08-May-2025 21:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[08-May-2025 21:40:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[08-May-2025 21:40:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[08-May-2025 21:40:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[08-May-2025 21:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[08-May-2025 21:40:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[08-May-2025 21:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[08-May-2025 21:40:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[08-May-2025 21:40:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[08-May-2025 21:40:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[08-May-2025 21:40:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[08-May-2025 21:40:58 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[08-May-2025 21:41:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[08-May-2025 21:41:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[08-May-2025 21:41:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[08-May-2025 21:42:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[08-May-2025 21:42:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[08-May-2025 21:43:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[08-May-2025 21:43:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[08-May-2025 21:43:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[08-May-2025 21:43:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[08-May-2025 21:43:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[08-May-2025 21:43:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[08-May-2025 21:47:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[08-May-2025 21:47:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[08-May-2025 22:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[08-May-2025 22:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[08-May-2025 22:49:04 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[08-May-2025 22:49:04 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[09-May-2025 11:25:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[09-May-2025 15:05:29 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[09-May-2025 16:34:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[09-May-2025 20:29:39 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[09-May-2025 20:29:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[09-May-2025 20:31:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[09-May-2025 20:31:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[10-May-2025 00:36:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[10-May-2025 04:10:44 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[10-May-2025 05:52:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[10-May-2025 07:17:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[10-May-2025 09:07:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[10-May-2025 10:11:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[10-May-2025 10:24:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[10-May-2025 11:10:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[10-May-2025 11:34:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/PrototypeConfigurator.php on line 84
+[10-May-2025 12:51:52 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[10-May-2025 13:06:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[10-May-2025 14:22:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[11-May-2025 12:16:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[11-May-2025 15:59:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[11-May-2025 20:57:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[12-May-2025 00:29:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[12-May-2025 00:29:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[12-May-2025 10:45:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[12-May-2025 10:47:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractConfigurator.php on line 35
+[12-May-2025 10:47:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ReferenceConfigurator.php on line 35
+[12-May-2025 10:47:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14
+[12-May-2025 10:48:31 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/DefaultsConfigurator.php on line 45
+[12-May-2025 10:49:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ContainerConfigurator.php on line 61
+[12-May-2025 10:50:42 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/EnvConfigurator.php on line 36
+[12-May-2025 10:50:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InlineServiceConfigurator.php on line 19
+[12-May-2025 10:50:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/FromCallableConfigurator.php on line 19
+[12-May-2025 10:51:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ParametersConfigurator.php on line 35
+[12-May-2025 10:51:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServiceConfigurator.php on line 20
+[12-May-2025 10:53:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AliasConfigurator.php on line 19
+[12-May-2025 10:53:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractServiceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/InstanceofConfigurator.php on line 19
+[12-May-2025 10:54:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ServicesConfigurator.php on line 104
+[12-May-2025 15:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\AbstractConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/AbstractServiceConfigurator.php on line 17
+[12-May-2025 16:08:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Loader\Configurator\ReferenceConfigurator' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Loader/Configurator/ClosureReferenceConfigurator.php on line 14

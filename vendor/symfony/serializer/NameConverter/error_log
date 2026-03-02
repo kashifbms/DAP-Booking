@@ -1,0 +1,161 @@
+[13-Nov-2024 10:28:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[13-Nov-2024 13:53:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[13-Nov-2024 21:37:42 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[20-Nov-2024 02:27:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[20-Nov-2024 04:55:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[21-Nov-2024 08:58:12 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[21-Nov-2024 08:58:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[21-Nov-2024 08:58:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[02-Dec-2024 20:01:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[07-Dec-2024 03:12:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[07-Dec-2024 03:12:13 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[07-Dec-2024 03:12:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[09-Dec-2024 14:28:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[01-Jan-2025 14:42:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[10-Jan-2025 05:50:30 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[10-Jan-2025 06:06:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[10-Jan-2025 07:39:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[29-Jan-2025 08:23:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[29-Jan-2025 08:23:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[29-Jan-2025 08:23:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[04-Feb-2025 11:13:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[04-Feb-2025 18:10:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[05-Feb-2025 00:36:47 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[07-Feb-2025 18:37:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[13-Feb-2025 03:56:14 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[13-Feb-2025 05:38:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[13-Feb-2025 05:55:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[14-Feb-2025 18:14:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[16-Feb-2025 06:45:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[16-Feb-2025 06:46:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[16-Feb-2025 19:34:30 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[18-Feb-2025 22:21:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[04-Mar-2025 02:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[04-Mar-2025 02:34:58 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[04-Mar-2025 02:35:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[08-Mar-2025 02:23:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[08-Mar-2025 02:23:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[08-Mar-2025 02:23:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[10-Mar-2025 08:13:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[10-Mar-2025 12:13:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[10-Mar-2025 20:44:29 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[13-Mar-2025 18:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[13-Mar-2025 18:44:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[13-Mar-2025 19:13:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[04-Apr-2025 20:44:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[04-Apr-2025 20:45:09 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[04-Apr-2025 20:45:34 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[08-Apr-2025 01:30:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[08-Apr-2025 01:30:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[08-Apr-2025 01:30:28 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[29-Apr-2025 23:11:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[29-Apr-2025 23:16:22 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[29-Apr-2025 23:18:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[02-May-2025 04:12:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[02-May-2025 04:12:36 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[02-May-2025 18:23:39 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[07-May-2025 10:06:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[08-May-2025 20:37:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[08-May-2025 20:37:19 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[08-May-2025 21:31:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[08-May-2025 21:31:45 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[08-May-2025 21:32:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[08-May-2025 21:32:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[08-May-2025 21:34:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[08-May-2025 21:34:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[08-May-2025 22:49:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[08-May-2025 22:49:23 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[09-May-2025 20:28:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[09-May-2025 20:28:33 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[10-May-2025 02:20:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[10-May-2025 09:01:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[10-May-2025 10:28:02 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[10-May-2025 11:05:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[11-May-2025 01:06:21 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[12-May-2025 05:07:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[12-May-2025 05:08:31 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[12-May-2025 09:10:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Serializer\NameConverter\NameConverterInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/AdvancedNameConverterInterface.php on line 19
+[12-May-2025 09:18:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/CamelCaseToSnakeCaseNameConverter.php on line 26
+[12-May-2025 09:21:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39
+[12-May-2025 10:14:43 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/serializer/NameConverter/MetadataAwareNameConverter.php on line 39

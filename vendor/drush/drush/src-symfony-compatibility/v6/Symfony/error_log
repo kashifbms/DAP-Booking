@@ -1,0 +1,69 @@
+[19-Dec-2024 05:42:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[19-Dec-2024 05:43:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputDefinition' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php on line 19
+[19-Dec-2024 10:09:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[22-Dec-2024 21:38:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputDefinition' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php on line 19
+[22-Dec-2024 22:20:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[14-Jan-2025 02:13:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[14-Jan-2025 02:13:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputDefinition' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php on line 19
+[14-Jan-2025 02:13:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[06-Feb-2025 15:23:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[12-Feb-2025 23:28:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[13-Feb-2025 07:50:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[16-Feb-2025 13:14:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[28-Mar-2025 17:16:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[28-Mar-2025 17:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputDefinition' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php on line 19
+[28-Mar-2025 17:16:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[08-May-2025 10:31:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[08-May-2025 15:36:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[08-May-2025 21:43:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[08-May-2025 21:43:55 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/LessStrictArgvInput.php on line 286
+[08-May-2025 21:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[08-May-2025 21:44:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\BufferedOutput' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/BufferedConsoleOutput.php on line 14
+[08-May-2025 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputDefinition' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php on line 19
+[08-May-2025 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputDefinition' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php on line 19
+[08-May-2025 22:57:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputDefinition' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src-symfony-compatibility/v6/Symfony/IndiscriminateInputDefinition.php on line 19

@@ -1,0 +1,180 @@
+[08-Nov-2024 10:08:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[13-Nov-2024 10:59:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[18-Nov-2024 08:47:45 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[18-Nov-2024 10:20:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[18-Nov-2024 11:12:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[21-Nov-2024 09:27:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[21-Nov-2024 09:27:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[21-Nov-2024 09:27:54 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[21-Nov-2024 09:28:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[21-Nov-2024 09:28:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[02-Dec-2024 02:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[02-Dec-2024 02:39:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[02-Dec-2024 02:39:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[02-Dec-2024 02:39:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[02-Dec-2024 02:39:07 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[10-Jan-2025 02:23:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[10-Jan-2025 07:31:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[15-Jan-2025 05:34:33 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[15-Jan-2025 08:53:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[15-Jan-2025 21:03:02 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[25-Jan-2025 05:58:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[25-Jan-2025 05:58:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[25-Jan-2025 05:58:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[25-Jan-2025 05:58:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[25-Jan-2025 05:58:26 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[26-Jan-2025 02:52:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[26-Jan-2025 02:56:15 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[29-Jan-2025 08:30:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[29-Jan-2025 08:30:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[29-Jan-2025 08:30:33 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[29-Jan-2025 08:30:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[29-Jan-2025 08:30:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[02-Feb-2025 19:38:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[03-Feb-2025 19:53:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[03-Feb-2025 21:25:03 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[03-Feb-2025 22:55:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[05-Feb-2025 03:03:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[13-Feb-2025 12:01:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[13-Feb-2025 12:17:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[13-Feb-2025 13:00:29 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[13-Feb-2025 13:01:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[13-Feb-2025 14:12:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[14-Feb-2025 10:45:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[15-Feb-2025 12:56:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[15-Feb-2025 17:51:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[15-Feb-2025 17:57:40 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[16-Feb-2025 12:59:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[16-Feb-2025 13:07:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[17-Feb-2025 14:09:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[17-Feb-2025 23:11:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[17-Feb-2025 23:13:53 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[25-Feb-2025 18:36:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[25-Feb-2025 18:45:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[03-Mar-2025 22:49:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[03-Mar-2025 22:49:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[03-Mar-2025 22:49:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[03-Mar-2025 22:49:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[03-Mar-2025 22:50:33 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[10-Mar-2025 09:15:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[10-Mar-2025 14:37:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[13-Mar-2025 19:05:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[13-Mar-2025 19:50:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[14-Mar-2025 06:23:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[14-Mar-2025 08:23:35 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[15-Mar-2025 23:56:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[16-Mar-2025 03:10:49 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[16-Mar-2025 03:34:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[17-Mar-2025 22:35:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[18-Mar-2025 01:08:00 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[18-Mar-2025 15:15:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[24-Mar-2025 07:29:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[24-Mar-2025 07:29:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[24-Mar-2025 07:30:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[24-Mar-2025 07:30:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[24-Mar-2025 07:31:45 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[25-Mar-2025 01:58:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[28-Mar-2025 00:27:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[08-Apr-2025 01:35:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[08-Apr-2025 01:35:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[08-Apr-2025 01:35:56 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[08-Apr-2025 01:36:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[08-Apr-2025 01:36:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[19-Apr-2025 20:34:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[19-Apr-2025 20:34:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[19-Apr-2025 20:35:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[19-Apr-2025 20:35:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[19-Apr-2025 20:36:09 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[04-May-2025 02:46:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[04-May-2025 08:32:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[04-May-2025 14:32:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[04-May-2025 21:58:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[04-May-2025 23:48:56 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[06-May-2025 12:06:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[06-May-2025 13:36:08 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[06-May-2025 15:10:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[08-May-2025 20:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[08-May-2025 21:06:19 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[08-May-2025 21:06:20 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[08-May-2025 21:09:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[08-May-2025 21:09:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[08-May-2025 21:10:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[08-May-2025 21:10:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[08-May-2025 21:27:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[08-May-2025 21:27:53 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46
+[08-May-2025 21:36:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[08-May-2025 21:36:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[10-May-2025 03:16:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[10-May-2025 08:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[11-May-2025 03:50:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[12-May-2025 08:41:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/FlashBagAwareSessionInterface.php on line 19
+[12-May-2025 08:52:25 UTC] PHP Parse error:  syntax error, unexpected '{', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionUtils.php on line 29
+[12-May-2025 08:54:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionFactory.php on line 33
+[12-May-2025 09:13:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 31
+[12-May-2025 11:02:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/http-foundation/Session/Session.php on line 46

@@ -1,0 +1,312 @@
+[24-Nov-2024 01:46:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[02-Dec-2024 10:04:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[10-Dec-2024 16:03:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[18-Dec-2024 23:07:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[18-Dec-2024 23:08:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[18-Dec-2024 23:09:25 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[18-Dec-2024 23:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[18-Dec-2024 23:11:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[18-Dec-2024 23:23:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[20-Dec-2024 03:22:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[20-Dec-2024 23:51:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[21-Dec-2024 07:29:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[21-Dec-2024 13:13:20 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[23-Dec-2024 20:03:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[27-Dec-2024 13:51:16 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[03-Jan-2025 16:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[03-Jan-2025 16:14:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[03-Jan-2025 16:14:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[03-Jan-2025 16:14:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[03-Jan-2025 16:14:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[03-Jan-2025 16:14:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[03-Jan-2025 16:14:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[15-Jan-2025 10:27:34 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[18-Jan-2025 09:02:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[26-Jan-2025 00:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[26-Jan-2025 00:25:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[26-Jan-2025 03:44:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[26-Jan-2025 04:31:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[26-Jan-2025 04:49:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[26-Jan-2025 04:57:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[26-Jan-2025 05:01:49 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[06-Feb-2025 15:33:00 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[07-Feb-2025 00:52:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[07-Feb-2025 00:53:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[07-Feb-2025 00:57:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[07-Feb-2025 01:01:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[07-Feb-2025 01:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[07-Feb-2025 01:04:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[07-Feb-2025 01:05:26 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[08-Feb-2025 08:01:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[08-Feb-2025 23:29:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[13-Feb-2025 17:40:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[18-Feb-2025 20:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[26-Feb-2025 00:14:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[26-Feb-2025 00:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[26-Feb-2025 00:14:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[26-Feb-2025 00:15:10 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[26-Feb-2025 00:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[26-Feb-2025 00:15:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[26-Feb-2025 00:15:52 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[09-Mar-2025 16:53:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[09-Mar-2025 16:53:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[09-Mar-2025 16:53:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[09-Mar-2025 16:53:25 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[09-Mar-2025 16:53:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[09-Mar-2025 16:53:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[09-Mar-2025 16:53:35 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[14-Mar-2025 17:21:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[14-Mar-2025 17:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[14-Mar-2025 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[14-Mar-2025 17:45:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[14-Mar-2025 17:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[14-Mar-2025 17:45:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[14-Mar-2025 17:45:57 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[15-Mar-2025 01:50:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[15-Mar-2025 01:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[17-Mar-2025 08:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[17-Mar-2025 08:35:50 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[17-Mar-2025 08:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[17-Mar-2025 08:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[17-Mar-2025 08:35:51 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[17-Apr-2025 11:59:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[17-Apr-2025 12:00:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[17-Apr-2025 12:00:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[17-Apr-2025 12:01:08 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[17-Apr-2025 12:01:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[17-Apr-2025 12:01:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[17-Apr-2025 12:01:44 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[07-May-2025 09:33:40 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[07-May-2025 12:09:01 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[07-May-2025 14:20:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[07-May-2025 16:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[07-May-2025 18:13:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[07-May-2025 19:21:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[08-May-2025 00:45:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[08-May-2025 21:52:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[08-May-2025 21:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/MacroAutoImportNodeVisitor.php on line 29
+[08-May-2025 21:52:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[08-May-2025 21:52:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/AbstractNodeVisitor.php on line 24
+[08-May-2025 21:52:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[08-May-2025 21:52:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SandboxNodeVisitor.php on line 34
+[08-May-2025 21:52:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[08-May-2025 21:52:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/SafeAnalysisNodeVisitor.php on line 29
+[08-May-2025 21:52:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[08-May-2025 21:52:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'Twig\NodeVisitor\NodeVisitorInterface' not found in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/EscaperNodeVisitor.php on line 35
+[08-May-2025 21:53:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[08-May-2025 21:53:18 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/YieldNotReadyNodeVisitor.php on line 27
+[08-May-2025 21:55:35 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55
+[08-May-2025 21:55:36 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/twig/twig/src/NodeVisitor/OptimizerNodeVisitor.php on line 55

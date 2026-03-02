@@ -1,0 +1,200 @@
+[19-Nov-2024 02:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[19-Nov-2024 02:19:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[29-Dec-2024 10:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[29-Dec-2024 10:37:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[29-Dec-2024 10:37:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[02-Feb-2025 13:03:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[02-Feb-2025 18:56:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[04-Feb-2025 01:37:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[07-Feb-2025 08:47:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[09-Feb-2025 01:00:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[09-Feb-2025 03:28:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[09-Feb-2025 03:48:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[09-Feb-2025 03:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[09-Feb-2025 04:23:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[09-Feb-2025 07:56:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[11-Feb-2025 11:33:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[11-Feb-2025 12:36:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[11-Feb-2025 13:37:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[11-Feb-2025 14:04:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[13-Feb-2025 03:35:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[13-Feb-2025 04:32:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[13-Feb-2025 04:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[24-Feb-2025 16:55:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[24-Feb-2025 16:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[24-Feb-2025 16:55:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[24-Feb-2025 17:01:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[24-Feb-2025 17:03:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[27-Feb-2025 02:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[27-Feb-2025 02:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[27-Feb-2025 02:22:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[10-Mar-2025 03:10:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[05-Apr-2025 05:33:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[05-Apr-2025 05:33:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[05-Apr-2025 05:33:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[21-Apr-2025 21:31:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[21-Apr-2025 21:31:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[21-Apr-2025 21:31:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[21-Apr-2025 21:31:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[07-May-2025 10:06:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[07-May-2025 20:50:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[07-May-2025 22:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[08-May-2025 13:43:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[08-May-2025 19:37:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[08-May-2025 21:44:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[08-May-2025 21:44:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5
+[08-May-2025 21:45:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[08-May-2025 21:45:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/AssetFetchingException.php on line 5
+[08-May-2025 21:46:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[08-May-2025 21:46:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5
+[10-May-2025 01:47:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/mpdf/mpdf/src/Exception/FontException.php on line 5

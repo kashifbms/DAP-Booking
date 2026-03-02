@@ -1,0 +1,880 @@
+[08-Jun-2024 05:49:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[08-Jun-2024 05:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[08-Jun-2024 05:49:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[08-Jun-2024 05:50:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[08-Jun-2024 05:51:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[08-Jun-2024 05:52:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[08-Jun-2024 05:52:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[08-Jun-2024 05:52:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[08-Jun-2024 06:00:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/New/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[13-Jun-2024 14:22:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[13-Jun-2024 14:23:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[13-Jun-2024 14:23:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[13-Jun-2024 14:24:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[13-Jun-2024 14:25:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[13-Jun-2024 14:25:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[13-Jun-2024 14:26:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[13-Jun-2024 14:26:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[13-Jun-2024 14:26:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[13-Jul-2024 07:24:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[13-Jul-2024 08:08:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[13-Jul-2024 13:55:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[13-Jul-2024 18:26:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[13-Jul-2024 18:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[13-Jul-2024 20:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[13-Jul-2024 23:49:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[13-Jul-2024 23:54:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[14-Jul-2024 01:15:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[05-Aug-2024 06:32:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[05-Aug-2024 06:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[05-Aug-2024 06:32:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[05-Aug-2024 06:32:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[05-Aug-2024 06:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[05-Aug-2024 06:33:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[05-Aug-2024 06:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[05-Aug-2024 06:33:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[05-Aug-2024 06:34:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[10-Aug-2024 10:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[10-Aug-2024 10:10:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[10-Aug-2024 10:10:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[10-Aug-2024 10:11:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[10-Aug-2024 10:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[10-Aug-2024 10:11:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[10-Aug-2024 10:11:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[10-Aug-2024 10:11:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[10-Aug-2024 10:11:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[29-Aug-2024 23:57:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[30-Aug-2024 03:12:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[30-Aug-2024 03:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[30-Aug-2024 06:48:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[30-Aug-2024 08:29:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[04-Sep-2024 13:51:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[04-Sep-2024 15:05:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[04-Sep-2024 21:05:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[05-Sep-2024 00:03:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[07-Sep-2024 01:27:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[07-Sep-2024 02:30:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[07-Sep-2024 03:14:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[07-Sep-2024 05:45:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[07-Sep-2024 06:33:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[10-Sep-2024 10:19:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[12-Sep-2024 20:31:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[12-Sep-2024 21:39:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[12-Sep-2024 21:53:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[12-Sep-2024 22:35:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[12-Sep-2024 23:25:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[13-Sep-2024 03:05:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[13-Sep-2024 07:22:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[13-Sep-2024 07:29:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[13-Sep-2024 07:56:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[18-Sep-2024 07:18:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[18-Sep-2024 22:54:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[19-Sep-2024 12:39:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[19-Sep-2024 13:41:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[19-Sep-2024 13:41:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[19-Sep-2024 13:41:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[19-Sep-2024 13:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[19-Sep-2024 13:41:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[19-Sep-2024 13:41:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[19-Sep-2024 13:41:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[19-Sep-2024 13:41:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[19-Sep-2024 13:42:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[26-Sep-2024 17:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[13-Nov-2024 06:53:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[13-Nov-2024 08:45:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[13-Nov-2024 12:12:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[13-Nov-2024 15:58:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[13-Nov-2024 20:06:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[13-Nov-2024 21:26:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[13-Nov-2024 23:57:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[18-Nov-2024 10:15:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[18-Nov-2024 12:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[21-Nov-2024 13:21:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[21-Nov-2024 13:21:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[21-Nov-2024 13:21:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[21-Nov-2024 13:21:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[21-Nov-2024 13:21:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[21-Nov-2024 13:21:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[21-Nov-2024 13:21:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[21-Nov-2024 13:21:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[21-Nov-2024 13:21:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[08-Dec-2024 12:27:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[09-Dec-2024 07:56:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[09-Dec-2024 08:25:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[09-Dec-2024 13:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[17-Dec-2024 13:44:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[10-Jan-2025 02:02:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[10-Jan-2025 02:27:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[10-Jan-2025 04:12:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[10-Jan-2025 05:36:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[10-Jan-2025 06:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[10-Jan-2025 06:58:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[10-Jan-2025 09:10:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[11-Jan-2025 22:33:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[11-Jan-2025 22:33:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[11-Jan-2025 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[11-Jan-2025 22:33:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[11-Jan-2025 22:33:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[11-Jan-2025 22:33:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[11-Jan-2025 22:33:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[11-Jan-2025 22:33:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[11-Jan-2025 22:33:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[15-Jan-2025 15:01:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[15-Jan-2025 15:54:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[29-Jan-2025 12:21:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[29-Jan-2025 12:22:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[29-Jan-2025 12:22:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[29-Jan-2025 12:22:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[29-Jan-2025 12:22:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[29-Jan-2025 12:22:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[29-Jan-2025 12:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[29-Jan-2025 12:22:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[29-Jan-2025 12:22:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[08-Feb-2025 21:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[08-Feb-2025 22:41:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[09-Feb-2025 04:23:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[13-Feb-2025 15:19:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[10-Mar-2025 08:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[10-Mar-2025 09:26:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[10-Mar-2025 11:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[10-Mar-2025 15:33:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[10-Mar-2025 16:50:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[10-Mar-2025 18:37:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[10-Mar-2025 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[13-Mar-2025 17:51:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[13-Mar-2025 18:15:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[13-Mar-2025 18:47:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[13-Mar-2025 18:53:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[13-Mar-2025 18:58:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[13-Mar-2025 19:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[13-Mar-2025 19:12:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[13-Mar-2025 19:30:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[15-Mar-2025 20:59:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[16-Mar-2025 00:17:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[17-Mar-2025 21:00:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[17-Mar-2025 21:34:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[17-Mar-2025 22:07:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[18-Mar-2025 00:03:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[21-Mar-2025 07:02:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[25-Mar-2025 02:27:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[26-Mar-2025 12:01:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[26-Mar-2025 12:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[26-Mar-2025 12:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[26-Mar-2025 12:01:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[26-Mar-2025 12:01:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[26-Mar-2025 12:01:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[26-Mar-2025 12:01:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[26-Mar-2025 12:01:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[26-Mar-2025 12:01:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[28-Mar-2025 00:36:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[08-Apr-2025 04:46:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[08-Apr-2025 04:47:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[08-Apr-2025 04:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[08-Apr-2025 04:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[08-Apr-2025 04:47:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[08-Apr-2025 04:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[08-Apr-2025 04:47:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[08-Apr-2025 04:47:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[08-Apr-2025 04:47:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[08-May-2025 05:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[08-May-2025 07:44:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[08-May-2025 08:24:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19
+[08-May-2025 09:42:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[08-May-2025 10:48:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[08-May-2025 14:14:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[08-May-2025 16:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[08-May-2025 17:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[08-May-2025 18:06:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[08-May-2025 21:52:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[08-May-2025 21:52:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[08-May-2025 21:52:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[08-May-2025 21:52:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[08-May-2025 21:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[08-May-2025 21:52:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[08-May-2025 21:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[08-May-2025 21:52:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[08-May-2025 21:52:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[08-May-2025 21:52:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[08-May-2025 21:52:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[08-May-2025 21:52:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[08-May-2025 21:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[08-May-2025 21:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[08-May-2025 21:53:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[08-May-2025 21:53:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[08-May-2025 22:53:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[08-May-2025 22:53:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[09-May-2025 20:28:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[09-May-2025 20:28:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[12-May-2025 16:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[12-May-2025 16:53:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[12-May-2025 17:54:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[12-May-2025 20:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\StackBasedTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FilesystemStack.php on line 42
+[12-May-2025 21:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\TmpDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/WorkDir.php on line 26
+[12-May-2025 21:18:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CopyDir.php on line 20
+[12-May-2025 21:18:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\BaseTask' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/BaseDir.php on line 8
+[12-May-2025 21:21:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/FlattenDir.php on line 69
+[12-May-2025 21:24:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/CleanDir.php on line 19
+[12-May-2025 21:28:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/TmpDir.php on line 30
+[12-May-2025 21:31:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/DeleteDir.php on line 19
+[12-May-2025 21:37:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Robo\Task\Filesystem\BaseDir' not found in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/robo/src/Task/Filesystem/MirrorDir.php on line 19

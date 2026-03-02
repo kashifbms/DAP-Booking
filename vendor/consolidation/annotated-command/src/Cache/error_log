@@ -1,0 +1,148 @@
+[13-Nov-2024 19:06:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[18-Nov-2024 08:08:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[21-Nov-2024 12:22:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[21-Nov-2024 12:22:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[16-Dec-2024 16:43:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[16-Dec-2024 18:58:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[18-Dec-2024 19:27:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[19-Dec-2024 07:42:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[22-Dec-2024 10:42:57 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[22-Dec-2024 10:42:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[10-Jan-2025 12:49:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[15-Jan-2025 14:53:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[29-Jan-2025 10:24:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[29-Jan-2025 10:24:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[05-Feb-2025 04:00:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[06-Feb-2025 13:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[17-Feb-2025 16:48:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[17-Feb-2025 16:48:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[20-Feb-2025 03:59:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[10-Mar-2025 11:29:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[13-Mar-2025 19:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[13-Mar-2025 19:54:49 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[15-Mar-2025 15:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[06-Apr-2025 20:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[06-Apr-2025 20:05:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[08-Apr-2025 03:25:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[08-Apr-2025 03:25:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[07-May-2025 03:40:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[07-May-2025 05:12:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[08-May-2025 21:45:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[08-May-2025 21:45:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[08-May-2025 21:47:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[08-May-2025 21:47:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[10-May-2025 02:12:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[11-May-2025 04:37:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/NullCache.php on line 7
+[12-May-2025 13:20:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7
+[12-May-2025 17:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\Cache\SimpleCacheInterface' not found in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/consolidation/annotated-command/src/Cache/CacheWrapper.php on line 7

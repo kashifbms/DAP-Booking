@@ -1,0 +1,112 @@
+[13-Nov-2024 07:08:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[21-Nov-2024 11:04:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[08-Dec-2024 04:31:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[09-Jan-2025 12:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[10-Jan-2025 07:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[29-Jan-2025 09:19:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[04-Feb-2025 05:23:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[07-Feb-2025 12:57:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[12-Feb-2025 21:13:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[13-Feb-2025 03:56:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[15-Feb-2025 14:48:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[04-Mar-2025 03:52:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[10-Mar-2025 17:06:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[12-Mar-2025 20:01:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[13-Mar-2025 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[17-Mar-2025 21:52:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[21-Mar-2025 06:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[21-Mar-2025 08:03:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[25-Mar-2025 02:06:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[28-Mar-2025 00:28:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[08-Apr-2025 02:19:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[19-Apr-2025 18:31:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[30-Apr-2025 04:46:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[04-May-2025 16:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[08-May-2025 21:30:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[08-May-2025 21:30:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[10-May-2025 03:04:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[10-May-2025 05:32:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39

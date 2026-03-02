@@ -1,0 +1,132 @@
+[19-Dec-2024 00:51:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[19-Dec-2024 03:37:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[19-Dec-2024 03:46:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[21-Dec-2024 02:03:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[21-Dec-2024 07:04:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[21-Dec-2024 07:57:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[25-Dec-2024 01:16:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[25-Dec-2024 01:16:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[25-Dec-2024 01:16:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[06-Feb-2025 16:09:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[07-Feb-2025 13:54:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[08-Feb-2025 07:10:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[21-Feb-2025 09:46:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[21-Feb-2025 09:46:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[21-Feb-2025 09:46:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[10-Mar-2025 03:09:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[10-Mar-2025 03:09:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[21-Mar-2025 08:43:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[21-Mar-2025 08:43:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[21-Mar-2025 08:43:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[19-Apr-2025 18:58:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[19-Apr-2025 18:59:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[19-Apr-2025 18:59:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[07-May-2025 09:33:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[07-May-2025 09:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[07-May-2025 10:49:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[08-May-2025 21:07:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[08-May-2025 21:07:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10
+[08-May-2025 21:34:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[08-May-2025 21:34:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushHelpCommand.php on line 21
+[08-May-2025 21:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[08-May-2025 21:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/DrushCommand.php on line 19
+[09-May-2025 09:58:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Shell' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Psysh/Shell.php on line 10

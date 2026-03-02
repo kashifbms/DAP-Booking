@@ -1,0 +1,658 @@
+[08-Nov-2024 02:35:09 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[08-Nov-2024 03:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[08-Nov-2024 05:49:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[08-Nov-2024 07:55:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[08-Nov-2024 09:28:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[08-Nov-2024 13:58:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[08-Nov-2024 15:12:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[08-Nov-2024 15:37:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[08-Nov-2024 16:14:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[08-Nov-2024 17:52:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[08-Nov-2024 18:42:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[08-Nov-2024 21:56:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[16-Nov-2024 16:46:17 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[16-Nov-2024 16:46:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[16-Nov-2024 16:46:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[16-Nov-2024 16:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[16-Nov-2024 16:46:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[16-Nov-2024 16:46:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[16-Nov-2024 16:46:23 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[16-Nov-2024 16:46:24 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[16-Nov-2024 16:46:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[16-Nov-2024 16:46:31 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[16-Nov-2024 16:46:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[16-Nov-2024 16:46:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[21-Nov-2024 10:31:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[21-Nov-2024 10:31:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[21-Nov-2024 10:32:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[21-Nov-2024 10:32:11 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[21-Nov-2024 10:32:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[21-Nov-2024 10:32:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[21-Nov-2024 10:32:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[21-Nov-2024 10:32:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[21-Nov-2024 10:32:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[21-Nov-2024 10:32:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[21-Nov-2024 10:32:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[21-Nov-2024 10:33:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[21-Nov-2024 12:19:50 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[21-Nov-2024 12:29:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[23-Nov-2024 22:55:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[23-Nov-2024 22:59:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[24-Nov-2024 19:50:36 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[25-Nov-2024 15:37:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[25-Nov-2024 15:39:23 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[25-Nov-2024 15:40:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[26-Nov-2024 10:58:54 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[26-Nov-2024 11:06:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[26-Nov-2024 11:12:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[26-Nov-2024 11:14:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[02-Dec-2024 00:45:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[03-Dec-2024 15:14:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[03-Dec-2024 15:15:31 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[03-Dec-2024 15:16:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[06-Dec-2024 03:40:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[08-Dec-2024 01:38:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[08-Dec-2024 01:43:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[08-Dec-2024 02:01:10 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[10-Dec-2024 11:15:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[10-Dec-2024 11:23:19 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[10-Dec-2024 11:24:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[12-Dec-2024 21:34:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[13-Dec-2024 01:14:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[16-Dec-2024 06:45:23 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[16-Dec-2024 06:46:03 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[16-Dec-2024 06:48:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[16-Dec-2024 06:55:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[17-Dec-2024 04:52:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[17-Dec-2024 21:02:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[17-Dec-2024 21:14:53 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[20-Dec-2024 18:23:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[23-Dec-2024 03:31:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[23-Dec-2024 03:35:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[23-Dec-2024 03:46:46 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[23-Dec-2024 03:59:05 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[23-Dec-2024 04:10:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[25-Dec-2024 14:15:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[25-Dec-2024 17:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[28-Dec-2024 12:45:51 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[30-Dec-2024 16:34:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[01-Jan-2025 14:47:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[01-Jan-2025 20:58:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[09-Jan-2025 23:50:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[10-Jan-2025 00:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[10-Jan-2025 00:21:43 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[10-Jan-2025 03:11:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[10-Jan-2025 04:20:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[10-Jan-2025 10:01:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[10-Jan-2025 10:22:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[10-Jan-2025 10:41:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[10-Jan-2025 14:03:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[10-Jan-2025 14:04:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[10-Jan-2025 14:50:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[10-Jan-2025 15:54:46 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[18-Jan-2025 16:38:08 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[18-Jan-2025 16:46:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[19-Jan-2025 13:38:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[22-Jan-2025 00:33:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[22-Jan-2025 19:49:41 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[22-Jan-2025 19:56:11 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[22-Jan-2025 20:02:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[23-Jan-2025 16:40:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[23-Jan-2025 16:40:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[23-Jan-2025 16:40:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[23-Jan-2025 16:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[23-Jan-2025 16:40:47 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[23-Jan-2025 16:40:47 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[23-Jan-2025 16:40:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[23-Jan-2025 16:40:53 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[23-Jan-2025 16:41:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[25-Jan-2025 05:56:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[25-Jan-2025 05:56:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[25-Jan-2025 05:56:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[26-Jan-2025 23:33:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[27-Jan-2025 06:17:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[27-Jan-2025 07:47:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[27-Jan-2025 13:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[28-Jan-2025 09:13:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[28-Jan-2025 12:59:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[28-Jan-2025 13:35:05 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[28-Jan-2025 13:35:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[28-Jan-2025 13:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[28-Jan-2025 13:39:35 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[28-Jan-2025 13:46:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[28-Jan-2025 13:53:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[28-Jan-2025 14:02:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[28-Jan-2025 17:28:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[28-Jan-2025 18:57:36 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[29-Jan-2025 04:48:43 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[29-Jan-2025 08:07:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[29-Jan-2025 08:07:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[29-Jan-2025 08:07:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[29-Jan-2025 08:07:20 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[29-Jan-2025 08:07:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[29-Jan-2025 08:07:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[29-Jan-2025 08:07:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[29-Jan-2025 08:07:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[29-Jan-2025 08:07:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[29-Jan-2025 08:07:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[29-Jan-2025 08:07:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[29-Jan-2025 08:08:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[29-Jan-2025 11:29:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[29-Jan-2025 13:53:42 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[29-Jan-2025 20:55:22 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[30-Jan-2025 04:05:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[30-Jan-2025 04:06:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[30-Jan-2025 04:12:09 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[30-Jan-2025 05:05:11 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[30-Jan-2025 05:23:54 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[01-Feb-2025 15:06:24 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[01-Feb-2025 22:10:49 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[07-Feb-2025 06:50:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[07-Feb-2025 06:56:20 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[08-Feb-2025 02:20:24 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[13-Feb-2025 01:52:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[13-Feb-2025 01:53:14 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[13-Feb-2025 01:53:34 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[13-Feb-2025 01:53:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[13-Feb-2025 01:54:26 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[13-Feb-2025 01:54:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[13-Feb-2025 01:54:50 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[13-Feb-2025 01:55:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[13-Feb-2025 01:57:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[13-Feb-2025 01:58:36 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[13-Feb-2025 01:58:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[13-Feb-2025 01:59:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[13-Feb-2025 01:59:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[13-Feb-2025 02:00:05 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[13-Feb-2025 02:02:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[13-Feb-2025 02:02:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[13-Feb-2025 02:03:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[13-Feb-2025 02:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[13-Feb-2025 02:04:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[13-Feb-2025 02:04:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[13-Feb-2025 02:05:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[13-Feb-2025 03:26:59 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[13-Feb-2025 04:05:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[13-Feb-2025 04:06:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[14-Feb-2025 10:38:48 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[15-Feb-2025 01:59:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[15-Feb-2025 02:04:08 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[15-Feb-2025 02:09:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[15-Feb-2025 02:27:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[15-Feb-2025 02:30:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[15-Feb-2025 02:32:29 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[15-Feb-2025 02:33:30 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[15-Feb-2025 02:38:32 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[15-Feb-2025 02:40:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[15-Feb-2025 02:41:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[15-Feb-2025 15:31:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[15-Feb-2025 15:33:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[16-Feb-2025 23:08:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[18-Feb-2025 14:08:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[18-Feb-2025 14:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[18-Feb-2025 14:12:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[18-Feb-2025 14:17:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[21-Feb-2025 19:11:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[21-Feb-2025 19:14:01 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[23-Feb-2025 09:15:14 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[23-Feb-2025 09:16:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[23-Feb-2025 09:27:07 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[23-Feb-2025 09:32:40 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[23-Feb-2025 09:35:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[23-Feb-2025 17:06:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[23-Feb-2025 17:07:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[23-Feb-2025 17:08:15 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[23-Feb-2025 17:08:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[23-Feb-2025 17:08:48 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[23-Feb-2025 17:09:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[23-Feb-2025 17:09:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[23-Feb-2025 17:09:48 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[23-Feb-2025 17:10:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[23-Feb-2025 17:12:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[23-Feb-2025 17:12:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[23-Feb-2025 17:12:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[24-Feb-2025 16:37:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[24-Feb-2025 16:37:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[24-Feb-2025 16:37:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[24-Feb-2025 16:38:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[24-Feb-2025 16:39:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[24-Feb-2025 16:39:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[24-Feb-2025 16:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[24-Feb-2025 16:41:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[24-Feb-2025 16:41:29 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[24-Feb-2025 16:41:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[24-Feb-2025 16:42:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[24-Feb-2025 16:42:52 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[24-Feb-2025 16:43:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[24-Feb-2025 17:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[06-Mar-2025 14:51:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[06-Mar-2025 14:51:47 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[06-Mar-2025 14:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[06-Mar-2025 14:52:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[06-Mar-2025 14:52:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[06-Mar-2025 14:52:48 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[06-Mar-2025 14:53:31 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[06-Mar-2025 14:54:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[06-Mar-2025 14:56:12 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[06-Mar-2025 14:56:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[06-Mar-2025 14:56:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[10-Mar-2025 04:49:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[10-Mar-2025 06:28:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[10-Mar-2025 07:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[10-Mar-2025 08:34:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[10-Mar-2025 08:42:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[10-Mar-2025 09:36:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[10-Mar-2025 10:31:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[10-Mar-2025 14:52:12 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[10-Mar-2025 15:10:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[10-Mar-2025 16:01:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[10-Mar-2025 17:04:47 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[10-Mar-2025 19:57:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[13-Mar-2025 17:36:55 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[13-Mar-2025 18:13:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[13-Mar-2025 18:40:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[13-Mar-2025 19:16:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[13-Mar-2025 19:20:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[13-Mar-2025 19:40:38 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[13-Mar-2025 19:44:03 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[13-Mar-2025 19:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[13-Mar-2025 19:56:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[13-Mar-2025 20:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[13-Mar-2025 20:16:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[13-Mar-2025 20:23:06 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[14-Mar-2025 14:52:07 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[14-Mar-2025 14:52:27 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[14-Mar-2025 14:52:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[14-Mar-2025 14:53:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[14-Mar-2025 14:53:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[14-Mar-2025 14:54:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[14-Mar-2025 14:54:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[14-Mar-2025 14:54:57 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[14-Mar-2025 14:56:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[14-Mar-2025 14:57:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[14-Mar-2025 14:59:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[14-Mar-2025 15:00:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[14-Mar-2025 19:08:28 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[14-Mar-2025 19:09:41 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[14-Mar-2025 19:25:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[17-Mar-2025 21:22:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[17-Mar-2025 22:34:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[17-Mar-2025 23:28:46 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[07-Apr-2025 23:15:30 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[07-Apr-2025 23:15:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[07-Apr-2025 23:15:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[07-Apr-2025 23:15:51 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[07-Apr-2025 23:15:55 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[07-Apr-2025 23:16:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[07-Apr-2025 23:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[07-Apr-2025 23:16:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[07-Apr-2025 23:16:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[07-Apr-2025 23:16:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[07-Apr-2025 23:16:36 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[07-Apr-2025 23:16:45 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[16-Apr-2025 21:44:24 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[16-Apr-2025 21:44:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[16-Apr-2025 21:44:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[16-Apr-2025 21:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[16-Apr-2025 21:45:45 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[16-Apr-2025 21:46:18 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[16-Apr-2025 21:46:42 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[16-Apr-2025 21:47:44 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[16-Apr-2025 21:49:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[16-Apr-2025 21:50:51 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[16-Apr-2025 21:52:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[16-Apr-2025 21:52:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[18-Apr-2025 15:59:25 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[18-Apr-2025 16:40:15 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[18-Apr-2025 17:10:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[22-Apr-2025 17:43:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[28-Apr-2025 13:58:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[30-Apr-2025 01:30:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[30-Apr-2025 01:33:10 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[30-Apr-2025 01:37:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[30-Apr-2025 01:37:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[30-Apr-2025 01:38:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[30-Apr-2025 01:40:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[30-Apr-2025 01:40:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[30-Apr-2025 01:44:13 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[30-Apr-2025 01:45:38 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[30-Apr-2025 01:48:24 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[30-Apr-2025 01:51:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[30-Apr-2025 01:55:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[30-Apr-2025 05:46:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[30-Apr-2025 10:20:51 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[30-Apr-2025 11:50:50 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[01-May-2025 06:01:28 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[01-May-2025 13:20:58 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[02-May-2025 04:50:25 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[02-May-2025 06:36:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[02-May-2025 13:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[03-May-2025 06:30:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[03-May-2025 07:16:05 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[03-May-2025 07:33:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[03-May-2025 07:34:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[03-May-2025 08:16:21 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[03-May-2025 08:27:17 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[03-May-2025 09:52:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[03-May-2025 11:11:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[03-May-2025 17:26:48 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[03-May-2025 19:43:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[03-May-2025 19:55:53 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[03-May-2025 23:10:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[04-May-2025 06:39:53 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[04-May-2025 12:59:02 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[05-May-2025 14:28:40 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[05-May-2025 16:15:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[08-May-2025 20:48:13 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[08-May-2025 20:48:14 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[08-May-2025 20:49:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[08-May-2025 20:49:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[08-May-2025 20:56:18 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[08-May-2025 20:56:19 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[08-May-2025 21:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[08-May-2025 21:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[08-May-2025 21:09:14 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[08-May-2025 21:09:15 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[08-May-2025 21:27:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[08-May-2025 21:27:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[08-May-2025 21:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[08-May-2025 21:32:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[08-May-2025 21:32:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[08-May-2025 21:32:43 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[08-May-2025 21:35:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[08-May-2025 21:35:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[08-May-2025 21:46:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[08-May-2025 21:46:58 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[09-May-2025 23:21:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[10-May-2025 01:58:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[10-May-2025 05:20:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Container.php on line 133
+[10-May-2025 05:42:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[10-May-2025 06:15:55 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[10-May-2025 06:47:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[10-May-2025 06:58:56 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[10-May-2025 07:35:00 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47
+[10-May-2025 09:21:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[10-May-2025 09:56:17 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[10-May-2025 09:59:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[10-May-2025 12:09:16 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[11-May-2025 14:21:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ExpressionLanguageProvider.php on line 35
+[11-May-2025 14:23:51 UTC] PHP Parse error:  syntax error, unexpected 'throw' (T_THROW) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/EnvVarProcessor.php on line 104
+[11-May-2025 14:30:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerInterface.php on line 71
+[11-May-2025 14:31:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Reference' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TypedReference.php on line 19
+[11-May-2025 14:31:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\ContainerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/TaggedContainerInterface.php on line 19
+[11-May-2025 14:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\DependencyInjection\trigger_deprecation() in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerAwareTrait.php on line 14
+[11-May-2025 14:46:36 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ContainerBuilder.php on line 263
+[11-May-2025 14:47:37 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ServiceLocator.php on line 74
+[11-May-2025 14:55:57 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Definition.php on line 29
+[11-May-2025 15:01:08 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/Alias.php on line 43
+[11-May-2025 15:03:12 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/dreamland/public_html/booking/vendor/symfony/dependency-injection/ChildDefinition.php on line 47

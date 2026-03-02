@@ -1,0 +1,165 @@
+[08-Nov-2024 08:43:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[13-Nov-2024 19:26:40 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[18-Nov-2024 04:35:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[18-Nov-2024 08:48:02 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[21-Nov-2024 11:07:33 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[21-Nov-2024 11:07:37 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[21-Nov-2024 11:07:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[21-Nov-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[02-Dec-2024 19:36:59 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[02-Dec-2024 19:46:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[03-Dec-2024 15:16:30 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[08-Dec-2024 04:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[08-Dec-2024 04:31:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[08-Dec-2024 04:31:21 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[08-Dec-2024 04:31:22 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[19-Dec-2024 11:52:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[10-Jan-2025 02:42:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[10-Jan-2025 05:07:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[15-Jan-2025 08:52:35 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[15-Jan-2025 19:50:19 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[29-Jan-2025 09:21:55 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[29-Jan-2025 09:22:00 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[29-Jan-2025 09:22:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[29-Jan-2025 09:22:08 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[30-Jan-2025 05:08:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[30-Jan-2025 05:08:59 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[30-Jan-2025 12:00:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[30-Jan-2025 19:04:52 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[13-Feb-2025 03:40:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[13-Feb-2025 05:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[13-Feb-2025 05:41:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[13-Feb-2025 06:23:38 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[16-Feb-2025 05:34:20 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[16-Feb-2025 05:35:18 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[16-Feb-2025 05:37:13 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[16-Feb-2025 05:39:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[04-Mar-2025 03:53:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[04-Mar-2025 03:54:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[04-Mar-2025 03:54:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[04-Mar-2025 03:54:55 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[10-Mar-2025 18:13:41 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[10-Mar-2025 22:55:24 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[12-Mar-2025 20:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[12-Mar-2025 20:01:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[12-Mar-2025 20:01:39 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[12-Mar-2025 20:01:41 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[13-Mar-2025 17:31:46 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[13-Mar-2025 18:37:19 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[13-Mar-2025 19:41:27 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[14-Mar-2025 06:48:04 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[15-Mar-2025 20:11:28 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[15-Mar-2025 21:36:36 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[17-Mar-2025 23:25:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[21-Mar-2025 08:04:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[21-Mar-2025 08:05:01 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[21-Mar-2025 08:05:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[21-Mar-2025 08:05:48 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[24-Mar-2025 18:18:16 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[08-Apr-2025 02:22:00 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[08-Apr-2025 02:22:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[08-Apr-2025 02:22:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[08-Apr-2025 02:22:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[10-Apr-2025 12:20:30 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[13-Apr-2025 09:20:50 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[19-Apr-2025 17:52:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[19-Apr-2025 17:53:26 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[19-Apr-2025 17:53:38 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[19-Apr-2025 17:54:07 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[30-Apr-2025 05:22:31 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[30-Apr-2025 05:23:44 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[30-Apr-2025 05:25:06 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[30-Apr-2025 05:26:27 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[04-May-2025 03:31:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[04-May-2025 07:31:56 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[04-May-2025 08:07:29 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[04-May-2025 20:32:53 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[05-May-2025 07:20:17 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[05-May-2025 07:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[05-May-2025 14:29:04 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[05-May-2025 22:14:33 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[08-May-2025 17:20:09 UTC] PHP Fatal error:  Cannot use ::class with dynamic class name in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 127
+[08-May-2025 17:24:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[08-May-2025 21:27:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[08-May-2025 21:27:22 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[08-May-2025 23:04:18 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[08-May-2025 23:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[09-May-2025 00:23:43 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26
+[09-May-2025 07:31:53 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/Data.php on line 24
+[10-May-2025 10:12:42 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\VarDumper\Cloner\ClonerInterface' not found in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[10-May-2025 11:56:58 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/dreamland/public_html/booking/vendor/symfony/var-dumper/Cloner/DumperInterface.php on line 26

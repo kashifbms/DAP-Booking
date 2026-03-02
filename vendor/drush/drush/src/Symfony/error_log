@@ -1,0 +1,96 @@
+[18-Dec-2024 20:17:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[19-Dec-2024 02:13:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[21-Dec-2024 11:15:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[27-Dec-2024 11:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[27-Dec-2024 11:11:47 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[05-Feb-2025 07:51:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[06-Feb-2025 19:57:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[21-Feb-2025 09:47:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[21-Feb-2025 09:47:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[08-Mar-2025 15:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[10-Mar-2025 03:08:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[13-Mar-2025 01:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[21-Mar-2025 08:37:45 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[21-Mar-2025 08:38:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[19-Apr-2025 19:14:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[19-Apr-2025 19:15:01 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[07-May-2025 16:22:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[07-May-2025 19:21:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[08-May-2025 21:27:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[08-May-2025 21:28:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
+[08-May-2025 21:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[08-May-2025 21:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[09-May-2025 13:36:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/BootstrapCompilerPass.php on line 11
+[11-May-2025 08:26:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'Consolidation\AnnotatedCommand\ParameterInjector' not found in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dreamland/public_html/booking/vendor/drush/drush/src/Symfony/DrushStyleInjector.php on line 11
