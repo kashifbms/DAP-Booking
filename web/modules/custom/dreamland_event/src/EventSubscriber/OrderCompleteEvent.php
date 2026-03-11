@@ -589,18 +589,17 @@ class OrderCompleteEvent implements EventSubscriberInterface
           <div style="font-size:14px; margin-top:3px;">FOOD VOUCHER</div>
         </div>
 
-        <div style="text-align:center; margin-top:10px; font-size:26px; font-weight:bold;">
+        <div style="text-align:center; margin-top:5px; font-size:26px; font-weight:bold;">
           AED ' . $price_formatted . '
         </div>
 
-        <div style="margin-top:15px; font-size:14px;">
-          <div style="font-weight:bold; margin-bottom:5px;">Meal Options (Choose any one):</div>
+        <div style="margin-top:5px; font-size:14px;">
           <div>' . (!empty($ticket['body']) ? $ticket['body'] : '') . '</div>
         </div>
 
-        <div style="margin-top:25px;">
-          <h3 style="font-size:14px; margin-bottom:5px;"><u>Terms &amp; Conditions</u></h3>
-          <ul>
+        <div style="margin-top:10px;">
+          <h3 style="font-size:13px; margin-bottom:5px;"><u>Terms &amp; Conditions</u></h3>
+          <ul style="font-size:12px;">
     <li>
        Your online food voucher will be exchanged for a physical meal voucher at the park entrance. Please present physical meal
 voucher at the chosen outlet to redeem your selected meal.
