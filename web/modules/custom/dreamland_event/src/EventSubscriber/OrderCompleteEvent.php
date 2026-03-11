@@ -65,7 +65,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
    *
    * Uses a different header layout than the ticket PDF.
    */
-  public static function generateFoodPdf2($html, $file)
+  public static function generateFoodPdf2($html, $file, $fullName, $orderDate, $orderNumber, $barcodeImg)
   {
     $mpdf = new \Mpdf\Mpdf([
       'margin_left' => 10,
@@ -77,19 +77,26 @@ class OrderCompleteEvent implements EventSubscriberInterface
       'mode' => 'c',
     ]);
 
-    // Custom header for Food voucher PDF.
-    $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0">
-    <thead>
-    <tr>
-      <th style="text-align:left;">
-        <img src="https://booking.dreamlanduae.com/sites/default/files/logo_0.png" width="120">
-      </th>
-      <th style="text-align:center;">
-        <img src="' . $file . '" width="100">
-      </th>
-      <th style="text-align:right;"></th>
-    </tr>
-    </thead>
+    // Custom header for Food voucher PDF: logo left, QR center, info + barcode right.
+    $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0" style="border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="text-align:left; width:33%;">
+            <img src="https://booking.dreamlanduae.com/sites/default/files/logo_0.png" width="120">
+          </th>
+          <th style="text-align:center; width:34%;">
+            <img src="' . $file . '" width="80">
+          </th>
+          <th style="text-align:right; width:33%; font-size:11px;">
+            <div><strong>Guest Name:</strong> ' . htmlspecialchars($fullName) . '</div>
+            <div><strong>Issue Date:</strong> ' . date("d/m/Y", strtotime($orderDate)) . '</div>
+            <div><strong>Order Number:</strong> ' . htmlspecialchars($orderNumber) . '</div>
+            <div style="margin-top:6px;">
+              <img src="' . $barcodeImg . '" height="40">
+            </div>
+          </th>
+        </tr>
+      </thead>
     </table>');
 
     $mpdf->SetDisplayMode('fullpage');
@@ -434,7 +441,11 @@ class OrderCompleteEvent implements EventSubscriberInterface
           $options->drawLightModules = false;
           $out  = (new QRCode($options))->render($tractionId);
         }
-        $food_pdf_content = $this->generateFoodPdf2($foodHtml, $out);
+        // Barcode image for order number, used in the header on the right.
+        $foodBarcodeGenerator = new \Picqer\Barcode\BarcodeGeneratorPNG();
+        $foodBarcodeImg = 'data:image/png;base64,' . base64_encode($foodBarcodeGenerator->getBarcode($order_number, $foodBarcodeGenerator::TYPE_CODE_128));
+
+        $food_pdf_content = $this->generateFoodPdf2($foodHtml, $out, $fullName, $order_date, $order_number, $foodBarcodeImg);
         $food_file_name = "Order_" . $order_number . "_food.pdf";
         if ($this->fileSystem->prepareDirectory($private_file_path, FileSystemInterface::CREATE_DIRECTORY)) {
           $this->fileSystem->saveData($food_pdf_content, $private_file_path . "/" . $food_file_name, FileSystemInterface::EXISTS_REPLACE);
@@ -555,7 +566,6 @@ class OrderCompleteEvent implements EventSubscriberInterface
    */
   public static function getFoodPDFBody($key, $fullName, $ticket, $size)
   {
-    $generator = new \Picqer\Barcode\BarcodeGeneratorPNG();
     $price_float = (float)$ticket['price'];
     $price_formatted = number_format($price_float, 2);
     $pageBreak = "";
@@ -563,30 +573,14 @@ class OrderCompleteEvent implements EventSubscriberInterface
       $pageBreak = 'style="page-break-before: always"';
     }
 
-    $barcodeImg = 'data:image/png;base64,' . base64_encode($generator->getBarcode($ticket['orderNumber'], $generator::TYPE_CODE_128));
-
     $imageUrl = '';
     if (!empty($ticket['image_uri'])) {
       $imageUrl = \Drupal::service('file_url_generator')->generateAbsoluteString($ticket['image_uri']);
     }
 
     $html = '<section ' . $pageBreak . '>
-      <div style="margin-top:20px;">
-        <table style="width:100%; border-collapse:collapse; border-spacing:0;">
-          <tr>
-            <td style="width:60%;"></td>
-            <td style="width:40%; text-align:right; font-size:12px;">
-              <div><strong>Guest Name:</strong> ' . $fullName . '</div>
-              <div><strong>Issue Date:</strong> ' . date("d/m/Y", strtotime($ticket['orderDate'])) . '</div>
-              <div><strong>Order Number:</strong> ' . $ticket['orderNumber'] . '</div>
-              <div style="margin-top:8px;">
-                <img src="' . $barcodeImg . '" style="height:40px;">
-              </div>
-            </td>
-          </tr>
-        </table>
-
-        <div style="margin-top:15px; text-align:center;">
+      <div style="margin-top:40px;">
+        <div style="margin-top:10px; text-align:center;">
           ' . (!empty($imageUrl) ? '<img src="' . $imageUrl . '" style="width:100%; max-height:350px; object-fit:cover;">' : '') . '
         </div>
 
@@ -604,7 +598,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
           <div>' . (!empty($ticket['body']) ? $ticket['body'] : '') . '</div>
         </div>
 
-        <div style="margin-top:20px;">
+        <div style="margin-top:25px;">
           <h3 style="font-size:14px; margin-bottom:5px;"><u>Terms &amp; Conditions</u></h3>
           <ul>
     <li>
@@ -638,7 +632,7 @@ This offer cannot be combined with other discounts, promotions, or vouchers.
 Last orders at participating outlets are taken at 5:30 PM.
     </li>
     <li>
-“All general park rules and regulations apply.”
+All general park rules and regulations apply.
     </li>
    
 </ul>
