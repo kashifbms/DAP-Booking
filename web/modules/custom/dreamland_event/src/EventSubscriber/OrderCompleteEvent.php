@@ -266,6 +266,12 @@ class OrderCompleteEvent implements EventSubscriberInterface
             $foodOrder[$countFood]['fullName'] = $fullName;
             $foodOrder[$countFood]['price'] = $order_item->get('unit_price')->number;
             $foodOrder[$countFood]['orderDate'] = $order_date;
+            $foodOrder[$countFood]['body'] = $product->get('body')->value;
+            // Store Food image URI if available to render as hero image.
+            $image_field = $product->get('field_food_image');
+            if (!$image_field->isEmpty() && $image_field->entity) {
+              $foodOrder[$countFood]['image_uri'] = $image_field->entity->getFileUri();
+            }
             $countFood++;
           }
           // Track Food order item IDs so we can attach the Food PDF file entity.
@@ -559,86 +565,62 @@ class OrderCompleteEvent implements EventSubscriberInterface
 
     $barcodeImg = 'data:image/png;base64,' . base64_encode($generator->getBarcode($ticket['orderNumber'], $generator::TYPE_CODE_128));
 
-    $html = '<section ' . $pageBreak . '>
-            <div>
-              <div class="e-ticket-box" style="border: 1px solid #000; margin-top:30px; padding:20px;">
-                <table style="border-collapse: collapse;width: 100%;border-spacing: 10px;">
-                  <tr>
-                    <td colspan="2" style="font-size:20px;font-weight:bold;padding-bottom:10px;">Food Voucher</td>
-                  </tr>
-                  <tr>
-                    <td style="width:50%;">Name</td>
-                    <td style="width:50%;">' . $fullName . '</td>
-                  </tr>
-                  <tr>
-                    <td>Issue Date</td>
-                    <td>' . date("d/m/Y", strtotime($ticket['orderDate'])) . '</td>
-                  </tr>
-                  <tr>
-                    <td>Order Number</td>
-                    <td>' . $ticket['orderNumber'] . '</td>
-                  </tr>
-                  <tr>
-                    <td>Food Ticket</td>
-                    <td>' . $ticket['title'] . '</td>
-                  </tr>
-                  <tr>
-                    <td>Price</td>
-                    <td>AED' . $price_formatted . '</td>
-                  </tr>
-                  <tr>
-                    <td colspan="2" style="padding-top:10px;text-align:center;">
-                      <img src="' . $barcodeImg . '">
-                    </td>
-                  </tr>
-                  <tr>
-                    <td colspan="2" style="padding-top:10px;text-align:center;font-size:12px;">
-                      Voucher ' . ($key + 1) . ' of ' . $size . '
-                    </td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-            <div>
-                <h3><u>General Terms and Conditions</u></h3>
-                <ul>
-    <li>
-       Your online food voucher will be exchanged for a physical meal voucher at the park entrance. Please present physical meal
-voucher at the chosen outlet to redeem your selected meal.
-    </li>
-    <li>
-        Meals are available only at participating outlets within the park. Availability may vary by location.
-    </li>
-    <li>
-        Each outlet offers three meal options, and each guest is entitled to one meal per person, which must be selected from the
-chosen outlet.
-    </li>
-    <li>
-	Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
-    </li>
-    <li>
-Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
+    $imageUrl = '';
+    if (!empty($ticket['image_uri'])) {
+      $imageUrl = \Drupal::service('file_url_generator')->generateAbsoluteString($ticket['image_uri']);
+    }
 
-    </li>
-    <li>
-Meals must be redeemed on the same day of your visit.
-    </li>
-    <li>
-If a meal voucher is not redeemed, no refund or compensation will be offered.
-    </li>
-    <li>
-This offer cannot be combined with other discounts, promotions, or vouchers.
-    </li>
-    <li>
-Last orders at participating outlets are taken at 5:30 PM.
-    </li>
-    <li>
-“All general park rules and regulations apply.”
-    </li>
-   
-</ul>
-            </div>
-          </section>';
+    $html = '<section ' . $pageBreak . '>
+      <div style="margin-top:20px;">
+        <table style="width:100%; border-collapse:collapse; border-spacing:0;">
+          <tr>
+            <td style="width:60%;"></td>
+            <td style="width:40%; text-align:right; font-size:12px;">
+              <div><strong>Guest Name:</strong> ' . $fullName . '</div>
+              <div><strong>Issue Date:</strong> ' . date("d/m/Y", strtotime($ticket['orderDate'])) . '</div>
+              <div><strong>Order Number:</strong> ' . $ticket['orderNumber'] . '</div>
+              <div style="margin-top:8px;">
+                <img src="' . $barcodeImg . '" style="height:40px;">
+              </div>
+            </td>
+          </tr>
+        </table>
+
+        <div style="margin-top:15px; text-align:center;">
+          ' . (!empty($imageUrl) ? '<img src="' . $imageUrl . '" style="width:100%; max-height:350px; object-fit:cover;">' : '') . '
+        </div>
+
+        <div style="background-color:#ffc72c; color:#000; text-align:center; padding:15px 10px; margin-top:10px;">
+          <div style="font-size:20px; font-weight:bold; letter-spacing:1px;">' . strtoupper($ticket['title']) . '</div>
+          <div style="font-size:14px; margin-top:3px;">FOOD VOUCHER</div>
+        </div>
+
+        <div style="text-align:center; margin-top:10px; font-size:26px; font-weight:bold;">
+          AED ' . $price_formatted . '
+        </div>
+
+        <div style="margin-top:15px; font-size:14px;">
+          <div style="font-weight:bold; margin-bottom:5px;">Meal Options (Choose any one):</div>
+          <div>' . (!empty($ticket['body']) ? $ticket['body'] : '') . '</div>
+        </div>
+
+        <div style="margin-top:20px;">
+          <h3 style="font-size:14px; margin-bottom:5px;"><u>Terms &amp; Conditions</u></h3>
+          <ul style="font-size:12px; padding-left:15px; margin-top:0;">
+            <li>Your online food voucher will be exchanged for a physical meal voucher at the park entrance.</li>
+            <li>Please present the physical meal voucher at the chosen outlet to redeem your selected meal.</li>
+            <li>The voucher is valid only on the date of visit associated with the main park ticket.</li>
+            <li>The voucher is non-refundable and cannot be exchanged for cash in part or full.</li>
+            <li>Management reserves the right to refuse service if the voucher appears tampered with or invalid.</li>
+            <li>All other park General Terms and Conditions applicable to tickets also apply to this food voucher.</li>
+          </ul>
+        </div>
+
+        <div style="margin-top:10px; text-align:center; font-size:10px;">
+          Voucher ' . ($key + 1) . ' of ' . $size . '
+        </div>
+      </div>
+    </section>';
 
     return $html;
   }
