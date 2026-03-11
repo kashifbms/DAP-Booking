@@ -80,7 +80,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
     // Custom header for Food voucher PDF: logo left, QR center, info + barcode right.
     $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0" style="border-collapse:collapse;">
       <thead>
-        <tr>
+        <tr style="padding-top: 20px;">
           <th style="text-align:left; width:33%;">
             <img src="https://booking.dreamlanduae.com/sites/default/files/logo_0.png" width="120">
           </th>
@@ -584,7 +584,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
           ' . (!empty($imageUrl) ? '<img src="' . $imageUrl . '" style="width:100%; max-height:350px; object-fit:cover;">' : '') . '
         </div>
 
-        <div style="background-color:#ffc72c; color:#000; text-align:center; padding:15px 10px; margin-top:10px;">
+        <div style="background-color:#ffc72c; color:#000; text-align:center; padding:5px 5px; margin-top:10px;">
           <div style="font-size:20px; font-weight:bold; letter-spacing:1px;">' . strtoupper($ticket['title']) . '</div>
           <div style="font-size:14px; margin-top:3px;">FOOD VOUCHER</div>
         </div>
@@ -593,7 +593,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
           AED ' . $price_formatted . '
         </div>
 
-        <div style="margin-top:5px; font-size:14px;">
+        <div style="margin-top:0px; font-size:14px;">
           <div>' . (!empty($ticket['body']) ? $ticket['body'] : '') . '</div>
         </div>
 
