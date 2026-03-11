@@ -15,6 +15,7 @@ use Drupal\commerce_order\Entity\Order;
 use Drupal\Core\Datetime\DrupalDateTime;
 use Drupal\commerce_product\Entity\Product;
 use Drupal\commerce_product\Entity\ProductInterface;
+use Drupal\commerce_order\Entity\OrderItem;
 use Drupal\Core\Site\Settings;
 use Drupal\Component\Render\PlainTextOutput;
 use Drupal\Core\Render\RendererInterface;
@@ -243,6 +244,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
       }
       $ticketOrder = [];
       $foodOrder = [];
+      $foodOrderItems = [];
       $html = "";
       $foodHtml = "";
       $countTicket = 0;
@@ -266,6 +268,8 @@ class OrderCompleteEvent implements EventSubscriberInterface
             $foodOrder[$countFood]['orderDate'] = $order_date;
             $countFood++;
           }
+          // Track Food order item IDs so we can attach the Food PDF file entity.
+          $foodOrderItems[] = $order_item->id();
           // Skip the ticket-specific logic for Food items.
           continue;
         }
@@ -418,6 +422,22 @@ class OrderCompleteEvent implements EventSubscriberInterface
         $food_file_name = "Order_" . $order_number . "_food.pdf";
         if ($this->fileSystem->prepareDirectory($private_file_path, FileSystemInterface::CREATE_DIRECTORY)) {
           $this->fileSystem->saveData($food_pdf_content, $private_file_path . "/" . $food_file_name, FileSystemInterface::EXISTS_REPLACE);
+          // Create a file entity for the Food PDF and attach it to all Food order items
+          // via the existing field_pdf_file field.
+          $uid = $order->get('uid')->value;
+          $food_file_entity = \Drupal\file\Entity\File::create(['uri' => $private_file_path . "/" . $food_file_name]);
+          $food_file_entity->setOwnerId($uid);
+          $food_file_entity->setPermanent();
+          $food_file_entity->save();
+          foreach ($foodOrderItems as $food_order_item_id) {
+            $food_order_item = OrderItem::load($food_order_item_id);
+            if ($food_order_item) {
+              $food_order_item->set('field_pdf_file', [
+                'target_id' => $food_file_entity->id(),
+              ]);
+              $food_order_item->save();
+            }
+          }
         }
       }
     }
