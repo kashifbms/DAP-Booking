@@ -66,7 +66,7 @@ class FilteredProductsController extends ControllerBase
     if ($selected_date) {
       $query = \Drupal::entityQuery('commerce_product')
       ->condition('status', 1) // Filter products by status if needed
-      ->condition('type', 'tickets'); // Filter by product type
+      ->condition('type', ['tickets', 'food'], 'IN'); // Filter by product type
 
       // Add conditions for validity based on selected date
       $query->condition('field_valid_from', $selected_date, '<=');
@@ -80,7 +80,7 @@ class FilteredProductsController extends ControllerBase
       $current_date = strtotime(new DrupalDateTime('now'));
       $query = \Drupal::entityQuery('commerce_product')
       ->condition('status', 1) // Filter products by status if needed
-      ->condition('type', 'tickets'); // Filter by product type
+      ->condition('type', ['tickets', 'food'], 'IN'); // Filter by product type
 
       // Add conditions for validity based on selected date
       $query->condition('field_valid_from', $current_date, '<=');
