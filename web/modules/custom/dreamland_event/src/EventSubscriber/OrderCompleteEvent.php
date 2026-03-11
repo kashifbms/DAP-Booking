@@ -606,14 +606,42 @@ class OrderCompleteEvent implements EventSubscriberInterface
 
         <div style="margin-top:20px;">
           <h3 style="font-size:14px; margin-bottom:5px;"><u>Terms &amp; Conditions</u></h3>
-          <ul style="font-size:12px; padding-left:15px; margin-top:0;">
-            <li>Your online food voucher will be exchanged for a physical meal voucher at the park entrance.</li>
-            <li>Please present the physical meal voucher at the chosen outlet to redeem your selected meal.</li>
-            <li>The voucher is valid only on the date of visit associated with the main park ticket.</li>
-            <li>The voucher is non-refundable and cannot be exchanged for cash in part or full.</li>
-            <li>Management reserves the right to refuse service if the voucher appears tampered with or invalid.</li>
-            <li>All other park General Terms and Conditions applicable to tickets also apply to this food voucher.</li>
-          </ul>
+          <ul>
+    <li>
+       Your online food voucher will be exchanged for a physical meal voucher at the park entrance. Please present physical meal
+voucher at the chosen outlet to redeem your selected meal.
+    </li>
+    <li>
+        Meals are available only at participating outlets within the park. Availability may vary by location.
+    </li>
+    <li>
+        Each outlet offers three meal options, and each guest is entitled to one meal per person, which must be selected from the
+chosen outlet.
+    </li>
+    <li>
+	Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
+    </li>
+    <li>
+Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
+
+    </li>
+    <li>
+Meals must be redeemed on the same day of your visit.
+    </li>
+    <li>
+If a meal voucher is not redeemed, no refund or compensation will be offered.
+    </li>
+    <li>
+This offer cannot be combined with other discounts, promotions, or vouchers.
+    </li>
+    <li>
+Last orders at participating outlets are taken at 5:30 PM.
+    </li>
+    <li>
+“All general park rules and regulations apply.”
+    </li>
+   
+</ul>
         </div>
 
         <div style="margin-top:10px; text-align:center; font-size:10px;">
