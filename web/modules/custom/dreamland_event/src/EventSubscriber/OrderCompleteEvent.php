@@ -372,36 +372,46 @@ class OrderCompleteEvent implements EventSubscriberInterface
         $html = "";
       }
 
-      $html = "";
-      // dd($ticketOrder);
-      foreach ($ticketOrder as $key => $ticket) {
-        $html .= $this->getPDFBody($key, $fullName, $ticket, sizeof($ticketOrder));
+      // Generate combined Ticket PDF per order only if ticket items exist.
+      if (!empty($ticketOrder)) {
+        $html = "";
+        foreach ($ticketOrder as $key => $ticket) {
+          $html .= $this->getPDFBody($key, $fullName, $ticket, sizeof($ticketOrder));
+        }
+        // Ensure QR output exists before generating the combined ticket PDF.
+        if (!isset($out)) {
+          $options = new QROptions;
+          $options->outputInterface  = QRFpdf::class;
+          $options->scale            = 5;
+          $options->fpdfMeasureUnit  = 'mm'; // pt, mm, cm, in
+          $options->bgColor          = [222, 222, 222]; // [R, G, B]
+          $options->drawLightModules = false;
+          $out  = (new QRCode($options))->render($tractionId);
+        }
+        $pdf_content = $this->generatePdf2($html, $out);
+        // $file_path = "../private/Tickets";
+        // $private_file_system = \Drupal::service('file_system');
+
+        // $private_file_path = $private_file_system->realpath('private://Tickets');
+        $private_file_path = 'private://Tickets';
+        $fileName = "Order_" . $order_number . ".pdf";
+        if (!$this->fileSystem->prepareDirectory($private_file_path, FileSystemInterface::CREATE_DIRECTORY)) {
+          // @todo Log an error.
+          return FALSE;
+        }
+
+        $this->fileSystem->saveData($pdf_content, $private_file_path . "/" . $fileName, FileSystemInterface::EXISTS_REPLACE);
+
+        $new_file = \Drupal\file\Entity\File::create(['uri' => $private_file_path . "/" . $fileName]);
+        $new_file->setOwnerId(2);
+        $new_file->setPermanent();
+        $new_file->save();
+        $order->set("field_pdf_file_order", [
+          'target_id' => $new_file->id(),
+        ]);
+        // $order->set('placed', strtotime($orderDate));
+        $order->save();
       }
-      $pdf_content = $this->generatePdf2($html, $out);
-      // $file_path = "../private/Tickets";
-      // $private_file_system = \Drupal::service('file_system');
-
-      // $private_file_path = $private_file_system->realpath('private://Tickets');
-      $private_file_path = 'private://Tickets';
-      // dd($private_file_path);
-      $fileName = "Order_" . $order_number . ".pdf";
-      // file_put_contents($file_path, $pdf_content);
-      if (!$this->fileSystem->prepareDirectory($private_file_path, FileSystemInterface::CREATE_DIRECTORY)) {
-        // @todo Log an error.
-        return FALSE;
-      }
-
-      $this->fileSystem->saveData($pdf_content, $private_file_path . "/" . $fileName, FileSystemInterface::EXISTS_REPLACE);
-
-      $new_file = \Drupal\file\Entity\File::create(['uri' => $private_file_path . "/" . $fileName]);
-      $new_file->setOwnerId(2);
-      $new_file->setPermanent();
-      $new_file->save();
-      $order->set("field_pdf_file_order", [
-        'target_id' => $new_file->id(),
-      ]);
-      // $order->set('placed', strtotime($orderDate));
-      $order->save();
       // Generate combined Food PDF per order if any Food items exist.
       if (!empty($foodOrder)) {
         $foodHtml = "";
@@ -592,12 +602,41 @@ class OrderCompleteEvent implements EventSubscriberInterface
             <div>
                 <h3><u>General Terms and Conditions</u></h3>
                 <ul>
-                    <li>This voucher is valid only for the selected food option and on the date of visit associated with the main ticket.</li>
-                    <li>The voucher is non-refundable and cannot be exchanged for cash in part or full.</li>
-                    <li>The voucher must be presented at the designated food outlet within the park.</li>
-                    <li>Management reserves the right to refuse service if the voucher appears tampered with or invalid.</li>
-                    <li>All other park General Terms and Conditions applicable to tickets also apply to this food voucher.</li>
-                </ul>
+    <li>
+       Your online food voucher will be exchanged for a physical meal voucher at the park entrance. Please present physical meal
+voucher at the chosen outlet to redeem your selected meal.
+    </li>
+    <li>
+        Meals are available only at participating outlets within the park. Availability may vary by location.
+    </li>
+    <li>
+        Each outlet offers three meal options, and each guest is entitled to one meal per person, which must be selected from the
+chosen outlet.
+    </li>
+    <li>
+	Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
+    </li>
+    <li>
+Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
+
+    </li>
+    <li>
+Meals must be redeemed on the same day of your visit.
+    </li>
+    <li>
+If a meal voucher is not redeemed, no refund or compensation will be offered.
+    </li>
+    <li>
+This offer cannot be combined with other discounts, promotions, or vouchers.
+    </li>
+    <li>
+Last orders at participating outlets are taken at 5:30 PM.
+    </li>
+    <li>
+“All general park rules and regulations apply.”
+    </li>
+   
+</ul>
             </div>
           </section>';
 
