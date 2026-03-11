@@ -58,6 +58,50 @@ class OrderCompleteEvent implements EventSubscriberInterface
     $events['commerce_order.place.post_transition'] = ['orderCompleteHandler'];
     return $events;
   }
+
+  /**
+   * Generate Food voucher PDF using mPDF library.
+   *
+   * Uses a different header layout than the ticket PDF.
+   */
+  public static function generateFoodPdf2($html, $file)
+  {
+    $mpdf = new \Mpdf\Mpdf([
+      'margin_left' => 10,
+      'margin_right' => 10,
+      'margin_top' => 30,
+      'margin_bottom' => 0,
+      'margin_header' => 0,
+      'margin_footer' => 10,
+      'mode' => 'c',
+    ]);
+
+    // Custom header for Food voucher PDF.
+    $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0">
+    <thead>
+    <tr>
+      <th style="text-align:left;">
+        <img src="https://booking.dreamlanduae.com/sites/default/files/logo_0.png" width="120">
+      </th>
+      <th style="text-align:center;">
+        <img src="' . $file . '" width="100">
+      </th>
+      <th style="text-align:right;"></th>
+    </tr>
+    </thead>
+    </table>');
+
+    $mpdf->SetDisplayMode('fullpage');
+
+    // LOAD the same stylesheet as tickets for typography/base styles.
+    $stylesheet = file_get_contents($_SERVER["DOCUMENT_ROOT"] . "/modules/custom/dreamland_event/css/style-pdf.css");
+    $mpdf->WriteHTML($stylesheet, 1);
+    $mpdf->WriteHTML($html);
+    unset($html);
+    $mpdf->SetTitle("FOOD VOUCHER");
+    $mpdf->debug = false;
+    return $mpdf->Output('food-tickets.pdf', 'S');
+  }
   /**
    * Generate PDF using TCPDF library.
    */
@@ -198,15 +242,34 @@ class OrderCompleteEvent implements EventSubscriberInterface
         $fullName = $billingProfile->get('field_first_name')->value . ' ' . $billingProfile->get('field_last_name')->value;
       }
       $ticketOrder = [];
+      $foodOrder = [];
       $html = "";
+      $foodHtml = "";
       $countTicket = 0;
+      $countFood = 0;
       $totalQuantity = 0;
       foreach ($order_items as $index => $order_item) {
         // dd($order_item);
         $quantity = $order_item->get('quantity')->value;
         $purchased_entity = $order_item->getPurchasedEntity();
         $product = $purchased_entity->getProduct();
+        $bundle = $product->bundle();
         $quantityNumber = (int) $quantity;
+        // Handle Food products separately: they do not participate in ticket
+        // availability and numbering logic.
+        if ($bundle === 'food') {
+          for ($i = 0; $i < $quantityNumber; $i++) {
+            $foodOrder[$countFood]['title'] = $product->get('title')->value;
+            $foodOrder[$countFood]['orderNumber'] = $order_number;
+            $foodOrder[$countFood]['fullName'] = $fullName;
+            $foodOrder[$countFood]['price'] = $order_item->get('unit_price')->number;
+            $foodOrder[$countFood]['orderDate'] = $order_date;
+            $countFood++;
+          }
+          // Skip the ticket-specific logic for Food items.
+          continue;
+        }
+
         $bookingTickets = (int) $product->get('field_booking_tickets')->value;
 
         $visualId =  (int) $product->get('field_visual_id_start')->value;
@@ -308,7 +371,6 @@ class OrderCompleteEvent implements EventSubscriberInterface
       $html = "";
       // dd($ticketOrder);
       foreach ($ticketOrder as $key => $ticket) {
-
         $html .= $this->getPDFBody($key, $fullName, $ticket, sizeof($ticketOrder));
       }
       $pdf_content = $this->generatePdf2($html, $out);
@@ -336,6 +398,28 @@ class OrderCompleteEvent implements EventSubscriberInterface
       ]);
       // $order->set('placed', strtotime($orderDate));
       $order->save();
+      // Generate combined Food PDF per order if any Food items exist.
+      if (!empty($foodOrder)) {
+        $foodHtml = "";
+        foreach ($foodOrder as $key => $foodTicket) {
+          $foodHtml .= $this->getFoodPDFBody($key, $fullName, $foodTicket, sizeof($foodOrder));
+        }
+        // Reuse the last generated QR code output ($out) for the Food PDF header.
+        if (!isset($out)) {
+          $options = new QROptions;
+          $options->outputInterface  = QRFpdf::class;
+          $options->scale            = 5;
+          $options->fpdfMeasureUnit  = 'mm';
+          $options->bgColor          = [222, 222, 222];
+          $options->drawLightModules = false;
+          $out  = (new QRCode($options))->render($tractionId);
+        }
+        $food_pdf_content = $this->generateFoodPdf2($foodHtml, $out);
+        $food_file_name = "Order_" . $order_number . "_food.pdf";
+        if ($this->fileSystem->prepareDirectory($private_file_path, FileSystemInterface::CREATE_DIRECTORY)) {
+          $this->fileSystem->saveData($food_pdf_content, $private_file_path . "/" . $food_file_name, FileSystemInterface::EXISTS_REPLACE);
+        }
+      }
     }
   }
 
@@ -428,5 +512,75 @@ class OrderCompleteEvent implements EventSubscriberInterface
 
     return $html;
     //  <p>' . $ticket['visual_id'] . '</p>
+  }
+
+  /**
+   * Build Food voucher PDF body HTML.
+   */
+  public static function getFoodPDFBody($key, $fullName, $ticket, $size)
+  {
+    $generator = new \Picqer\Barcode\BarcodeGeneratorPNG();
+    $price_float = (float)$ticket['price'];
+    $price_formatted = number_format($price_float, 2);
+    $pageBreak = "";
+    if ($key > 0) {
+      $pageBreak = 'style="page-break-before: always"';
+    }
+
+    $barcodeImg = 'data:image/png;base64,' . base64_encode($generator->getBarcode($ticket['orderNumber'], $generator::TYPE_CODE_128));
+
+    $html = '<section ' . $pageBreak . '>
+            <div>
+              <div class="e-ticket-box" style="border: 1px solid #000; margin-top:30px; padding:20px;">
+                <table style="border-collapse: collapse;width: 100%;border-spacing: 10px;">
+                  <tr>
+                    <td colspan="2" style="font-size:20px;font-weight:bold;padding-bottom:10px;">Food Voucher</td>
+                  </tr>
+                  <tr>
+                    <td style="width:50%;">Name</td>
+                    <td style="width:50%;">' . $fullName . '</td>
+                  </tr>
+                  <tr>
+                    <td>Issue Date</td>
+                    <td>' . date("d/m/Y", strtotime($ticket['orderDate'])) . '</td>
+                  </tr>
+                  <tr>
+                    <td>Order Number</td>
+                    <td>' . $ticket['orderNumber'] . '</td>
+                  </tr>
+                  <tr>
+                    <td>Food Ticket</td>
+                    <td>' . $ticket['title'] . '</td>
+                  </tr>
+                  <tr>
+                    <td>Price</td>
+                    <td>AED' . $price_formatted . '</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" style="padding-top:10px;text-align:center;">
+                      <img src="' . $barcodeImg . '">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" style="padding-top:10px;text-align:center;font-size:12px;">
+                      Voucher ' . ($key + 1) . ' of ' . $size . '
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </div>
+            <div>
+                <h3><u>General Terms and Conditions</u></h3>
+                <ul>
+                    <li>This voucher is valid only for the selected food option and on the date of visit associated with the main ticket.</li>
+                    <li>The voucher is non-refundable and cannot be exchanged for cash in part or full.</li>
+                    <li>The voucher must be presented at the designated food outlet within the park.</li>
+                    <li>Management reserves the right to refuse service if the voucher appears tampered with or invalid.</li>
+                    <li>All other park General Terms and Conditions applicable to tickets also apply to this food voucher.</li>
+                </ul>
+            </div>
+          </section>';
+
+    return $html;
   }
 }

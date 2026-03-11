@@ -12,24 +12,33 @@ function dreamland_event_mail_alter(&$message)
     // dd($message["params"]["subject"]->getArguments()["@number"]);
     if ($message['module'] == 'commerce' && $message['key'] == 'order_receipt') {
         $order_id = $message["params"]["subject"]->getArguments()["@number"];
+        $file_system = \Drupal::service('file_system');
+
+        // Attach main tickets PDF.
         $path = "Tickets/Order_" . $order_id . ".pdf";
-        // $uri = \Drupal::config('system.file')->get('private') . '://' . $path;
         $uri = 'private://' . $path;
-        // $stream_wrapper_manager = \Drupal::service('stream_wrapper_manager');
-        // $uri = $stream_wrapper_manager->normalizeUri($uri);
-        // $file = \Drupal::service('file_url_generator')->generateAbsoluteString($uri);
-        // $uri = 'private://' . $path;
+        $file = $file_system->realpath($uri);
+        if ($file && file_exists($file)) {
+            $attachment = array(
+                'filecontent' => file_get_contents($file),
+                'filename' => 'Tickets.pdf',
+                'filemime' => 'application/pdf',
+            );
+            $message['params']['attachments'][] = $attachment;
+        }
 
-        // Load the file entity.
-        $file = \Drupal::service('file_system')->realpath($uri);
-        // dd($file);
-        $attachment = array(
-            'filecontent' => file_get_contents($file),
-            'filename' => 'Tickets.pdf',
-            'filemime' => 'application/pdf',
-        );
-
-        $message['params']['attachments'][] = $attachment;
+        // Attach Food voucher PDF if it exists.
+        $food_path = "Tickets/Order_" . $order_id . "_food.pdf";
+        $food_uri = 'private://' . $food_path;
+        $food_file = $file_system->realpath($food_uri);
+        if ($food_file && file_exists($food_file)) {
+            $food_attachment = array(
+                'filecontent' => file_get_contents($food_file),
+                'filename' => 'Food-Tickets.pdf',
+                'filemime' => 'application/pdf',
+            );
+            $message['params']['attachments'][] = $food_attachment;
+        }
     }
 
 
