@@ -78,9 +78,9 @@ class OrderCompleteEvent implements EventSubscriberInterface
     ]);
 
     // Custom header for Food voucher PDF: logo left, QR center, info + barcode right.
-    $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0" style="border-collapse:collapse;">
+    $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0" style="border-collapse:collapse; padding: 10px 0px;">
       <thead>
-        <tr style="padding-top: 20px;">
+        <tr>
           <th style="text-align:left; width:33%;">
             <img src="https://booking.dreamlanduae.com/sites/default/files/logo_0.png" width="120">
           </th>
