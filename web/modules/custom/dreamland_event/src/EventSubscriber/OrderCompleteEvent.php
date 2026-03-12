@@ -65,7 +65,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
    *
    * Uses a different header layout than the ticket PDF.
    */
-  public static function generateFoodPdf2($html, $file, $fullName, $orderDate, $orderNumber, $barcodeImg)
+  public static function generateFoodPdf2($html, $file, $fullName, $orderDate, $orderNumber)
   {
     $mpdf = new \Mpdf\Mpdf([
       'margin_left' => 10,
@@ -78,7 +78,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
     ]);
 
     // Custom header for Food voucher PDF: logo left, QR center, info + barcode right.
-    $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0" style="border-collapse:collapse; padding: 10px 0px;">
+    $mpdf->SetHTMLHeader('<table width="100%" cellspacing="0" style="border-collapse:collapse;">
       <thead>
         <tr>
           <th style="text-align:left; width:33%;">
@@ -91,9 +91,6 @@ class OrderCompleteEvent implements EventSubscriberInterface
             <div><strong>Guest Name:</strong> ' . htmlspecialchars($fullName) . '</div>
             <div><strong>Issue Date:</strong> ' . date("d/m/Y", strtotime($orderDate)) . '</div>
             <div><strong>Order Number:</strong> ' . htmlspecialchars($orderNumber) . '</div>
-            <div style="margin-top:6px;">
-              <img src="' . $barcodeImg . '" height="40">
-            </div>
           </th>
         </tr>
       </thead>
@@ -441,11 +438,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
           $options->drawLightModules = false;
           $out  = (new QRCode($options))->render($tractionId);
         }
-        // Barcode image for order number, used in the header on the right.
-        $foodBarcodeGenerator = new \Picqer\Barcode\BarcodeGeneratorPNG();
-        $foodBarcodeImg = 'data:image/png;base64,' . base64_encode($foodBarcodeGenerator->getBarcode($order_number, $foodBarcodeGenerator::TYPE_CODE_128));
-
-        $food_pdf_content = $this->generateFoodPdf2($foodHtml, $out, $fullName, $order_date, $order_number, $foodBarcodeImg);
+        $food_pdf_content = $this->generateFoodPdf2($foodHtml, $out, $fullName, $order_date, $order_number);
         $food_file_name = "Order_" . $order_number . "_food.pdf";
         if ($this->fileSystem->prepareDirectory($private_file_path, FileSystemInterface::CREATE_DIRECTORY)) {
           $this->fileSystem->saveData($food_pdf_content, $private_file_path . "/" . $food_file_name, FileSystemInterface::EXISTS_REPLACE);
@@ -566,12 +559,15 @@ class OrderCompleteEvent implements EventSubscriberInterface
    */
   public static function getFoodPDFBody($key, $fullName, $ticket, $size)
   {
+    $generator = new \Picqer\Barcode\BarcodeGeneratorPNG();
     $price_float = (float)$ticket['price'];
     $price_formatted = number_format($price_float, 2);
     $pageBreak = "";
     if ($key > 0) {
       $pageBreak = 'style="page-break-before: always"';
     }
+
+    $barcodeImg = 'data:image/png;base64,' . base64_encode($generator->getBarcode($ticket['orderNumber'], $generator::TYPE_CODE_128));
 
     $imageUrl = '';
     if (!empty($ticket['image_uri'])) {
@@ -595,6 +591,10 @@ class OrderCompleteEvent implements EventSubscriberInterface
 
         <div style="margin-top:0px; font-size:14px;">
           <div>' . (!empty($ticket['body']) ? $ticket['body'] : '') . '</div>
+        </div>
+
+        <div style="margin-top:10px; text-align:center;">
+          <img src="' . $barcodeImg . '" style="height:50px;">
         </div>
 
         <div style="margin-top:10px;">
