@@ -264,6 +264,13 @@ class OrderCompleteEvent implements EventSubscriberInterface
         // Handle Food products separately: they do not participate in ticket
         // availability and numbering logic.
         if ($bundle === 'food') {
+          // Compute visual ID similar to ticket logic, based on the backend
+          // visual ID start field. This value is what should appear in the
+          // barcode for Food vouchers.
+          $visualIdBase = (int) $product->get('field_visual_id_start')->value;
+          $number = $product->get('field_visual_id_start')->value;
+          $leadingZeros = substr($number, 0, strspn($number, '0'));
+
           for ($i = 0; $i < $quantityNumber; $i++) {
             $foodOrder[$countFood]['title'] = $product->get('title')->value;
             $foodOrder[$countFood]['orderNumber'] = $order_number;
@@ -271,6 +278,8 @@ class OrderCompleteEvent implements EventSubscriberInterface
             $foodOrder[$countFood]['price'] = $order_item->get('unit_price')->number;
             $foodOrder[$countFood]['orderDate'] = $order_date;
             $foodOrder[$countFood]['body'] = $product->get('body')->value;
+            // Visual ID printed in the barcode.
+            $foodOrder[$countFood]['visual_id'] = $leadingZeros . ($visualIdBase + $i);
             // Store Food image URI if available to render as hero image.
             $image_field = $product->get('field_food_image');
             if (!$image_field->isEmpty() && $image_field->entity) {
@@ -567,7 +576,9 @@ class OrderCompleteEvent implements EventSubscriberInterface
       $pageBreak = 'style="page-break-before: always"';
     }
 
-    $barcodeImg = 'data:image/png;base64,' . base64_encode($generator->getBarcode($ticket['orderNumber'], $generator::TYPE_CODE_128));
+    // Use Visual ID from backend for the barcode, as with main tickets.
+    $barcodeValue = !empty($ticket['visual_id']) ? $ticket['visual_id'] : $ticket['orderNumber'];
+    $barcodeImg = 'data:image/png;base64,' . base64_encode($generator->getBarcode($barcodeValue, $generator::TYPE_CODE_128));
 
     $imageUrl = '';
     if (!empty($ticket['image_uri'])) {
