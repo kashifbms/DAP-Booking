@@ -264,9 +264,9 @@ class OrderCompleteEvent implements EventSubscriberInterface
         // Handle Food products separately: they do not participate in ticket
         // availability and numbering logic.
         if ($bundle === 'food') {
-          // Compute visual ID similar to ticket logic, based on the backend
-          // visual ID start field. This value is what should appear in the
-          // barcode for Food vouchers.
+          // Compute visual ID similar to ticket logic, using booking_tickets so
+          // that the visual ID sequence continues across orders.
+          $bookingTicketsFood = (int) $product->get('field_booking_tickets')->value;
           $visualIdBase = (int) $product->get('field_visual_id_start')->value;
           $number = $product->get('field_visual_id_start')->value;
           $leadingZeros = substr($number, 0, strspn($number, '0'));
@@ -278,8 +278,8 @@ class OrderCompleteEvent implements EventSubscriberInterface
             $foodOrder[$countFood]['price'] = $order_item->get('unit_price')->number;
             $foodOrder[$countFood]['orderDate'] = $order_date;
             $foodOrder[$countFood]['body'] = $product->get('body')->value;
-            // Visual ID printed in the barcode.
-            $foodOrder[$countFood]['visual_id'] = $leadingZeros . ($visualIdBase + $i);
+            // Visual ID printed in the barcode, based on start + already booked + index.
+            $foodOrder[$countFood]['visual_id'] = $leadingZeros . ($visualIdBase + $bookingTicketsFood + $i);
             // Store Food image URI if available to render as hero image.
             $image_field = $product->get('field_food_image');
             if (!$image_field->isEmpty() && $image_field->entity) {
@@ -287,6 +287,15 @@ class OrderCompleteEvent implements EventSubscriberInterface
             }
             $countFood++;
           }
+          // Update booking and available tickets for Food products.
+          $totalTicketsFood = (int) $product->get('field_total_tickets')->value;
+          $newBookingTicketsFood = $bookingTicketsFood + $quantityNumber;
+          $product->set('field_booking_tickets', $newBookingTicketsFood);
+          if ($totalTicketsFood) {
+            $availableTicketsFood = $totalTicketsFood - $newBookingTicketsFood;
+            $product->set('field_available_tickets', $availableTicketsFood);
+          }
+          $product->save();
           // Track Food order item IDs so we can attach the Food PDF file entity.
           $foodOrderItems[] = $order_item->id();
           // Skip the ticket-specific logic for Food items.
