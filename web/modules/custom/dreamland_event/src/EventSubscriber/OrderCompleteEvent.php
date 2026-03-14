@@ -599,6 +599,9 @@ class OrderCompleteEvent implements EventSubscriberInterface
         <div style="margin-top:10px; text-align:center;">
           ' . (!empty($imageUrl) ? '<img src="' . $imageUrl . '" style="width:100%; max-height:350px; object-fit:cover;">' : '') . '
         </div>
+        <div style="font-size:10px; text-align:right; margin-top:3px; font-style:italic; color:#555;">
+          Images are for illustrative purpose only.
+        </div>
 
         <div style="background-color:#ffc72c; color:#000; text-align:center; padding:5px 5px; margin-top:10px;">
           <div style="font-size:20px; font-weight:bold; letter-spacing:1px;">' . strtoupper($ticket['title']) . '</div>
