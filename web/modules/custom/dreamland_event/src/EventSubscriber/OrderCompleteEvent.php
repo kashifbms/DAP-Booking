@@ -638,8 +638,10 @@ chosen outlet.
 	Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
     </li>
     <li>
-Each combo meal voucher is valid for the visiting guest only and cannot be transferred or shared.
-
+The voucher is valid for one-time use only on any one day between 20th March and 22nd March.
+    </li>
+    <li>
+    This is a single meal voucher and is not a buffet and not an unlimited meal.
     </li>
     <li>
 Meals must be redeemed on the same day of your visit.
