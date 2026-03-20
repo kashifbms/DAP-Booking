@@ -249,6 +249,9 @@ class OrderCompleteEvent implements EventSubscriberInterface
       $ticketOrder = [];
       $foodOrder = [];
       $foodOrderItems = [];
+      // Used for both ticket and food PDF generation blocks.
+      // Required because Food-only orders skip ticket code paths.
+      $private_file_path = 'private://Tickets';
       $html = "";
       $foodHtml = "";
       $countTicket = 0;
@@ -278,8 +281,9 @@ class OrderCompleteEvent implements EventSubscriberInterface
             $foodOrder[$countFood]['price'] = $order_item->get('unit_price')->number;
             $foodOrder[$countFood]['orderDate'] = $order_date;
             $foodOrder[$countFood]['body'] = $product->get('body')->value;
-            // Visual ID printed in the barcode, based on start + already booked + index.
-            $foodOrder[$countFood]['visual_id'] = $leadingZeros . ($visualIdBase + $bookingTicketsFood + $i);
+            // Visual ID printed in the barcode, using the same precedence as ticket logic.
+            // (Ticket logic effectively does: $leadingZeros . $visualId + $bookingTickets + $i)
+            $foodOrder[$countFood]['visual_id'] = $leadingZeros . $visualIdBase + $bookingTicketsFood + $i;
             // Store Food image URI if available to render as hero image.
             $image_field = $product->get('field_food_image');
             if (!$image_field->isEmpty() && $image_field->entity) {
@@ -617,7 +621,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
         </div>
 
         <div style="margin-top:10px; text-align:center;">
-          <img src="' . $barcodeImg . '" style="height:50px;">
+          <img src="' . $barcodeImg . '">
         </div>
 
         <div style="margin-top:10px;">
