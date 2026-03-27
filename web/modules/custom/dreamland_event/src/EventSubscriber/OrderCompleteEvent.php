@@ -565,6 +565,7 @@ class OrderCompleteEvent implements EventSubscriberInterface
                     <li>Swimwear Policy: All guests are required to wear proper swimwear at all times while using water games. Only nylon and/or polyester materials are permitted. Pants, cut-off shorts, abaya, denim and/or cotton garments are absolutely not allowed. Swimwear with buckles or metal ornaments are also not allowed. You might be asked to change or leave the park premises in case of inappropriate swimwear.Babies are required to wear waterproof diapers while using the pools.</li>
                     <li>Food, drinks, shisha, picnic hampers and personal floatation devices as well as pets are not allowed. </li>
                     <li> All terms and conditions, including admission prices, are subject to change without prior notice at the discretion of the management.</li>
+                    <li>The Tickets are non-refundable and can not be exchanged for cash in part or full. This will apply in case of occasional, permanent, full or partial closure of any water attraction due to technical failure, weather (rain or storm) or force majeure without being liable for compensation or whatsoever.</li>
                     <li>For more details/inquiry contact us at 067681888/0506362217. Or visit our website:https://www.dreamlanduae.com</li>
                     <li> The Management reserves the right to refuse the admission for any guest to control occupancy when required. </li>
                 </ul>
